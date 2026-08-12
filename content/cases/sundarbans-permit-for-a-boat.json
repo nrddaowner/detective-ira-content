@@ -1,0 +1,548 @@
+{
+  "id": "sundarbans-permit-for-a-boat",
+  "schema": 1,
+  "city": "sundarbans",
+  "genre": "fraud",
+  "difficulty": "devious",
+  "ambience": "MonsoonRain",
+  "title": {
+    "en": "Permit for a Boat That Sank"
+  },
+  "place": {
+    "en": "Sajnekhali · the range office jetty · Friday, 5:05 AM"
+  },
+  "brief": {
+    "en": "Licence 214 belongs to the Ma Bonbibi, twenty-eight feet, owner Ranjan Mistry. The Ma Bonbibi went down in the storm two monsoons ago and Ranjan Mistry went down with her. The licence was renewed in June on a survey that calls the hull sound, and it has passed the Sajnekhali gate eleven times this season, always after dark, always with nine men aboard a boat that holds five."
+  },
+  "photoCaption": {
+    "en": "the launch at the gate, before light"
+  },
+  "iraNote": {
+    "en": "“The gate reads a number, not a boat. Find out what that number is painted on now.”"
+  },
+  "teaser": {
+    "en": "A forest permit is being renewed for a boat that went down two monsoons ago."
+  },
+  "clues": [
+    {
+      "id": "blc",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "BOAT LICENCE CERTIFICATE 214"
+      },
+      "text": {
+        "en": "“Ma Bonbibi”, 28 feet, five hands. Renewed in June. Owner: the late Ranjan Mistry."
+      }
+    },
+    {
+      "id": "lossreport",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "COASTAL POLICE · LOSS REPORT"
+      },
+      "text": {
+        "en": "Foundered off Pirkhali in the storm two monsoons ago. Four aboard, three swum ashore, one not recovered. Signed by his widow in a clear hand."
+      }
+    },
+    {
+      "id": "survey",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "SURVEY REPORT · JUNE RENEWAL"
+      },
+      "text": {
+        "en": "“Hull sound, engine serviceable, fit for the season.” Signed B. Naiya, dated the 4th. His own boat log has him at Namkhana that whole day."
+      }
+    },
+    {
+      "id": "gatebook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "SAJNEKHALI GATE BOOK · THIS SEASON"
+      },
+      "text": {
+        "en": "BLC 214 inward eleven times, every one of them after dark, every one of them with nine hands entered against it."
+      }
+    },
+    {
+      "id": "launchphoto",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · THE LAUNCH AT DUSK"
+      },
+      "text": {
+        "en": "Forty-two feet if she is an inch, and “214” painted fresh on the bow over the shadow of a longer number."
+      }
+    },
+    {
+      "id": "consignments",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "CONSIGNMENT NOTES · ELEVEN"
+      },
+      "text": {
+        "en": "Eleven despatches of mud crab to Canning, all in one season, all against a licence endorsed for the buffer only."
+      }
+    },
+    {
+      "id": "mahajanledger",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE MAHAJAN’S BOOK"
+      },
+      "text": {
+        "en": "Advances against eleven trips, one hand throughout, entered against a name that has been dead for two years."
+      }
+    },
+    {
+      "id": "renewal",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "RENEWAL FORM · JUNE"
+      },
+      "text": {
+        "en": "Submitted for the owner’s heir, over a thumb impression against Jharna Mistry’s name. On the loss report she signs her name."
+      }
+    },
+    {
+      "id": "net",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · A TORN NET"
+      },
+      "text": {
+        "en": "Twelve feet of net, torn along the head rope, on the jetty."
+      },
+      "dismissNote": {
+        "en": "ruled out — every net on this river is torn; it is what the river is for"
+      }
+    },
+    {
+      "id": "kerosene",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "KEROSENE BILL · THE VILLAGE SHOP"
+      },
+      "text": {
+        "en": "Forty litres in September, against Bhola Mondal’s name."
+      },
+      "dismissNote": {
+        "en": "ruled out — the launch runs on diesel and the whole island lights on kerosene"
+      }
+    },
+    {
+      "id": "transfer",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "TRANSFER ORDER · A. HALDER"
+      },
+      "text": {
+        "en": "The gate guard, ordered to Dobanki."
+      },
+      "dismissNote": {
+        "en": "ruled out — dated three weeks after the eleventh trip, and it is a routine seasonal posting"
+      }
+    },
+    {
+      "id": "compensation",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "COMPENSATION FILE · PIRKHALI"
+      },
+      "text": {
+        "en": "A tiger-attack claim from the same village, sanctioned last year."
+      },
+      "dismissNote": {
+        "en": "ruled out — a genuine claim, settled, and the family holds the sanction order"
+      }
+    },
+    {
+      "id": "vhf",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE RANGE OFFICE VHF SET"
+      },
+      "text": {
+        "en": "Dead. No spares indented for it this year."
+      },
+      "dismissNote": {
+        "en": "ruled out — it has been dead since before the season and the office has written to the division about it twice"
+      }
+    },
+    {
+      "id": "donation",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "SHRINE DONATION RECEIPT"
+      },
+      "text": {
+        "en": "₹501 at the Bonbibi shrine, in Bhola Mondal’s name, before the season opened."
+      },
+      "dismissNote": {
+        "en": "ruled out — every boat on this river gives at that shrine before it goes into the forest"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidsigned",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE WIDOW"
+      },
+      "text": {
+        "en": "“I signed my husband’s death and I have signed nothing since. I have never put my thumb to a paper in my life — I was taught to write before I was married.”"
+      }
+    },
+    {
+      "id": "saidgate",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE FOREST GUARD"
+      },
+      "text": {
+        "en": "“A licence is a licence. I read the number off the bow and I write it in the book. In nine years nobody has asked me to measure a boat.”"
+      }
+    },
+    {
+      "id": "saidadvance",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE MAHAJAN"
+      },
+      "text": {
+        "en": "“The licence is worth more than the boat ever was. A dead boat’s number is the cheapest thing on this river and it opens the same gate as a living one.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "bhola",
+      "name": {
+        "en": "Bhola Mondal"
+      },
+      "role": {
+        "en": "THE MAHAJAN"
+      },
+      "hook": {
+        "en": "finances every boat that leaves this jetty"
+      },
+      "confession": {
+        "en": "Kept a drowned man’s licence alive with a bought survey and a thumb impression that is not the widow’s, had the number painted on a forty-two-foot launch, and put eleven trips of his own money behind it."
+      }
+    },
+    {
+      "id": "sudhir",
+      "name": {
+        "en": "Sudhir Naskar"
+      },
+      "role": {
+        "en": "THE RANGE OFFICE CLERK"
+      },
+      "hook": {
+        "en": "renewed 214 in June"
+      },
+      "alibi": {
+        "en": "He renewed it against a surveyor’s certificate, which is the whole of the procedure and the whole of his authority. He also filed the loss report two years ago, in the same office, where nobody ever put the two papers side by side."
+      }
+    },
+    {
+      "id": "jharna",
+      "name": {
+        "en": "Jharna Mistry"
+      },
+      "role": {
+        "en": "THE WIDOW"
+      },
+      "hook": {
+        "en": "the renewal is in her name"
+      },
+      "alibi": {
+        "en": "The renewal carries a thumb impression, and she has signed her name on every paper she has ever touched, including her husband’s loss report. She has had nothing from this licence but the letters."
+      },
+      "feminine": true
+    },
+    {
+      "id": "gopal",
+      "name": {
+        "en": "Gopal Sardar"
+      },
+      "role": {
+        "en": "THE BOATMAN"
+      },
+      "hook": {
+        "en": "steers the launch that carries the number"
+      },
+      "alibi": {
+        "en": "He steers where he is paid to steer and the number was on the bow before he ever came aboard. He cannot read it, and he is not the one being advanced against."
+      }
+    },
+    {
+      "id": "arun",
+      "name": {
+        "en": "Arun Halder"
+      },
+      "role": {
+        "en": "THE FOREST GUARD"
+      },
+      "hook": {
+        "en": "passed 214 inward eleven times"
+      },
+      "alibi": {
+        "en": "He wrote nine hands against a five-hand licence eleven times in a public register that anybody could read. Concealment does not look like that."
+      }
+    },
+    {
+      "id": "bimal",
+      "name": {
+        "en": "Bimal Naiya"
+      },
+      "role": {
+        "en": "THE SURVEYOR"
+      },
+      "hook": {
+        "en": "certified the hull sound in June"
+      },
+      "alibi": {
+        "en": "His signature is on the certificate and his boat log has him sixty kilometres away that day — which makes him a man whose name was used, then a poor liar, and only then anything worse."
+      }
+    }
+  ],
+  "culpritId": "bhola",
+  "interrogations": [
+    {
+      "suspectId": "sudhir",
+      "setting": {
+        "en": "The range office, files swollen with damp, the fan turning on one speed."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What does a renewal need?"
+          },
+          "answer": {
+            "en": "“The old certificate, a survey report, and the owner or his heir. Three papers. It has been three papers since I joined.”"
+          },
+          "note": {
+            "en": "Three papers, and this office holds the fourth — the one that says the boat is gone."
+          }
+        },
+        {
+          "ask": {
+            "en": "You filed the loss report two years ago."
+          },
+          "answer": {
+            "en": "“In the loss file. The renewal goes in the licence file. They are two almirahs and nobody has ever asked me to marry them.”"
+          },
+          "note": {
+            "en": "Two almirahs, one office, and a whole fraud living in the space between them."
+          }
+        },
+        {
+          "ask": {
+            "en": "The surveyor was at Namkhana on the 4th."
+          },
+          "answer": {
+            "en": "“Then the certificate is a forgery, and I passed it, and I will say so in writing. I renew against a survey. I do not survey.”"
+          },
+          "needsClueId": "survey",
+          "lockedHint": {
+            "en": "Pin the survey report. He will not hear a word against a certificate he has not been handed."
+          },
+          "note": {
+            "en": "He offers to write it down before anybody asks him to. That is not the reflex of a man in it."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "arun",
+      "setting": {
+        "en": "The gate hut at Sajnekhali, the register chained to the table, the creek going grey."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What do you check at this gate?"
+          },
+          "answer": {
+            "en": "“The number, the endorsement, the count of hands. Then I write and they go.”"
+          },
+          "note": {
+            "en": "Three checks, and he has been failing the third one honestly and in ink."
+          }
+        },
+        {
+          "ask": {
+            "en": "You wrote nine hands against a five-hand licence."
+          },
+          "answer": {
+            "en": "“I wrote what came past. Nine men were on it and nine is what the book says. It is not my book to argue with.”"
+          },
+          "note": {
+            "en": "He recorded the impossibility eleven times without ever seeing it. That is the whole trick — reading is not the same as noticing."
+          }
+        },
+        {
+          "ask": {
+            "en": "That licence is for a twenty-eight-foot boat."
+          },
+          "answer": {
+            "en": "“A licence is a licence. I read the number off the bow and I write it in the book. In nine years nobody has asked me to measure a boat.”"
+          },
+          "needsClueId": "gatebook",
+          "lockedHint": {
+            "en": "Pin the gate book. He will not accept a count of hands from your mouth when the register is chained to his table."
+          },
+          "unlocksClueId": "saidgate",
+          "note": {
+            "en": "Nobody has ever asked him to measure a boat. Somebody worked that out and painted a number accordingly."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "jharna",
+      "setting": {
+        "en": "The Pirkhali village path, a bundle of official letters tied in plastic."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What became of the Ma Bonbibi?"
+          },
+          "answer": {
+            "en": "“She is off Pirkhali under the mud and so is he. I have said this to five offices.”"
+          },
+          "note": {
+            "en": "Five offices. Every one of them wrote it down and filed it somewhere it could not be read."
+          }
+        },
+        {
+          "ask": {
+            "en": "The June renewal is in your name."
+          },
+          "answer": {
+            "en": "“I signed my husband’s death and I have signed nothing since. I have never in my life put my thumb to a paper — I was taught to write before I was married.”"
+          },
+          "needsClueId": "renewal",
+          "lockedHint": {
+            "en": "Pin the renewal form. She will want to see the thumb before she will call it a lie."
+          },
+          "unlocksClueId": "saidsigned",
+          "note": {
+            "en": "A thumb impression on one paper and a clear signature on the other, both from the same woman, two years apart. Only one of them is hers."
+          }
+        },
+        {
+          "ask": {
+            "en": "Has anyone paid you for the licence?"
+          },
+          "answer": {
+            "en": "“Nobody has paid me anything since the storm. I get the letters. That is all I get.”"
+          },
+          "note": {
+            "en": "She holds the debt and somebody else holds the boat. That is the shape of every mahajan’s book on this river."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bhola",
+      "setting": {
+        "en": "The mahajan’s room over the crab shed, ice melting below, the book open on a cushion."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who owns the launch?"
+          },
+          "answer": {
+            "en": "“Nobody owns anything on this river. It is financed. That is a different word.”"
+          },
+          "note": {
+            "en": "He is right, and it is the sentence that makes the licence worth more than the hull."
+          }
+        },
+        {
+          "ask": {
+            "en": "Eleven consignments of crab, on a buffer endorsement."
+          },
+          "answer": {
+            "en": "“Crab is crab. It walks where it likes and I buy it where it is brought to me.”"
+          },
+          "needsClueId": "consignments",
+          "lockedHint": {
+            "en": "Pin the consignment notes. He counts in numbers, so bring numbers."
+          },
+          "note": {
+            "en": "Eleven despatches in one season from a licence that is only good for the edge of the forest."
+          }
+        },
+        {
+          "ask": {
+            "en": "Your book advances eleven trips against a man who has been dead two years."
+          },
+          "answer": {
+            "en": "“The licence is worth more than the boat ever was. A dead boat’s number is the cheapest thing on this river and it opens the same gate as a living one.”"
+          },
+          "needsClueId": "mahajanledger",
+          "lockedHint": {
+            "en": "Pin the mahajan’s book. He will not discuss a dead man until you are holding the page with the dead man’s name on it."
+          },
+          "unlocksClueId": "saidadvance",
+          "note": {
+            "en": "He is not embarrassed. He thinks he has explained an efficiency."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "mahajanledger",
+      "correction": {
+        "en": "Five hundred and one rupees at a shrine is what everybody on this river gives. Eleven trips advanced against a dead man’s name is what somebody was earning."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidadvance",
+      "correction": {
+        "en": "A dead VHF set opens nothing. A licence kept breathing with a bought survey and a thumb that is not the widow’s is what put a forty-two-foot launch inside the forest."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidgate",
+      "correction": {
+        "en": "A guard’s transfer order dated three weeks late explains nothing. The gate reads a number off a bow, eleven times, and nobody in nine years has been asked to measure a boat."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "gatebook",
+    "toClueId": "launchphoto",
+    "text": {
+      "en": "Nine men went in on a licence written for five. Go and look at what that number is painted on now."
+    }
+  }
+}

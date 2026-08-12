@@ -1,0 +1,343 @@
+{
+  "id": "kolkata-night-gate",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "missing-person",
+  "difficulty": "quick",
+  "ambience": "MonsoonRain",
+  "story": {
+    "id": "kolkata-howrah-ledger",
+    "caseNumber": 2
+  },
+  "title": {
+    "en": "The Night Gate"
+  },
+  "place": {
+    "en": "Bhairab Jute Mill · Gate 1 · Thursday, 11:50 PM"
+  },
+  "brief": {
+    "en": "Bipin Rai has signed the night gate register every working night for eleven years. He has not been home since the fourteenth — and his signature is still in the register every night since. His wife has a general diary entry at Golabari and no FIR. The mill says he is on duty. The mill is not saying where."
+  },
+  "photoCaption": {
+    "en": "the durwan’s hut, gate 1"
+  },
+  "iraNote": {
+    "en": "“Nobody vanishes out of a register. They get written over. Look at the ink before you look for the man.”"
+  },
+  "teaser": {
+    "en": "A night watchman stopped coming home, and his signature did not stop arriving."
+  },
+  "clues": [
+    {
+      "id": "register2",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "GATE REGISTER · NIGHTS 14 TO 21"
+      },
+      "text": {
+        "en": "Bipin Rai signed every night. From the 15th the ink is black — his own pen is blue — and the loops close the other way."
+      }
+    },
+    {
+      "id": "chit",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "TRANSFER CHIT No. 62"
+      },
+      "text": {
+        "en": "B. Rai, night duty, Shalimar godown, effective the 15th. Typed. Office stamp in the corner. No signature anywhere on it."
+      }
+    },
+    {
+      "id": "wages",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WAGE SHEET · FORTNIGHT ENDING THE 21st"
+      },
+      "text": {
+        "en": "Bipin Rai, drawn in full, at Bhairab. The Shalimar sheet carries no watchman’s post at all."
+      }
+    },
+    {
+      "id": "tiffin",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · THE DURWAN’S HUT"
+      },
+      "text": {
+        "en": "Trunk, blanket, a tin of mustard oil, all where he left them. The cycle and the flask are gone."
+      }
+    },
+    {
+      "id": "shalimar",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "SHALIMAR GODOWN · CHOWKIDAR’S SLATE"
+      },
+      "text": {
+        "en": "Seven nights chalked on the wall in fives, and one name written small in the corner: B. Rai."
+      }
+    },
+    {
+      "id": "thana",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "GOLABARI PS · GENERAL DIARY ENTRY 214"
+      },
+      "text": {
+        "en": "Lodged the 19th by Parul Rai. No FIR taken — noted “the man is on duty elsewhere, per the mill”."
+      }
+    },
+    {
+      "id": "bottle",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · BEHIND THE HUT"
+      },
+      "text": {
+        "en": "A country liquor bottle in the nettles. Nothing worth lifting off it."
+      },
+      "dismissNote": {
+        "en": "ruled out — by the moss on it, it has been there since the monsoon"
+      }
+    },
+    {
+      "id": "chitfund",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "CHIT FUND RECEIPT · IN HIS NAME"
+      },
+      "text": {
+        "en": "Three instalments behind, the last one paid in March."
+      },
+      "dismissNote": {
+        "en": "ruled out — half this night shift is three instalments behind on something"
+      }
+    },
+    {
+      "id": "ferry",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "FERRY TICKET · HOWRAH TO BAGBAZAR"
+      },
+      "text": {
+        "en": "Dated the 15th. Found folded in the hut with four others like it."
+      },
+      "dismissNote": {
+        "en": "ruled out — no hour printed, and he crossed for the market every week of his life"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidchit",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE HEAD DURWAN"
+      },
+      "text": {
+        "en": "“Chit 62 came down typed, with a stamp and no name. I put him on the Shalimar cycle and signed the nights myself so the register would not carry a hole.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ratan",
+      "name": {
+        "en": "Ratan Jana"
+      },
+      "role": {
+        "en": "THE HEAD DURWAN"
+      },
+      "hook": {
+        "en": "the register sleeps in his room"
+      },
+      "confession": {
+        "en": "Signed Bipin Rai’s name into the night register seven times so the gate would not show a hole — and never once asked who typed the chit that made it."
+      }
+    },
+    {
+      "id": "parul",
+      "name": {
+        "en": "Parul Rai"
+      },
+      "role": {
+        "en": "HIS WIFE"
+      },
+      "hook": {
+        "en": "drew his full wages on the eighteenth"
+      },
+      "alibi": {
+        "en": "She drew the pay because the office handed it to her, and she has been at Golabari every third day since asking where the man is. Nobody looking for a husband files a diary entry against herself."
+      },
+      "feminine": true
+    },
+    {
+      "id": "sanjib",
+      "name": {
+        "en": "Sanjib Pal"
+      },
+      "role": {
+        "en": "THE GATE CLERK"
+      },
+      "hook": {
+        "en": "types what the offices send down"
+      },
+      "alibi": {
+        "en": "The gate office machine has a broken lower case ‘e’ and chit 62 has none. He types on the wrong typewriter to have typed this."
+      }
+    },
+    {
+      "id": "prodyot",
+      "name": {
+        "en": "Prodyot Banerjee"
+      },
+      "role": {
+        "en": "THE MILL MANAGER"
+      },
+      "hook": {
+        "en": "the stamp on the chit is his office’s"
+      },
+      "alibi": {
+        "en": "A manager who wanted a watchman gone would post him gone and sign it. This chit is stamped and unsigned — the work of somebody who can reach his drawer but not use his name."
+      }
+    }
+  ],
+  "culpritId": "ratan",
+  "interrogations": [
+    {
+      "suspectId": "parul",
+      "setting": {
+        "en": "The lane behind the mill quarters, a folded diary receipt in her hand."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "When did he last come home?"
+          },
+          "answer": {
+            "en": "“The night of the fourteenth. He took the cycle and the flask, the way he takes them every night.”"
+          },
+          "note": {
+            "en": "Cycle and flask. A man running takes more than that; a man going on duty takes exactly that."
+          }
+        },
+        {
+          "ask": {
+            "en": "You drew his wages on the eighteenth."
+          },
+          "answer": {
+            "en": "“The office put them in my hand. Should I have refused, to prove I was worried?”"
+          },
+          "note": {
+            "en": "Fair. And a mill paying full wages for a man nobody has seen in four days is the half worth pulling."
+          }
+        },
+        {
+          "ask": {
+            "en": "Golabari would not take an FIR."
+          },
+          "answer": {
+            "en": "“They wrote it in the diary and told me the mill says he is on duty at Shalimar. So I asked the mill. The mill says he is here.”"
+          },
+          "needsClueId": "thana",
+          "lockedHint": {
+            "en": "Pin the general diary entry. She is done being told what she already reported."
+          },
+          "note": {
+            "en": "Two answers from the same company, and they cannot both be true."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ratan",
+      "setting": {
+        "en": "The head durwan’s room by Gate 1, seven brass tokens on a nail."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Whose hand is in the register after the fifteenth?"
+          },
+          "answer": {
+            "en": "“Mine.”"
+          },
+          "note": {
+            "en": "Not a second’s pause. Either an honest man or one who has had a week to settle the sentence."
+          }
+        },
+        {
+          "ask": {
+            "en": "Chit 62 moved him to Shalimar."
+          },
+          "answer": {
+            "en": "“It came down typed, with the stamp and no name. I put him on the Shalimar cycle and I signed his nights so the register would not carry a hole.”"
+          },
+          "needsClueId": "chit",
+          "lockedHint": {
+            "en": "Pin the transfer chit. He answers paper, and only paper."
+          },
+          "unlocksClueId": "saidchit",
+          "note": {
+            "en": "A forged week of signatures to close a hole a typed chit tore open — and he never asked who typed it."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who types on that machine?"
+          },
+          "answer": {
+            "en": "“The purchase office and the manager’s office share it. The manager’s room is locked at seven.”"
+          },
+          "note": {
+            "en": "A stamp sits in a drawer. A signature sits on a man. Somebody chose the drawer."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "wages",
+      "correction": {
+        "en": "A bottle in the nettles is not a reason. A hole in the night register stops the fortnight’s pay for every man on the gate — that is what he was covering."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "register2",
+      "correction": {
+        "en": "Two inks in one column. Only the man the register sleeps beside can write another man’s name into it seven nights running."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "chit",
+      "correction": {
+        "en": "Nobody hides a man behind a ferry ticket. A typed chit with a stamp and no name moved Bipin Rai out of this mill on paper — and the head durwan let it stand."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "register2",
+    "toClueId": "chit",
+    "text": {
+      "en": "Two inks say somebody signed for him. The chit says where he was sent. Go and read the wall of the place it sent him to."
+    }
+  },
+  "bankedClue": {
+    "en": "The night register in two inks — and a transfer chit typed on the office machine, stamped and unsigned"
+  }
+}

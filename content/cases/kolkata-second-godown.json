@@ -1,0 +1,559 @@
+{
+  "id": "kolkata-second-godown",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "fraud",
+  "difficulty": "devious",
+  "ambience": "TrainClatter",
+  "story": {
+    "id": "kolkata-howrah-ledger",
+    "caseNumber": 6
+  },
+  "title": {
+    "en": "The Second Godown"
+  },
+  "place": {
+    "en": "Shalimar · godown No. 4, off the yard road · Saturday, 6:40 PM"
+  },
+  "brief": {
+    "en": "Bhairab has been paying rent since March on a shed nobody at Bhairab has heard of. Inside it are four hundred bales carrying the mill’s own stencil and the mill’s own inward numbers — and the mill has been buying them back, at market rate, from a firm registered in April with one partner and this address. Outside it, a man in a mill uniform has been chalking nights on the wall for seven weeks."
+  },
+  "photoCaption": {
+    "en": "shalimar godown no. 4, from the yard road"
+  },
+  "iraNote": {
+    "en": "“Everything here is signed by somebody. That is the tell — find the one piece of paper that started it, and count how many names are on it.”"
+  },
+  "teaser": {
+    "en": "A shed the mill rents, full of jute the mill already owns, sold back to the mill at market rate."
+  },
+  "clues": [
+    {
+      "id": "lease",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "LEASE DEED · SHALIMAR GODOWN No. 4"
+      },
+      "text": {
+        "en": "Lessee: Bhairab Jute Mill Ltd, through its agent T. Sadhukhan. Rent paid by the mill’s own cheque since March."
+      }
+    },
+    {
+      "id": "authority",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "LETTER OF AUTHORITY · ONE PARAGRAPH"
+      },
+      "text": {
+        "en": "Typed on mill paper. Appoints T. Sadhukhan agent “for godown matters”. No board resolution behind it. Initialled, not signed."
+      }
+    },
+    {
+      "id": "rentcheque",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "CHEQUE COUNTERFOILS · MARCH TO SEPTEMBER"
+      },
+      "text": {
+        "en": "Seven payments of ₹4,200, every one passed under “godown hire — miscellaneous”."
+      }
+    },
+    {
+      "id": "stock",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · INSIDE GODOWN No. 4"
+      },
+      "text": {
+        "en": "Four hundred bales in eight stacks, every one stencilled with Bhairab’s mark and a Bhairab inward number."
+      }
+    },
+    {
+      "id": "resale",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "PURCHASE CHALLANS · M/s RUPNARAYAN TRADERS"
+      },
+      "text": {
+        "en": "1163, 1171 and 1178, bought at market rate. The seller’s address on all three invoices is Shalimar Godown No. 4."
+      }
+    },
+    {
+      "id": "firmreg",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "REGISTRAR OF FIRMS · RUPNARAYAN TRADERS"
+      },
+      "text": {
+        "en": "Registered in April. One partner: T. Sadhukhan. One address: Shalimar Godown No. 4."
+      }
+    },
+    {
+      "id": "stencil",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · BALE STENCILS"
+      },
+      "text": {
+        "en": "The mill’s mark, painted over once and then repainted. The layer underneath is the same mark."
+      }
+    },
+    {
+      "id": "slate2",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "CHOWKIDAR’S SLATE · GODOWN No. 4"
+      },
+      "text": {
+        "en": "Nights chalked in fives since the fifteenth, and one name written small at the bottom: B. Rai."
+      }
+    },
+    {
+      "id": "ricebags",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE BACK OF THE SHED"
+      },
+      "text": {
+        "en": "Sixty sacks of rice under a tarpaulin, well away from the jute."
+      },
+      "dismissNote": {
+        "en": "ruled out — the landlady keeps her own rice at the back of every shed she owns"
+      }
+    },
+    {
+      "id": "tram",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "TRAM TICKET · ROUTE 36"
+      },
+      "text": {
+        "en": "In the drawer of the godown office table, with four others."
+      },
+      "dismissNote": {
+        "en": "ruled out — route 36 stops at the end of this lane, and so does everybody in it"
+      }
+    },
+    {
+      "id": "trunkcall",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "TRUNK CALL REGISTER · THE 9th"
+      },
+      "text": {
+        "en": "One call from the godown office to Bhagalpur, six minutes."
+      },
+      "dismissNote": {
+        "en": "ruled out — Bhagalpur is where the jute comes from; that is the least surprising line in this file"
+      }
+    },
+    {
+      "id": "mortgage",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "MORTGAGE · R. PYNE"
+      },
+      "text": {
+        "en": "The godown is mortgaged, and she is two instalments behind."
+      },
+      "dismissNote": {
+        "en": "ruled out — she is behind because a rent cheque cleared late, which argues she knew nothing, not that she knew everything"
+      }
+    },
+    {
+      "id": "paint",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · DOOR FRAME"
+      },
+      "text": {
+        "en": "Fresh white paint on the frame and the lintel."
+      },
+      "dismissNote": {
+        "en": "ruled out — the whole lane was painted the same week, for the puja"
+      }
+    },
+    {
+      "id": "chappal",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE YARD"
+      },
+      "text": {
+        "en": "A single rubber chappal in the mud by the gate."
+      },
+      "dismissNote": {
+        "en": "ruled out — a yard that has taken four hundred bales keeps worse things than a chappal"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidwatch",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE NIGHT DURWAN"
+      },
+      "text": {
+        "en": "“Chit 62 sent me here. Nobody has relieved me and nobody has paid me since. I have counted four hundred bales in and three hundred back out.”"
+      }
+    },
+    {
+      "id": "saidrent",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE LANDLADY"
+      },
+      "text": {
+        "en": "“The rent comes on a mill cheque and the man who signs my receipt is Sadhukhan. In seven months nobody else from Bhairab has stood in my doorway.”"
+      }
+    },
+    {
+      "id": "saidletter",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE ARATDAR"
+      },
+      "text": {
+        "en": "“I did not write the letter of authority. It came to me typed, with an initial on it. It has been enough for a bank, a landlady and a registrar of firms.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "tarak",
+      "name": {
+        "en": "Tarak Sadhukhan"
+      },
+      "role": {
+        "en": "THE ARATDAR"
+      },
+      "hook": {
+        "en": "agent on the lease and sole partner of the seller"
+      },
+      "confession": {
+        "en": "Leased a shed in the mill’s name, filled it with the mill’s own bales, registered a firm at its address in April, and sold three hundred of those bales back to Bhairab at market rate."
+      }
+    },
+    {
+      "id": "nirmal",
+      "name": {
+        "en": "Nirmal Ghosh"
+      },
+      "role": {
+        "en": "THE PURCHASE OFFICER"
+      },
+      "hook": {
+        "en": "passed all three Rupnarayan challans"
+      },
+      "alibi": {
+        "en": "The letter of authority carries an office initial and no name, and three officers are entitled to use that initial. There is not one signature of his anywhere in this godown."
+      }
+    },
+    {
+      "id": "prodyot",
+      "name": {
+        "en": "Prodyot Banerjee"
+      },
+      "role": {
+        "en": "THE MILL MANAGER"
+      },
+      "hook": {
+        "en": "the rent went out on the mill’s cheques"
+      },
+      "alibi": {
+        "en": "Cheques under ₹5,000 are passed by the accounts section without reaching him, and every one of the seven was ₹4,200. Somebody knew exactly where his desk begins."
+      }
+    },
+    {
+      "id": "bipin",
+      "name": {
+        "en": "Bipin Rai"
+      },
+      "role": {
+        "en": "THE NIGHT DURWAN"
+      },
+      "hook": {
+        "en": "has guarded the shed for seven weeks"
+      },
+      "alibi": {
+        "en": "He was posted here by a typed chit, has not been relieved or paid since, and has kept an honest count on the wall in chalk. Nobody guards their own theft unpaid and then writes down the number."
+      }
+    },
+    {
+      "id": "sanjib",
+      "name": {
+        "en": "Sanjib Pal"
+      },
+      "role": {
+        "en": "THE GATE CLERK"
+      },
+      "hook": {
+        "en": "wrote the inward numbers on those bales"
+      },
+      "alibi": {
+        "en": "He wrote them the first time, when the bales came in honestly. The second set of papers never passed his gate at all."
+      }
+    },
+    {
+      "id": "renuka",
+      "name": {
+        "en": "Renuka Pyne"
+      },
+      "role": {
+        "en": "THE LANDLADY"
+      },
+      "hook": {
+        "en": "owns godown No. 4 and takes the rent"
+      },
+      "alibi": {
+        "en": "She let a shed to a jute mill on a mill cheque, which is the most ordinary transaction on this road. Her rent is late, her mortgage is behind, and she has been asking Bhairab for a receipt book for four months."
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "tarak",
+  "interrogations": [
+    {
+      "suspectId": "bipin",
+      "setting": {
+        "en": "The godown steps, seven weeks of beard, the chalk still in his pocket."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How long have you been here?"
+          },
+          "answer": {
+            "en": "“Since the fifteenth. I was told a week. I stayed because a post is a post.”"
+          },
+          "note": {
+            "en": "Seven weeks unpaid at a shed nobody would come and relieve him from."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who comes to this godown?"
+          },
+          "answer": {
+            "en": "“Lorries. Coolies who are not mill coolies. One gentleman, in the evenings, who signs nothing.”"
+          },
+          "note": {
+            "en": "One gentleman, in the evenings, who signs nothing. That sentence has been following this case since Gate 2."
+          }
+        },
+        {
+          "ask": {
+            "en": "You have been counting on the wall."
+          },
+          "answer": {
+            "en": "“Chit 62 sent me here. Nobody relieved me and nobody paid me. Four hundred bales in, three hundred back out — it is all on the wall, in fives.”"
+          },
+          "needsClueId": "slate2",
+          "lockedHint": {
+            "en": "Pin the chowkidar’s slate. He will not claim credit for a count you have not read for yourself."
+          },
+          "unlocksClueId": "saidwatch",
+          "note": {
+            "en": "Three hundred bales went back out — and the mill has three challans that say it bought three hundred bales in."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "renuka",
+      "setting": {
+        "en": "The landlady’s room over the lane, receipts on a spike, a mortgage notice under the clock."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who is your tenant?"
+          },
+          "answer": {
+            "en": "“Bhairab Jute Mill. It says so on the deed and it says so on every cheque.”"
+          },
+          "note": {
+            "en": "And she is right. That is what makes it work."
+          }
+        },
+        {
+          "ask": {
+            "en": "The deed calls Sadhukhan your tenant’s agent."
+          },
+          "answer": {
+            "en": "“The rent comes on a mill cheque and the man who signs my receipt is Sadhukhan. In seven months nobody else from Bhairab has stood in my doorway.”"
+          },
+          "needsClueId": "lease",
+          "lockedHint": {
+            "en": "Pin the lease deed. She will discuss her own paper and nothing else."
+          },
+          "unlocksClueId": "saidrent",
+          "note": {
+            "en": "Seven months of a mill’s money and not one man from the mill. Somebody built a company out of one letter."
+          }
+        },
+        {
+          "ask": {
+            "en": "Forty-two hundred a month, seven times."
+          },
+          "answer": {
+            "en": "“It is what the shed is worth. I would have taken five if they had argued.”"
+          },
+          "needsClueId": "rentcheque",
+          "lockedHint": {
+            "en": "Pin the cheque counterfoils. She will not talk about money you cannot lay on the table."
+          },
+          "note": {
+            "en": "Forty-two hundred, when five thousand is where the manager’s signature starts. The number was chosen."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "nirmal",
+      "setting": {
+        "en": "The purchase office, a fan turning over an empty desk, the files still at the binder’s."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who is Rupnarayan Traders?"
+          },
+          "answer": {
+            "en": "“A seller. We have three hundred of them and I meet perhaps forty.”"
+          },
+          "note": {
+            "en": "Forty out of three hundred, and this one registered itself in April."
+          }
+        },
+        {
+          "ask": {
+            "en": "Do you sign the purchase challans?"
+          },
+          "answer": {
+            "en": "“I initial them. The office initial is used by three officers; it has been that way since before me.”"
+          },
+          "note": {
+            "en": "He initials. He does not sign. He has said it now without being asked twice."
+          }
+        },
+        {
+          "ask": {
+            "en": "Rupnarayan’s address is a shed this mill already pays rent on."
+          },
+          "answer": {
+            "en": "“Then somebody in accounts has been asleep for seven months, and I am not in accounts.”"
+          },
+          "needsClueId": "resale",
+          "lockedHint": {
+            "en": "Pin the Rupnarayan challans. He will answer for an address on a paper, not for one in a question."
+          },
+          "note": {
+            "en": "Not one denial and not one surprise. He answered as if the sentence had been waiting on the desk for him."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "tarak",
+      "setting": {
+        "en": "The aratdar’s office off Strand Road, the spike of bale tickets, and a new brass plate on the door."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You are the mill’s agent for godown matters."
+          },
+          "answer": {
+            "en": "“I have a letter that says so. Every bank on this road has seen it.”"
+          },
+          "note": {
+            "en": "Every bank has seen it. Nobody at the mill has."
+          }
+        },
+        {
+          "ask": {
+            "en": "Godown No. 4 is full of bales with Bhairab’s stencil on them."
+          },
+          "answer": {
+            "en": "“Jute is jute. It goes into a shed and it comes out of a shed and the stencil is only paint.”"
+          },
+          "needsClueId": "stencil",
+          "lockedHint": {
+            "en": "Pin the stencil slip. He is comfortable talking about paint until you show him what is under it."
+          },
+          "note": {
+            "en": "Painted over once and repainted the same. Nobody hides a mark by putting the same mark back — unless the mark is the point."
+          }
+        },
+        {
+          "ask": {
+            "en": "Rupnarayan Traders has one partner, and it is you."
+          },
+          "answer": {
+            "en": "“I did not write the letter of authority. It came to me typed, with an initial on it. It has been enough for a bank, a landlady and a registrar of firms.”"
+          },
+          "needsClueId": "firmreg",
+          "lockedHint": {
+            "en": "Pin the registrar’s entry. One partner, one address — he cannot talk his way around a public register."
+          },
+          "unlocksClueId": "saidletter",
+          "note": {
+            "en": "He will admit the firm, the shed and the sale. He will not admit to the one paragraph that made all three possible, because he did not write it."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "resale",
+      "correction": {
+        "en": "A late mortgage instalment is somebody’s bad year. Three hundred bales sold to the mill that already owned them is the reason this shed exists."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidletter",
+      "correction": {
+        "en": "A tram ticket puts nobody anywhere. One typed paragraph made a commission agent into the mill’s agent, and a bank, a landlady and a registrar all took it."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidwatch",
+      "correction": {
+        "en": "Fresh paint on a door frame hides nothing. A mill durwan standing at the gate on the mill’s own chit is what made the shed look like the mill’s for seven months."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "lease",
+    "toClueId": "firmreg",
+    "text": {
+      "en": "The deed names an agent for the mill. Go and ask the registrar of firms who else that man has been this year."
+    }
+  },
+  "bankedClue": {
+    "en": "A letter of authority, typed and initialled “for P.O.” — the same initial as the three re-rated challans"
+  }
+}

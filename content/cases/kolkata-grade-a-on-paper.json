@@ -1,0 +1,443 @@
+{
+  "id": "kolkata-grade-a-on-paper",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "fraud",
+  "difficulty": "tricky",
+  "ambience": "TrainClatter",
+  "story": {
+    "id": "kolkata-howrah-ledger",
+    "caseNumber": 4
+  },
+  "title": {
+    "en": "Grade A on Paper"
+  },
+  "place": {
+    "en": "Bhairab Jute Mill · the selection shed · Tuesday, 11:15 AM"
+  },
+  "brief": {
+    "en": "Three lots bought this month came in as top-grade tossa and are running through the frames as rooty, short-stapled rubbish. The weights are honest. The bales are honest. Only the grade column is lying, and the difference between what it says and what is on the floor is eleven hundred rupees a quintal."
+  },
+  "photoCaption": {
+    "en": "an opened bale, godown 1"
+  },
+  "iraNote": {
+    "en": "“A grader keeps two books: the one he writes for himself and the one he sends upstairs. Ask which one he believes.”"
+  },
+  "teaser": {
+    "en": "The mill paid top grade for three lots of jute that the spinning frames say are nothing of the sort."
+  },
+  "clues": [
+    {
+      "id": "bales",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · OPENED BALES, GODOWN 1"
+      },
+      "text": {
+        "en": "Root ends and cuttings right through the middle of every bale opened. TD-6 fibre by eye, and by hand, and by smell."
+      }
+    },
+    {
+      "id": "testbook",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE SELECTOR’S OWN TEST BOOK"
+      },
+      "text": {
+        "en": "Lot 1163: moisture 19%, root heavy, staple short. Graded TD-6 in his own hand, at 8:40 that morning."
+      }
+    },
+    {
+      "id": "slip",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "GRADE SLIP · CHALLAN 1163"
+      },
+      "text": {
+        "en": "TD-2. Signed K. Dutta, 8:55 AM — fifteen minutes after his own book said otherwise."
+      }
+    },
+    {
+      "id": "rerate",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "PURCHASE FILE · THREE CORRECTIONS"
+      },
+      "text": {
+        "en": "1163, 1171, 1178: the rate struck through and rewritten one line up, in black, initialled “for P.O.”"
+      }
+    },
+    {
+      "id": "spinning",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · SPINNING TEST"
+      },
+      "text": {
+        "en": "Breaking length down a fifth since the 3rd. The frames are being fed poor fibre and the yarn is saying so."
+      }
+    },
+    {
+      "id": "circular",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "IJMA WEEKLY RATE CIRCULAR"
+      },
+      "text": {
+        "en": "TD-2 and TD-6 stand ₹1,140 a quintal apart this month. Three lots is three hundred tonnes."
+      }
+    },
+    {
+      "id": "rain",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WEATHER PAGE · THE 2nd TO THE 4th"
+      },
+      "text": {
+        "en": "Three days of unseasonal rain over the whole of the lower delta."
+      },
+      "dismissNote": {
+        "en": "ruled out — wet jute weighs more, and the weights are not what is wrong here"
+      }
+    },
+    {
+      "id": "driver",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "LORRY DRIVER’S DIARY"
+      },
+      "text": {
+        "en": "A halt at Bansberia that is not on the route sheet."
+      },
+      "dismissNote": {
+        "en": "ruled out — every driver on that road halts at Bansberia; the dhaba is the reason the road has a name"
+      }
+    },
+    {
+      "id": "sample",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE SAMPLE HANK"
+      },
+      "text": {
+        "en": "A hank of long, pale, beautiful fibre hanging by the shed door."
+      },
+      "dismissNote": {
+        "en": "ruled out — that is the shed’s showpiece and it has hung on that nail since 1994"
+      }
+    },
+    {
+      "id": "quarrel",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "SHED DAY BOOK · THE 6th"
+      },
+      "text": {
+        "en": "“Loud words between the mistri and the selector at the batching door.”"
+      },
+      "dismissNote": {
+        "en": "ruled out — a mistri handed bad fibre shouts at the man who passed it; that is the job working, not failing"
+      }
+    },
+    {
+      "id": "commission",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE ARATDAR’S COMMISSION"
+      },
+      "text": {
+        "en": "1.5% on every consignment, unchanged since 1994."
+      },
+      "dismissNote": {
+        "en": "ruled out — a percentage that has not moved in four years has no opinion about grades"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidticket",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE ARATDAR"
+      },
+      "text": {
+        "en": "“My bale tickets say TD-6. I sold TD-6, I was paid for TD-6. What the mill wrote afterwards is the mill’s own business.”"
+      }
+    },
+    {
+      "id": "saidtold",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE SELECTOR"
+      },
+      "text": {
+        "en": "“I graded it TD-6 in my book and I wrote TD-2 on the slip. The slip goes upstairs. The book stays in the shed.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "kanai",
+      "name": {
+        "en": "Kanai Dutta"
+      },
+      "role": {
+        "en": "THE SELECTOR"
+      },
+      "hook": {
+        "en": "no bale enters this mill without his grade on it"
+      },
+      "confession": {
+        "en": "Tested three lots at TD-6, signed all three slips TD-2 fifteen minutes later, and kept the honest reading in a book that never leaves the shed."
+      }
+    },
+    {
+      "id": "abdul",
+      "name": {
+        "en": "Abdul Sattar"
+      },
+      "role": {
+        "en": "THE BATCHING MISTRI"
+      },
+      "hook": {
+        "en": "his floor is running the bad fibre"
+      },
+      "alibi": {
+        "en": "He has been writing to the office about the fibre since the 3rd and shouting about it since the 6th. Nobody advertises the goods they are stealing."
+      }
+    },
+    {
+      "id": "tarak",
+      "name": {
+        "en": "Tarak Sadhukhan"
+      },
+      "role": {
+        "en": "THE ARATDAR"
+      },
+      "hook": {
+        "en": "supplied all three lots on commission"
+      },
+      "alibi": {
+        "en": "His own bale tickets and his own invoice both say TD-6, and he was paid the TD-6 rate. A man does not undercharge himself to run a fraud."
+      }
+    },
+    {
+      "id": "malati",
+      "name": {
+        "en": "Malati Sen"
+      },
+      "role": {
+        "en": "THE KANTA BABU"
+      },
+      "hook": {
+        "en": "weighed every lot on the way in"
+      },
+      "alibi": {
+        "en": "The weights are right to the kilogram against the aratdar’s own tickets. Whatever is wrong here was written after the lorry left her plate."
+      },
+      "feminine": true
+    },
+    {
+      "id": "nirmal",
+      "name": {
+        "en": "Nirmal Ghosh"
+      },
+      "role": {
+        "en": "THE PURCHASE OFFICER"
+      },
+      "hook": {
+        "en": "the rate on every challan is set in his office"
+      },
+      "alibi": {
+        "en": "The corrections carry an office initial, not a name, and three men use that initial. A grade is the selector’s signature, and only the selector’s."
+      }
+    }
+  ],
+  "culpritId": "kanai",
+  "interrogations": [
+    {
+      "suspectId": "abdul",
+      "setting": {
+        "en": "The batching floor, shouting over the openers, a fistful of fibre in his hand."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What is coming through your floor?"
+          },
+          "answer": {
+            "en": "“Rubbish. Root, cuttings, and half of it damp. I am carding firewood.”"
+          },
+          "note": {
+            "en": "He says it in front of his own men, which is not how a man talks about a secret."
+          }
+        },
+        {
+          "ask": {
+            "en": "You wrote to the office about it."
+          },
+          "answer": {
+            "en": "“Four times since the third. I have the carbon of every one.”"
+          },
+          "note": {
+            "en": "Four letters in nine days, and the purchases carried on regardless."
+          }
+        },
+        {
+          "ask": {
+            "en": "The yarn has lost a fifth of its strength."
+          },
+          "answer": {
+            "en": "“Then the lab has finally written down what my hands have been saying. Show that upstairs — they read the lab.”"
+          },
+          "needsClueId": "spinning",
+          "lockedHint": {
+            "en": "Pin the spinning test. He is tired of his own word; give him the laboratory’s."
+          },
+          "note": {
+            "en": "The frames do not know what the paper says. They only know what they are being fed."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "tarak",
+      "setting": {
+        "en": "The aratdar’s office off Strand Road, bale tickets on a spike."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What did you sell this mill?"
+          },
+          "answer": {
+            "en": "“What the season gave me. It has been a bad season and I have never once said otherwise.”"
+          },
+          "note": {
+            "en": "A supplier volunteering that his goods are poor is a strange sort of fraudster."
+          }
+        },
+        {
+          "ask": {
+            "en": "The mill has these three lots down as TD-2."
+          },
+          "answer": {
+            "en": "“My tickets say TD-6. I sold TD-6 and I was paid for TD-6. What the mill wrote afterwards is the mill’s business.”"
+          },
+          "needsClueId": "bales",
+          "lockedHint": {
+            "en": "Pin the opened bales. He will answer for fibre you have looked at, not for fibre you have heard about."
+          },
+          "unlocksClueId": "saidticket",
+          "note": {
+            "en": "So the money the mill paid out and the money the seller took in are two different numbers. Somebody is standing between them."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who do you deal with at Bhairab?"
+          },
+          "answer": {
+            "en": "“The purchase office. I have never in nine years met the selector, and I would not know him in the street.”"
+          },
+          "note": {
+            "en": "Nine years of business and he has never met the man who decides what his jute is worth."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "kanai",
+      "setting": {
+        "en": "The selection shed, sample hanks on the wall, his test book shut on the bench."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How do you grade a lot?"
+          },
+          "answer": {
+            "en": "“Hand, eye, moisture meter. Twenty-two years. I can grade a bale across a shed.”"
+          },
+          "note": {
+            "en": "Twenty-two years. Then this was never a mistake, whatever else it was."
+          }
+        },
+        {
+          "ask": {
+            "en": "Slip 1163 is signed TD-2 at five to nine."
+          },
+          "answer": {
+            "en": "“That is my signature.”"
+          },
+          "note": {
+            "en": "He does not dispute a letter of it. He is waiting to be shown the other book."
+          }
+        },
+        {
+          "ask": {
+            "en": "Your own book graded that lot TD-6 at twenty to nine."
+          },
+          "answer": {
+            "en": "“I graded it TD-6 in my book and wrote TD-2 on the slip. The slip goes upstairs. The book stays in the shed.”"
+          },
+          "needsClueId": "testbook",
+          "lockedHint": {
+            "en": "Pin his test book. He will not talk about the fifteen minutes until you are holding both ends of them."
+          },
+          "unlocksClueId": "saidtold",
+          "note": {
+            "en": "He kept an honest record of his own dishonesty, where it could not be found and could not be used. That is a man keeping a receipt."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "circular",
+      "correction": {
+        "en": "Three days of rain do not make a motive. Eleven hundred and forty rupees a quintal across three hundred tonnes does."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "testbook",
+      "correction": {
+        "en": "A shouting match at a door proves nothing. One man tested that lot at eight forty and signed the opposite at eight fifty-five — nobody else was standing in between."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidtold",
+      "correction": {
+        "en": "A commission of one and a half per cent is not a hiding place. The slip went upstairs and the book stayed in the shed, and that is how three false grades lived a whole month."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "bales",
+    "toClueId": "testbook",
+    "text": {
+      "en": "The bales in Godown 1 are rooty and short. Somewhere in that shed is a man who wrote that down before he wrote anything else."
+    }
+  },
+  "bankedClue": {
+    "en": "Three rates struck through and rewritten one line up, initialled “for P.O.” — in the purchase file, after the grading"
+  }
+}

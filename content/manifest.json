@@ -1,5 +1,9 @@
 {
   "files": {
+    "cases/darjeeling-down-train-two-forty.json": {
+      "bytes": 17291,
+      "sha256": "8484d09657adf1a6c5a71a78f7afc04c65e187ef806aca8564d56193889be183"
+    },
     "cases/darjeeling-lot-nineteen.json": {
       "bytes": 9146,
       "sha256": "3728a9f7f1d3e591a16d1aa34447257144f84aa853ce1c677604e300bc6b0957"
@@ -24,20 +28,68 @@
       "bytes": 9110,
       "sha256": "8ba7882e80d5705b3c95880251286b277dcf76aa6bd08906a9006e345ee8e4ca"
     },
+    "cases/kolkata-adda-at-number-six.json": {
+      "bytes": 10163,
+      "sha256": "c257ddf1dc82123fa285ff20ba9aa32fa496277ed5a79526b1a1b6c47ea48774"
+    },
+    "cases/kolkata-bhog-kitchen.json": {
+      "bytes": 13688,
+      "sha256": "b3bae22ba87515d9959e84f78dd904a574fd871f8399570b0b19b761c58beacc"
+    },
+    "cases/kolkata-depot-spares.json": {
+      "bytes": 10550,
+      "sha256": "e549a8511c7402ccd31ce93097b876d34a27bb93fe8ca62be2f8ccde87e2e68b"
+    },
+    "cases/kolkata-forty-bales.json": {
+      "bytes": 10141,
+      "sha256": "436d56d06152d06910c36abf69db816dfcacbf939698fe44f73334960297958b"
+    },
+    "cases/kolkata-grade-a-on-paper.json": {
+      "bytes": 13604,
+      "sha256": "f410dc482beaab1698347839efd70295e56a1c4fa21c645f203e93c8e1ba3d17"
+    },
+    "cases/kolkata-night-gate.json": {
+      "bytes": 10457,
+      "sha256": "45b8de6c6a5b37e1e3c795598fd387cd424dae2f1007c06a12859f742568964c"
+    },
+    "cases/kolkata-one-plate-missing.json": {
+      "bytes": 14199,
+      "sha256": "bc250a644009d7613cadd2cba103f728368a42872594900a5b8362432a93a36e"
+    },
+    "cases/kolkata-record-room-fire.json": {
+      "bytes": 13875,
+      "sha256": "0c9c619d6aaad06f21d0f3974fb24ec1d6d648c693e0c9baa9757f0a082d6651"
+    },
+    "cases/kolkata-second-godown.json": {
+      "bytes": 18022,
+      "sha256": "9478713118519cdfb9f185f5899ef823487730a51c257969ea77a2bf4a4b05a0"
+    },
+    "cases/kolkata-sixteen-names.json": {
+      "bytes": 13909,
+      "sha256": "c4975695cf384ddd80eba8aceabe95d492d7cb6236365f6acd43bcc1bcb57ebc"
+    },
     "cases/mumbai-sixty-watt-alibi.json": {
       "bytes": 9102,
       "sha256": "300e929cecc57d9b900b7d67e5a20d4345bf36d9f089265ea5c19238ea71b0a3"
     },
+    "cases/sundarbans-permit-for-a-boat.json": {
+      "bytes": 17821,
+      "sha256": "980175155f7bbb8663242e60f643dadbb0d1eeb21b7f57ebb6ae279d6ddfb33b"
+    },
     "index.json": {
-      "bytes": 4396,
-      "sha256": "f81966585793082ee0b23a93cead70f4a185cdc1cf0c37b84d2c3f21567db8a1"
+      "bytes": 7854,
+      "sha256": "97652cd16c712686295ddbbb5e37f7379c0ea464772b1d13f5b29420893fc336"
     },
     "stories/jaipur-pink-city.json": {
       "bytes": 4161,
       "sha256": "43e08479a5abb668a229aeebdb1401b6b0fb55e1a50b9a47278314beabfd4435"
+    },
+    "stories/kolkata-howrah-ledger.json": {
+      "bytes": 6460,
+      "sha256": "819652044c0d7fd6aa6d16f60f7963fb47db319b9638bedd9fdf361f3edeeaae"
     }
   },
   "schema": 1,
-  "tag": "v3",
-  "version": 3
+  "tag": "v4",
+  "version": 4
 }

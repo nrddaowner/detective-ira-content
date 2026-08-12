@@ -1,0 +1,336 @@
+{
+  "id": "kolkata-adda-at-number-six",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "theft",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "title": {
+    "en": "The Adda at Number 6"
+  },
+  "place": {
+    "en": "The coffee house, College Street · table 6 · Thursday, 7:20 PM"
+  },
+  "brief": {
+    "en": "Ashutosh Basu has been writing the same book of poems for nineteen years and there is one copy of it. He left it in its cloth bag on table 6 and went to the counter for his bill. Four friends stayed at the table the whole time. The bag is still there. The manuscript is not."
+  },
+  "photoCaption": {
+    "en": "table 6, after the adda"
+  },
+  "iraNote": {
+    "en": "“Nobody at that table needed to sell it. Ask which of them needed it printed.”"
+  },
+  "teaser": {
+    "en": "A poet’s only manuscript left a coffee house table with four friends sitting around it."
+  },
+  "clues": [
+    {
+      "id": "bag",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · THE CLOTH BAG"
+      },
+      "text": {
+        "en": "Exactly where he left it, and tied. The knot goes the other way round — a left-hander’s knot on a right-hander’s bag."
+      }
+    },
+    {
+      "id": "proof",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "GALLEY PROOF · ‘ANTAHSTHA’ No. 11"
+      },
+      "text": {
+        "en": "Eight pages, set the same evening. Page three carries a poem nobody has heard the poet read."
+      }
+    },
+    {
+      "id": "pressbook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "SASTHI PRESS · JOB BOOK"
+      },
+      "text": {
+        "en": "Antahstha No. 11 brought in by hand at 7:35 PM. “Copy handwritten — to be returned with the proof.”"
+      }
+    },
+    {
+      "id": "notebook",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE POET’S READING NOTEBOOK"
+      },
+      "text": {
+        "en": "He read three poems at the table that evening. The one in the proof is not among them — it is on page 41, and he has never read it aloud to anyone."
+      }
+    },
+    {
+      "id": "cup",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE FOURTH CHAIR"
+      },
+      "text": {
+        "en": "The cup at the fourth chair sits to the left of its plate, and the saucer ring is on the wrong side. One man at that table drinks left-handed."
+      }
+    },
+    {
+      "id": "bill",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "BEARER’S SLIP · TABLE 6"
+      },
+      "text": {
+        "en": "Four infusions and a cutlet, made out at 7:18. The counter queue that evening ran eleven minutes."
+      }
+    },
+    {
+      "id": "stall",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE PAVEMENT STALL"
+      },
+      "text": {
+        "en": "A tarpaulin half open over a stack of unsold little magazines."
+      },
+      "dismissNote": {
+        "en": "ruled out — the boy sells them; a seller sitting on a stolen manuscript would have a better stall"
+      }
+    },
+    {
+      "id": "raincoat",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE HOOK BY THE DOOR"
+      },
+      "text": {
+        "en": "A raincoat left hanging, pockets empty."
+      },
+      "dismissNote": {
+        "en": "ruled out — there are nine on that hook and it rained at four"
+      }
+    },
+    {
+      "id": "chit",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE BEARER’S CHIT BOOK"
+      },
+      "text": {
+        "en": "₹300 owed against his name at the cash counter."
+      },
+      "dismissNote": {
+        "en": "ruled out — every bearer in the house runs a chit and the counter keeps them all"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidcopy",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE CRITIC"
+      },
+      "text": {
+        "en": "“It was going to be back in the bag by nine. He would never have known, and the poem would have been in print while he is still alive to hold it.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "bikash",
+      "name": {
+        "en": "Bikash Ghosh"
+      },
+      "role": {
+        "en": "THE CRITIC"
+      },
+      "hook": {
+        "en": "edits a little magazine that goes to press tonight"
+      },
+      "confession": {
+        "en": "Carried the manuscript to Sasthi Press at half past seven so that page 41 would be set for issue eleven, and meant to have it back in the bag by nine."
+      }
+    },
+    {
+      "id": "shibani",
+      "name": {
+        "en": "Shibani Roy"
+      },
+      "role": {
+        "en": "THE RESEARCH STUDENT"
+      },
+      "hook": {
+        "en": "has been asking him for the manuscript for a year"
+      },
+      "alibi": {
+        "en": "She has been asking in writing, through her department, for a year. Nobody applies twice in triplicate for a thing they are planning to pick up off a table."
+      },
+      "feminine": true
+    },
+    {
+      "id": "haradhan",
+      "name": {
+        "en": "Haradhan Pal"
+      },
+      "role": {
+        "en": "THE BEARER"
+      },
+      "hook": {
+        "en": "the only man who came to the table"
+      },
+      "alibi": {
+        "en": "He came, made out the slip at 7:18 and went to the counter with it, in front of a hall of two hundred people. He also cannot read the script the book is written in."
+      }
+    },
+    {
+      "id": "montu",
+      "name": {
+        "en": "Montu"
+      },
+      "role": {
+        "en": "THE BOOK-STALL BOY"
+      },
+      "hook": {
+        "en": "runs the pavement stall below the stairs"
+      },
+      "alibi": {
+        "en": "He was on the pavement with his tarpaulin up, four feet from a constable, from six until the rain stopped."
+      }
+    }
+  ],
+  "culpritId": "bikash",
+  "interrogations": [
+    {
+      "suspectId": "haradhan",
+      "setting": {
+        "en": "The service corridor, a tray under his arm, the hall roaring beyond the door."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who was at table 6?"
+          },
+          "answer": {
+            "en": "“The same five as every Thursday for eleven years. I do not have to ask them what they want.”"
+          },
+          "note": {
+            "en": "Eleven years of Thursdays. Whoever did this knew exactly how long the counter queue runs."
+          }
+        },
+        {
+          "ask": {
+            "en": "Did anyone leave the table?"
+          },
+          "answer": {
+            "en": "“The critic went down and came back. He goes down every week; he smokes on the stairs.”"
+          },
+          "note": {
+            "en": "Down and back, on a night when the press is eight minutes’ walk away."
+          }
+        },
+        {
+          "ask": {
+            "en": "The bag was tied again afterwards."
+          },
+          "answer": {
+            "en": "“Then somebody was careful. A thief in this hall does not stop to tie a knot.”"
+          },
+          "needsClueId": "bag",
+          "lockedHint": {
+            "en": "Pin the cloth bag. He will not speculate about a knot he has not been shown."
+          },
+          "note": {
+            "en": "Careful, and left-handed, and intending the bag to look untouched until closing."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bikash",
+      "setting": {
+        "en": "The stairs outside, a proof folded into his jacket, the ink still smelling of it."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You went down at twenty past seven."
+          },
+          "answer": {
+            "en": "“For a cigarette. I have gone down for a cigarette every Thursday since 1986.”"
+          },
+          "note": {
+            "en": "Every Thursday, and this Thursday the press had a job walk in at 7:35."
+          }
+        },
+        {
+          "ask": {
+            "en": "Issue eleven carries a poem he has never read out."
+          },
+          "answer": {
+            "en": "“He gave me that poem years ago.” He says it to the stairs, not to you."
+          },
+          "note": {
+            "en": "Years ago — and it is on page 41 of a manuscript that has never left the man’s hands."
+          }
+        },
+        {
+          "ask": {
+            "en": "Sasthi Press has you bringing handwritten copy in by hand at 7:35."
+          },
+          "answer": {
+            "en": "“It was going to be back in the bag by nine. He would never have known, and the poem would have been in print while he is alive to hold it.”"
+          },
+          "needsClueId": "pressbook",
+          "lockedHint": {
+            "en": "Pin the press job book. He will argue with a memory; he will not argue with the compositor’s own entry."
+          },
+          "unlocksClueId": "saidcopy",
+          "note": {
+            "en": "Nineteen years of a man not finishing a book, and the thief is the one person who could not bear to wait for it."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "proof",
+      "correction": {
+        "en": "A bearer’s chit is not a reason. Eight pages going to press with an unpublished poem on page three is."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "cup",
+      "correction": {
+        "en": "A raincoat on a hook places nobody. The bag was re-tied by a left hand, and only one chair at that table drinks with one."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "pressbook",
+      "correction": {
+        "en": "Nobody gets away down a pavement stall’s tarpaulin. He walked it to a compositor eight minutes away and meant to walk it back."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "proof",
+    "toClueId": "notebook",
+    "text": {
+      "en": "Somebody set a poem in type tonight. Find out whether the poet has ever let that one out of his own hands."
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "id": "kolkata-bhog-kitchen",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "poisoning",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "title": {
+    "en": "Bhog Kitchen"
+  },
+  "place": {
+    "en": "Shibtala Sarbojanin puja pandal · the bhog kitchen · Navami, 2:15 PM"
+  },
+  "brief": {
+    "en": "Nine hundred people ate the same khichuri out of the same cauldron and nine hundred people are fine. One household of five spent last night at the hospital on drips, and all five of them are home this morning, weak and furious. The only thing they ate that the pandal did not was the tiffin the committee sent to their door."
+  },
+  "photoCaption": {
+    "en": "the kansa degchi, returned"
+  },
+  "iraNote": {
+    "en": "“Nine hundred plates and one household. Stop looking at the cauldron and start looking at the carrier.”"
+  },
+  "teaser": {
+    "en": "A pandal’s community meal made one family ill and nine hundred other people perfectly well."
+  },
+  "clues": [
+    {
+      "id": "labreport",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "HOSPITAL REPORT · ALL FIVE"
+      },
+      "text": {
+        "en": "Copper, well over the safe limit, in every one of them. The house physician writes one word in the margin: verdigris."
+      }
+    },
+    {
+      "id": "degchi",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · THE RETURNED DEGCHI"
+      },
+      "text": {
+        "en": "Bell-metal outside, and inside the tinning is worn clean through in a green patch the size of a palm."
+      }
+    },
+    {
+      "id": "chatni",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHAT WENT IN THE CARRIER"
+      },
+      "text": {
+        "en": "Khichuri, labra, and tamarind chatni — packed at ten at night, eaten at one the next afternoon. Fifteen hours of sour in that vessel."
+      }
+    },
+    {
+      "id": "cauldron",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE MAIN CAULDRON"
+      },
+      "text": {
+        "en": "Re-tinned on the 2nd of September, swab clean. Nine hundred people ate out of it and not one has complained."
+      }
+    },
+    {
+      "id": "packlist",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "HOME DELIVERY LIST · ELEVEN HOUSEHOLDS"
+      },
+      "text": {
+        "en": "Ten aluminium tiffin carriers. One kansa degchi, against the Duttas’ name, in a different pen."
+      }
+    },
+    {
+      "id": "agenda",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "NAVAMI MEETING AGENDA"
+      },
+      "text": {
+        "en": "Item 3: “Reading of the accounts by S. Dutta.” Struck through and marked “postponed — reader unwell”."
+      }
+    },
+    {
+      "id": "wages",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE COOK’S RATE"
+      },
+      "text": {
+        "en": "A shouting match on Saptami about ₹400 still owed on last year’s bhog."
+      },
+      "dismissNote": {
+        "en": "ruled out — he shouted about it in front of the whole kitchen, which is what a man owed money does"
+      }
+    },
+    {
+      "id": "dog",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE STORE DOOR"
+      },
+      "text": {
+        "en": "A street dog asleep against the sacks, and a torn corner on one of them."
+      },
+      "dismissNote": {
+        "en": "ruled out — the dog has slept there since Panchami and the rice went into the cauldron everybody ate from"
+      }
+    },
+    {
+      "id": "tamarindbill",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "BILL · THE TAMARIND"
+      },
+      "text": {
+        "en": "Four kilos, bought on Ashtami from the Shibtala market."
+      },
+      "dismissNote": {
+        "en": "ruled out — the same four kilos went into the chatni nine hundred people ate"
+      }
+    },
+    {
+      "id": "waterdrum",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · THE DRINKING DRUM"
+      },
+      "text": {
+        "en": "The filter candle is cracked and has not been changed this year."
+      },
+      "dismissNote": {
+        "en": "ruled out — a bad filter would have taken a hundred people, not five, and it is not copper"
+      }
+    },
+    {
+      "id": "fever",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "A VOLUNTEER’S FEVER"
+      },
+      "text": {
+        "en": "Latika Ghosh went home at eleven on Ashtami night with a temperature."
+      },
+      "dismissNote": {
+        "en": "ruled out — she was ill before the food was packed and has the prescription to prove the hour"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidtinning",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE UTENSIL SUPPLIER"
+      },
+      "text": {
+        "en": "“That degchi came back from me untinned and I wrote it on the challan — dry storage only, not for sour. The committee has my paper.”"
+      }
+    },
+    {
+      "id": "saidpacked",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DELIVERY VOLUNTEER"
+      },
+      "text": {
+        "en": "“Nemai-da packed the Duttas’ himself. He told me to carry that one last so it would stay warm, and it went out of my hands at one o’clock.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "nemai",
+      "name": {
+        "en": "Nemai Adhikari"
+      },
+      "role": {
+        "en": "THE ASSISTANT SECRETARY"
+      },
+      "hook": {
+        "en": "wrote the delivery list and packed one carrier himself"
+      },
+      "confession": {
+        "en": "Packed the Duttas’ share into the untinned kansa degchi with sour chatni at ten at night, knowing what fifteen hours in that vessel does, so that the man due to read the accounts on Navami would spend the day at home."
+      }
+    },
+    {
+      "id": "bishu",
+      "name": {
+        "en": "Bishu Thakur"
+      },
+      "role": {
+        "en": "THE COOK"
+      },
+      "hook": {
+        "en": "cooked every grain of it"
+      },
+      "alibi": {
+        "en": "One cauldron, one ladle, nine hundred plates, and nine hundred people well this morning. Whatever happened to the Duttas happened after his fire went out."
+      }
+    },
+    {
+      "id": "latika",
+      "name": {
+        "en": "Latika Ghosh"
+      },
+      "role": {
+        "en": "THE BHOG VOLUNTEER"
+      },
+      "hook": {
+        "en": "on the serving line all three days"
+      },
+      "alibi": {
+        "en": "She went home on Ashtami night with a fever, before a single carrier was packed, and the doctor’s slip carries the hour."
+      },
+      "feminine": true
+    },
+    {
+      "id": "kartick",
+      "name": {
+        "en": "Kartick Saha"
+      },
+      "role": {
+        "en": "THE UTENSIL SUPPLIER"
+      },
+      "hook": {
+        "en": "the degchi is his"
+      },
+      "alibi": {
+        "en": "He wrote “dry storage only, not for sour” on the challan when he sent it, which is the opposite of what a man planning this would put in writing."
+      }
+    },
+    {
+      "id": "manik",
+      "name": {
+        "en": "Manik Pal"
+      },
+      "role": {
+        "en": "THE DELIVERY VOLUNTEER"
+      },
+      "hook": {
+        "en": "carried all eleven carriers"
+      },
+      "alibi": {
+        "en": "He carried ten aluminium carriers and one bell-metal one, in the order he was told, and did not open any of them. He also ate from the same chatni at the pandal and is perfectly well."
+      }
+    }
+  ],
+  "culpritId": "nemai",
+  "interrogations": [
+    {
+      "suspectId": "kartick",
+      "setting": {
+        "en": "The utensil godown, stacks of bell-metal to the ceiling, a tinning fire out at the back."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How often is bell-metal re-tinned?"
+          },
+          "answer": {
+            "en": "“Every year before the pujas. It is my whole month of Bhadra.”"
+          },
+          "note": {
+            "en": "So untinned bell-metal in October is not an oversight. It is an exception."
+          }
+        },
+        {
+          "ask": {
+            "en": "This degchi has bare metal inside it."
+          },
+          "answer": {
+            "en": "“That degchi came back from me untinned and I wrote it on the challan — dry storage only, not for sour. The committee has my paper.”"
+          },
+          "needsClueId": "degchi",
+          "lockedHint": {
+            "en": "Pin the returned degchi. He will not accept a description of his own vessel; show him the green."
+          },
+          "unlocksClueId": "saidtinning",
+          "note": {
+            "en": "So the committee was told, in writing, exactly what that pot must never hold."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who signed for the delivery?"
+          },
+          "answer": {
+            "en": "“The assistant secretary. He signs for everything; he is the only one of them who is ever there.”"
+          },
+          "note": {
+            "en": "The only one who is ever there. That is a compliment and an opportunity in one sentence."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "manik",
+      "setting": {
+        "en": "The pandal steps, still in his volunteer’s sash, carriers stacked behind him."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How were the eleven packed?"
+          },
+          "answer": {
+            "en": "“On the long table, all together, by whoever was standing there. It is not a ceremony.”"
+          },
+          "note": {
+            "en": "All together, by anybody. Ten of them, at least."
+          }
+        },
+        {
+          "ask": {
+            "en": "Did you open any of them?"
+          },
+          "answer": {
+            "en": "“Why would I? They are tied at the handle and I have two hands and eleven houses.”"
+          },
+          "note": {
+            "en": "Tied at the handle. Nothing changed between the table and the door."
+          }
+        },
+        {
+          "ask": {
+            "en": "One of the eleven is written in a different pen."
+          },
+          "answer": {
+            "en": "“Nemai-da packed the Duttas’ himself. He told me to carry that one last so it would stay warm, and it left my hands at one.”"
+          },
+          "needsClueId": "packlist",
+          "lockedHint": {
+            "en": "Pin the delivery list. The different pen is the thing to put in front of him, not the question."
+          },
+          "unlocksClueId": "saidpacked",
+          "note": {
+            "en": "Carried last, to stay warm. Fifteen hours warm, in bare bell-metal, with sour chatni sitting in it."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "nemai",
+      "setting": {
+        "en": "The committee office behind the pandal, the account books stacked and still unread."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Why did the Duttas get a bell-metal pot?"
+          },
+          "answer": {
+            "en": "“It is a respectable household. You do not send an old man his prasad in aluminium.”"
+          },
+          "note": {
+            "en": "A perfectly good answer. It is also the only carrier out of eleven that could have done this."
+          }
+        },
+        {
+          "ask": {
+            "en": "Kartick Saha says he told the committee that pot was for dry storage."
+          },
+          "answer": {
+            "en": "“Kartick Saha writes a great deal on his challans. I have never read one of them through.”"
+          },
+          "note": {
+            "en": "He did not ask which challan, or when. He knew which one was meant."
+          }
+        },
+        {
+          "ask": {
+            "en": "Item three of the Navami agenda has not been read."
+          },
+          "answer": {
+            "en": "After a while: “It will be read next month. Nothing is lost. Nothing was ever going to be lost.”"
+          },
+          "needsClueId": "agenda",
+          "lockedHint": {
+            "en": "Pin the meeting agenda. The struck-through line is the only thing in this office that has an opinion."
+          },
+          "note": {
+            "en": "Nothing was ever going to be lost. He is telling you what he thinks he did — a delay, not a poisoning."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "agenda",
+      "correction": {
+        "en": "Four hundred rupees owed to a cook is a quarrel, not a reason. An accounts reading that could not happen because the reader was on a drip is."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidpacked",
+      "correction": {
+        "en": "A dog asleep on the rice sacks touched nine hundred plates and hurt nobody. One man packed one carrier himself and sent it out last."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "cauldron",
+      "correction": {
+        "en": "A cracked filter candle would have filled the hospital. A clean cauldron and nine hundred well people is what made this look like one family’s bad luck."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "labreport",
+    "toClueId": "degchi",
+    "text": {
+      "en": "Copper does not come out of a cauldron that was re-tinned in September. Find the one vessel in this pandal that nobody re-tinned."
+    }
+  }
+}

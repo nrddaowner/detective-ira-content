@@ -1,0 +1,544 @@
+{
+  "id": "darjeeling-down-train-two-forty",
+  "schema": 1,
+  "city": "darjeeling",
+  "genre": "murder",
+  "difficulty": "devious",
+  "ambience": "MonsoonRain",
+  "title": {
+    "en": "Down Train, 2:40"
+  },
+  "place": {
+    "en": "Mahanadi halt · below Tindharia · Tuesday, 3:35 PM"
+  },
+  "brief": {
+    "en": "Nihar Ranjan Bose bought a first-class ticket at Ghum for the 2:40 down and was found this afternoon at Mahanadi, sitting against the halt wall as though he were waiting. The Kurseong doctor puts the hour between three and half past. The 2:40 does not stop at Mahanadi, has never stopped at Mahanadi, and the guard’s journal says it did not stop today either. Everyone is therefore looking for a passenger. Nobody is looking at the road."
+  },
+  "photoCaption": {
+    "en": "mahanadi halt, from the road above"
+  },
+  "iraNote": {
+    "en": "“A train that doesn’t stop still slows to a walk at the reverses. Ask what the timetable can’t see.”"
+  },
+  "teaser": {
+    "en": "A toy train passenger was found at a station the train did not stop at."
+  },
+  "clues": [
+    {
+      "id": "ticket",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "FIRST CLASS · GHUM TO SILIGURI"
+      },
+      "text": {
+        "en": "In his coat pocket. Punched at Ghum and nowhere else — no collector had it after that."
+      }
+    },
+    {
+      "id": "guardlog",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "GUARD’S JOURNAL · THE 2:40 DOWN"
+      },
+      "text": {
+        "en": "No unscheduled halt. No vacuum brake applied. “Tindharia reverses worked 2:54 to 3:02” — which is eight minutes at walking pace."
+      }
+    },
+    {
+      "id": "platformprints",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · COAL DUST, MAHANADI"
+      },
+      "text": {
+        "en": "Two sets of prints on the platform. One is a hill boot. The other is a town shoe, size five, worn through on the inner edge."
+      }
+    },
+    {
+      "id": "flask",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · THE WAITING SHED"
+      },
+      "text": {
+        "en": "A vacuum flask and two enamel cups on the bench. The tea in the flask was still warm at twenty to four."
+      }
+    },
+    {
+      "id": "diary",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "HIS POCKET DIARY · TUESDAY"
+      },
+      "text": {
+        "en": "One line, in pencil: “M — 3:15 — bring the blend sheet.”"
+      }
+    },
+    {
+      "id": "blendsheet",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "BLEND SHEET · IN HIS BREAST POCKET"
+      },
+      "text": {
+        "en": "A garden’s own working sheet: 340 kg of bought-in plains leaf entered against a second-flush invoice lot."
+      }
+    },
+    {
+      "id": "teaboard",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "DRAFT LETTER · TO THE TEA BOARD"
+      },
+      "text": {
+        "en": "Three paragraphs in his hand, unsigned and unposted, naming one garden and one invoice mark."
+      }
+    },
+    {
+      "id": "jeeplog",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ESTATE JEEP · LOG BOOK"
+      },
+      "text": {
+        "en": "Out 2:20, in 4:05. Twenty-two kilometres. The driver’s column is the only blank line on the page."
+      }
+    },
+    {
+      "id": "landslip",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "PWD BOARD · PAGLAJHORA"
+      },
+      "text": {
+        "en": "A landslip warning posted at the top of the cutting."
+      },
+      "dismissNote": {
+        "en": "ruled out — the board also records the road open to light vehicles all day Tuesday"
+      }
+    },
+    {
+      "id": "umbrella",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "LOST PROPERTY · KURSEONG"
+      },
+      "text": {
+        "en": "A black umbrella handed in off the 2:40."
+      },
+      "dismissNote": {
+        "en": "ruled out — three were handed in that week and October is October"
+      }
+    },
+    {
+      "id": "clerkloan",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "AN ADVANCE · R. GURUNG"
+      },
+      "text": {
+        "en": "₹2,000 taken from his employer in August, ₹600 repaid."
+      },
+      "dismissNote": {
+        "en": "ruled out — a clerk in debt loses his creditor’s account book, not his creditor"
+      }
+    },
+    {
+      "id": "cuppingnotes",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "CUPPING NOTES · THE DISPUTED LOT"
+      },
+      "text": {
+        "en": "“Flat, coarse, plains character.” Dated the 4th."
+      },
+      "dismissNote": {
+        "en": "ruled out — written a week before the auction, and they say what the taster has said out loud to everybody since"
+      }
+    },
+    {
+      "id": "whistle",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "A WHISTLE AT MAHANADI"
+      },
+      "text": {
+        "en": "Heard by a road-gang ganger at five past three."
+      },
+      "dismissNote": {
+        "en": "ruled out — the down goods whistles at that curve at five past every afternoon of the year"
+      }
+    },
+    {
+      "id": "boots",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE STATION MASTER’S BOOTS"
+      },
+      "text": {
+        "en": "Muddy to the ankle, drying by his cabin door."
+      },
+      "dismissNote": {
+        "en": "ruled out — everything at Tindharia is muddy to the ankle in October, including Tindharia"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidwalking",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE GUARD"
+      },
+      "text": {
+        "en": "“At the reverses we do four miles an hour and the doors are not locked. Anybody may step down. I do not stop, so I do not write it.”"
+      }
+    },
+    {
+      "id": "saidroad",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE STATION MASTER"
+      },
+      "text": {
+        "en": "“A gentleman in a brown coat went down the cart road past my cabin at three o’clock, on foot, in no hurry at all. The train does not stop at Mahanadi. The road has never cared.”"
+      }
+    },
+    {
+      "id": "saidjeep",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE JEEP DRIVER"
+      },
+      "text": {
+        "en": "“Madam took it herself. She does that when she does not want a driver’s name in the column, and she has done it four times this year.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "sabitri",
+      "name": {
+        "en": "Sabitri Pradhan"
+      },
+      "role": {
+        "en": "THE ASSISTANT MANAGER"
+      },
+      "hook": {
+        "en": "the blend sheet in his pocket is her garden’s"
+      },
+      "confession": {
+        "en": "Took the estate jeep down twenty-two kilometres of Hill Cart Road with a flask and two cups, met him at Mahanadi at a quarter past three for the sheet he had promised to bring, and drove back alone."
+      },
+      "feminine": true
+    },
+    {
+      "id": "dawa",
+      "name": {
+        "en": "Dawa Sherpa"
+      },
+      "role": {
+        "en": "THE GUARD"
+      },
+      "hook": {
+        "en": "the only railwayman who rode the whole train"
+      },
+      "alibi": {
+        "en": "His signature is in the train register at Tindharia, Gayabari, Sukna and Siliguri, in four different clerks’ books, at four times that agree with each other."
+      }
+    },
+    {
+      "id": "bhim",
+      "name": {
+        "en": "Bhim Tamang"
+      },
+      "role": {
+        "en": "THE STATION MASTER"
+      },
+      "hook": {
+        "en": "his cabin overlooks the road down to Mahanadi"
+      },
+      "alibi": {
+        "en": "He has entries in his own hand at 2:52, 3:01 and 3:14, and a train on the section for every one of them. He was also the man who telephoned it in."
+      }
+    },
+    {
+      "id": "iman",
+      "name": {
+        "en": "Iman Singh Rai"
+      },
+      "role": {
+        "en": "THE ESTATE DRIVER"
+      },
+      "hook": {
+        "en": "the jeep went out on his charge"
+      },
+      "alibi": {
+        "en": "He was at the workshop in Kurseong from two o’clock, having a clutch plate changed, and the job card has his thumb on it."
+      }
+    },
+    {
+      "id": "roshan",
+      "name": {
+        "en": "Roshan Gurung"
+      },
+      "role": {
+        "en": "HIS CLERK"
+      },
+      "hook": {
+        "en": "was to meet him off the train at Siliguri"
+      },
+      "alibi": {
+        "en": "He was in the auction centre at Siliguri from two until five, in a room with sixty brokers, waiting for a man who never came off the train."
+      }
+    },
+    {
+      "id": "karma",
+      "name": {
+        "en": "Karma Bhutia"
+      },
+      "role": {
+        "en": "THE TEA TASTER"
+      },
+      "hook": {
+        "en": "cupped the lot that started all this"
+      },
+      "alibi": {
+        "en": "He put “plains character” in writing on the 4th and repeated it to anyone who would listen. The one man in this business with nothing to hide is the one who wrote it down first."
+      }
+    }
+  ],
+  "culpritId": "sabitri",
+  "interrogations": [
+    {
+      "suspectId": "dawa",
+      "setting": {
+        "en": "The brake van at Siliguri, flag furled, the stove still going."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Did the 2:40 stop anywhere it should not have?"
+          },
+          "answer": {
+            "en": "“No. And I would know — a stop out of course is my signature and my job.”"
+          },
+          "note": {
+            "en": "He is defending the journal, and the journal is probably honest. That is not the same as the train being sealed."
+          }
+        },
+        {
+          "ask": {
+            "en": "Was he on the train at all?"
+          },
+          "answer": {
+            "en": "“First class, the second coach, alone. I saw him at Sonada with his coat folded on his knees.”"
+          },
+          "note": {
+            "en": "Sonada is above Tindharia. So he was aboard, and then he was not."
+          }
+        },
+        {
+          "ask": {
+            "en": "Your journal says the reverses took eight minutes."
+          },
+          "answer": {
+            "en": "“At the reverses we do four miles an hour and the doors are not locked. Anybody may step down. I do not stop, so I do not write it.”"
+          },
+          "needsClueId": "guardlog",
+          "lockedHint": {
+            "en": "Pin the guard’s journal. He answers his own book; he will not answer a summary of it."
+          },
+          "unlocksClueId": "saidwalking",
+          "note": {
+            "en": "The whole mystery of the station the train did not stop at, dismantled in one sentence by the man who wrote the timetable line."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bhim",
+      "setting": {
+        "en": "The Tindharia cabin, the block instrument ticking, the road below the window."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How far is Mahanadi from here on foot?"
+          },
+          "answer": {
+            "en": "“By the cart road, twenty minutes down and forty back. By the line, less, but nobody walks the line in October.”"
+          },
+          "note": {
+            "en": "Twenty minutes down. The reverses finish at 3:02 and the diary says 3:15."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who uses that road in the afternoon?"
+          },
+          "answer": {
+            "en": "“Tea garden jeeps, the PWD, and school children. It is a road, not a secret.”"
+          },
+          "note": {
+            "en": "A road, not a secret — and every person on this hill has been reading a timetable instead."
+          }
+        },
+        {
+          "ask": {
+            "en": "There are two sets of prints on the Mahanadi platform."
+          },
+          "answer": {
+            "en": "“A gentleman in a brown coat went down past my cabin at three, on foot, in no hurry. The train does not stop at Mahanadi. The road has never cared.”"
+          },
+          "needsClueId": "platformprints",
+          "lockedHint": {
+            "en": "Pin the coal dust slip. Two sets of prints is the thing that makes him tell you about the second person."
+          },
+          "unlocksClueId": "saidroad",
+          "note": {
+            "en": "He walked down himself, alive, to a meeting he had written in a diary. Somebody else came by road."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "iman",
+      "setting": {
+        "en": "The workshop yard at Kurseong, the jeep up on blocks, a job card on the wing."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Where were you on Tuesday afternoon?"
+          },
+          "answer": {
+            "en": "“Here, from two, watching a boy do a clutch plate badly. It is on the card and the card has my thumb.”"
+          },
+          "note": {
+            "en": "Which is checkable, and checks out, and leaves the jeep unaccounted for rather than him."
+          }
+        },
+        {
+          "ask": {
+            "en": "The jeep did twenty-two kilometres with nobody’s name against it."
+          },
+          "answer": {
+            "en": "“Madam took it herself. She does that when she does not want a driver’s name in the column, and she has done it four times this year.”"
+          },
+          "needsClueId": "jeeplog",
+          "lockedHint": {
+            "en": "Pin the jeep log. The blank driver’s column is what he will talk about; the question alone is not."
+          },
+          "unlocksClueId": "saidjeep",
+          "note": {
+            "en": "Twenty-two kilometres is Tindharia and back, near enough. Four times this year, and once on Tuesday."
+          }
+        },
+        {
+          "ask": {
+            "en": "What is in the jeep normally?"
+          },
+          "answer": {
+            "en": "“A flask. Always a flask, and two cups, because on this hill you never drink alone.”"
+          },
+          "note": {
+            "en": "Two cups, always. The waiting shed at Mahanadi has two cups on the bench."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "sabitri",
+      "setting": {
+        "en": "The estate office above Tindharia, invoices in a spike, rain on the tin."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "When did you last see him?"
+          },
+          "answer": {
+            "en": "“At the auction, ten days ago. He was polite and he was wrong.”"
+          },
+          "note": {
+            "en": "Wrong about what, she does not say, and nobody has yet told her what he was carrying."
+          }
+        },
+        {
+          "ask": {
+            "en": "You drove yourself on Tuesday."
+          },
+          "answer": {
+            "en": "“I drive myself often. Iman was at the workshop and the garden does not stop for a clutch plate.”"
+          },
+          "note": {
+            "en": "Freely given, and true, and it puts her behind the wheel of the only vehicle that went anywhere."
+          }
+        },
+        {
+          "ask": {
+            "en": "He had your garden’s blend sheet in his breast pocket."
+          },
+          "answer": {
+            "en": "The rain gets loud on the tin for a while. “Then he brought it, as he said he would.”"
+          },
+          "needsClueId": "blendsheet",
+          "lockedHint": {
+            "en": "Pin the blend sheet. Until it is on the table she is discussing the weather and the auction."
+          },
+          "note": {
+            "en": "As he said he would. She has just put herself at the meeting the diary is about."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "teaboard",
+      "correction": {
+        "en": "An old advance to a clerk is a household matter. A letter to the Tea Board naming one garden and one invoice mark ends a garden."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidjeep",
+      "correction": {
+        "en": "A landslip warning on an open road places nobody. One vehicle went twenty-two kilometres that afternoon with no driver’s name against it, and its owner has explained why."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidwalking",
+      "correction": {
+        "en": "A whistle that sounds at five past three every day of the year hides nothing. The 2:40 walks through the reverses with the doors unlocked — that is why everyone spent two days looking for a stop that never happened."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "diary",
+    "toClueId": "guardlog",
+    "text": {
+      "en": "He wrote down a meeting at a quarter past three. Now find out what the train was doing at three, and how slowly it was doing it."
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "id": "kolkata-depot-spares",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "fraud",
+  "difficulty": "quick",
+  "ambience": "TrainClatter",
+  "title": {
+    "en": "Depot Spares"
+  },
+  "place": {
+    "en": "Belgachia tram depot · the stores shed · Monday, 9:05 AM"
+  },
+  "brief": {
+    "en": "Fourteen certificates say the depot’s axle bearings were beyond economical repair and went out as scrap, by weight, in March. Car 631 is running on one of them this morning, part number and all. The scrap left the gate at half the weight it was sold at, and four of the certificates are signed by a foreman who was at Digha that week."
+  },
+  "photoCaption": {
+    "en": "under car 631, before the first trip"
+  },
+  "iraNote": {
+    "en": "“Scrap is sold by the kilo and bearings are sold by the number. Somebody chose which one to write down.”"
+  },
+  "teaser": {
+    "en": "Tram parts condemned on paper in March are running on the road in September."
+  },
+  "clues": [
+    {
+      "id": "cert",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "CONDEMNATION CERTIFICATES · FOURTEEN"
+      },
+      "text": {
+        "en": "“Beyond economical repair.” All signed J. Mondal. Four of them dated the 9th, 10th, 12th and 13th of March."
+      }
+    },
+    {
+      "id": "leave",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "LEAVE REGISTER · MARCH"
+      },
+      "text": {
+        "en": "J. Mondal, earned leave, the 8th to the 15th. Sanctioned, availed, and countersigned on his return."
+      }
+    },
+    {
+      "id": "partnos",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · UNDER CAR 631"
+      },
+      "text": {
+        "en": "Axle bearing, stamped 4471-C, running and warm. 4471-C left this depot as scrap in March."
+      }
+    },
+    {
+      "id": "scrapnote",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "SCRAP DISPOSAL NOTE · MARCH"
+      },
+      "text": {
+        "en": "1,180 kg of “unserviceable ferrous” at ₹9 a kilo. Not one part number listed against it."
+      }
+    },
+    {
+      "id": "weighslip",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "PUBLIC WEIGHBRIDGE · THE SCRAP LORRY"
+      },
+      "text": {
+        "en": "The lorry that carried the March scrap weighed 640 kg of load at the gate weighbridge. The note says 1,180."
+      }
+    },
+    {
+      "id": "indent",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "INDENT REGISTER · BEARINGS"
+      },
+      "text": {
+        "en": "Indented in January. Sanction still awaited in September. Meanwhile the depot has turned out forty cars a day, every day."
+      }
+    },
+    {
+      "id": "oilbill",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "LUBRICANT BILL · THIS QUARTER"
+      },
+      "text": {
+        "en": "Up thirty per cent on the last one."
+      },
+      "dismissNote": {
+        "en": "ruled out — the depot also ran thirty per cent more car-kilometres this quarter"
+      }
+    },
+    {
+      "id": "cash",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE SCRAP DEALER’S PAYMENTS"
+      },
+      "text": {
+        "en": "Every settlement in cash, counted at the gate."
+      },
+      "dismissNote": {
+        "en": "ruled out — every scrap dealer on that road pays in cash and the depot has always taken it"
+      }
+    },
+    {
+      "id": "unionnotice",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "UNION NOTICE · BRAKE BLOCKS"
+      },
+      "text": {
+        "en": "“Unsafe blocks in service — immediate replacement demanded.”"
+      },
+      "dismissNote": {
+        "en": "ruled out — one of those goes up every quarter, and this one is about Rajabazar"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidrunning",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE STORES IN-CHARGE"
+      },
+      "text": {
+        "en": "“The indent is eight months old. If I do not condemn a good bearing and put it back under a car the same afternoon, forty cars stand still. I took two hundred rupees a time for the trouble of it.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "sisir",
+      "name": {
+        "en": "Sisir Bose"
+      },
+      "role": {
+        "en": "THE STORES IN-CHARGE"
+      },
+      "hook": {
+        "en": "writes every condemnation and weighs every lot of scrap"
+      },
+      "confession": {
+        "en": "Condemned fourteen serviceable bearings on a foreman’s forged signature, put them straight back under the cars, billed the difference as scrap by weight, and kept two hundred rupees a time."
+      }
+    },
+    {
+      "id": "jaladhar",
+      "name": {
+        "en": "Jaladhar Mondal"
+      },
+      "role": {
+        "en": "THE DEPOT FOREMAN"
+      },
+      "hook": {
+        "en": "his signature is on all fourteen"
+      },
+      "alibi": {
+        "en": "Four of the certificates are dated in a week the leave register, his ticket and his own section head all place him at Digha. A man forging his own name does not pick the week he is out of town."
+      }
+    },
+    {
+      "id": "pratima",
+      "name": {
+        "en": "Pratima Halder"
+      },
+      "role": {
+        "en": "THE DEPOT CLERK"
+      },
+      "hook": {
+        "en": "typed the scrap disposal note"
+      },
+      "alibi": {
+        "en": "She typed what the stores gave her and she typed the gate weighbridge slip too, filed alongside it, where anybody could find the two numbers together."
+      },
+      "feminine": true
+    },
+    {
+      "id": "abinash",
+      "name": {
+        "en": "Abinash Dey"
+      },
+      "role": {
+        "en": "THE SCRAP DEALER"
+      },
+      "hook": {
+        "en": "bought the March lot"
+      },
+      "alibi": {
+        "en": "He paid for 640 kilos, which is what he carried away and what his own weighbridge slip says. The other 540 exist only on the depot’s paper."
+      }
+    }
+  ],
+  "culpritId": "sisir",
+  "interrogations": [
+    {
+      "suspectId": "jaladhar",
+      "setting": {
+        "en": "The inspection pit, shouting up through the floor of car 631."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Did you condemn these bearings?"
+          },
+          "answer": {
+            "en": "“I condemn a bearing when it is blue and it is scored. None of these fourteen were either.”"
+          },
+          "note": {
+            "en": "He answers about the metal before he answers about the paper. Fitters always do."
+          }
+        },
+        {
+          "ask": {
+            "en": "Four of them are dated while you were at Digha."
+          },
+          "answer": {
+            "en": "“Then four of them are not my hand, and I would like to know which clerk thinks it is.”"
+          },
+          "needsClueId": "leave",
+          "lockedHint": {
+            "en": "Pin the leave register. Telling a foreman where he was is not the same as showing him."
+          },
+          "note": {
+            "en": "Somebody signed for him and picked, of all weeks, the one week the register could contradict."
+          }
+        },
+        {
+          "ask": {
+            "en": "What is running under 631 this morning?"
+          },
+          "answer": {
+            "en": "“A bearing that was sold for scrap in March. I know, because I fitted it in April.”"
+          },
+          "note": {
+            "en": "He fitted it himself, in the open, in a pit anybody can walk past. Nothing about this was hidden from the men."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "sisir",
+      "setting": {
+        "en": "The stores shed, bins to the roof, a scrap note book under his elbow."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How does a bearing leave this depot?"
+          },
+          "answer": {
+            "en": "“Condemned, weighed, sold, gone. Four lines and a signature.”"
+          },
+          "note": {
+            "en": "Four lines, and only one of them is checked by anybody outside this shed."
+          }
+        },
+        {
+          "ask": {
+            "en": "The January indent has still not been sanctioned."
+          },
+          "answer": {
+            "en": "“It will be sanctioned when a car sheds a wheel on Chowringhee. Not before.”"
+          },
+          "note": {
+            "en": "Bitter, and entirely accurate, and not an answer to the question."
+          }
+        },
+        {
+          "ask": {
+            "en": "The gate weighbridge says 640 kilos. Your note says 1,180."
+          },
+          "answer": {
+            "en": "“The indent is eight months old. If I do not condemn a good bearing and put it back under a car the same afternoon, forty cars stand still. I took two hundred rupees a time for the trouble of it.”"
+          },
+          "needsClueId": "weighslip",
+          "lockedHint": {
+            "en": "Pin the public weighbridge slip. Two numbers, side by side, is the only argument he cannot talk over."
+          },
+          "unlocksClueId": "saidrunning",
+          "note": {
+            "en": "The trams ran, and he took two hundred a time for the keeping of them running. Both of those are true at once."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "weighslip",
+      "correction": {
+        "en": "A lubricant bill is a lubricant bill. Five hundred and forty kilos billed and never carried away is where the money was."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "cert",
+      "correction": {
+        "en": "A union notice about another depot proves nothing here. Fourteen condemnations in one hand, four of them signed for a man who was at Digha, is the opening."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "scrapnote",
+      "correction": {
+        "en": "Nobody hides behind a cash-paying scrap dealer. A disposal note with a weight on it and not one part number is what let fourteen good bearings die on paper and go on working."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "partnos",
+    "toClueId": "scrapnote",
+    "text": {
+      "en": "A part number under a running car, and a scrap note that lists no numbers at all. Ask why a shed that stamps everything stopped writing numbers down once."
+    }
+  }
+}

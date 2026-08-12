@@ -1,0 +1,437 @@
+{
+  "id": "kolkata-one-plate-missing",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "forgery",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "title": {
+    "en": "One Plate Missing"
+  },
+  "place": {
+    "en": "Dwarkanath Memorial Library · the rare book room · Saturday, 10:30 AM"
+  },
+  "brief": {
+    "en": "Nine volumes have come back to the shelf this year lighter by exactly one engraving each, and not one of them looks touched. Where the plate was there is a plate: same image, same foxing, same brown edge. It is simply not the one that was bound in eighteen forty-nine, and four of the real ones are in a dealer’s fair catalogue with the library’s shelf-mark still ghosting through the margin."
+  },
+  "photoCaption": {
+    "en": "the hooker frontispiece, under raking light"
+  },
+  "iraNote": {
+    "en": "“A copperplate bruises the paper. A press only puts ink on it. Feel the back of the sheet before you look at the front.”"
+  },
+  "teaser": {
+    "en": "Rare books return to the shelf lighter by exactly one engraving, and the substitute is good enough to sit there for a year."
+  },
+  "clues": [
+    {
+      "id": "platemark",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE FRONTISPIECE"
+      },
+      "text": {
+        "en": "The plate mark is printed, not embossed. A copper plate under a rolling press bruises the sheet; this one is flat as a wall."
+      }
+    },
+    {
+      "id": "chainlines",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE SUBSTITUTE LEAF"
+      },
+      "text": {
+        "en": "No chain lines, no watermark, and it lights up under ultraviolet. Machine paper, aged in tea and pressed dry."
+      }
+    },
+    {
+      "id": "thread",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE SEWING"
+      },
+      "text": {
+        "en": "Section four of every one of the nine is re-sewn in linen of a different twist to the rest of its own book."
+      }
+    },
+    {
+      "id": "repairbook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "REPAIR REGISTER · THIS YEAR"
+      },
+      "text": {
+        "en": "Nine volumes out to the binder and back. Nine volumes short a plate. The lists are the same list."
+      }
+    },
+    {
+      "id": "catalogue",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "DEALER’S CATALOGUE · BOOK FAIR"
+      },
+      "text": {
+        "en": "Four hand-coloured plates, “removed from a broken copy”. On lot 12 the library’s own shelf-mark still ghosts through the margin."
+      }
+    },
+    {
+      "id": "slipbook",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "REQUISITION SLIPS · THE READING ROOM"
+      },
+      "text": {
+        "en": "Each of the nine was last called for by a reader in the weeks before it went out for repair. Six different readers."
+      }
+    },
+    {
+      "id": "fine",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "OVERDUE REGISTER · R. SEN"
+      },
+      "text": {
+        "en": "₹22 outstanding since April on a reference loan."
+      },
+      "dismissNote": {
+        "en": "ruled out — a scholar who owes twenty-two rupees is every scholar who has ever used this room"
+      }
+    },
+    {
+      "id": "damp",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE NORTH WALL"
+      },
+      "text": {
+        "en": "A damp patch behind the folio shelf, freshly limewashed."
+      },
+      "dismissNote": {
+        "en": "ruled out — the damp took the almanacs on the bottom shelf, and no almanac is missing a plate"
+      }
+    },
+    {
+      "id": "keyloss",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "MINUTE BOOK · THE LOST KEY"
+      },
+      "text": {
+        "en": "A rare-room key reported lost in February and the lock changed in March."
+      },
+      "dismissNote": {
+        "en": "ruled out — the lock was changed before six of the nine ever went out"
+      }
+    },
+    {
+      "id": "peonjob",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE PEON’S SECOND JOB"
+      },
+      "text": {
+        "en": "Evenings at a press on Bidhan Sarani, on the folding table."
+      },
+      "dismissNote": {
+        "en": "ruled out — half the men in this lane fold sheets in the evenings; folding is not engraving"
+      }
+    },
+    {
+      "id": "torncover",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · A SPLIT HINGE"
+      },
+      "text": {
+        "en": "The Roxburgh volume’s front hinge, split along the joint."
+      },
+      "dismissNote": {
+        "en": "ruled out — that hinge has been split since the 1978 flood and the register says so"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidnine",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE LIBRARIAN"
+      },
+      "text": {
+        "en": "“I chose all nine off the shelf myself and sent them out on my own signature. They went to one binder, because there is one binder in this city I trust.”"
+      }
+    },
+    {
+      "id": "saidbroken",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DEALER"
+      },
+      "text": {
+        "en": "“I buy plates out of broken copies. Everyone in this trade does. He brings them in a folder, four or five at a time, and I have never once asked which copy they broke.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "kalyan",
+      "name": {
+        "en": "Kalyan Guha"
+      },
+      "role": {
+        "en": "THE BINDER"
+      },
+      "hook": {
+        "en": "the only hands that opened all nine"
+      },
+      "confession": {
+        "en": "Cut one plate from each of the nine while they were unsewn on his bench, laid in a photographic facsimile on tea-aged machine paper, and re-sewed section four in his own linen."
+      }
+    },
+    {
+      "id": "arundhati",
+      "name": {
+        "en": "Arundhati Bose"
+      },
+      "role": {
+        "en": "THE LIBRARIAN"
+      },
+      "hook": {
+        "en": "sent every one of the nine out for repair"
+      },
+      "alibi": {
+        "en": "She picked the nine off the shelf herself and signed for each, which is a complete written record of her own involvement. Nobody documents a theft nine times in their own hand."
+      },
+      "feminine": true
+    },
+    {
+      "id": "parimal",
+      "name": {
+        "en": "Parimal Nandi"
+      },
+      "role": {
+        "en": "THE DEALER"
+      },
+      "hook": {
+        "en": "four of the plates are in his catalogue"
+      },
+      "alibi": {
+        "en": "He printed the shelf-mark, the provenance and his own name in a catalogue circulated to two thousand collectors. That is not concealment; that is a man who never thought to look."
+      }
+    },
+    {
+      "id": "ruma",
+      "name": {
+        "en": "Ruma Sen"
+      },
+      "role": {
+        "en": "THE RESEARCH SCHOLAR"
+      },
+      "hook": {
+        "en": "her slips are on five of the nine"
+      },
+      "alibi": {
+        "en": "She called for five of them, and she is the reason anybody knows: she wrote to the trustees in June saying a plate looked wrong. Her slips are on the volumes because she is the only person reading them."
+      },
+      "feminine": true
+    },
+    {
+      "id": "haripada",
+      "name": {
+        "en": "Haripada Das"
+      },
+      "role": {
+        "en": "THE LIBRARY PEON"
+      },
+      "hook": {
+        "en": "carries every volume to and from the binder"
+      },
+      "alibi": {
+        "en": "He carries them tied in a cloth and hands them over sealed, and the seals came back unbroken every time. The books were opened at the far end of the journey, not on it."
+      }
+    }
+  ],
+  "culpritId": "kalyan",
+  "interrogations": [
+    {
+      "suspectId": "arundhati",
+      "setting": {
+        "en": "The reading room, ledgers open in front of her, spectacles pushed up."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How does a book leave this room?"
+          },
+          "answer": {
+            "en": "“On my signature, in a cloth, sealed, with the peon. It has not changed since the trust was founded.”"
+          },
+          "note": {
+            "en": "Sealed both ways. So the opening happened where the opening is supposed to happen."
+          }
+        },
+        {
+          "ask": {
+            "en": "Miss Sen wrote to the trustees in June."
+          },
+          "answer": {
+            "en": "“She did, and I sent for the volume the same afternoon, and I could not see what she meant. Neither could the trustees.”"
+          },
+          "note": {
+            "en": "A facsimile good enough to survive being looked for. That is a professional’s work, not a reader’s."
+          }
+        },
+        {
+          "ask": {
+            "en": "All nine went to the same man."
+          },
+          "answer": {
+            "en": "“I chose all nine off the shelf myself and sent them out on my own signature. They went to one binder, because there is one binder in this city I trust.”"
+          },
+          "needsClueId": "repairbook",
+          "lockedHint": {
+            "en": "Pin the repair register. Two lists that turn out to be one list is a thing to lay in front of her, not to describe."
+          },
+          "unlocksClueId": "saidnine",
+          "note": {
+            "en": "Nine books, one bench. The list of the damaged and the list of the robbed are the same nine names."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "parimal",
+      "setting": {
+        "en": "The shop on Free School Street, plates in mylar sleeves under the glass."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Where do loose plates come from?"
+          },
+          "answer": {
+            "en": "“Broken copies. Damp, white ants, a family selling a grandfather’s shelf. There is nothing rarer in this trade than a whole book.”"
+          },
+          "note": {
+            "en": "True, and it is exactly the sentence that makes this possible."
+          }
+        },
+        {
+          "ask": {
+            "en": "Lot 12 carries this library’s shelf-mark in the margin."
+          },
+          "answer": {
+            "en": "“I buy plates out of broken copies. He brings them in a folder, four or five at a time, and I have never once asked which copy they broke.”"
+          },
+          "needsClueId": "catalogue",
+          "lockedHint": {
+            "en": "Pin the fair catalogue. He will not discuss a margin he has not been shown in print."
+          },
+          "unlocksClueId": "saidbroken",
+          "note": {
+            "en": "He printed the shelf-mark himself, in two thousand catalogues, and never read it."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who brings you the folder?"
+          },
+          "answer": {
+            "en": "“A binder. In this city there are perhaps four who could, and only one of them works for a library.”"
+          },
+          "note": {
+            "en": "Four men who could. One of them with nine sealed cloth bundles a year."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "kalyan",
+      "setting": {
+        "en": "The bindery off Baithakkhana Road, a book in the press, linen thread on a spool."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What does a repair need?"
+          },
+          "answer": {
+            "en": "“The book, opened. You cannot mend a spine with the sections in. Everything comes apart before anything gets better.”"
+          },
+          "note": {
+            "en": "Everything comes apart. He said it with some love, which makes it worse."
+          }
+        },
+        {
+          "ask": {
+            "en": "The substitute leaves are machine paper."
+          },
+          "answer": {
+            "en": "“Then somebody has done poor work. I would have used a flyleaf out of a dead book — there is no shortage of them.”"
+          },
+          "note": {
+            "en": "He is critiquing the forgery. A man who has never seen it would ask what it looked like."
+          }
+        },
+        {
+          "ask": {
+            "en": "Section four of all nine is re-sewn in the same linen, and it is not the linen the books were bound in."
+          },
+          "answer": {
+            "en": "He looks at the spool on the bench for a while. “That is my thread. There is one spool and it is mine.”"
+          },
+          "needsClueId": "thread",
+          "lockedHint": {
+            "en": "Pin the sewing slip. He knows more about thread than anyone in Bengal; do not go in without it."
+          },
+          "note": {
+            "en": "Nine books, one section each, one spool. He did not even change the twist."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "catalogue",
+      "correction": {
+        "en": "Twenty-two rupees of overdue fine is not a reason. Four hand-coloured plates in a fair catalogue, priced, is."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidnine",
+      "correction": {
+        "en": "A lost key that was changed in March cannot open six books that left in April. Nine volumes, unsewn on one bench, by one pair of hands — that is the opening."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "chainlines",
+      "correction": {
+        "en": "A split hinge from the 1978 flood hides nothing. A facsimile on tea-aged machine paper, sewn back in and shelved, is what bought this a whole year."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "platemark",
+    "toClueId": "repairbook",
+    "text": {
+      "en": "That frontispiece was printed, not engraved. So somebody had the book open — and this library keeps a list of every volume that has been opened."
+    }
+  }
+}

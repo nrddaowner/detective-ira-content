@@ -113,6 +113,55 @@
       ]
     },
     {
+      "id": "kolkata",
+      "region": "bengal",
+      "label": {
+        "en": "Kolkata",
+        "hi": "कोलकाता"
+      },
+      "blurb": {
+        "en": "mills & ledgers",
+        "hi": "मिलें और बहीखाते"
+      },
+      "paletteA": "#E4A88C",
+      "paletteB": "#F0C6AF",
+      "paletteInk": "#6B3520",
+      "skyline": {
+        "en": "howrah bridge & mill chimneys art"
+      },
+      "faceHeadwear": [
+        "none",
+        "monkeyCap",
+        "topi",
+        "kufi",
+        "ghoonghat"
+      ]
+    },
+    {
+      "id": "sundarbans",
+      "region": "bengal",
+      "label": {
+        "en": "Sundarbans",
+        "hi": "सुंदरबन"
+      },
+      "blurb": {
+        "en": "creeks & forest permits",
+        "hi": "खाड़ियाँ और वन परमिट"
+      },
+      "paletteA": "#9CC98A",
+      "paletteB": "#C2DFB4",
+      "paletteInk": "#2F5325",
+      "skyline": {
+        "en": "sundarbans creek & watchtower art"
+      },
+      "faceHeadwear": [
+        "none",
+        "ghoonghat",
+        "headband",
+        "topi"
+      ]
+    },
+    {
       "id": "darjeeling",
       "region": "bengal",
       "label": {
@@ -151,9 +200,36 @@
       "blurb": {
         "en": "5 cases · a brooch, a bazaar, a conspiracy"
       }
+    },
+    {
+      "id": "kolkata-howrah-ledger",
+      "region": "bengal",
+      "city": "kolkata",
+      "number": 64,
+      "caseCount": 6,
+      "difficulty": "tricky",
+      "unlockStars": 12,
+      "title": {
+        "en": "The Howrah Ledger"
+      },
+      "blurb": {
+        "en": "6 cases · a jute mill, a durwan who stops signing, a register in two inks"
+      }
     }
   ],
   "random": [
+    {
+      "id": "darjeeling-down-train-two-forty",
+      "city": "darjeeling",
+      "genre": "murder",
+      "difficulty": "devious",
+      "title": {
+        "en": "Down Train, 2:40"
+      },
+      "teaser": {
+        "en": "A toy train passenger was found at a station the train did not stop at."
+      }
+    },
     {
       "id": "darjeeling-lot-nineteen",
       "city": "darjeeling",
@@ -179,6 +255,54 @@
       }
     },
     {
+      "id": "kolkata-adda-at-number-six",
+      "city": "kolkata",
+      "genre": "theft",
+      "difficulty": "quick",
+      "title": {
+        "en": "The Adda at Number 6"
+      },
+      "teaser": {
+        "en": "A poet’s only manuscript left a coffee house table with four friends sitting around it."
+      }
+    },
+    {
+      "id": "kolkata-bhog-kitchen",
+      "city": "kolkata",
+      "genre": "poisoning",
+      "difficulty": "tricky",
+      "title": {
+        "en": "Bhog Kitchen"
+      },
+      "teaser": {
+        "en": "A pandal’s community meal made one family ill and nine hundred other people perfectly well."
+      }
+    },
+    {
+      "id": "kolkata-depot-spares",
+      "city": "kolkata",
+      "genre": "fraud",
+      "difficulty": "quick",
+      "title": {
+        "en": "Depot Spares"
+      },
+      "teaser": {
+        "en": "Tram parts condemned on paper in March are running on the road in September."
+      }
+    },
+    {
+      "id": "kolkata-one-plate-missing",
+      "city": "kolkata",
+      "genre": "forgery",
+      "difficulty": "tricky",
+      "title": {
+        "en": "One Plate Missing"
+      },
+      "teaser": {
+        "en": "Rare books return to the shelf lighter by exactly one engraving, and the substitute is good enough to sit there for a year."
+      }
+    },
+    {
       "id": "mumbai-sixty-watt-alibi",
       "city": "mumbai",
       "genre": "murder",
@@ -188,6 +312,18 @@
       },
       "teaser": {
         "en": "The lights went out over Feeder 4 for twenty minutes and room 14 was emptied of a family’s gold."
+      }
+    },
+    {
+      "id": "sundarbans-permit-for-a-boat",
+      "city": "sundarbans",
+      "genre": "fraud",
+      "difficulty": "devious",
+      "title": {
+        "en": "Permit for a Boat That Sank"
+      },
+      "teaser": {
+        "en": "A forest permit is being renewed for a boat that went down two monsoons ago."
       }
     }
   ]

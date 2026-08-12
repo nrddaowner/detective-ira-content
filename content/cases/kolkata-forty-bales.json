@@ -1,0 +1,343 @@
+{
+  "id": "kolkata-forty-bales",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "fraud",
+  "difficulty": "quick",
+  "ambience": "TrainClatter",
+  "story": {
+    "id": "kolkata-howrah-ledger",
+    "caseNumber": 1
+  },
+  "title": {
+    "en": "Forty Bales, Unweighed"
+  },
+  "place": {
+    "en": "Bhairab Jute Mill · Howrah · Monday, 7:20 AM"
+  },
+  "brief": {
+    "en": "The mill pays on Monday for whatever came in over the weekend. This Monday it is paying for forty bales of raw jute that the weighbridge has no record of weighing, delivered in twenty-five minutes by a gang that says it unloaded nothing. Somebody wrote a receipt for goods that were never on the floor."
+  },
+  "photoCaption": {
+    "en": "godown 3, monday morning"
+  },
+  "iraNote": {
+    "en": "“The kanta prints its own time. Men don’t. Start with the machine and work outward.”"
+  },
+  "teaser": {
+    "en": "Forty bales of jute were paid for on Monday and never crossed the weighbridge."
+  },
+  "clues": [
+    {
+      "id": "challan",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "PURCHASE CHALLAN 1147 · GATE COPY"
+      },
+      "text": {
+        "en": "40 bales, grade B, received 9:45 PM Saturday. Signed at the gate. The weighment column is blank."
+      }
+    },
+    {
+      "id": "kanta",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "KANTA REGISTER · SATURDAY NIGHT"
+      },
+      "text": {
+        "en": "Last weighment of the night: 8:52 PM, lorry WB-11-4402, 6.4 tonnes. Nothing after it until Monday."
+      }
+    },
+    {
+      "id": "gate",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "GATE REGISTER · SATURDAY"
+      },
+      "text": {
+        "en": "A lorry in at 9:40 PM. Out at 10:05 PM. Twenty-five minutes, gate to gate."
+      }
+    },
+    {
+      "id": "carbon",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "CARBON BOOK · THE GATE OFFICE"
+      },
+      "text": {
+        "en": "1147 sits between 1146 (8:10 PM) and 1148 (8:30 PM). Its own time reads 9:45."
+      }
+    },
+    {
+      "id": "muster",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "MUSTER ROLL · SATURDAY NIGHT SHIFT"
+      },
+      "text": {
+        "en": "Eleven coolies on the unloading gang, all signed off at 9:00 PM. Nobody was paid overtime."
+      }
+    },
+    {
+      "id": "godown",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · GODOWN 3 FLOOR"
+      },
+      "text": {
+        "en": "Forty chalk squares, drawn fresh. The dust inside every one of them is undisturbed."
+      }
+    },
+    {
+      "id": "diesel",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · KANTA PLATFORM"
+      },
+      "text": {
+        "en": "Fresh diesel on the weighbridge plate, spilled some time over the weekend."
+      },
+      "dismissNote": {
+        "en": "ruled out — a leaking lorry is a Tuesday at any weighbridge in Howrah"
+      }
+    },
+    {
+      "id": "gunny",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · TORN HESSIAN, GATE 2"
+      },
+      "text": {
+        "en": "A strip of gunny caught on the gate bolt, about shoulder height."
+      },
+      "dismissNote": {
+        "en": "ruled out — every load through that gate leaves some of itself on that bolt"
+      }
+    },
+    {
+      "id": "cashmemo",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "CASH MEMO · TEA STALL, MILL ROAD"
+      },
+      "text": {
+        "en": "₹46, tea and toast for four, 10:10 PM Saturday, from the stall facing Gate 2."
+      },
+      "dismissNote": {
+        "en": "ruled out — that stall runs till two and half the night shift eats at it"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "rangdown",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE GATE CLERK"
+      },
+      "text": {
+        "en": "“The purchase office rang down at eight. ‘Write 1147 now, the lorry is at Nimtala, it will be in by ten.’ So I wrote it.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "sanjib",
+      "name": {
+        "en": "Sanjib Pal"
+      },
+      "role": {
+        "en": "THE GATE CLERK"
+      },
+      "hook": {
+        "en": "every challan at Gate 2 is in his hand"
+      },
+      "confession": {
+        "en": "Wrote challan 1147 an hour and a half before the lorry, on a telephone order, and signed for forty bales he never saw."
+      }
+    },
+    {
+      "id": "malati",
+      "name": {
+        "en": "Malati Sen"
+      },
+      "role": {
+        "en": "THE KANTA BABU"
+      },
+      "hook": {
+        "en": "the weighbridge that has no entry for the load"
+      },
+      "alibi": {
+        "en": "The kanta prints its own time on every slip. Her last one says 8:52, and she cannot type a slip the machine did not print."
+      },
+      "feminine": true
+    },
+    {
+      "id": "bipin",
+      "name": {
+        "en": "Bipin Rai"
+      },
+      "role": {
+        "en": "THE NIGHT DURWAN"
+      },
+      "hook": {
+        "en": "he logged the lorry in and out"
+      },
+      "alibi": {
+        "en": "He wrote down a lorry that was there, at times that match the gate lamp’s own switch record. A durwan logs what passes him; he does not price it."
+      }
+    },
+    {
+      "id": "haren",
+      "name": {
+        "en": "Haren Sardar"
+      },
+      "role": {
+        "en": "THE LABOUR SARDAR"
+      },
+      "hook": {
+        "en": "his gang unloads every lorry that comes in"
+      },
+      "alibi": {
+        "en": "His eleven men signed off at nine and none of them drew overtime. A sardar who unloaded forty bales for free would be the first man complaining."
+      }
+    }
+  ],
+  "culpritId": "sanjib",
+  "interrogations": [
+    {
+      "suspectId": "malati",
+      "setting": {
+        "en": "The weighbridge cabin, the printer ticking over behind her."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Did anything cross your kanta after nine on Saturday?"
+          },
+          "answer": {
+            "en": "“Nothing. My last slip says 8:52 and the machine prints that, not me.”"
+          },
+          "note": {
+            "en": "The weighbridge writes its own time. It is the one line in this mill nobody can lean on."
+          }
+        },
+        {
+          "ask": {
+            "en": "Can a lorry come in and leave without being weighed?"
+          },
+          "answer": {
+            "en": "“Leave, yes. Be received, no. No weighment number, no payment — that is the rule since before I came.”"
+          },
+          "note": {
+            "en": "Then 1147 should never have been payable at all. Somebody made it so anyway."
+          }
+        },
+        {
+          "ask": {
+            "en": "1147 has nothing in the weighment column."
+          },
+          "answer": {
+            "en": "“Then it is not my paper. Bring me the number and I will tell you the lorry, the tare and the driver’s name.”"
+          },
+          "needsClueId": "challan",
+          "lockedHint": {
+            "en": "Pin the challan first. She will not argue about a column you cannot put in front of her."
+          },
+          "note": {
+            "en": "She wants a number that does not exist. The blank is the whole case."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "sanjib",
+      "setting": {
+        "en": "The gate office, the carbon book still open on the desk."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Twenty-five minutes for forty bales?"
+          },
+          "answer": {
+            "en": "“I write the paper. I do not carry the jute.”"
+          },
+          "note": {
+            "en": "Eleven men take two hours over forty bales. The gate says twenty-five minutes."
+          }
+        },
+        {
+          "ask": {
+            "en": "1147 sits in the book between two challans written an hour and a half earlier."
+          },
+          "answer": {
+            "en": "“The purchase office rang down. ‘Write it now, the lorry is at Nimtala.’ So I wrote it. That is what I am for.”"
+          },
+          "needsClueId": "carbon",
+          "lockedHint": {
+            "en": "Pin the carbon book. He will not answer for a page you have not read."
+          },
+          "unlocksClueId": "rangdown",
+          "note": {
+            "en": "So he did not invent forty bales. He was told when to have them already received."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who rang down?"
+          },
+          "answer": {
+            "en": "“The purchase office has one line and it does not give a name with it.”"
+          },
+          "note": {
+            "en": "One line, no name. Somebody upstairs knows exactly how far a telephone call travels."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "challan",
+      "correction": {
+        "en": "A spilled drum is not a reason. Forty bales were paid for and never arrived — the money is the motive."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "carbon",
+      "correction": {
+        "en": "Anyone can stand at a gate. Only the man holding the carbon book can slide a receipt into the middle of it an hour and a half early."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "godown",
+      "correction": {
+        "en": "Nobody gets away on a torn gunny. Forty bales were made to exist on the floor of Godown 3, in chalk, and nobody looked at the dust."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "challan",
+    "toClueId": "kanta",
+    "text": {
+      "en": "A receipt for forty bales and a weighbridge that weighed nothing after nine. One of the two is lying, and only one of them is written by a machine."
+    }
+  },
+  "bankedClue": {
+    "en": "Challan 1147 — forty bales the kanta never weighed, written on a telephone order from the purchase office"
+  }
+}

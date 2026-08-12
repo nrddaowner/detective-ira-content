@@ -1,0 +1,447 @@
+{
+  "id": "kolkata-sixteen-names",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "fraud",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "kolkata-howrah-ledger",
+    "caseNumber": 3
+  },
+  "title": {
+    "en": "Sixteen Names"
+  },
+  "place": {
+    "en": "Bhairab Jute Mill · batching department · wage Friday, 4:10 PM"
+  },
+  "brief": {
+    "en": "The batching muster carries a hundred and forty-one names and the floor can put a face to a hundred and twenty-five. The other sixteen have drawn full wages every fortnight for a year. They have no insurance cards, no nominees, and no hooks worn under their tokens — and every fortnight somebody signs for all sixteen with one thumb."
+  },
+  "photoCaption": {
+    "en": "the token board at shift change"
+  },
+  "iraNote": {
+    "en": "“Sixteen men is a lot of men to never meet. Count the hooks, not the names.”"
+  },
+  "teaser": {
+    "en": "Sixteen men have drawn a mill’s wages for a year and nobody on the floor has met one of them."
+  },
+  "clues": [
+    {
+      "id": "roll",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "MUSTER ROLL · BATCHING, THIS FORTNIGHT"
+      },
+      "text": {
+        "en": "141 names. Sixteen of them run unbroken from token 300 to token 315, entered in one hand on one line of the page."
+      }
+    },
+    {
+      "id": "thumbs",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · WAGE SHEET IMPRESSIONS"
+      },
+      "text": {
+        "en": "Sixteen thumb impressions against sixteen names. One thumb, sixteen angles — the same whorl every time."
+      }
+    },
+    {
+      "id": "tokens",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · THE TOKEN BOARD"
+      },
+      "text": {
+        "en": "141 hooks. Sixteen of them have never carried brass — the paint under those is unworn."
+      }
+    },
+    {
+      "id": "esi",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ESI CARDS · BATCHING DEPARTMENT"
+      },
+      "text": {
+        "en": "125 cards issued and numbered. The sixteen have no card, no number and no nominee against any of them."
+      }
+    },
+    {
+      "id": "bundle",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "TIN TRUNK · THE SARDAR’S ROOM"
+      },
+      "text": {
+        "en": "Sixteen pay envelopes under a rubber band, sealed, dated last fortnight. Fourteen of them still sealed this morning."
+      }
+    },
+    {
+      "id": "gatepass",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "GATE PASS BOOK · WAGE FRIDAYS"
+      },
+      "text": {
+        "en": "Haren Sardar signs out at 5:40 and back in at 6:20. Twice, every wage Friday, for a year."
+      }
+    },
+    {
+      "id": "overtime",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "OVERTIME CLAIM · SOFTENING ROOM"
+      },
+      "text": {
+        "en": "Eleven men claimed two hours each on the 9th."
+      },
+      "dismissNote": {
+        "en": "ruled out — the machines ran late that night and the engine log says so"
+      }
+    },
+    {
+      "id": "slippers",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE BATCHING DOOR"
+      },
+      "text": {
+        "en": "A pair of rubber slippers left inside the door, no pair to them."
+      },
+      "dismissNote": {
+        "en": "ruled out — batching is worked barefoot and there is a heap of them at every door"
+      }
+    },
+    {
+      "id": "loan",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "ADVANCE REGISTER · K. DAS"
+      },
+      "text": {
+        "en": "₹800 advanced against wages in April."
+      },
+      "dismissNote": {
+        "en": "ruled out — an advance is asked for, written down and repaid; hers is half back already"
+      }
+    },
+    {
+      "id": "absent",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ATTENDANCE PAGE · NINE CORRECTIONS"
+      },
+      "text": {
+        "en": "Nine A marks rubbed out and written P, in the mistri’s hand."
+      },
+      "dismissNote": {
+        "en": "ruled out — a mistri who marks a latecomer present is doing a kindness, not a fraud"
+      }
+    },
+    {
+      "id": "photo",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · PUJA GROUP PHOTOGRAPH"
+      },
+      "text": {
+        "en": "The batching department, last Puja. A hundred and nine faces in the frame."
+      },
+      "dismissNote": {
+        "en": "ruled out — nobody counts a mill in a photograph; half the shift was on the machines"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidtokens",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE TIME KEEPER"
+      },
+      "text": {
+        "en": "“Numbers above 299 were opened on a written instruction from the office. I keep every instruction. That one is typed and it is not signed.”"
+      }
+    },
+    {
+      "id": "saidcut",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE LABOUR SARDAR"
+      },
+      "text": {
+        "en": "“One share in eight stays with me. The other fifteen go back up the stairs in the same envelopes, and I do not put a name to the hand that takes them.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "haren",
+      "name": {
+        "en": "Haren Sardar"
+      },
+      "role": {
+        "en": "THE LABOUR SARDAR"
+      },
+      "hook": {
+        "en": "recruits the gang and draws its pay"
+      },
+      "confession": {
+        "en": "Signed for sixteen men who do not exist, kept one share in eight, and carried the rest back up the stairs every wage Friday at twenty to six."
+      }
+    },
+    {
+      "id": "kironbala",
+      "name": {
+        "en": "Kironbala Das"
+      },
+      "role": {
+        "en": "THE TIME KEEPER"
+      },
+      "hook": {
+        "en": "issues every brass token on the board"
+      },
+      "alibi": {
+        "en": "She opened the numbers on a written office instruction and filed it, which is the opposite of what somebody hiding sixteen men would do."
+      },
+      "feminine": true
+    },
+    {
+      "id": "nitai",
+      "name": {
+        "en": "Nitai Kundu"
+      },
+      "role": {
+        "en": "THE WAGE CLERK"
+      },
+      "hook": {
+        "en": "counts out every envelope in the pay office"
+      },
+      "alibi": {
+        "en": "He pays against the muster the department sends him. A wage clerk who invented sixteen men would have had to invent their insurance cards too, and the cards are simply not there."
+      }
+    },
+    {
+      "id": "abdul",
+      "name": {
+        "en": "Abdul Sattar"
+      },
+      "role": {
+        "en": "THE BATCHING MISTRI"
+      },
+      "hook": {
+        "en": "runs the floor the sixteen are posted to"
+      },
+      "alibi": {
+        "en": "He has been asking the office for sixteen bodies for a year, in writing, because his floor is short-handed. Nobody complains about the men they are stealing."
+      }
+    },
+    {
+      "id": "prodyot",
+      "name": {
+        "en": "Prodyot Banerjee"
+      },
+      "role": {
+        "en": "THE MILL MANAGER"
+      },
+      "hook": {
+        "en": "the muster is passed under his signature"
+      },
+      "alibi": {
+        "en": "He signs the roll as a total, not as names — and the total has been right to the rupee every fortnight, which is exactly why he never looked at it."
+      }
+    }
+  ],
+  "culpritId": "haren",
+  "interrogations": [
+    {
+      "suspectId": "kironbala",
+      "setting": {
+        "en": "The time office, the token board behind her with its hundred and forty-one hooks."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How does a man get a token?"
+          },
+          "answer": {
+            "en": "“He stands in front of me and I give it to him. That is the whole procedure and it has not changed since my father’s time.”"
+          },
+          "note": {
+            "en": "In front of her. So sixteen men stood here, or the rule bent for sixteen men."
+          }
+        },
+        {
+          "ask": {
+            "en": "Numbers 300 to 315 — who asked for those?"
+          },
+          "answer": {
+            "en": "“The office. I do not open a new number without a paper.”"
+          },
+          "note": {
+            "en": "A paper. Every road in this mill ends at a piece of paper somebody upstairs typed."
+          }
+        },
+        {
+          "ask": {
+            "en": "Sixteen hooks on your board have never held brass."
+          },
+          "answer": {
+            "en": "“Then those men never took their tokens. The numbers were opened on a written instruction — typed, and not signed. I have kept it.”"
+          },
+          "needsClueId": "tokens",
+          "lockedHint": {
+            "en": "Pin the token board first. She will not accept a count she has not been shown."
+          },
+          "unlocksClueId": "saidtokens",
+          "note": {
+            "en": "Typed and unsigned. The second time this mill has produced that exact object."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "nitai",
+      "setting": {
+        "en": "The pay office, behind a grille, envelopes stacked in fifties."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who collects for the batching department?"
+          },
+          "answer": {
+            "en": "“The sardar, for his gang. That is how it is done everywhere on this bank of the river.”"
+          },
+          "note": {
+            "en": "Which is true, and is exactly the door this walked through."
+          }
+        },
+        {
+          "ask": {
+            "en": "Sixteen men with no insurance card at all."
+          },
+          "answer": {
+            "en": "“Cards are the office’s side, not mine. I pay whoever the muster says, and the muster comes to me signed.”"
+          },
+          "needsClueId": "esi",
+          "lockedHint": {
+            "en": "Pin the insurance cards. He will not discuss men you have not proved are missing."
+          },
+          "note": {
+            "en": "No card means no nominee, no accident cover, no record anywhere but the wage sheet. They were never meant to survive an audit."
+          }
+        },
+        {
+          "ask": {
+            "en": "Does anybody sign for a whole gang with one thumb?"
+          },
+          "answer": {
+            "en": "“A sardar puts his own thumb for men who cannot come. For one man, two. Not for sixteen.”"
+          },
+          "note": {
+            "en": "Not for sixteen. He said it like a man who has been waiting to be asked."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "haren",
+      "setting": {
+        "en": "The sardar’s room, a tin trunk under the cot, the lid up."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Name one of the sixteen."
+          },
+          "answer": {
+            "en": "“Ramkishun. Ramkishun Yadav.” Then nothing, for a long time."
+          },
+          "note": {
+            "en": "One name in a year of Fridays, and he had to reach for it."
+          }
+        },
+        {
+          "ask": {
+            "en": "You go out at twenty to six every wage Friday and come back at twenty past."
+          },
+          "answer": {
+            "en": "“A man may take forty minutes for his tea.”"
+          },
+          "needsClueId": "gatepass",
+          "lockedHint": {
+            "en": "Pin the gate pass book. A year of identical Fridays is not a thing to describe — it is a thing to show him."
+          },
+          "note": {
+            "en": "Forty minutes, on the one evening a fortnight he is carrying sixteen envelopes."
+          }
+        },
+        {
+          "ask": {
+            "en": "Fourteen of last fortnight’s envelopes are still sealed in your trunk."
+          },
+          "answer": {
+            "en": "“One share in eight stays with me. The rest goes back up the stairs, in the same envelopes, and I do not put a name to the hand that takes them.”"
+          },
+          "needsClueId": "bundle",
+          "lockedHint": {
+            "en": "Pin the bundle from the trunk. Sealed envelopes are the one thing in this room he cannot explain away."
+          },
+          "unlocksClueId": "saidcut",
+          "note": {
+            "en": "One in eight. He is not the man who built this — he is the man it pays to carry it."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "thumbs",
+      "correction": {
+        "en": "A rubbed-out attendance mark is a kindness. Sixteen names signed with one thumb is a fortnightly wage bill going somewhere — that is the reason."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "roll",
+      "correction": {
+        "en": "A group photograph proves nothing about a mill. Sixteen consecutive tokens written onto one line of the muster is a man adding a gang in a single sitting."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidcut",
+      "correction": {
+        "en": "An advance against wages is repaid. Fifteen sealed envelopes going back up the stairs every fortnight is where the money actually went."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "roll",
+    "toClueId": "tokens",
+    "text": {
+      "en": "The muster says a hundred and forty-one men. The board says which of them ever came to collect brass. Count the worn paint."
+    }
+  },
+  "bankedClue": {
+    "en": "Sixteen tokens the board never held — and a share in eight, with the rest going back up the stairs"
+  }
+}

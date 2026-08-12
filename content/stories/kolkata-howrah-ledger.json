@@ -1,0 +1,201 @@
+{
+  "id": "kolkata-howrah-ledger",
+  "schema": 1,
+  "region": "bengal",
+  "city": "kolkata",
+  "number": 64,
+  "unlockStars": 12,
+  "title": {
+    "en": "The Howrah Ledger"
+  },
+  "blurb": {
+    "en": "6 cases · a jute mill, a durwan who stops signing, a register in two inks"
+  },
+  "cases": [
+    "kolkata-forty-bales",
+    "kolkata-night-gate",
+    "kolkata-sixteen-names",
+    "kolkata-grade-a-on-paper",
+    "kolkata-record-room-fire",
+    "kolkata-second-godown"
+  ],
+  "finale": {
+    "mastermindId": "nirmal",
+    "reveal": {
+      "en": "Nirmal Ghosh?"
+    },
+    "threads": [
+      {
+        "caseNumber": 1,
+        "pointsAt": "malati",
+        "text": {
+          "en": "Challan 1147 — forty bales the weighbridge never weighed"
+        },
+        "short": {
+          "en": "challan 1147"
+        },
+        "pending": {
+          "en": "Forty Bales, Unweighed will turn up the first thread"
+        },
+        "misread": {
+          "en": "The kanta babu books what crosses her plate. A challan with a blank weighment column never crossed it — that paper was written by somebody who buys, not somebody who weighs."
+        }
+      },
+      {
+        "caseNumber": 2,
+        "pointsAt": "bipin",
+        "text": {
+          "en": "The night register in two inks, and a chit typed on the office machine"
+        },
+        "short": {
+          "en": "the two-ink register"
+        },
+        "pending": {
+          "en": "The Night Gate will say who stopped signing, and who kept signing for him"
+        },
+        "misread": {
+          "en": "Bipin Rai did not walk out of this mill. He was written out of it — and the chit that moved him was typed on a machine he has never been allowed to touch."
+        }
+      },
+      {
+        "caseNumber": 3,
+        "pointsAt": "haren",
+        "text": {
+          "en": "Sixteen tokens the board never held, and a share in eight kept back"
+        },
+        "short": {
+          "en": "sixteen ghost tokens"
+        },
+        "pending": {
+          "en": "Sixteen Names holds the third thread"
+        },
+        "misread": {
+          "en": "Haren Sardar kept one share in eight. The man who built this would not be the one walking the other seven up a staircase in an envelope every fortnight."
+        }
+      },
+      {
+        "caseNumber": 4,
+        "pointsAt": "nirmal",
+        "text": {
+          "en": "Three rates struck through and rewritten one line up, initialled “for P.O.”"
+        },
+        "short": {
+          "en": "the re-rated challans"
+        },
+        "pending": {
+          "en": "Grade A on Paper will show who corrected the rate after the grading"
+        },
+        "misread": {
+          "en": "The correction was made after the grading and above the grader. Only one office in this mill rewrites a rate."
+        }
+      },
+      {
+        "caseNumber": 5,
+        "pointsAt": "prodyot",
+        "text": {
+          "en": "The record room key, drawn on the manager’s name and returned in another hand"
+        },
+        "short": {
+          "en": "the record room key"
+        },
+        "pending": {
+          "en": "The Fire in the Record Room holds the fifth thread"
+        },
+        "misread": {
+          "en": "He signed for that key because it is drawn on his name and no other name. The thread is not the man who signed — it is the man who came to his door and asked."
+        }
+      },
+      {
+        "caseNumber": 6,
+        "pointsAt": "nirmal",
+        "text": {
+          "en": "A letter of authority, one paragraph, typed and initialled — never signed"
+        },
+        "short": {
+          "en": "the letter of authority"
+        },
+        "pending": {
+          "en": "The Second Godown holds the last thread"
+        },
+        "misread": {
+          "en": "Everybody in this mill signs. One man only ever initials — and that initial is on the letter, on the corrections, and on nothing that could be read aloud as his name."
+        }
+      }
+    ],
+    "suspects": [
+      {
+        "id": "nirmal",
+        "name": {
+          "en": "Nirmal Ghosh"
+        },
+        "role": {
+          "en": "THE PURCHASE OFFICER"
+        },
+        "dossier": {
+          "en": "initials, never signs · sets every rate on every challan · shares the office typewriter and the office stamp"
+        }
+      },
+      {
+        "id": "malati",
+        "name": {
+          "en": "Malati Sen"
+        },
+        "role": {
+          "en": "THE KANTA BABU"
+        },
+        "dossier": {
+          "en": "the weighbridge prints its own time · twenty-one years and not one correction in her register"
+        },
+        "cleared": {
+          "en": "Her machine writes her honesty for her. Nothing in this arc was weighed wrong — it was priced wrong, and Malati Sen does not price."
+        },
+        "feminine": true
+      },
+      {
+        "id": "bipin",
+        "name": {
+          "en": "Bipin Rai"
+        },
+        "role": {
+          "en": "THE NIGHT DURWAN"
+        },
+        "dossier": {
+          "en": "moved by a typed chit · seven weeks at Shalimar unpaid · kept his count on the wall in chalk"
+        },
+        "cleared": {
+          "en": "Bipin Rai spent seven weeks guarding the very thing you are charging him with, unpaid, and chalked the number where anybody could read it. He is the ledger, not the hand."
+        }
+      },
+      {
+        "id": "haren",
+        "name": {
+          "en": "Haren Sardar"
+        },
+        "role": {
+          "en": "THE LABOUR SARDAR"
+        },
+        "dossier": {
+          "en": "signed for sixteen men who do not exist · kept one share in eight · carried the rest upstairs"
+        },
+        "cleared": {
+          "en": "He took an eighth and delivered seven. Nobody designs a fraud and then walks the profit up a staircase every fortnight in somebody else’s envelope."
+        }
+      },
+      {
+        "id": "prodyot",
+        "name": {
+          "en": "Prodyot Banerjee"
+        },
+        "role": {
+          "en": "THE MILL MANAGER"
+        },
+        "dossier": {
+          "en": "signs everything · countersigns the muster as a total · cheques under ₹5,000 never reach his desk"
+        },
+        "cleared": {
+          "en": "His name is on the key register, the muster and the transfer file — which is exactly why none of it is his. Every rupee in this arc moved underneath the line where his signature begins."
+        }
+      }
+    ]
+  }
+}

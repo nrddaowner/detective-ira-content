@@ -1,0 +1,443 @@
+{
+  "id": "kolkata-record-room-fire",
+  "schema": 1,
+  "city": "kolkata",
+  "genre": "arson",
+  "difficulty": "tricky",
+  "ambience": "MonsoonRain",
+  "story": {
+    "id": "kolkata-howrah-ledger",
+    "caseNumber": 5
+  },
+  "title": {
+    "en": "The Fire in the Record Room"
+  },
+  "place": {
+    "en": "Bhairab Jute Mill · the record room · Wednesday, 5:50 AM"
+  },
+  "brief": {
+    "en": "The night gang put it out with sand in eleven minutes and nobody was hurt. What the mill lost is four years of purchase files, two days before the auditors arrive from Kolkata — and the wage records on the same rack, a hand’s width away, are singed and perfectly readable. The report already on the manager’s desk calls it a wiring fault."
+  },
+  "photoCaption": {
+    "en": "the record room floor, before dawn"
+  },
+  "iraNote": {
+    "en": "“A fire that takes one rack and reads the label on the next one isn’t a fire. It’s a decision.”"
+  },
+  "teaser": {
+    "en": "Four years of purchase files burned two nights before the audit, on a circuit that has been dead since April."
+  },
+  "clues": [
+    {
+      "id": "burn",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · BURN PATTERN"
+      },
+      "text": {
+        "en": "The char is deepest in a rough circle in the middle of the floor. The junction box in the corner is scorched on the outside only."
+      }
+    },
+    {
+      "id": "isolated",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ELECTRICAL LOG · THE APRIL REWIRING"
+      },
+      "text": {
+        "en": "“Record room spur isolated at the main, not re-energised.” Dated 12 April. Signed A. Ghatak."
+      }
+    },
+    {
+      "id": "keybook",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "KEY REGISTER · TUESDAY NIGHT"
+      },
+      "text": {
+        "en": "Record room key drawn 8:15 PM against the manager’s name, returned 9:50 PM. The hand on the return is not the hand on the issue."
+      }
+    },
+    {
+      "id": "sand",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · SAND FROM THE FIRE BUCKETS"
+      },
+      "text": {
+        "en": "Kerosene in the sand that was thrown, not only in the ash under it. A tin was open on that floor before the flame was."
+      }
+    },
+    {
+      "id": "files",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHAT BURNED, AND WHAT DID NOT"
+      },
+      "text": {
+        "en": "Purchase files ’94 to ’97, complete, to ash. The wage records on the same rack, one hand’s width along, are singed and readable."
+      }
+    },
+    {
+      "id": "notice",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "AUDIT NOTICE · CIRCULATED THE 11th"
+      },
+      "text": {
+        "en": "Statutory audit of purchases, team arriving Friday. Copies to four officers, initialled by all four."
+      }
+    },
+    {
+      "id": "beedi",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE CORRIDOR OUTSIDE"
+      },
+      "text": {
+        "en": "Beedi ends against the wall, a good dozen of them."
+      },
+      "dismissNote": {
+        "en": "ruled out — that corridor is where the night shift smokes and has been for forty years"
+      }
+    },
+    {
+      "id": "fuse",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · CORRIDOR BOARD"
+      },
+      "text": {
+        "en": "A blown 15-amp fuse in the corridor distribution board."
+      },
+      "dismissNote": {
+        "en": "ruled out — it blew on Sunday, and the log names the man who replaced it and when"
+      }
+    },
+    {
+      "id": "lightning",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "MET OFFICE · TUESDAY NIGHT"
+      },
+      "text": {
+        "en": "Lightning over Howrah from 2:10 AM, rain until first light."
+      },
+      "dismissNote": {
+        "en": "ruled out — the sand was already going on at half past nine; the sky had nothing to do with it"
+      }
+    },
+    {
+      "id": "transfer",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "TRANSFER APPLICATION · B. MITRA"
+      },
+      "text": {
+        "en": "Asked twice to be moved out of the record room. Refused twice, in the manager’s hand."
+      },
+      "dismissNote": {
+        "en": "ruled out — a woman who wants out of a room does not burn it and then stay standing in it with a bucket"
+      }
+    },
+    {
+      "id": "policy",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "FIRE POLICY · RENEWED THE 2nd"
+      },
+      "text": {
+        "en": "The mill’s cover, renewed on the second of the month."
+      },
+      "dismissNote": {
+        "en": "ruled out — renewed on the second for eleven years running, at the same sum insured"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidkey",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE MILL MANAGER"
+      },
+      "text": {
+        "en": "“That key is drawn on my name and no other name. I signed for it, I handed it to the man who came asking, and I did not go down.”"
+      }
+    },
+    {
+      "id": "saidasked",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE FITTER"
+      },
+      "text": {
+        "en": "“I was asked to see to the record room light. There is no light in the record room. I went anyway, and I took my tin.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "amiya",
+      "name": {
+        "en": "Amiya Ghatak"
+      },
+      "role": {
+        "en": "THE FITTER"
+      },
+      "hook": {
+        "en": "the only man who can say what a wire did"
+      },
+      "confession": {
+        "en": "Carried a kerosene tin into a room with no light, on a key he had not signed for, and let the mill write it up as a fault on a circuit he had made dead himself in April."
+      }
+    },
+    {
+      "id": "prodyot",
+      "name": {
+        "en": "Prodyot Banerjee"
+      },
+      "role": {
+        "en": "THE MILL MANAGER"
+      },
+      "hook": {
+        "en": "the key was drawn on his name at 8:15"
+      },
+      "alibi": {
+        "en": "He signed the key out because it is drawn on his name and no other, and he was at the Bengal Chamber until half past ten with forty people. The hand that returned it is not his."
+      }
+    },
+    {
+      "id": "ratan",
+      "name": {
+        "en": "Ratan Jana"
+      },
+      "role": {
+        "en": "THE HEAD DURWAN"
+      },
+      "hook": {
+        "en": "raised the alarm and ran the sand chain"
+      },
+      "alibi": {
+        "en": "He saw the smoke, blew the whistle and had eleven men on buckets in four minutes. A man who sets a fire does not put it out in eleven."
+      }
+    },
+    {
+      "id": "binapani",
+      "name": {
+        "en": "Binapani Mitra"
+      },
+      "role": {
+        "en": "THE RECORD KEEPER"
+      },
+      "hook": {
+        "en": "her room, her racks, her index"
+      },
+      "alibi": {
+        "en": "She was on the sand chain in her nightclothes and went back in twice for the wage rack. Whoever wanted those files gone did not consult the woman who arranges them."
+      },
+      "feminine": true
+    },
+    {
+      "id": "nirmal",
+      "name": {
+        "en": "Nirmal Ghosh"
+      },
+      "role": {
+        "en": "THE PURCHASE OFFICER"
+      },
+      "hook": {
+        "en": "the burnt files are his department’s"
+      },
+      "alibi": {
+        "en": "He was in Bhagalpur from Monday to Thursday, and the hotel, the train chart and the seller he met all say so."
+      }
+    }
+  ],
+  "culpritId": "amiya",
+  "interrogations": [
+    {
+      "suspectId": "ratan",
+      "setting": {
+        "en": "The gate, at dawn, still black to the elbows."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "When did you know?"
+          },
+          "answer": {
+            "en": "“Half past nine. Smoke under the door, not out of the window. It was a floor fire, not a roof fire.”"
+          },
+          "note": {
+            "en": "A watchman who can tell you which way the smoke went is worth three witnesses."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who was in the building?"
+          },
+          "answer": {
+            "en": "“The record keeper had gone at seven. The fitter came in at eight and went out at ten to ten.”"
+          },
+          "note": {
+            "en": "Eight until ten to ten. The key came back at ten to ten as well."
+          }
+        },
+        {
+          "ask": {
+            "en": "There was kerosene in the sand you threw."
+          },
+          "answer": {
+            "en": "“Then it was not in my buckets when I filled them on Monday. I fill them myself and I fill them from the sand heap.”"
+          },
+          "needsClueId": "sand",
+          "lockedHint": {
+            "en": "Pin the sand slip. He will not be told about his own buckets; show him the laboratory’s line."
+          },
+          "note": {
+            "en": "So the kerosene was on the floor and went into the sand as it was thrown. It came in with somebody."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "prodyot",
+      "setting": {
+        "en": "The manager’s office, the wiring-fault report already typed on the blotter."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "This report was written before anybody looked at the floor."
+          },
+          "answer": {
+            "en": "“It was written by the man who knows the wiring. Who else would I ask?”"
+          },
+          "note": {
+            "en": "Who else indeed. The fitter is the only witness this mill has to what a wire does."
+          }
+        },
+        {
+          "ask": {
+            "en": "The key was drawn on your name at a quarter past eight."
+          },
+          "answer": {
+            "en": "“That key is drawn on my name and no other name. I signed for it, I handed it to the man who came asking, and I did not go down.”"
+          },
+          "needsClueId": "keybook",
+          "lockedHint": {
+            "en": "Pin the key register. He answers a page; he will not answer a rumour about one."
+          },
+          "unlocksClueId": "saidkey",
+          "note": {
+            "en": "So the key went out on his name and came back in somebody else’s hand. Both halves are on the same line."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who knew the auditors were coming Friday?"
+          },
+          "answer": {
+            "en": "“Four of us. It is initialled by all four; that is the whole point of initialling it.”"
+          },
+          "note": {
+            "en": "Four men had two days’ notice. One of them does not do his own errands."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "amiya",
+      "setting": {
+        "en": "The fitting shop, a kerosene tin on the bench with the cap off."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You wrote the wiring report."
+          },
+          "answer": {
+            "en": "“I write all of them. Twenty years, and nobody has ever queried one.”"
+          },
+          "note": {
+            "en": "Nobody has ever queried one. That is not a defence — that is the opportunity, stated out loud."
+          }
+        },
+        {
+          "ask": {
+            "en": "The burn starts in the middle of the floor, not at the box."
+          },
+          "answer": {
+            "en": "“Fire runs where it finds something to eat. Paper on a floor will do that.”"
+          },
+          "note": {
+            "en": "Paper on a floor. Those files were on a rack until somebody put them on the floor."
+          }
+        },
+        {
+          "ask": {
+            "en": "You isolated that spur yourself in April. There is no current in that room."
+          },
+          "answer": {
+            "en": "“I was asked to see to the record room light. There is no light in the record room. I went anyway, and I took my tin.”"
+          },
+          "needsClueId": "isolated",
+          "lockedHint": {
+            "en": "Pin the April electrical log. His own signature is the only thing in this mill he cannot argue with."
+          },
+          "unlocksClueId": "saidasked",
+          "note": {
+            "en": "Asked, he says. Not told, not ordered — asked. And he still will not say by whom."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "notice",
+      "correction": {
+        "en": "An insurance policy renewed every year for eleven years is not a reason. Auditors arriving Friday to read the purchase files is."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidasked",
+      "correction": {
+        "en": "A refused transfer application is a grievance, not an opening. One man walked into a room with no light, with a tin, on somebody else’s key."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "isolated",
+      "correction": {
+        "en": "Lightning at ten past two cannot cover a fire that was out by ten. A dead circuit certified faulty by the man who killed it in April — that is what he was escaping on."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "burn",
+    "toClueId": "isolated",
+    "text": {
+      "en": "The char says the fire began on the floor, not at the box. So ask whether that box has carried current at all this year — and who would know."
+    }
+  },
+  "bankedClue": {
+    "en": "The record room key, drawn at 8:15 on the manager’s name and returned at 9:50 in another hand"
+  }
+}
