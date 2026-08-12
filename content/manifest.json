@@ -1,32 +1,32 @@
 {
   "files": {
     "cases/darjeeling-lot-nineteen.json": {
-      "bytes": 9166,
-      "sha256": "d49ac821d919de43c25243a06ad7d20c5a32409cc1b5a2b113704a9c4be03c2d"
+      "bytes": 9146,
+      "sha256": "3728a9f7f1d3e591a16d1aa34447257144f84aa853ce1c677604e300bc6b0957"
     },
     "cases/jaipur-johari-bazaar-job.json": {
-      "bytes": 12413,
-      "sha256": "585ef110bf910c2238e00341ef4ab8cf80a99d90e6d14a1a5d02ebf09c449f5c"
+      "bytes": 12393,
+      "sha256": "f7d1cb44dd5c4acfca8d8336e98d16c06c28e82b9a65a960ad1244ca43662de8"
     },
     "cases/jaipur-missing-tiffin.json": {
-      "bytes": 12193,
-      "sha256": "6e874f4a7940f87fdf0a845e356fc063253da5302e15c910cb2d32201348caa7"
+      "bytes": 12173,
+      "sha256": "eed5f255175c78f2d005dcbdc01adaea4417c4fefcd48bd3f7d01dbbd0dc1118"
     },
     "cases/jaipur-peacock-brooch.json": {
-      "bytes": 12567,
-      "sha256": "7b4c1078896c41697d3bab2addcc7fcc1f76989ae14018641248f6a4e2f29308"
+      "bytes": 12547,
+      "sha256": "456d7a163449375c7a4252addea5052f476300efc032685eab5d4992e7f7506e"
     },
     "cases/jaipur-rickshaw-riddle.json": {
-      "bytes": 12034,
-      "sha256": "2438f3cffc3eb9940004f6237f43d6dff7cdc74c6de7424843008bfa57b6295e"
+      "bytes": 12014,
+      "sha256": "a5e195a40cb2e8342fb0a931fc9989ffc2e4dfcbea576f0d982f188270098766"
     },
     "cases/kochi-pepper-ledger.json": {
-      "bytes": 9130,
-      "sha256": "73fb60d6d9c1c74af1aa3a26fda3849587f1381961b6393d7ee5e81a0a9438ab"
+      "bytes": 9110,
+      "sha256": "8ba7882e80d5705b3c95880251286b277dcf76aa6bd08906a9006e345ee8e4ca"
     },
     "cases/mumbai-sixty-watt-alibi.json": {
-      "bytes": 9122,
-      "sha256": "0b254b6870368f94140b32eb24528178024c7a840878351a93addd7a2a4b0673"
+      "bytes": 9102,
+      "sha256": "300e929cecc57d9b900b7d67e5a20d4345bf36d9f089265ea5c19238ea71b0a3"
     },
     "index.json": {
       "bytes": 4396,
@@ -38,6 +38,6 @@
     }
   },
   "schema": 1,
-  "tag": "v2",
-  "version": 2
+  "tag": "v3",
+  "version": 3
 }
