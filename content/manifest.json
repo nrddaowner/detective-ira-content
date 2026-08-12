@@ -1,43 +1,43 @@
 {
   "files": {
     "cases/darjeeling-lot-nineteen.json": {
-      "bytes": 9504,
-      "sha256": "566a888d05a45350a9de5585fed62f746662c7ef57a087e98939f3e67e2aca31"
+      "bytes": 9166,
+      "sha256": "d49ac821d919de43c25243a06ad7d20c5a32409cc1b5a2b113704a9c4be03c2d"
     },
     "cases/jaipur-johari-bazaar-job.json": {
-      "bytes": 12861,
-      "sha256": "7ea6d24291928e4bbfbe5c7c69b8431931b68ecc66e6d552b33c5c5bf3cc8435"
+      "bytes": 12413,
+      "sha256": "585ef110bf910c2238e00341ef4ab8cf80a99d90e6d14a1a5d02ebf09c449f5c"
     },
     "cases/jaipur-missing-tiffin.json": {
-      "bytes": 12636,
-      "sha256": "639c24abcaf5360a0cfc5e448cb074f169b8b601bd01bf3b09028ef085df4e33"
+      "bytes": 12193,
+      "sha256": "6e874f4a7940f87fdf0a845e356fc063253da5302e15c910cb2d32201348caa7"
     },
     "cases/jaipur-peacock-brooch.json": {
-      "bytes": 13020,
-      "sha256": "069b1db58bcdddf56bef82f37affda3fc31c65bf145af07a91b902a2d21d7474"
+      "bytes": 12567,
+      "sha256": "7b4c1078896c41697d3bab2addcc7fcc1f76989ae14018641248f6a4e2f29308"
     },
     "cases/jaipur-rickshaw-riddle.json": {
-      "bytes": 12474,
-      "sha256": "f8cf64ede776ed82757c4bed719684ad4852ca6067010d01c5d494d04f8ac080"
+      "bytes": 12034,
+      "sha256": "2438f3cffc3eb9940004f6237f43d6dff7cdc74c6de7424843008bfa57b6295e"
     },
     "cases/kochi-pepper-ledger.json": {
-      "bytes": 9468,
-      "sha256": "09a3348c159270c5b0c9fe502e80947a3d544a913771d425632ed8897562851f"
+      "bytes": 9130,
+      "sha256": "73fb60d6d9c1c74af1aa3a26fda3849587f1381961b6393d7ee5e81a0a9438ab"
     },
     "cases/mumbai-sixty-watt-alibi.json": {
-      "bytes": 9460,
-      "sha256": "5a4ee65d4c7eae8c50fe3b3ab2ea35e62e884be3e6e839ac1d24d405d00dd48d"
+      "bytes": 9122,
+      "sha256": "0b254b6870368f94140b32eb24528178024c7a840878351a93addd7a2a4b0673"
     },
     "index.json": {
-      "bytes": 4590,
-      "sha256": "4dc324417f9966f2d41d8ed9c5e1942189c81b622506e2592c46060ef2240fe2"
+      "bytes": 4396,
+      "sha256": "f81966585793082ee0b23a93cead70f4a185cdc1cf0c37b84d2c3f21567db8a1"
     },
     "stories/jaipur-pink-city.json": {
-      "bytes": 4316,
-      "sha256": "e122ad04af20e50fd1bc9af9a30aaa6cbea78f23e8847a17f7a5e9edf0222633"
+      "bytes": 4161,
+      "sha256": "43e08479a5abb668a229aeebdb1401b6b0fb55e1a50b9a47278314beabfd4435"
     }
   },
   "schema": 1,
-  "tag": "v1",
-  "version": 1
+  "tag": "v2",
+  "version": 2
 }
