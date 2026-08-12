@@ -1,0 +1,155 @@
+{
+  "id": "jaipur-pink-city",
+  "schema": 1,
+  "region": "rajasthan",
+  "city": "jaipur",
+  "number": 1,
+  "unlockStars": 0,
+  "title": {
+    "en": "Pink City Files"
+  },
+  "blurb": {
+    "en": "5 cases · a brooch, a bazaar, a conspiracy"
+  },
+  "cases": [
+    "jaipur-missing-tiffin",
+    "jaipur-rickshaw-riddle",
+    "jaipur-peacock-brooch",
+    "jaipur-johari-bazaar-job"
+  ],
+  "finale": {
+    "mastermindId": "vikram",
+    "reveal": {
+      "en": "Thakur Vikram?"
+    },
+    "threads": [
+      {
+        "caseNumber": 1,
+        "pointsAt": "madhav",
+        "text": {
+          "en": "A wax key mold — cut by someone who’s never picked a lock"
+        },
+        "short": {
+          "en": "wax key mold"
+        },
+        "pending": {
+          "en": "The Missing Tiffin will turn up the first thread"
+        },
+        "misread": {
+          "en": "Nobody cuts a mold of a lock they can already open — they cut it for someone who can’t. Those were hands with a key on them."
+        }
+      },
+      {
+        "caseNumber": 2,
+        "pointsAt": "vikram",
+        "text": {
+          "en": "Rickshaw ledger page — same handwriting as the mold order"
+        },
+        "short": {
+          "en": "rickshaw ledger page"
+        },
+        "pending": {
+          "en": "The Rickshaw Riddle will name who paid the fare"
+        },
+        "misread": {
+          "en": "The hand on the ledger is the hand that *ordered* the mold, not the hand that cut it. Find the one who writes."
+        }
+      },
+      {
+        "caseNumber": 3,
+        "pointsAt": "vikram",
+        "text": {
+          "en": "A debt to Sethji, due the morning after Teej"
+        },
+        "short": {
+          "en": "brooch pawn slip, signed V"
+        },
+        "pending": {
+          "en": "Solve The Peacock Brooch to bank its key clue"
+        },
+        "misread": {
+          "en": "The slip is signed with a V. Only one name on this wall answers to it."
+        }
+      },
+      {
+        "caseNumber": 4,
+        "pointsAt": "vikram",
+        "text": {
+          "en": "A seat booked on the 11:40 to Mumbai, name left blank"
+        },
+        "short": {
+          "en": "the 11:40 goods seat"
+        },
+        "pending": {
+          "en": "The Johari Bazaar Job holds the last thread"
+        },
+        "misread": {
+          "en": "A blank seat on the 11:40 belongs to whoever could afford to be gone by morning. The staff were all at work the next day."
+        }
+      }
+    ],
+    "suspects": [
+      {
+        "id": "madhav",
+        "name": {
+          "en": "Madhav"
+        },
+        "role": {
+          "en": "THE COOK"
+        },
+        "face": "Madhav",
+        "dossier": {
+          "en": "haveli keys since 1998 · works wax and dough daily · owes Sethji too"
+        },
+        "cleared": {
+          "en": "Madhav cut the wax, and that is as far as it goes. A cook does not sign a pawn slip with a V or book a seat out of Jaipur."
+        }
+      },
+      {
+        "id": "leela",
+        "name": {
+          "en": "Leela"
+        },
+        "role": {
+          "en": "THE DANCER"
+        },
+        "face": "Leela",
+        "dossier": {
+          "en": "danced at three of the four scenes · on stage until dawn each time"
+        },
+        "cleared": {
+          "en": "Leela was on a stage until dawn every one of those nights. Nobody on a stage boards the 11:40."
+        }
+      },
+      {
+        "id": "vikram",
+        "name": {
+          "en": "Thakur Vikram"
+        },
+        "role": {
+          "en": "THE COUSIN"
+        },
+        "face": "Vikram",
+        "dossier": {
+          "en": "signs with a V · orders by letter · holds no key to anything"
+        }
+      },
+      {
+        "id": "bansi",
+        "name": {
+          "en": "Bansi"
+        },
+        "role": {
+          "en": "THE PIGEON BOY"
+        },
+        "face": "Bansi",
+        "dossier": {
+          "en": "the roofs and the skylights · cannot read or write"
+        },
+        "cleared": {
+          "en": "Bansi cannot write his own name. He did not fill a page of a rickshaw ledger, and he did not order a mold."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "id": "darjeeling-lot-nineteen",
+  "schema": 1,
+  "city": "darjeeling",
+  "genre": "fraud",
+  "difficulty": "devious",
+  "ambience": "CourtyardBirds",
+  "coinReward": 45,
+  "title": {
+    "en": "The Last Cup of Lot 19"
+  },
+  "place": {
+    "en": "Sunder Tea Estate · the tasting room · 7:10 AM"
+  },
+  "brief": {
+    "en": "Twelve cups were set for the second-flush tasting at half six. At ten past seven the auction was called and lot 19 — the best of the season — was gone, along with the reserve book. The room was locked the whole time."
+  },
+  "photoCaption": {
+    "en": "the tasting room, 7:10 am"
+  },
+  "iraNote": {
+    "en": "“Eleven cups left standing and one washed. Ask why that one had to be clean.”"
+  },
+  "clues": [
+    {
+      "id": "cup",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "TASTING CUP · LOT 19"
+      },
+      "text": {
+        "en": "Lot 19’s cup was rinsed. The other eleven were left standing. No taster rinses mid-flight."
+      }
+    },
+    {
+      "id": "reserve",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "AUCTION SLIP · TORN IN TWO"
+      },
+      "text": {
+        "en": "Lot 19’s reserve struck out and rewritten. The second figure is a third of the first."
+      }
+    },
+    {
+      "id": "frost",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · THE VERANDA"
+      },
+      "text": {
+        "en": "One set of boot prints out across the frost and none coming back. Size five."
+      }
+    },
+    {
+      "id": "ropeway",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "ROPEWAY LOG · UPPER STATION"
+      },
+      "text": {
+        "en": "One car down at 6:52, counterweighted for cargo, logged as empty."
+      }
+    },
+    {
+      "id": "advance",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ADVANCE BOOK · ESTATE OFFICE"
+      },
+      "text": {
+        "en": "Three months’ pay drawn in November against a debt in Kurseong. Nothing drawn since."
+      }
+    },
+    {
+      "id": "mist",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE ESTATE GATE, 6:40"
+      },
+      "text": {
+        "en": "Mist. That is the entire photograph."
+      },
+      "dismissNote": {
+        "en": "ruled out — you cannot convict weather"
+      }
+    },
+    {
+      "id": "dog",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "HAIR · TASTING ROOM MAT"
+      },
+      "text": {
+        "en": "Estate dog. He sleeps on that mat and always has."
+      },
+      "dismissNote": {
+        "en": "ruled out — the dog lives here"
+      }
+    },
+    {
+      "id": "drawer",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "TASTING ROOM KEY · MANAGER’S DRAWER"
+      },
+      "text": {
+        "en": "One key, in a locked drawer, in a locked office. Untouched."
+      },
+      "dismissNote": {
+        "en": "ruled out — the key never moved, so the room wasn’t opened with it"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "tara",
+      "name": {
+        "en": "Tara"
+      },
+      "role": {
+        "en": "THE TASTER"
+      },
+      "hook": {
+        "en": "the only person the room is unlocked for"
+      },
+      "face": "Farida",
+      "confession": {
+        "en": "A debt in Kurseong and a lot worth three times its rewritten reserve. She rinsed the one cup that would have told the buyers what they were bidding on, and sent it down the ropeway at ten to seven."
+      }
+    },
+    {
+      "id": "bahadur",
+      "name": {
+        "en": "Bahadur"
+      },
+      "role": {
+        "en": "THE SORTER"
+      },
+      "hook": {
+        "en": "handles every lot before it is cupped"
+      },
+      "face": "Girdhar",
+      "alibi": {
+        "en": "On the sorting floor from five with eleven women who will all say so at once."
+      }
+    },
+    {
+      "id": "pemba",
+      "name": {
+        "en": "Pemba"
+      },
+      "role": {
+        "en": "THE ROPEWAY MAN"
+      },
+      "hook": {
+        "en": "ran a car down at 6:52"
+      },
+      "face": "Chotu",
+      "alibi": {
+        "en": "He runs the car when the bell rings and logs what he is told. The bell rang at ten to seven."
+      }
+    },
+    {
+      "id": "ghosh",
+      "name": {
+        "en": "Mr Ghosh"
+      },
+      "role": {
+        "en": "THE AUCTIONEER’S CLERK"
+      },
+      "hook": {
+        "en": "wrote the reserve · called the lot"
+      },
+      "face": "Sethji",
+      "alibi": {
+        "en": "He wrote the first figure. Somebody else struck it out, and a clerk who wanted the lot cheap would not have called it at all."
+      }
+    }
+  ],
+  "culpritId": "tara",
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "advance",
+      "correction": {
+        "en": "A dog’s hair on a mat is not a motive. Three months drawn against a Kurseong debt, and nothing drawn since, is."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "cup",
+      "correction": {
+        "en": "The key never left its drawer. One cup of twelve was rinsed, and only one person was in that room to rinse it."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "ropeway",
+      "correction": {
+        "en": "Nothing walked off this hill in the mist. A car went down at 6:52 weighted for cargo and logged empty."
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "bell",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE ROPEWAY MAN"
+      },
+      "text": {
+        "en": "“The bell rang and I ran the car. I don’t look inside, I look at the bell.”"
+      }
+    },
+    {
+      "id": "kurseong",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE TASTER"
+      },
+      "text": {
+        "en": "“A family matter in Kurseong. It is paid.” Nothing has been drawn since November."
+      }
+    }
+  ],
+  "interrogations": [
+    {
+      "suspectId": "pemba",
+      "setting": {
+        "en": "The upper station, with the brake lever still in his hand."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You ran a car down at ten to seven."
+          },
+          "answer": {
+            "en": "“The bell rang. I run when the bell rings and I log what I’m told.”"
+          },
+          "note": {
+            "en": "Logged empty, weighted for cargo. Somebody told him wrong."
+          }
+        },
+        {
+          "ask": {
+            "en": "The counterweight says that car was loaded."
+          },
+          "answer": {
+            "en": "“Then it was loaded. I don’t look inside, I look at the bell.”"
+          },
+          "needsClueId": "ropeway",
+          "lockedHint": {
+            "en": "Pin the ropeway log. The counterweight is the only thing that argues with it."
+          },
+          "unlocksClueId": "bell",
+          "note": {
+            "en": "He didn’t look. That is the third person on this hill this morning who didn’t look."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who can reach that bell?"
+          },
+          "answer": {
+            "en": "“Anyone on the tasting veranda. It’s a wire off the rail.”"
+          },
+          "note": {
+            "en": "The tasting veranda — which was locked, and had one person inside it."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "tara",
+      "setting": {
+        "en": "The tasting room, eleven cups still standing and one washed."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Twelve lots, twelve cups. Why is one clean?"
+          },
+          "answer": {
+            "en": "“I rinse when a cup taints the next. It happens.”"
+          },
+          "note": {
+            "en": "It happens between flights. Not in the middle of one."
+          }
+        },
+        {
+          "ask": {
+            "en": "Three months drawn in November, and nothing since."
+          },
+          "answer": {
+            "en": "“A family matter in Kurseong. It is paid.”"
+          },
+          "needsClueId": "advance",
+          "lockedHint": {
+            "en": "Pin the advance book — the money is the only reason to ask about her family."
+          },
+          "unlocksClueId": "kurseong",
+          "note": {
+            "en": "Paid. On a taster’s salary, with nothing drawn since November."
+          }
+        },
+        {
+          "ask": {
+            "en": "Size five boots, out across the frost and not back."
+          },
+          "answer": {
+            "en": "“Half this estate is size five. Ask the sorting floor.”"
+          },
+          "note": {
+            "en": "The sorting floor was eleven women in one room from five o’clock."
+          }
+        }
+      ]
+    }
+  ],
+  "hint": {
+    "fromClueId": "cup",
+    "toClueId": "reserve",
+    "text": {
+      "en": "The one cup that was washed is the one lot whose reserve was cut to a third. What would the other tasters have tasted?"
+    }
+  }
+}

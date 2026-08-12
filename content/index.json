@@ -1,0 +1,194 @@
+{
+  "schema": 1,
+  "regions": [
+    {
+      "id": "rajasthan",
+      "order": 1,
+      "unlockStars": 0,
+      "label": {
+        "en": "Rajasthan & the Desert",
+        "hi": "राजस्थान और रेगिस्तान"
+      }
+    },
+    {
+      "id": "deccan",
+      "order": 3,
+      "unlockStars": 120,
+      "label": {
+        "en": "Konkan & the Deccan",
+        "hi": "कोंकण और दक्कन"
+      }
+    },
+    {
+      "id": "malabar",
+      "order": 4,
+      "unlockStars": 210,
+      "label": {
+        "en": "The Malabar Coast",
+        "hi": "मालाबार तट"
+      }
+    },
+    {
+      "id": "bengal",
+      "order": 6,
+      "unlockStars": 420,
+      "label": {
+        "en": "Bengal & the Hills",
+        "hi": "बंगाल और पहाड़"
+      }
+    }
+  ],
+  "cities": [
+    {
+      "id": "jaipur",
+      "region": "rajasthan",
+      "label": {
+        "en": "Jaipur",
+        "hi": "जयपुर"
+      },
+      "blurb": {
+        "en": "havelis & bazaars",
+        "hi": "हवेलियाँ और बाज़ार"
+      },
+      "paletteA": "#F5A3B0",
+      "paletteB": "#FBC0CA",
+      "paletteInk": "#8E3B4A",
+      "skyline": {
+        "en": "jaipur pink-city skyline art"
+      },
+      "faceHeadwear": [
+        "safa",
+        "none",
+        "topi",
+        "odhni",
+        "ghoonghat",
+        "chefCap"
+      ]
+    },
+    {
+      "id": "mumbai",
+      "region": "deccan",
+      "label": {
+        "en": "Mumbai",
+        "hi": "मुंबई"
+      },
+      "blurb": {
+        "en": "locals & docklands",
+        "hi": "लोकल और गोदी"
+      },
+      "paletteA": "#93B6D8",
+      "paletteB": "#ACC9E5",
+      "paletteInk": "#33567C",
+      "skyline": {
+        "en": "mumbai chawl & dockside skyline art"
+      },
+      "faceHeadwear": [
+        "none",
+        "topi",
+        "kufi",
+        "policeCap"
+      ]
+    },
+    {
+      "id": "kochi",
+      "region": "malabar",
+      "label": {
+        "en": "Kochi",
+        "hi": "कोच्चि"
+      },
+      "blurb": {
+        "en": "harbour & spice trade",
+        "hi": "बंदरगाह और मसाला व्यापार"
+      },
+      "paletteA": "#8FD3C6",
+      "paletteB": "#BFE4DE",
+      "paletteInk": "#1E4B4A",
+      "skyline": {
+        "en": "kochi harbour & chinese nets art"
+      },
+      "faceHeadwear": [
+        "thorthu",
+        "none",
+        "kufi"
+      ]
+    },
+    {
+      "id": "darjeeling",
+      "region": "bengal",
+      "label": {
+        "en": "Darjeeling",
+        "hi": "दार्जिलिंग"
+      },
+      "blurb": {
+        "en": "tea estates & mist",
+        "hi": "चाय बागान और कोहरा"
+      },
+      "paletteA": "#B9AFD6",
+      "paletteB": "#D6CFE8",
+      "paletteInk": "#443B63",
+      "skyline": {
+        "en": "darjeeling ridge & toy train art"
+      },
+      "faceHeadwear": [
+        "monkeyCap",
+        "none",
+        "headband"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "jaipur-pink-city",
+      "region": "rajasthan",
+      "city": "jaipur",
+      "number": 1,
+      "caseCount": 4,
+      "difficulty": "tricky",
+      "unlockStars": 0,
+      "title": {
+        "en": "Pink City Files"
+      },
+      "blurb": {
+        "en": "5 cases · a brooch, a bazaar, a conspiracy"
+      }
+    }
+  ],
+  "random": [
+    {
+      "id": "darjeeling-lot-nineteen",
+      "city": "darjeeling",
+      "genre": "fraud",
+      "difficulty": "devious",
+      "title": {
+        "en": "The Last Cup of Lot 19"
+      },
+      "teaser": {
+        "en": "Twelve cups were set for the second-flush tasting at half six."
+      }
+    },
+    {
+      "id": "kochi-pepper-ledger",
+      "city": "kochi",
+      "genre": "fraud",
+      "difficulty": "tricky",
+      "title": {
+        "en": "The Vanished Pepper Ledger"
+      },
+      "teaser": {
+        "en": "A spice trader’s ledger went missing the night before the audit, and with it six sacks of Tellicherry pepper."
+      }
+    },
+    {
+      "id": "mumbai-sixty-watt-alibi",
+      "city": "mumbai",
+      "genre": "murder",
+      "difficulty": "tricky",
+      "title": {
+        "en": "The Sixty-Watt Alibi"
+      },
+      "teaser": {
+        "en": "The lights went out over Feeder 4 for twenty minutes and room 14 was emptied of a family’s gold."
+      }
+    }
+  ]
+}

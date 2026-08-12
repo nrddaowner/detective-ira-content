@@ -1,0 +1,443 @@
+{
+  "id": "jaipur-missing-tiffin",
+  "schema": 1,
+  "city": "jaipur",
+  "genre": "theft",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "coinReward": 45,
+  "title": {
+    "en": "The Missing Tiffin"
+  },
+  "place": {
+    "en": "Gangauri Bazaar · the noon dabba run · 12:40 PM"
+  },
+  "brief": {
+    "en": "Tiffin 114 left Gangauri Bazaar at four minutes past twelve and never reached Surajgarh Haveli. Sixty dabbas made the run. Fifty-nine arrived. When the carrier turned up at the Chandpole stand that evening it was empty except for a block of wax."
+  },
+  "photoCaption": {
+    "en": "the gate, 12:33 pm"
+  },
+  "iraNote": {
+    "en": "“Both lines of that register are in one handwriting. Ask who was holding the pen.”"
+  },
+  "clues": [
+    {
+      "id": "tag",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "DABBA TAG · GANGAURI BAZAAR"
+      },
+      "text": {
+        "en": "114 · Surajgarh Haveli · signed out 12:04. Never signed in."
+      }
+    },
+    {
+      "id": "wax",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "WAX BLOCK · IN THE EMPTY CARRIER"
+      },
+      "text": {
+        "en": "A key mold, pressed once. The cuts are clean and the edges are not — no lock-pick made this."
+      }
+    },
+    {
+      "id": "weight",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WEIGHT SLIP · BAZAAR SCALE"
+      },
+      "text": {
+        "en": "Tiffin 114 weighed 1.9 kg out. Every other dabba on the run: 1.2."
+      }
+    },
+    {
+      "id": "gate",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "GATE REGISTER · SURAJGARH HAVELI"
+      },
+      "text": {
+        "en": "12:31 — one tiffin in. 12:33 — one tiffin out. Same hand, both lines."
+      }
+    },
+    {
+      "id": "chit",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "CHIT · FOUND IN A DURWAN’S POCKET"
+      },
+      "text": {
+        "en": "“114. Don’t open it. Fifty rupees.” No signature."
+      }
+    },
+    {
+      "id": "fare",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "FARE SLIP · RICKSHAW 41"
+      },
+      "text": {
+        "en": "Haveli gate → Chandpole, 12:40. One parcel, no passenger. Paid before the driver was told where."
+      }
+    },
+    {
+      "id": "stud",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "PAWN CHIT · SETHJI’S COUNTER"
+      },
+      "text": {
+        "en": "One gold ear stud in on the 8th. Redeemed on the 12th, in cash."
+      }
+    },
+    {
+      "id": "curd",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · CURD ON THE GATE STEP"
+      },
+      "text": {
+        "en": "Fresh, and kitchen-grade."
+      },
+      "dismissNote": {
+        "en": "ruled out — sixty dabbas cross that step at noon and every one of them leaks"
+      }
+    },
+    {
+      "id": "pigeon",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · GATE ARCH, 12:35"
+      },
+      "text": {
+        "en": "Pigeons on the arch, and a shadow under them that isn’t a bird."
+      },
+      "dismissNote": {
+        "en": "ruled out — a shadow on a wall is not a person"
+      }
+    },
+    {
+      "id": "cycle",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "CYCLE STAND SLIP · GANGAURI"
+      },
+      "text": {
+        "en": "One cycle, stood from 12:10 to 1:40. Both hours paid."
+      },
+      "dismissNote": {
+        "en": "ruled out — it says where a cycle was, not where a boy was"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "chotu",
+      "name": {
+        "en": "Chotu"
+      },
+      "role": {
+        "en": "THE TIFFIN RUNNER"
+      },
+      "hook": {
+        "en": "carried 114 · the last man to hold it"
+      },
+      "face": "Chotu",
+      "alibi": {
+        "en": "He handed 114 over at the gate at 12:31 and the register says so — in somebody else’s handwriting."
+      }
+    },
+    {
+      "id": "girdhar",
+      "name": {
+        "en": "Girdhar"
+      },
+      "role": {
+        "en": "THE DURWAN"
+      },
+      "hook": {
+        "en": "kept the gate · kept the register · kept the pen"
+      },
+      "face": "Girdhar",
+      "confession": {
+        "en": "Fifty rupees to take one tiffin off the runner, put it in a rickshaw, and not look inside. He didn’t look. He could tell by the weight it wasn’t lunch, and he took the money anyway."
+      }
+    },
+    {
+      "id": "madhav",
+      "name": {
+        "en": "Madhav"
+      },
+      "role": {
+        "en": "THE COOK"
+      },
+      "hook": {
+        "en": "packed 114 · works wax and dough daily"
+      },
+      "face": "Madhav",
+      "alibi": {
+        "en": "He packed 114 at ten to twelve in front of the whole kitchen. The wax was his. The fifty rupees were not."
+      }
+    },
+    {
+      "id": "ramesh",
+      "name": {
+        "en": "Ramesh"
+      },
+      "role": {
+        "en": "THE RICKSHAW DRIVER"
+      },
+      "hook": {
+        "en": "drove the parcel to Chandpole"
+      },
+      "face": "Ramesh",
+      "alibi": {
+        "en": "He was paid before he was told where to go, which is a driver’s good luck and nobody’s crime."
+      }
+    },
+    {
+      "id": "sethji",
+      "name": {
+        "en": "Sethji"
+      },
+      "role": {
+        "en": "THE MONEYLENDER"
+      },
+      "hook": {
+        "en": "at the gate that morning · holds the durwan’s paper"
+      },
+      "face": "Sethji",
+      "alibi": {
+        "en": "He took an ear stud on the 8th and gave it back on the 12th. A man owed money does not steal a lunch to get it."
+      }
+    }
+  ],
+  "culpritId": "girdhar",
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "chit",
+      "correction": {
+        "en": "A motive is fifty rupees folded in a pocket. Curd on a step is a Tuesday."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "gate",
+      "correction": {
+        "en": "A shadow on an arch is not opportunity. One hand wrote that tiffin in and wrote it out again two minutes later."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "fare",
+      "correction": {
+        "en": "Nothing walked out of that gate. It was driven — and the fare was settled before the driver knew the address."
+      }
+    }
+  ],
+  "story": {
+    "id": "jaipur-pink-city",
+    "caseNumber": 1
+  },
+  "testimonyClues": [
+    {
+      "id": "pen",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE TIFFIN RUNNER"
+      },
+      "text": {
+        "en": "“He never lets me sign. Not once, not in two years.”"
+      }
+    },
+    {
+      "id": "folded",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DURWAN"
+      },
+      "text": {
+        "en": "“It came folded under the ledger on Tuesday. Fifty rupees and one line. I never saw a hand.”"
+      }
+    },
+    {
+      "id": "denies",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE COOK"
+      },
+      "text": {
+        "en": "“I packed what I was given. I did not look at it and I was not asked to.”"
+      },
+      "dismissNote": {
+        "en": "ruled out — a man saying he didn’t look is not evidence that he did"
+      }
+    }
+  ],
+  "interrogations": [
+    {
+      "suspectId": "chotu",
+      "setting": {
+        "en": "The cycle stand at Gangauri, with his cap in his hands."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who took 114 off you?"
+          },
+          "answer": {
+            "en": "“The durwan, sahib. At the gate, like always. He signs, I go.”"
+          },
+          "note": {
+            "en": "Like always. So the handover was normal — it is what happened after it that isn’t."
+          }
+        },
+        {
+          "ask": {
+            "en": "Was 114 heavier than the rest?"
+          },
+          "answer": {
+            "en": "“All of them are heavy in Teej week. I don’t weigh them, I carry them.”"
+          },
+          "note": {
+            "en": "He didn’t notice. A boy carrying sixty of them wouldn’t."
+          }
+        },
+        {
+          "ask": {
+            "en": "The register says 114 went in at 12:31 and out at 12:33. Whose handwriting is that?"
+          },
+          "answer": {
+            "en": "“Girdhar sahib’s. Both lines. He never lets me sign — says my writing is bad.”"
+          },
+          "needsClueId": "gate",
+          "lockedHint": {
+            "en": "Pin the gate register first — you can’t put a page to a boy you haven’t read."
+          },
+          "unlocksClueId": "pen",
+          "note": {
+            "en": "Both lines in one hand, and now the hand has a name on it."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "girdhar",
+      "setting": {
+        "en": "The gate. He answers standing, because he will not sit down for this."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What is a block of wax doing in an empty tiffin?"
+          },
+          "answer": {
+            "en": "“I didn’t open it. I was told not to open it.”"
+          },
+          "note": {
+            "en": "Told not to. By whom is the next question, and he knows it."
+          }
+        },
+        {
+          "ask": {
+            "en": "Fifty rupees, and a chit with no name on it. Who wrote it?"
+          },
+          "answer": {
+            "en": "“It came folded, under the gate ledger, on the Tuesday. I never saw a hand.”"
+          },
+          "needsClueId": "chit",
+          "lockedHint": {
+            "en": "The chit is still on the board. Pin it and he has something to answer."
+          },
+          "unlocksClueId": "folded",
+          "note": {
+            "en": "He never saw who paid him. That is either the truth or the single most useful thing he could say."
+          }
+        },
+        {
+          "ask": {
+            "en": "Where did the tiffin go?"
+          },
+          "answer": {
+            "en": "“Into a rickshaw. I don’t ask where rickshaws go.”"
+          },
+          "note": {
+            "en": "He put it in the rickshaw. That is the charge, and he has just said it out loud."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "madhav",
+      "setting": {
+        "en": "The kitchen at four in the afternoon, between two meals."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Why does a cook keep sealing wax?"
+          },
+          "answer": {
+            "en": "“For the pickle jars. Every kitchen in Rajasthan has a block of it.”"
+          },
+          "note": {
+            "en": "True, and unhelpful. Half the city could have cut that mold."
+          }
+        },
+        {
+          "ask": {
+            "en": "Was 114 different?"
+          },
+          "answer": {
+            "en": "“Heavier. I packed it heavier because I was told to. Extra for the guests.”"
+          },
+          "note": {
+            "en": "Told to, again. Everybody in this case was told something by somebody they cannot name."
+          }
+        },
+        {
+          "ask": {
+            "en": "The scale says 1.9 against 1.2. What went in with the lunch?"
+          },
+          "answer": {
+            "en": "“I packed lunch. I don’t pack what I’m not given.”"
+          },
+          "needsClueId": "weight",
+          "lockedHint": {
+            "en": "Pin the weight slip — the difference is the only reason to ask."
+          },
+          "unlocksClueId": "denies",
+          "note": {
+            "en": "He put in what he was handed. Somebody did the handing."
+          }
+        }
+      ]
+    }
+  ],
+  "bankedClue": {
+    "en": "A wax key mold — cut by someone who’s never picked a lock"
+  },
+  "hint": {
+    "fromClueId": "gate",
+    "toClueId": "chit",
+    "text": {
+      "en": "One man wrote the tiffin in and wrote it out again two minutes later. What was in his pocket while he did it?"
+    }
+  }
+}

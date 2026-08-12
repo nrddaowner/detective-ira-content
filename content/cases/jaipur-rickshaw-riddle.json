@@ -1,0 +1,440 @@
+{
+  "id": "jaipur-rickshaw-riddle",
+  "schema": 1,
+  "city": "jaipur",
+  "genre": "theft",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "coinReward": 50,
+  "title": {
+    "en": "The Rickshaw Riddle"
+  },
+  "place": {
+    "en": "Chandpole stand · the night run · 11:15 PM"
+  },
+  "brief": {
+    "en": "Rickshaw 41 was taken off the Chandpole stand at quarter past eleven and put back at five past two, washed. The fare box was untouched. One page is missing from the ledger. Who borrows a rickshaw and returns it?"
+  },
+  "photoCaption": {
+    "en": "the stand, 2:05 am"
+  },
+  "iraNote": {
+    "en": "“The saddle was wound down four turns. Find me somebody who can’t reach the pedals.”"
+  },
+  "clues": [
+    {
+      "id": "meter",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "METER · RICKSHAW 41"
+      },
+      "text": {
+        "en": "Eleven kilometres run between 11:15 and 2:05. The stand to Johari and back is eleven."
+      }
+    },
+    {
+      "id": "page",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "TORN LEDGER PAGE · FOLDED INTO A CAP"
+      },
+      "text": {
+        "en": "“Fare 41 · one crate · Johari Bazaar · 10 rupees, paid before.” Not the driver’s handwriting."
+      }
+    },
+    {
+      "id": "seat",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "SADDLE · RICKSHAW 41"
+      },
+      "text": {
+        "en": "Wound down four turns and never wound back. Ramesh is six foot."
+      }
+    },
+    {
+      "id": "hand",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "HANDWRITING · COMPARISON SLIP"
+      },
+      "text": {
+        "en": "The fare line and the wax order from the Gangauri run: same hand, same downstroke on the 4."
+      }
+    },
+    {
+      "id": "ten",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "TEN-RUPEE NOTE · IN A CAP LINING"
+      },
+      "text": {
+        "en": "Folded to a quarter and pushed under the band. A runner earns eight annas a trip."
+      }
+    },
+    {
+      "id": "crate",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · JOHARI BAZAAR, 12:40 AM"
+      },
+      "text": {
+        "en": "A crate on a goldsmith’s step, and a rickshaw pulling away with its lamp still lit."
+      }
+    },
+    {
+      "id": "wash",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · SEAT AND FOOTBOARD"
+      },
+      "text": {
+        "en": "Washed down with kerosene. Somebody wanted it clean and made a child’s job of it."
+      }
+    },
+    {
+      "id": "roost",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE STAND ROOF"
+      },
+      "text": {
+        "en": "Pigeons on the rickshaw hood all night. They don’t settle for strangers, their boy says."
+      },
+      "dismissNote": {
+        "en": "ruled out — birds sit where they’re fed, not where they’re loyal"
+      }
+    },
+    {
+      "id": "keys",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "KEY RING · THE DURWAN’S BELT"
+      },
+      "text": {
+        "en": "The stand chain key was on it all night. So was every other key in the mohalla."
+      },
+      "dismissNote": {
+        "en": "ruled out — a heavy key ring proves a heavy pocket"
+      }
+    },
+    {
+      "id": "bill",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "BILL · A GOLDSMITH’S COUNTER"
+      },
+      "text": {
+        "en": "One crate of brass fittings. Delivered. Unpaid. Unordered."
+      },
+      "dismissNote": {
+        "en": "ruled out — an unpaid bill is a shopkeeper’s problem"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ramesh",
+      "name": {
+        "en": "Ramesh"
+      },
+      "role": {
+        "en": "THE DRIVER"
+      },
+      "hook": {
+        "en": "his rickshaw · his ledger · his missing page"
+      },
+      "face": "Ramesh",
+      "alibi": {
+        "en": "At the stand tea stall from quarter past eleven, which is why the meter ran. A man who steals his own rickshaw doesn’t leave the fare box full."
+      }
+    },
+    {
+      "id": "chotu",
+      "name": {
+        "en": "Chotu"
+      },
+      "role": {
+        "en": "THE TIFFIN RUNNER"
+      },
+      "hook": {
+        "en": "sleeps at the stand · cap stuffed with paper"
+      },
+      "face": "Chotu",
+      "confession": {
+        "en": "Ten rupees to take a crate to Johari and put the rickshaw back before anyone missed it. He was told to tear the page out and burn it. He tore it out and kept it — ten rupees is worth a receipt."
+      }
+    },
+    {
+      "id": "girdhar",
+      "name": {
+        "en": "Girdhar"
+      },
+      "role": {
+        "en": "THE DURWAN"
+      },
+      "hook": {
+        "en": "holds the stand’s chain key"
+      },
+      "face": "Girdhar",
+      "alibi": {
+        "en": "On the haveli gate until two, and for once the register is in somebody else’s handwriting."
+      }
+    },
+    {
+      "id": "farida",
+      "name": {
+        "en": "Farida"
+      },
+      "role": {
+        "en": "THE GOLDSMITH"
+      },
+      "hook": {
+        "en": "the crate was left on her step"
+      },
+      "face": "Farida",
+      "alibi": {
+        "en": "The crate arrived at her shutter at forty past midnight. She never ordered it and she never opened it."
+      }
+    },
+    {
+      "id": "bansi",
+      "name": {
+        "en": "Bansi"
+      },
+      "role": {
+        "en": "THE PIGEON BOY"
+      },
+      "hook": {
+        "en": "on the stand roof with his birds"
+      },
+      "face": "Bansi",
+      "alibi": {
+        "en": "Asleep on the roof. His birds are the only witness he has, and what they saw was a boy who wasn’t him."
+      }
+    }
+  ],
+  "culpritId": "chotu",
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "ten",
+      "correction": {
+        "en": "Ten rupees in a cap lining is a motive. An unpaid bill on a goldsmith’s counter is bookkeeping."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "seat",
+      "correction": {
+        "en": "Pigeons are not an opportunity. A saddle wound down four turns tells you who could reach the pedals."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "meter",
+      "correction": {
+        "en": "Nobody got away on a kerosene wash. That rickshaw was back on its stand before it was missed — eleven kilometres, there and back."
+      }
+    }
+  ],
+  "story": {
+    "id": "jaipur-pink-city",
+    "caseNumber": 2
+  },
+  "testimonyClues": [
+    {
+      "id": "saddle",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DRIVER"
+      },
+      "text": {
+        "en": "“I wind it up every morning. I have never once wound it down.”"
+      }
+    },
+    {
+      "id": "earned",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE RUNNER"
+      },
+      "text": {
+        "en": "“It’s mine. I earned it.” He will not say what for."
+      }
+    },
+    {
+      "id": "back",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE GOLDSMITH"
+      },
+      "text": {
+        "en": "“The lamp woke me. I saw a rickshaw going and a boy’s back on the saddle.”"
+      }
+    }
+  ],
+  "interrogations": [
+    {
+      "suspectId": "ramesh",
+      "setting": {
+        "en": "The tea stall at the stand, over his fourth glass."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who else can drive 41?"
+          },
+          "answer": {
+            "en": "“Anyone who can reach the pedals. It’s a rickshaw, not a Rolls.”"
+          },
+          "note": {
+            "en": "Anyone who can reach. Hold on to that."
+          }
+        },
+        {
+          "ask": {
+            "en": "The saddle was down four turns. Who winds a saddle down?"
+          },
+          "answer": {
+            "en": "“Somebody short. I wind it up every morning and I have never once wound it down.”"
+          },
+          "needsClueId": "seat",
+          "lockedHint": {
+            "en": "Pin the saddle first. Ask a man about his own rickshaw and you had better know what you found on it."
+          },
+          "unlocksClueId": "saddle",
+          "note": {
+            "en": "He winds it up. Somebody else wound it down and did not put it back."
+          }
+        },
+        {
+          "ask": {
+            "en": "What was on the missing page?"
+          },
+          "answer": {
+            "en": "“Forty-one’s night fares. I write them at dawn. That page had one line on it.”"
+          },
+          "note": {
+            "en": "One line. One fare. Somebody tore out a page to lose a single sentence."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "chotu",
+      "setting": {
+        "en": "The stand roof, where he sleeps, and where he will not look at you."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Where were you at midnight?"
+          },
+          "answer": {
+            "en": "“Here. Asleep. Ask the birds.”"
+          },
+          "note": {
+            "en": "The birds are Bansi’s, and Bansi was asleep too."
+          }
+        },
+        {
+          "ask": {
+            "en": "There is a ten-rupee note in your cap lining. Whose is it?"
+          },
+          "answer": {
+            "en": "“Mine. I earned it.”"
+          },
+          "needsClueId": "ten",
+          "lockedHint": {
+            "en": "Pin the note. A boy will not answer for money you have not decided is money."
+          },
+          "unlocksClueId": "earned",
+          "note": {
+            "en": "Earned. Eight annas a run, and he is carrying twenty runs in his hat."
+          }
+        },
+        {
+          "ask": {
+            "en": "What is in a crate that goes to Johari at midnight?"
+          },
+          "answer": {
+            "en": "“I don’t open crates. That’s the whole job — you don’t open it.”"
+          },
+          "note": {
+            "en": "The same sentence the durwan used at the Gangauri gate. Somebody is teaching people this line."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "farida",
+      "setting": {
+        "en": "Her shutter, half down, at seven in the morning."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Did you order a crate?"
+          },
+          "answer": {
+            "en": "“I order nothing after dark. Nobody in Johari does.”"
+          },
+          "note": {
+            "en": "Then somebody left it. A delivery nobody made and nobody signed for."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who knew the crate would be on your step?"
+          },
+          "answer": {
+            "en": "“Whoever sent it. I found it at six.”"
+          },
+          "note": {
+            "en": "Six. The rickshaw was back on its stand by five past two."
+          }
+        },
+        {
+          "ask": {
+            "en": "You are in this photograph, at twenty to one."
+          },
+          "answer": {
+            "en": "“I came down because the lamp woke me. I saw a rickshaw and a boy’s back.”"
+          },
+          "needsClueId": "crate",
+          "lockedHint": {
+            "en": "Pin the Johari polaroid — she will not answer for a photograph you are not holding."
+          },
+          "unlocksClueId": "back",
+          "note": {
+            "en": "A boy’s back. Not a driver’s."
+          }
+        }
+      ]
+    }
+  ],
+  "bankedClue": {
+    "en": "A rickshaw ledger page in the same hand as the wax order"
+  },
+  "hint": {
+    "fromClueId": "seat",
+    "toClueId": "ten",
+    "text": {
+      "en": "Whoever drove it couldn’t reach the pedals, and was paid twenty times what a run is worth. How old is your thief?"
+    }
+  }
+}

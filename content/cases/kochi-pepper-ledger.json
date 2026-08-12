@@ -1,0 +1,338 @@
+{
+  "id": "kochi-pepper-ledger",
+  "schema": 1,
+  "city": "kochi",
+  "genre": "fraud",
+  "difficulty": "tricky",
+  "ambience": "MonsoonRain",
+  "coinReward": 40,
+  "title": {
+    "en": "The Vanished Pepper Ledger"
+  },
+  "place": {
+    "en": "Mattancherry godown · the night before the audit"
+  },
+  "brief": {
+    "en": "A spice trader’s ledger went missing the night before the audit, and with it six sacks of Tellicherry pepper. Two keys open that godown. Both were where they should be."
+  },
+  "photoCaption": {
+    "en": "the godown, 11:20 pm"
+  },
+  "iraNote": {
+    "en": "“The roll says fifty-four and the ledger says sixty. Somebody had to write both.”"
+  },
+  "clues": [
+    {
+      "id": "weighbridge",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WEIGHBRIDGE ROLL · MATTANCHERRY"
+      },
+      "text": {
+        "en": "Sixty sacks in on the 9th. Fifty-four out on the 10th. The ledger said sixty both ways."
+      }
+    },
+    {
+      "id": "carbon",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "CARBON SHEET · UNDER THE MISSING PAGE"
+      },
+      "text": {
+        "en": "The pressure of the last entry, still readable: “I. — 6 sacks — settled”."
+      }
+    },
+    {
+      "id": "padlock",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "PADLOCK · GODOWN DOOR"
+      },
+      "text": {
+        "en": "Opened with its own key, no scoring. Two exist: one on the watchman’s belt, one on the weighman’s hook."
+      }
+    },
+    {
+      "id": "ferry",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "FERRY MANIFEST · ERNAKULAM JETTY"
+      },
+      "text": {
+        "en": "One handcart, six sacks, 4:40 am. Consignor given as “godown”."
+      }
+    },
+    {
+      "id": "chitty",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "CHITTY BOOK · MATTANCHERRY"
+      },
+      "text": {
+        "en": "The weighman’s payment ran six months behind. Cleared in full on the 10th."
+      }
+    },
+    {
+      "id": "step",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · GODOWN STEP"
+      },
+      "text": {
+        "en": "Rain on the step and no prints in it after two."
+      },
+      "dismissNote": {
+        "en": "ruled out — the monsoon washes that step every hour"
+      }
+    },
+    {
+      "id": "cat",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "PAW PRINTS · SACK 41"
+      },
+      "text": {
+        "en": "Godown cat. Every sack in Kochi has been sat on."
+      },
+      "dismissNote": {
+        "en": "ruled out — the cat is not the thief"
+      }
+    },
+    {
+      "id": "log",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WATCHMAN’S LOG · TO 4 AM"
+      },
+      "text": {
+        "en": "Every hour entered, in one ink and one steady hand."
+      },
+      "dismissNote": {
+        "en": "ruled out — he wrote the night up in one sitting, which is lazy, not criminal"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ibrahim",
+      "name": {
+        "en": "Ibrahim"
+      },
+      "role": {
+        "en": "THE WEIGHMAN"
+      },
+      "hook": {
+        "en": "keeps the second key · keeps the roll"
+      },
+      "face": "Sethji",
+      "confession": {
+        "en": "Six sacks off the roll and a chitty six months behind. He wrote sixty out because he had written sixty in, and by four in the morning the difference was on a ferry."
+      }
+    },
+    {
+      "id": "sara",
+      "name": {
+        "en": "Sara"
+      },
+      "role": {
+        "en": "THE BROKER"
+      },
+      "hook": {
+        "en": "the audit was hers to call"
+      },
+      "face": "Farida",
+      "alibi": {
+        "en": "She ordered the audit. Nobody empties a godown the night before an audit they asked for."
+      }
+    },
+    {
+      "id": "thomas",
+      "name": {
+        "en": "Thomas"
+      },
+      "role": {
+        "en": "THE NIGHT WATCHMAN"
+      },
+      "hook": {
+        "en": "the first key is on his belt"
+      },
+      "face": "Girdhar",
+      "alibi": {
+        "en": "His log is a fiction and his night was real: the tea shop across the lane served him at one, two and three."
+      }
+    },
+    {
+      "id": "kunjan",
+      "name": {
+        "en": "Kunjan"
+      },
+      "role": {
+        "en": "THE CART BOY"
+      },
+      "hook": {
+        "en": "pushed the handcart to the jetty"
+      },
+      "face": "Chotu",
+      "alibi": {
+        "en": "He pushed what he was given to the jetty at four, as he does every morning of his life."
+      }
+    }
+  ],
+  "culpritId": "ibrahim",
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "chitty",
+      "correction": {
+        "en": "A cat on a sack is not a motive. Six months of arrears, cleared the morning after, is."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "padlock",
+      "correction": {
+        "en": "Rain on a step tells you nothing. That lock was opened with its own key, and only two of those exist."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "ferry",
+      "correction": {
+        "en": "Nothing left in a logbook. Six sacks crossed to Ernakulam at twenty to five, consigned by nobody."
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "belt",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE WATCHMAN"
+      },
+      "text": {
+        "en": "“My key never left my belt. The chain has not been off it in nine years.”"
+      }
+    },
+    {
+      "id": "otheri",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE WEIGHMAN"
+      },
+      "text": {
+        "en": "“There are other I’s on this wharf.” He did not say the entry was not his."
+      }
+    }
+  ],
+  "interrogations": [
+    {
+      "suspectId": "thomas",
+      "setting": {
+        "en": "The tea shop across the lane, where he was at one, two and three."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Your log runs to four in the morning in one ink."
+          },
+          "answer": {
+            "en": "“I write it up at the end. My hand is slow and the nights are long.”"
+          },
+          "note": {
+            "en": "Lazy, and honest about it. A man covering a theft writes the log as he goes."
+          }
+        },
+        {
+          "ask": {
+            "en": "Two keys open that godown. Where was yours?"
+          },
+          "answer": {
+            "en": "“On my belt, where it lives. I have never taken the chain off it.”"
+          },
+          "needsClueId": "padlock",
+          "lockedHint": {
+            "en": "Pin the padlock. Ask a watchman about his key and you had better know what the lock says."
+          },
+          "unlocksClueId": "belt",
+          "note": {
+            "en": "Then it was opened with the other one, and only one other one exists."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who else was on the wharf at four?"
+          },
+          "answer": {
+            "en": "“The cart boy, like every morning. And whoever loaded him.”"
+          },
+          "note": {
+            "en": "Whoever loaded him. Nobody has said that part out loud yet."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ibrahim",
+      "setting": {
+        "en": "The weighbridge office, with the roll still on its spike."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Sixty in and fifty-four out. Explain the roll."
+          },
+          "answer": {
+            "en": "“The roll weighs. The ledger records. They are different books and they disagree sometimes.”"
+          },
+          "note": {
+            "en": "They disagree when one man writes both."
+          }
+        },
+        {
+          "ask": {
+            "en": "The carbon under the missing page reads “I. — 6 sacks — settled”."
+          },
+          "answer": {
+            "en": "“There are other I’s on this wharf.”"
+          },
+          "needsClueId": "carbon",
+          "lockedHint": {
+            "en": "Pin the carbon sheet — the pressure of that entry is the only thing he has to answer for."
+          },
+          "unlocksClueId": "otheri",
+          "note": {
+            "en": "There are. None of them cleared six months of chitty on the tenth."
+          }
+        },
+        {
+          "ask": {
+            "en": "What went to Ernakulam at twenty to five?"
+          },
+          "answer": {
+            "en": "“A handcart. Carts cross every morning. I don’t consign them.”"
+          },
+          "note": {
+            "en": "The manifest says the consignor was “godown”. Somebody wrote that word."
+          }
+        }
+      ]
+    }
+  ],
+  "hint": {
+    "fromClueId": "weighbridge",
+    "toClueId": "carbon",
+    "text": {
+      "en": "Six sacks are missing from the roll and the carbon says six were settled. Who could write both numbers?"
+    }
+  }
+}

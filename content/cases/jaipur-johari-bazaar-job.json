@@ -1,0 +1,448 @@
+{
+  "id": "jaipur-johari-bazaar-job",
+  "schema": 1,
+  "city": "jaipur",
+  "genre": "smuggling",
+  "difficulty": "devious",
+  "ambience": "CourtyardBirds",
+  "coinReward": 60,
+  "title": {
+    "en": "The Johari Bazaar Job"
+  },
+  "place": {
+    "en": "Johari Bazaar · a goldsmith’s strongroom · 3:20 AM"
+  },
+  "brief": {
+    "en": "Farida’s strongroom was opened at twenty past three without a scratch on the lock. Her day book is gone and so are forty books of gold leaf. She says one person did this. The dust on the floor says two."
+  },
+  "photoCaption": {
+    "en": "the strongroom, 3:20 am"
+  },
+  "iraNote": {
+    "en": "“Two sets of prints in the gold dust. One of them stopped and came back for a second look — that’s the one who wasn’t expecting company.”"
+  },
+  "clues": [
+    {
+      "id": "wax4",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · SEVEN-LEVER, THIRD WARD"
+      },
+      "text": {
+        "en": "Sealing wax in the third lever, cut with lamp black. Same block as the Gangauri tiffin."
+      }
+    },
+    {
+      "id": "dust",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · STRONGROOM FLOOR"
+      },
+      "text": {
+        "en": "Two sets of prints in the gold dust. One pair went in and out. One pair went in, stopped, and came back for a second look."
+      }
+    },
+    {
+      "id": "book",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "DAY BOOK · THE LAST STUB"
+      },
+      "text": {
+        "en": "Page 41 was torn before the book left. The stub still reads: “L — 900 — Teej”."
+      }
+    },
+    {
+      "id": "time4",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "BAND CARD · A JOHARI WEDDING"
+      },
+      "text": {
+        "en": "The dancer’s set finished at 2:40. The bazaar is a four-minute walk."
+      }
+    },
+    {
+      "id": "hatch",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ROOF HATCH · ABOVE THE STRONGROOM"
+      },
+      "text": {
+        "en": "Bolted from the inside. The bolt is oiled and the oil is still wet."
+      }
+    },
+    {
+      "id": "leaf",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "CONSIGNMENT NOTE · GOLD LEAF"
+      },
+      "text": {
+        "en": "Forty books in on the 14th. Booked out the same night on the 11:40 goods seat to Mumbai. Consignee left blank."
+      }
+    },
+    {
+      "id": "ghungroo",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "GHUNGROO · THE STRONGROOM SILL"
+      },
+      "text": {
+        "en": "One bell, and the sill dust beneath it is unbroken. It landed after the dust had settled."
+      }
+    },
+    {
+      "id": "cord",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE ONLY KEY · ON ITS CORD"
+      },
+      "text": {
+        "en": "Round the goldsmith’s neck all night. Her husband will swear to it."
+      },
+      "dismissNote": {
+        "en": "ruled out — she never let go of the key, which is exactly why nobody needed it"
+      }
+    },
+    {
+      "id": "stud4",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "EAR STUD · THE SHOP STEP"
+      },
+      "text": {
+        "en": "The durwan’s. Reported lost for the second time this month."
+      },
+      "dismissNote": {
+        "en": "ruled out — a man who loses the same stud twice is careless, not clever"
+      }
+    },
+    {
+      "id": "arch",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE BAZAAR ARCH, 3:05 AM"
+      },
+      "text": {
+        "en": "Pigeons up off the arch all at once. Something moved under them."
+      },
+      "dismissNote": {
+        "en": "ruled out — birds go up for cats too"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "farida",
+      "name": {
+        "en": "Farida"
+      },
+      "role": {
+        "en": "THE GOLDSMITH"
+      },
+      "hook": {
+        "en": "her strongroom · her key · her loss"
+      },
+      "face": "Farida",
+      "alibi": {
+        "en": "The only key was on her neck all night, which is the point — nobody needed it."
+      }
+    },
+    {
+      "id": "leela",
+      "name": {
+        "en": "Leela"
+      },
+      "role": {
+        "en": "THE DANCER"
+      },
+      "hook": {
+        "en": "danced four minutes away until 2:40"
+      },
+      "face": "Leela",
+      "confession": {
+        "en": "Nine hundred owed since Teej, and a day book that said so. She found the strongroom already open, took the page she came for, and went out over the roof. The gold was gone before she arrived."
+      }
+    },
+    {
+      "id": "girdhar",
+      "name": {
+        "en": "Girdhar"
+      },
+      "role": {
+        "en": "THE DURWAN"
+      },
+      "hook": {
+        "en": "his stud, on the shop step, again"
+      },
+      "face": "Girdhar",
+      "alibi": {
+        "en": "On the haveli gate eleven streets away, and this time the register is in somebody else’s hand."
+      }
+    },
+    {
+      "id": "chotu",
+      "name": {
+        "en": "Chotu"
+      },
+      "role": {
+        "en": "THE TIFFIN RUNNER"
+      },
+      "hook": {
+        "en": "delivered a crate to this step last week"
+      },
+      "face": "Chotu",
+      "alibi": {
+        "en": "Asleep at the rickshaw stand, where the chowkidar kicks him awake at four and did."
+      }
+    },
+    {
+      "id": "ranisa",
+      "name": {
+        "en": "Rani-sa"
+      },
+      "role": {
+        "en": "THE DOWAGER"
+      },
+      "hook": {
+        "en": "the gold leaf was hers, and insured"
+      },
+      "face": "Ranisa",
+      "alibi": {
+        "en": "Her leaf, her order, her loss. Nobody breaks into a strongroom to rob themselves — and her claim was never filed."
+      }
+    }
+  ],
+  "culpritId": "leela",
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "book",
+      "correction": {
+        "en": "A key on a woman’s neck is not a motive. Nine hundred rupees owed since Teej is."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "time4",
+      "correction": {
+        "en": "That stud has been on the step a fortnight. A set that finished at 2:40 four minutes away has not."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "hatch",
+      "correction": {
+        "en": "Pigeons don’t tell you how anyone left. There is a hatch in that roof and somebody oiled the bolt."
+      }
+    }
+  ],
+  "story": {
+    "id": "jaipur-pink-city",
+    "caseNumber": 4
+  },
+  "testimonyClues": [
+    {
+      "id": "never",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE GOLDSMITH"
+      },
+      "text": {
+        "en": "“The key never left my neck. Not to sleep, not to wash.”"
+      }
+    },
+    {
+      "id": "manyl",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DANCER"
+      },
+      "text": {
+        "en": "“There are a great many L’s in Jaipur.” She did not say the debt was not hers."
+      }
+    },
+    {
+      "id": "family",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DOWAGER"
+      },
+      "text": {
+        "en": "“Somebody has spent my gold on a train ticket. How very like this family.”"
+      }
+    }
+  ],
+  "interrogations": [
+    {
+      "suspectId": "farida",
+      "setting": {
+        "en": "Behind her own counter, with the strongroom door open behind her."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who else knew the leaf was in there?"
+          },
+          "answer": {
+            "en": "“Whoever wrote the consignment note. Half the bazaar handles those.”"
+          },
+          "note": {
+            "en": "Half the bazaar — and exactly one of them cast a key."
+          }
+        },
+        {
+          "ask": {
+            "en": "There is sealing wax in the third lever."
+          },
+          "answer": {
+            "en": "“Then somebody made a key. I have the only one and I have never let go of it.”"
+          },
+          "needsClueId": "wax4",
+          "lockedHint": {
+            "en": "Pin the lab slip on the lock. The wax is the question."
+          },
+          "unlocksClueId": "never",
+          "note": {
+            "en": "She never let go of it, which is precisely why nobody needed it."
+          }
+        },
+        {
+          "ask": {
+            "en": "Two sets of prints in the gold dust."
+          },
+          "answer": {
+            "en": "“Then two people. The one who came for the leaf, and the one who came for my book.”"
+          },
+          "needsClueId": "dust",
+          "lockedHint": {
+            "en": "Pin the strongroom floor. Two sets of prints is a photograph, not a feeling."
+          },
+          "note": {
+            "en": "Two people, an hour apart — and only one of them knew the other had been."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "leela",
+      "setting": {
+        "en": "A rehearsal room in Johari, at noon, with the tabla still out."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What time did the wedding set finish?"
+          },
+          "answer": {
+            "en": "“Twenty to three. The band card will say so.”"
+          },
+          "note": {
+            "en": "Twenty to three. The strongroom was standing open at twenty past."
+          }
+        },
+        {
+          "ask": {
+            "en": "Page 41. “L — 900 — Teej”."
+          },
+          "answer": {
+            "en": "“There are a great many L’s in Jaipur.”"
+          },
+          "needsClueId": "book",
+          "lockedHint": {
+            "en": "Pin the day book’s stub — the page is the only thing she has to answer for."
+          },
+          "unlocksClueId": "manyl",
+          "note": {
+            "en": "There are. There is one who owed nine hundred since Teej and finished work four minutes away."
+          }
+        },
+        {
+          "ask": {
+            "en": "A bell on the sill, on dust that had already settled."
+          },
+          "answer": {
+            "en": "“I have lost bells in six districts. It proves I was somewhere, once.”"
+          },
+          "needsClueId": "ghungroo",
+          "lockedHint": {
+            "en": "Pin the ghungroo. The dust under it is the whole point of it."
+          },
+          "note": {
+            "en": "Once. The dust says after three in the morning."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ranisa",
+      "setting": {
+        "en": "Her own courtyard. She does not offer you a chair."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Forty books of leaf. Insured?"
+          },
+          "answer": {
+            "en": "“Naturally. And no claim has been filed, before you ask.”"
+          },
+          "note": {
+            "en": "No claim. Whatever this was, it was not for the insurance."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who arranged the consignment?"
+          },
+          "answer": {
+            "en": "“My steward, on my order, for Teej. It was to be beaten into a canopy.”"
+          },
+          "note": {
+            "en": "So the leaf’s route was written down where anybody in the bazaar could read it."
+          }
+        },
+        {
+          "ask": {
+            "en": "It was booked out on the 11:40 the same night."
+          },
+          "answer": {
+            "en": "“Then somebody has spent my gold on a train ticket. How very like this family.”"
+          },
+          "needsClueId": "leaf",
+          "lockedHint": {
+            "en": "Pin the consignment note — the booking is what she has to be told about."
+          },
+          "unlocksClueId": "family",
+          "note": {
+            "en": "“This family.” She said it before she had thought about it."
+          }
+        }
+      ]
+    }
+  ],
+  "bankedClue": {
+    "en": "A goods seat on the 11:40 to Mumbai, consignee left blank"
+  },
+  "hint": {
+    "fromClueId": "dust",
+    "toClueId": "time4",
+    "text": {
+      "en": "Two people were in that room an hour apart. Which of them finished work at 2:40, four minutes away?"
+    }
+  }
+}

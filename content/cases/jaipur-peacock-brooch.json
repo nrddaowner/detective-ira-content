@@ -1,0 +1,453 @@
+{
+  "id": "jaipur-peacock-brooch",
+  "schema": 1,
+  "city": "jaipur",
+  "genre": "theft",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "coinReward": 50,
+  "title": {
+    "en": "The Peacock Brooch"
+  },
+  "place": {
+    "en": "Surajgarh Haveli · Teej night · 6:05 PM"
+  },
+  "brief": {
+    "en": "Sixty guests filled Surajgarh Haveli for Teej. Between the aarti and the fireworks, Rani-sa’s nine-gem peacock brooch vanished from the puja room. The doors were watched. The window was latched. Somebody inside knows exactly where it went."
+  },
+  "photoCaption": {
+    "en": "the haveli, 6:40 pm"
+  },
+  "iraNote": {
+    "en": "“An anklet says she was there. It doesn’t say when. Check who signs with a V.”"
+  },
+  "clues": [
+    {
+      "id": "note",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "TORN NOTE · FOUND IN THE PUJA ROOM"
+      },
+      "text": {
+        "en": "“Meet me at the jharokha after aarti. Don’t be late. — V”"
+      }
+    },
+    {
+      "id": "ticket",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "TRAIN TICKET · TUCKED IN A COAT"
+      },
+      "text": {
+        "en": "JAIPUR → MUMBAI · 11:40 PM tonight · seat 42 · name left blank"
+      }
+    },
+    {
+      "id": "polaroid",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · SKYLIGHT"
+      },
+      "text": {
+        "en": "Puja-room skylight latch — broken from the INSIDE."
+      }
+    },
+    {
+      "id": "ghee",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · JEWEL BOX"
+      },
+      "text": {
+        "en": "Fresh ghee smudge on the jewel-box latch. Kitchen-grade."
+      },
+      "dismissNote": {
+        "en": "ruled out — every cook in Jaipur has ghee on their hands"
+      }
+    },
+    {
+      "id": "ledger",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "LEDGER SLIP · SETHJI’S BOOKS"
+      },
+      "text": {
+        "en": "Two lakh due on Teej night. The borrower’s name has been inked over."
+      }
+    },
+    {
+      "id": "anklet",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "ANKLET BELL · UNDER THE JHAROKHA"
+      },
+      "text": {
+        "en": "One ghungroo from a dancer’s anklet. No way to date the fall."
+      },
+      "dismissNote": {
+        "en": "ruled out — it says she was there, not when"
+      }
+    },
+    {
+      "id": "guest",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "GUEST BOOK · SURAJGARH HAVELI"
+      },
+      "text": {
+        "en": "Sixty names. One arrived at 6:50 — an hour into the aarti — and signed with an initial."
+      }
+    },
+    {
+      "id": "lamp",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · PUJA-ROOM LAMP"
+      },
+      "text": {
+        "en": "Snuffed with a wet cloth, not blown out. Blowing it would have been seen from the courtyard."
+      }
+    },
+    {
+      "id": "shawl",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · SETHJI’S LANE, NEXT MORNING"
+      },
+      "text": {
+        "en": "A man at the counter at 9:04 in a Kashmiri shawl. The shawl is the only thing in focus."
+      },
+      "dismissNote": {
+        "en": "ruled out — half of Jaipur owns that shawl"
+      }
+    },
+    {
+      "id": "earstud",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "GOLD STUD · THE HAVELI STAIRCASE"
+      },
+      "text": {
+        "en": "A man’s ear stud, third step. Reported lost by the durwan a week earlier."
+      },
+      "dismissNote": {
+        "en": "ruled out — he lost it a week ago and said so at the time"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "madhav",
+      "name": {
+        "en": "Madhav"
+      },
+      "role": {
+        "en": "THE COOK"
+      },
+      "hook": {
+        "en": "fetched ghee near the puja room"
+      },
+      "face": "Madhav",
+      "alibi": {
+        "en": "The ghee was his, the timing was not. He was at the tandoor from 5:30, in front of nine people."
+      }
+    },
+    {
+      "id": "leela",
+      "name": {
+        "en": "Leela"
+      },
+      "role": {
+        "en": "THE DANCER"
+      },
+      "hook": {
+        "en": "her anklet bell, under the jharokha"
+      },
+      "face": "Leela",
+      "alibi": {
+        "en": "Her anklet was at the jharokha — but she was performing on stage from 5 to 7. Forty witnesses."
+      }
+    },
+    {
+      "id": "vikram",
+      "name": {
+        "en": "Thakur Vikram"
+      },
+      "role": {
+        "en": "THE COUSIN"
+      },
+      "hook": {
+        "en": "arrived late · owes Sethji two lakh"
+      },
+      "face": "Vikram",
+      "confession": {
+        "en": "Planned to lift the brooch, pay Sethji, and catch the 11:40 to Mumbai."
+      }
+    },
+    {
+      "id": "bansi",
+      "name": {
+        "en": "Bansi"
+      },
+      "role": {
+        "en": "THE PIGEON BOY"
+      },
+      "hook": {
+        "en": "his birds roost above the skylight"
+      },
+      "face": "Bansi",
+      "alibi": {
+        "en": "His birds broke the skylight latch weeks ago. He was on the roof, and the roof has no way down into the puja room."
+      }
+    },
+    {
+      "id": "sethji",
+      "name": {
+        "en": "Sethji"
+      },
+      "role": {
+        "en": "THE MONEYLENDER"
+      },
+      "hook": {
+        "en": "the two lakh is owed to him"
+      },
+      "face": "Sethji",
+      "alibi": {
+        "en": "A moneylender wants his money, not a brooch he’d have to sell twice. He was at his counter until midnight, and his counter had a queue."
+      }
+    }
+  ],
+  "culpritId": "vikram",
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "ledger",
+      "correction": {
+        "en": "A motive is a debt, not a smudge. Two lakh came due on Teej night."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "note",
+      "correction": {
+        "en": "The anklet says somebody was at the jharokha. The note says who called them there."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "ticket",
+      "correction": {
+        "en": "Nobody escapes on a broken latch. There was a train at 11:40 with no name on it."
+      }
+    }
+  ],
+  "story": {
+    "id": "jaipur-pink-city",
+    "caseNumber": 3
+  },
+  "testimonyClues": [
+    {
+      "id": "stage",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE DANCER"
+      },
+      "text": {
+        "en": "“On a stage, five until seven. Forty people. Ask any of them.”"
+      },
+      "dismissNote": {
+        "en": "ruled out — a true alibi clears one person and charges nobody"
+      }
+    },
+    {
+      "id": "signal",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE PIGEON BOY"
+      },
+      "text": {
+        "en": "“Someone’s been leaving a lamp in the stairwell window at night. A lamp means come up.”"
+      }
+    },
+    {
+      "id": "settled",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE COUSIN"
+      },
+      "text": {
+        "en": "“A private matter, and a settled one.” It came due that night, and Sethji’s book says it was never paid."
+      }
+    }
+  ],
+  "interrogations": [
+    {
+      "suspectId": "leela",
+      "setting": {
+        "en": "The green room, still in her ghungroos, one anklet short."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "When did you lose the bell?"
+          },
+          "answer": {
+            "en": "“I don’t know. You don’t hear one bell go when there are ninety.”"
+          },
+          "note": {
+            "en": "So the anklet dates nothing — which is exactly what the lab said about it."
+          }
+        },
+        {
+          "ask": {
+            "en": "A ghungroo under the jharokha. What were you doing there?"
+          },
+          "answer": {
+            "en": "“I wasn’t. I was on a stage from five until seven and forty people watched me do it.”"
+          },
+          "needsClueId": "anklet",
+          "lockedHint": {
+            "en": "Pin the anklet bell first. Put the thing in her hand before you put the question."
+          },
+          "unlocksClueId": "stage",
+          "note": {
+            "en": "Forty witnesses. She is the only person in this house with an alibi you could hang a hat on."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who else was at the jharokha?"
+          },
+          "answer": {
+            "en": "“Somebody was waiting. I saw a shawl going up the stairs at half six.”"
+          },
+          "note": {
+            "en": "A shawl on the stairs at half six. The aarti began at half five."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bansi",
+      "setting": {
+        "en": "The roof, among the pigeons, which he will not come down from."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Your birds broke that latch?"
+          },
+          "answer": {
+            "en": "“Weeks ago. I told the durwan and he wrote it in the book.”"
+          },
+          "note": {
+            "en": "The latch was already broken. So the skylight proves *inside*, not entry."
+          }
+        },
+        {
+          "ask": {
+            "en": "Can a man get from this roof into the puja room?"
+          },
+          "answer": {
+            "en": "“No. There’s a beam and then there’s a drop. I’ve never done it, and I’m the only one who’d try.”"
+          },
+          "note": {
+            "en": "Then nobody came down. Whoever took it was already in the house."
+          }
+        },
+        {
+          "ask": {
+            "en": "The latch was broken from the inside. Who else goes up here?"
+          },
+          "answer": {
+            "en": "“Nobody. But somebody’s been leaving a lamp in the stairwell window at night. A lamp means come up.”"
+          },
+          "needsClueId": "polaroid",
+          "lockedHint": {
+            "en": "Pin the skylight polaroid — the inside break is the whole reason to be on this roof."
+          },
+          "unlocksClueId": "signal",
+          "note": {
+            "en": "A signal, then. Somebody has been arranging to meet somebody, and not for the first time."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "vikram",
+      "setting": {
+        "en": "The drawing room. He answers with his coat still on."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You arrived at ten to seven."
+          },
+          "answer": {
+            "en": "“Traffic. Teej traffic. Ask anybody who came from Amber.”"
+          },
+          "note": {
+            "en": "An hour into the aarti — and he signed the guest book with an initial."
+          }
+        },
+        {
+          "ask": {
+            "en": "Two lakh, due to Sethji on Teej night."
+          },
+          "answer": {
+            "en": "“A private matter, and a settled one.”"
+          },
+          "needsClueId": "ledger",
+          "lockedHint": {
+            "en": "Pin the ledger slip. A debt you have not written down is a rumour, and he does not answer rumours."
+          },
+          "unlocksClueId": "settled",
+          "note": {
+            "en": "Settled. He says it as though it already were."
+          }
+        },
+        {
+          "ask": {
+            "en": "There is a seat on the 11:40 with no name on it."
+          },
+          "answer": {
+            "en": "“A man may hold a ticket. Holding a ticket is not a crime.”"
+          },
+          "needsClueId": "ticket",
+          "lockedHint": {
+            "en": "Pin the ticket. You cannot put a train to a man from memory."
+          },
+          "note": {
+            "en": "No, it isn’t. But a man who booked no name and arrived an hour late is a man with somewhere to be."
+          }
+        }
+      ]
+    }
+  ],
+  "bankedClue": {
+    "en": "A note signed “V” — the same hand as the inked-over ledger name"
+  },
+  "teaser": {
+    "en": "Rani-sa’s nine-gem brooch vanished mid-festival at Surajgarh Haveli. Solve it to unlock the Pink City finale."
+  },
+  "hint": {
+    "fromClueId": "note",
+    "toClueId": "ticket",
+    "text": {
+      "en": "Whoever wrote the note plans to be on that train. Who signs with a V — and booked no name?"
+    }
+  }
+}

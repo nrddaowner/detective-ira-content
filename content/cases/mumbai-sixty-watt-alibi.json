@@ -1,0 +1,338 @@
+{
+  "id": "mumbai-sixty-watt-alibi",
+  "schema": 1,
+  "city": "mumbai",
+  "genre": "murder",
+  "difficulty": "tricky",
+  "ambience": "TrainClatter",
+  "coinReward": 40,
+  "title": {
+    "en": "The Sixty-Watt Alibi"
+  },
+  "place": {
+    "en": "A Lalbaug chawl · twenty minutes of load-shedding · 10:40 PM"
+  },
+  "brief": {
+    "en": "The lights went out over Feeder 4 for twenty minutes and room 14 was emptied of a family’s gold. The whole wing stood in the corridor in the dark. Somebody worked by a light nobody else had."
+  },
+  "photoCaption": {
+    "en": "the wing, 10:52 pm"
+  },
+  "iraNote": {
+    "en": "“Everyone in that corridor was in the dark. Find the one who wasn’t.”"
+  },
+  "clues": [
+    {
+      "id": "notice",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "LOAD-SHEDDING NOTICE · WING BOARD"
+      },
+      "text": {
+        "en": "Feeder 4, 10:40 to 11:00. Posted on the 3rd. Feeder 4 is this wing."
+      }
+    },
+    {
+      "id": "lens",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "TORCH GLASS · THE LANDING"
+      },
+      "text": {
+        "en": "A cracked lens off a long-barrel torch. Meter readers carry them. Nobody in this chawl does."
+      }
+    },
+    {
+      "id": "hasp",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "POLAROID · ROOM 14 DOOR"
+      },
+      "text": {
+        "en": "The hasp is unbent and the screws are bright. The plate came off and went back on."
+      }
+    },
+    {
+      "id": "card",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "METER CARD · ROOM 14"
+      },
+      "text": {
+        "en": "Read on the 1st. Read again on the 3rd. Nobody reads a meter twice in three days."
+      }
+    },
+    {
+      "id": "bus",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "BUS TICKET · LALBAUG DEPOT"
+      },
+      "text": {
+        "en": "Lalbaug to Byculla, punched 11:12 — twelve minutes after the lights came back."
+      }
+    },
+    {
+      "id": "grille",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "FEATHER · WINDOW GRILLE"
+      },
+      "text": {
+        "en": "Crow. That grille has been a roost for years."
+      },
+      "dismissNote": {
+        "en": "ruled out — the birds were here first"
+      }
+    },
+    {
+      "id": "tap",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "CORRIDOR STATEMENT · NINE WITNESSES"
+      },
+      "text": {
+        "en": "Two neighbours argued about the water tap for the whole twenty minutes. Nine people heard every word."
+      },
+      "dismissNote": {
+        "en": "ruled out — loud is not guilty, and it alibis two of them"
+      }
+    },
+    {
+      "id": "chappal",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE STAIRWELL"
+      },
+      "text": {
+        "en": "One chappal, size nine, left on the half-landing."
+      },
+      "dismissNote": {
+        "en": "ruled out — half the chawl leaves chappals on that landing"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "sunil",
+      "name": {
+        "en": "Sunil"
+      },
+      "role": {
+        "en": "THE METER READER"
+      },
+      "hook": {
+        "en": "knows the feeder schedule by heart"
+      },
+      "face": "Ramesh",
+      "confession": {
+        "en": "He read room 14 twice in three days to be sure of what was in it, unscrewed the hasp plate in the dark by his own torch, and was on a bus to Byculla twelve minutes after the lights came back."
+      }
+    },
+    {
+      "id": "pushpa",
+      "name": {
+        "en": "Pushpa"
+      },
+      "role": {
+        "en": "THE NEIGHBOUR"
+      },
+      "hook": {
+        "en": "shares a wall with room 14"
+      },
+      "face": "Ranisa",
+      "alibi": {
+        "en": "Shouting about the water tap for the entire twenty minutes, in front of nine people."
+      }
+    },
+    {
+      "id": "anwar",
+      "name": {
+        "en": "Anwar"
+      },
+      "role": {
+        "en": "THE WATCHMAN"
+      },
+      "hook": {
+        "en": "the stairwell is his to watch"
+      },
+      "face": "Girdhar",
+      "alibi": {
+        "en": "In the corridor with everyone else, holding the only lantern the wing owns — which is why nobody could work by it."
+      }
+    },
+    {
+      "id": "nitin",
+      "name": {
+        "en": "Nitin"
+      },
+      "role": {
+        "en": "THE SON"
+      },
+      "hook": {
+        "en": "room 14 is his mother’s"
+      },
+      "face": "Bansi",
+      "alibi": {
+        "en": "The other half of the water-tap argument. Nine witnesses, and his mother’s gold."
+      }
+    }
+  ],
+  "culpritId": "sunil",
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "card",
+      "correction": {
+        "en": "A chappal is not a motive. A meter read twice in three days is somebody counting what’s inside."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "lens",
+      "correction": {
+        "en": "Everybody had the dark. One man had a torch, and he left the glass of it on the landing."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "bus",
+      "correction": {
+        "en": "Nobody escapes through a window grille. There was a bus to Byculla at 11:12 and somebody was on it."
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "battery",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE WATCHMAN"
+      },
+      "text": {
+        "en": "“Nobody in this wing owns a torch. The lantern is the wing’s, and it was in my hand.”"
+      }
+    },
+    {
+      "id": "query",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE METER READER"
+      },
+      "text": {
+        "en": "“A query. The tenant said the units were wrong.” No such complaint is on file."
+      }
+    }
+  ],
+  "interrogations": [
+    {
+      "suspectId": "anwar",
+      "setting": {
+        "en": "The stairwell, holding the wing’s one lantern."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Twenty minutes of dark. What did you see?"
+          },
+          "answer": {
+            "en": "“The corridor, by my own lamp. Everyone was in it and everyone was shouting.”"
+          },
+          "note": {
+            "en": "Everyone in the corridor. So room 14 was worked on by somebody who wasn’t."
+          }
+        },
+        {
+          "ask": {
+            "en": "There is a torch lens on the landing. Whose torch?"
+          },
+          "answer": {
+            "en": "“Not mine. I carry a lantern — the wing bought it because nobody here can afford batteries.”"
+          },
+          "needsClueId": "lens",
+          "lockedHint": {
+            "en": "Pin the torch glass. He cannot answer for a lens you have not decided matters."
+          },
+          "unlocksClueId": "battery",
+          "note": {
+            "en": "Nobody here can afford batteries. So the torch came from outside the wing."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who comes into this building who doesn’t live in it?"
+          },
+          "answer": {
+            "en": "“Post, milk, and the meter man. The meter man has the stairwell key.”"
+          },
+          "note": {
+            "en": "That is a short list, and it just got shorter."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "sunil",
+      "setting": {
+        "en": "The depot at Byculla, on his break, with his bag on his knees."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You read room 14 on the 1st."
+          },
+          "answer": {
+            "en": "“That’s the cycle. Every flat, first of the month.”"
+          },
+          "note": {
+            "en": "The cycle, then. Which makes the second reading the one to ask about."
+          }
+        },
+        {
+          "ask": {
+            "en": "You read it again on the 3rd."
+          },
+          "answer": {
+            "en": "“A query. The tenant said the units were wrong.”"
+          },
+          "needsClueId": "card",
+          "lockedHint": {
+            "en": "Pin the meter card — two readings in three days is the whole question."
+          },
+          "unlocksClueId": "query",
+          "note": {
+            "en": "A query nobody in room 14 raised. There is no complaint on any book."
+          }
+        },
+        {
+          "ask": {
+            "en": "Where were you at eleven?"
+          },
+          "answer": {
+            "en": "“On the 11:12 to Byculla. You can see the punch.”"
+          },
+          "note": {
+            "en": "You can. Twelve minutes after the lights came back, from a stop four minutes’ walk away."
+          }
+        }
+      ]
+    }
+  ],
+  "hint": {
+    "fromClueId": "notice",
+    "toClueId": "card",
+    "text": {
+      "en": "The cut was posted on the 3rd, and room 14’s meter was read on the 3rd. Who reads the board and the meter?"
+    }
+  }
+}
