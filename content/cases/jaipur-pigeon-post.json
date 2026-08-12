@@ -1,0 +1,563 @@
+{
+  "id": "jaipur-pigeon-post",
+  "schema": 1,
+  "city": "jaipur",
+  "genre": "blackmail",
+  "difficulty": "devious",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jaipur-pink-city",
+    "caseNumber": 5
+  },
+  "title": {
+    "en": "The Pigeon Post"
+  },
+  "place": {
+    "en": "Surajgarh Haveli · the account room · Thursday, 9:15 AM"
+  },
+  "brief": {
+    "en": "Three people in this bazaar are paying somebody to stay quiet, and the demands arrive by pigeon — a sum, a place, a day, rolled inside a brass ring on a bird's leg. Each note knows a thing that is written down in exactly one room in Jaipur. The birds belong to Bansi, who flies them where he is told and cannot read a word of what he is carrying."
+  },
+  "photoCaption": {
+    "en": "the loft, surajgarh haveli"
+  },
+  "iraNote": {
+    "en": "“A pigeon is a postman who can’t be questioned. So question the paper instead — where it was torn from, and what ink it was written in.”"
+  },
+  "teaser": {
+    "en": "Three people are paying to stay quiet, and every demand arrives on a pigeon's leg."
+  },
+  "clues": [
+    {
+      "id": "note1",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE NOTE · TO THE GOLDSMITH"
+      },
+      "text": {
+        "en": "“₹2,000 in the niche behind the Ganesh at the Chandpol baori. Thursday, before the second bell.” A clerk's hand, ruled paper."
+      }
+    },
+    {
+      "id": "ring",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE BRASS RING"
+      },
+      "text": {
+        "en": "Stamped SG-19. It is a Surajgarh loft ring, and the paper was rolled inside it, not tied to it."
+      }
+    },
+    {
+      "id": "jama",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "JAMA-KHARCH · TEEJ FORTNIGHT"
+      },
+      "text": {
+        "en": "₹9,000 short. The entry that closes the fortnight sits over an erasure, in the munshi's own hand."
+      }
+    },
+    {
+      "id": "ruled",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE NOTE PAPER"
+      },
+      "text": {
+        "en": "Ruled, eleven lines to the inch, torn along a stitched edge. It is daybook paper, and this haveli buys it by the ream."
+      }
+    },
+    {
+      "id": "daybook",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE ACCOUNT ROOM DAYBOOK"
+      },
+      "text": {
+        "en": "Three leaves cut out close to the stitching with a blade. The stubs are still in the binding, and they count three."
+      }
+    },
+    {
+      "id": "three",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHAT THE THREE PAYERS SHARE"
+      },
+      "text": {
+        "en": "A pledged dowry, a written-off debt, and a settlement kept out of the family book. All three are recorded in the account room and nowhere else in Jaipur."
+      }
+    },
+    {
+      "id": "ink",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE INK"
+      },
+      "text": {
+        "en": "Iron-gall, and the same batch as the account room's own well — the estate buys it by the seer from one shop in Kishanpole."
+      }
+    },
+    {
+      "id": "dates",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHEN THE BIRDS FLEW"
+      },
+      "text": {
+        "en": "The 4th, the 11th, the 18th. On each of those mornings the reading of the estate accounts moved one week closer."
+      }
+    },
+    {
+      "id": "hawk",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE LOFT ROOF"
+      },
+      "text": {
+        "en": "A hawk's barred feather caught in the netting."
+      },
+      "dismissNote": {
+        "en": "ruled out — a hawk over a pigeon loft is a Tuesday, and the netting is why the birds are still alive"
+      }
+    },
+    {
+      "id": "scale",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "ASSAY SCALE · THE GOLDSMITH'S"
+      },
+      "text": {
+        "en": "Out of true by two rattis, in the shop's favour."
+      },
+      "dismissNote": {
+        "en": "ruled out — she reported it to the guild herself in Asadh, which is not what a blackmailer does with a secret"
+      }
+    },
+    {
+      "id": "sethbook",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "SETHJI'S OWN BOOK"
+      },
+      "text": {
+        "en": "All three payers are in it, with dates and sums."
+      },
+      "dismissNote": {
+        "en": "ruled out — a moneylender lists everybody; that is the entire job description"
+      }
+    },
+    {
+      "id": "letter",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "RANI-SA'S LETTER"
+      },
+      "text": {
+        "en": "Asks the munshi to lay the Teej accounts before her."
+      },
+      "dismissNote": {
+        "en": "ruled out — she asks in the same month every year, and the reply is what he is frightened of"
+      }
+    },
+    {
+      "id": "ghee",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE COOK AT CHANDPOL"
+      },
+      "text": {
+        "en": "Madhav bought ghee at the Chandpol market on all three of the drop mornings."
+      },
+      "dismissNote": {
+        "en": "ruled out — he buys ghee at Chandpol four mornings a week and has since 1998"
+      }
+    },
+    {
+      "id": "redcap",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "POLAROID · THE BAORI STEPS"
+      },
+      "text": {
+        "en": "A boy in a red cap on the third step, close to the niche."
+      },
+      "dismissNote": {
+        "en": "ruled out — the water-carrier's son, on those steps every morning of his life"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidflew",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE PIGEON BOY"
+      },
+      "text": {
+        "en": "“Munshi-ji gives me a bird and a rooftop and I let it go. I do not know what is in the ring. I could not know what is in the ring.”"
+      }
+    },
+    {
+      "id": "saidpaid",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE GOLDSMITH"
+      },
+      "text": {
+        "en": "“I have paid twice. What that note knew about my pledge, four people know — and three of them have been dead for years.”"
+      }
+    },
+    {
+      "id": "saidhole",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE MUNSHI"
+      },
+      "text": {
+        "en": "“Nine thousand walked out of this room on Teej night and I wrote it closed to keep a name out of the bazaar. The reading is in Kartik. I have until Kartik to put it back.”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "bhanwar",
+      "name": {
+        "en": "Bhanwar Lal"
+      },
+      "role": {
+        "en": "THE MUNSHI"
+      },
+      "hook": {
+        "en": "keeps every book this family owns"
+      },
+      "confession": {
+        "en": "Cut three leaves from his own daybook, wrote three demands in the estate's ink, and sent them out on Bansi's birds — to put back nine thousand rupees he had covered for somebody else before the accounts are read in Kartik."
+      }
+    },
+    {
+      "id": "bansi",
+      "name": {
+        "en": "Bansi"
+      },
+      "role": {
+        "en": "THE PIGEON BOY"
+      },
+      "hook": {
+        "en": "every bird that flew is his"
+      },
+      "face": "Bansi",
+      "alibi": {
+        "en": "He flies a bird to a rooftop for whoever asks and cannot read a line of what he carries. A courier who cannot read the demand cannot have written it."
+      }
+    },
+    {
+      "id": "farida",
+      "name": {
+        "en": "Farida"
+      },
+      "role": {
+        "en": "THE GOLDSMITH"
+      },
+      "hook": {
+        "en": "assays half the pledges in Johari Bazaar"
+      },
+      "face": "Farida",
+      "alibi": {
+        "en": "She is one of the three paying, and she brought the second note to the police herself rather than the money."
+      }
+    },
+    {
+      "id": "sethji",
+      "name": {
+        "en": "Sethji"
+      },
+      "role": {
+        "en": "THE MONEYLENDER"
+      },
+      "hook": {
+        "en": "knows what every house in this lane owes"
+      },
+      "face": "Sethji",
+      "alibi": {
+        "en": "He knows the debts but not the settlement kept out of the family book — that one never left the account room, and it is in all three notes."
+      }
+    },
+    {
+      "id": "ranisa",
+      "name": {
+        "en": "Rani-sa"
+      },
+      "role": {
+        "en": "THE DOWAGER"
+      },
+      "hook": {
+        "en": "the haveli, the loft and the account room are all hers"
+      },
+      "face": "Ranisa",
+      "alibi": {
+        "en": "She is the one person here who could simply ask for the money, and the accounts she has been demanding for a month are the very ones the notes are paying to hide."
+      }
+    },
+    {
+      "id": "madhav",
+      "name": {
+        "en": "Madhav"
+      },
+      "role": {
+        "en": "THE COOK"
+      },
+      "hook": {
+        "en": "in every room of this house by six each morning"
+      },
+      "face": "Madhav",
+      "alibi": {
+        "en": "He was at Chandpol on all three mornings, which is where he is four mornings a week — and he signs his own wages with a thumb."
+      }
+    }
+  ],
+  "culpritId": "bhanwar",
+  "interrogations": [
+    {
+      "suspectId": "bansi",
+      "setting": {
+        "en": "The loft, forty birds settling, the netting throwing squares of shade."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How does a bird know where to go?"
+          },
+          "answer": {
+            "en": "“It doesn't. It knows where home is. You carry it away and it comes back — that is the whole of it.”"
+          },
+          "note": {
+            "en": "So the notes did not fly *to* the payers. Somebody carried a bird out and let it come home with the reply."
+          }
+        },
+        {
+          "ask": {
+            "en": "Who asks you for a bird?"
+          },
+          "answer": {
+            "en": "“Anybody in the house. They are the family's birds. I only keep them.”"
+          },
+          "note": {
+            "en": "Anybody in the house — which is the answer that makes the loft useless and the ring interesting."
+          }
+        },
+        {
+          "ask": {
+            "en": "This ring is SG-19, off your own loft."
+          },
+          "answer": {
+            "en": "“Munshi-ji gives me a bird and a rooftop and I let it go. I do not know what is in the ring. I could not know what is in the ring.”"
+          },
+          "needsClueId": "ring",
+          "lockedHint": {
+            "en": "Pin the brass ring. He will not be told about his own birds — put the number in his hand."
+          },
+          "unlocksClueId": "saidflew",
+          "note": {
+            "en": "He says the name without a flicker, because to him it is not an accusation. It is who hands him the bird."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "farida",
+      "setting": {
+        "en": "The goldsmith's shop, the shutter half down, a second note still folded in her till."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How much have you paid?"
+          },
+          "answer": {
+            "en": "“Two thousand, twice. The third I brought to you instead, which is why we are talking.”"
+          },
+          "note": {
+            "en": "She stopped paying and came in. That is the one move a blackmailer cannot survive."
+          }
+        },
+        {
+          "ask": {
+            "en": "What does the note have on you?"
+          },
+          "answer": {
+            "en": "“A pledge I took in and should not have. It is written in one book and I am not the one who wrote it.”"
+          },
+          "needsClueId": "note1",
+          "lockedHint": {
+            "en": "Pin the note itself. She will not name her own secret to somebody who has not read it."
+          },
+          "unlocksClueId": "saidpaid",
+          "note": {
+            "en": "Four people knew, three are dead, and the fourth keeps the book it is written in."
+          }
+        },
+        {
+          "ask": {
+            "en": "Did you go to the baori?"
+          },
+          "answer": {
+            "en": "“Twice, before the second bell, and both times the niche was empty within the hour. I did not see a soul lift it.”"
+          },
+          "note": {
+            "en": "Empty within the hour, unwatched. Whoever collects knows exactly how long that step stays quiet."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ranisa",
+      "setting": {
+        "en": "The upper courtyard, the account books she has asked for four times stacked unopened."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who may take a leaf from the daybook?"
+          },
+          "answer": {
+            "en": "“Nobody. It is stitched precisely so that nobody may.”"
+          },
+          "note": {
+            "en": "And three leaves are gone, cut close to the stitching by somebody who knew that."
+          }
+        },
+        {
+          "ask": {
+            "en": "You have been asking for the Teej accounts since Bhadra."
+          },
+          "answer": {
+            "en": "“Four times. I am told they are with the binder. A book is not at the binder for six weeks unless somebody wants it there.”"
+          },
+          "needsClueId": "letter",
+          "lockedHint": {
+            "en": "Pin her letter. She answers her own correspondence and very little else."
+          },
+          "note": {
+            "en": "Six weeks at the binder. The reading is in Kartik, and somebody is counting the same weeks she is."
+          }
+        },
+        {
+          "ask": {
+            "en": "What happens at the reading?"
+          },
+          "answer": {
+            "en": "“Every rupee is called out in front of the family. It has been done that way since my husband's grandfather.”"
+          },
+          "note": {
+            "en": "Called out in front of the family. A hole of nine thousand has a date on it."
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bhanwar",
+      "setting": {
+        "en": "The account room, the inkwell open, the daybook shut under his hand."
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Three leaves are cut out of this daybook."
+          },
+          "answer": {
+            "en": "“Spoiled pages. I cut them and I burn them; a spoiled page in a ledger is worse than no page.”"
+          },
+          "needsClueId": "daybook",
+          "lockedHint": {
+            "en": "Pin the daybook. Counting stubs to a munshi is not the same as showing him the stubs."
+          },
+          "note": {
+            "en": "Three spoiled pages, three notes. He does not ask how many notes there are."
+          }
+        },
+        {
+          "ask": {
+            "en": "The notes are in this room's ink and this room's paper."
+          },
+          "answer": {
+            "en": "“Half of Kishanpole sells that ink and every counting house in the city rules its paper the same.”"
+          },
+          "needsClueId": "ink",
+          "lockedHint": {
+            "en": "Pin the ink slip. He will argue the paper all morning; the batch is the thing he cannot spread across a city."
+          },
+          "note": {
+            "en": "One shop, one batch, one seer at a time, bought against this estate's name."
+          }
+        },
+        {
+          "ask": {
+            "en": "Nine thousand is missing from the Teej fortnight, and the entry that closes it is yours."
+          },
+          "answer": {
+            "en": "“Nine thousand walked out of this room on Teej night and I wrote it closed to keep a name out of the bazaar. The reading is in Kartik. I have until Kartik to put it back.”"
+          },
+          "needsClueId": "jama",
+          "lockedHint": {
+            "en": "Pin the jama-kharch. He has answered everything else with a shrug; the erasure is in his own hand."
+          },
+          "unlocksClueId": "saidhole",
+          "note": {
+            "en": "He covered for somebody, and then went out to the three people whose secrets he keeps to pay for the covering. He never once considered naming the man."
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "saidhole",
+      "correction": {
+        "en": "A crooked assay scale is a guild matter. Nine thousand rupees that must be back in the book before the family hears it read out is the reason."
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "three",
+      "correction": {
+        "en": "A moneylender's book lists everybody in the lane. Only one room in Jaipur holds all three of these secrets at once, and only one man holds that room."
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidflew",
+      "correction": {
+        "en": "A boy in a red cap on the baori steps is a boy on the steps. The demands went out on a bird flown by somebody who cannot read them — that is why no hand ever carried a note."
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "note1",
+    "toClueId": "ruled",
+    "text": {
+      "en": "The note is on ruled paper torn along a stitched edge. Paper torn out of a book leaves stubs behind — go and find the book that is short by three."
+    }
+  },
+  "bankedClue": {
+    "en": "A Surajgarh loft ring, SG-19 — three demands flown by a boy who cannot read them"
+  }
+}

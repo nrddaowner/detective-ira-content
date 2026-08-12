@@ -15,7 +15,8 @@
     "jaipur-missing-tiffin",
     "jaipur-rickshaw-riddle",
     "jaipur-peacock-brooch",
-    "jaipur-johari-bazaar-job"
+    "jaipur-johari-bazaar-job",
+    "jaipur-pigeon-post"
   ],
   "finale": {
     "mastermindId": "vikram",
@@ -86,6 +87,22 @@
         "misread": {
           "en": "A blank seat on the 11:40 belongs to whoever could afford to be gone by morning. The staff were all at work the next day."
         }
+      },
+      {
+        "caseNumber": 5,
+        "pointsAt": "bansi",
+        "text": {
+          "en": "A loft ring, SG-19 — three demands, flown by a boy who cannot read them"
+        },
+        "short": {
+          "en": "the pigeon's ring"
+        },
+        "pending": {
+          "en": "The Pigeon Post holds the last thread"
+        },
+        "misread": {
+          "en": "Bansi flew what he was handed and could not read a line of it. A courier is not an author — what those notes prove is that somebody in this house has been selling what the house knows, and it is not the boy on the roof."
+        }
       }
     ],
     "suspects": [
@@ -147,7 +164,7 @@
           "en": "the roofs and the skylights · cannot read or write"
         },
         "cleared": {
-          "en": "Bansi cannot write his own name. He did not fill a page of a rickshaw ledger, and he did not order a mold."
+          "en": "Bansi cannot write his own name. He did not fill a page of a rickshaw ledger, he did not order a mold, and he did not write three demands in a hand he cannot even read back."
         }
       }
     ]
