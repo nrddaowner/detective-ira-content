@@ -1,0 +1,537 @@
+{
+  "id": "sambhar-fifty-metres-outside",
+  "schema": 1,
+  "city": "sambhar",
+  "genre": "blackmail",
+  "difficulty": "tricky",
+  "ambience": "MonsoonRain",
+  "story": {
+    "id": "sambhar-salt-and-silence",
+    "caseNumber": 5
+  },
+  "title": {
+    "en": "Fifty Metres Outside",
+    "hi": "पचास मीटर बाहर"
+  },
+  "place": {
+    "en": "The gate office, eastern works · Shravan 26, 6:00 PM",
+    "hi": "गेट का दफ़्तर, पूरब का वर्क्स · सावन 26, शाम 6:00"
+  },
+  "brief": {
+    "en": "Four years ago on the night of Magh 14 a lorry cleaner of nineteen was crushed against a tailboard while the lorry was loading, and the works' gate register says that lorry was standing on the Gudha road, fifty metres outside the wall. His widow's compensation claim was dismissed at Jaipur for want of an employer's report, on a place of accident the Commissioner took from that register. The weighman who attested the panchnama has not taken a day's leave since, and turned down a promotion in Vaishakh that would have moved him off his platform. Nobody has asked that man for anything in four years, and he has been doing it anyway.",
+    "hi": "चार साल पहले माघ 14 की रात एक उन्नीस साल का लॉरी क्लीनर लदान के दौरान तख़्ते से कुचला गया, और वर्क्स का गेट रजिस्टर कहता है कि वह लॉरी उस वक़्त गूढ़ा रोड पर खड़ी थी — दीवार से पचास मीटर बाहर। उसकी विधवा का मुआवज़े का दावा जयपुर में इसलिए ख़ारिज हुआ कि नियोक्ता की रिपोर्ट नहीं थी, और दुर्घटना की जगह आयुक्त ने उसी रजिस्टर से ली थी। जिस काँटा बाबू ने पंचनामे पर गवाही दी, उसने तब से एक दिन की छुट्टी नहीं ली और वैशाख में वह तरक़्क़ी ठुकरा दी जो उसे उसके प्लेटफ़ॉर्म से हटा देती। चार साल में उस आदमी से किसी ने कुछ माँगा नहीं है, और वह फिर भी करता आ रहा है।"
+  },
+  "photoCaption": {
+    "en": "the stitching of the gate register, where page forty-one was",
+    "hi": "गेट रजिस्टर की सिलाई, जहाँ इकतालीसवाँ पन्ना था"
+  },
+  "iraNote": {
+    "en": "“Blackmail is usually a sentence. The best of it is not a sentence at all — it is one sheet of paper left where a man will see it, once a year, by somebody who has never opened his mouth.”",
+    "hi": "“ब्लैकमेल आम तौर पर एक वाक्य होता है। सबसे अच्छा ब्लैकमेल वाक्य होता ही नहीं — वह बस एक काग़ज़ होता है, साल में एक बार वहाँ रख दिया गया जहाँ आदमी उसे देख ले, और रखने वाले ने कभी मुँह नहीं खोला।”"
+  },
+  "clues": [
+    {
+      "id": "gateentry",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE GATE PAGE FOR MAGH 14",
+        "hi": "माघ 14 का गेट पन्ना"
+      },
+      "text": {
+        "en": "The gate register is a bound book with its pages printed and numbered at the corner. Page forty-one of that year's volume has been cut out close to the stitching and its entries recopied onto a loose sheet gummed into the gap, in the security supervisor's hand and over his own signature. On the recopied sheet, RJ 19 GA 4471 goes out at nine-ten and the accident is entered at nine-forty on the Gudha road.",
+        "hi": "गेट रजिस्टर बँधी हुई किताब है, जिसके पन्ने छपे हुए हैं और कोने पर क्रमांकित। उस साल की जिल्द का इकतालीसवाँ पन्ना सिलाई के पास से काटकर निकाल दिया गया है और उसकी प्रविष्टियाँ एक अलग शीट पर उतारकर उसी ख़ाली जगह में चिपका दी गई हैं — सुरक्षा पर्यवेक्षक की लिखाई में और उसी के दस्तख़त के नीचे। उस उतारी हुई शीट पर RJ 19 GA 4471 नौ बजकर दस पर बाहर जाती है और दुर्घटना नौ चालीस पर गूढ़ा रोड पर दर्ज है।"
+      }
+    },
+    {
+      "id": "draft",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE LEAF THAT WAS CUT OUT",
+        "hi": "काटकर निकाला गया पन्ना"
+      },
+      "text": {
+        "en": "Page forty-one itself, folded in four, at the bottom of the security supervisor's own almirah under four years of duty rosters. On it, in the same hand, RJ 19 GA 4471 comes IN at eight thirty-five with no out time written against it until twenty past ten, and the last line of the night reads: accident at eastern loading bay, cleaner, ambulance called.",
+        "hi": "वही इकतालीसवाँ पन्ना — चार तह करके, सुरक्षा पर्यवेक्षक की अपनी अलमारी की तह में, चार साल की ड्यूटी सूचियों के नीचे। उस पर, उसी लिखाई में, RJ 19 GA 4471 आठ पैंतीस पर भीतर आती है और उसके सामने बाहर जाने का समय दस बजकर बीस से पहले कहीं लिखा नहीं है — और उस रात की आख़िरी पंक्ति है: पूरब के लोडिंग बे पर दुर्घटना, क्लीनर, एंबुलेंस बुलाई।"
+      }
+    },
+    {
+      "id": "copies",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "FOUR COPIES, FOUR MAGHS",
+        "hi": "चार नक़लें, चार माघ"
+      },
+      "text": {
+        "en": "Four photocopies of that leaf, one for each of the last four years, all taken on the works' own machine. The copier's counter log shows a single-page job booked to the security office's code on Magh 14 of each of those years and on no other day in Magh in any of them. Nothing is written on any of the four copies. There is no covering note, no envelope and no signature.",
+        "hi": "उसी पन्ने की चार फ़ोटो नक़लें — पिछले चार साल की एक-एक — और चारों वर्क्स की अपनी मशीन पर ली गईं। नक़ल मशीन का काउंटर लॉग दिखाता है कि उन चारों साल में माघ 14 को सुरक्षा दफ़्तर के कोड पर एक-एक पन्ने का काम दर्ज है, और उन चारों में माघ के किसी और दिन नहीं। चारों नक़लों में से किसी पर कुछ लिखा नहीं है। न कोई चिट्ठी, न लिफ़ाफ़ा, न दस्तख़त।"
+      }
+    },
+    {
+      "id": "payments",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "TWO THOUSAND A MONTH TO GUDHA",
+        "hi": "गूढ़ा को दो हज़ार महीना"
+      },
+      "text": {
+        "en": "Two thousand rupees drawn in cash from the weighman's account on the second working day of every month for forty-one months, out of a wage of nine thousand four hundred. Two thousand rupees paid into Chandi Devi's account at the Gudha branch on the same day or the next, forty-one times, by a depositor who writes no name in the box for it. Eighty-two thousand rupees in four years, and she has never once been told who.",
+        "hi": "चालीस-इकतालीस महीने से हर महीने के दूसरे कामकाजी दिन काँटा बाबू के खाते से दो हज़ार रुपये नक़द — और तनख़्वाह उसकी नौ हज़ार चार सौ है। उसी दिन या अगले दिन गूढ़ा शाखा में चंदी देवी के खाते में दो हज़ार रुपये जमा — इकतालीस बार, और जमा करने वाला अपने नाम के ख़ाने में कुछ नहीं लिखता। चार साल में बयासी हज़ार रुपये, और उसे आज तक यह नहीं बताया गया कि किसने।"
+      }
+    },
+    {
+      "id": "claim",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE CLAIM THAT WAS DISMISSED",
+        "hi": "ख़ारिज हुआ दावा"
+      },
+      "text": {
+        "en": "The Commissioner's order at Jaipur: claim dismissed, no employer's report produced, and the place of accident being a public road the deceased was not shown to have been employed on the premises. The order quotes the gate register by page and line. Against a boy of nineteen on eight thousand a month, the schedule would have made it sixteen lakh and eighty-odd thousand rupees.",
+        "hi": "जयपुर में आयुक्त का आदेश: दावा ख़ारिज, नियोक्ता की कोई रिपोर्ट पेश नहीं हुई, और दुर्घटना की जगह सार्वजनिक सड़क होने के कारण यह साबित नहीं होता कि मृतक परिसर में काम पर था। आदेश में गेट रजिस्टर का हवाला पन्ने और पंक्ति समेत है। आठ हज़ार महीने पर उन्नीस साल के लड़के के लिए अनुसूची इसे सोलह लाख अस्सी हज़ार से कुछ ऊपर बनाती।"
+      }
+    },
+    {
+      "id": "leave",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "FOUR YEARS AND NO DAY OFF",
+        "hi": "चार साल, एक दिन छुट्टी नहीं"
+      },
+      "text": {
+        "en": "The weighman has not taken a day of casual leave since that Magh, has a week's rest owed to him that he takes at the platform, and refused a despatch clerk's post in Vaishakh that paid two thousand more and would have moved him into an office. He is at the kanta by twenty past six every morning, which is forty minutes before the yard opens.",
+        "hi": "उस माघ के बाद से काँटा बाबू ने एक दिन आकस्मिक छुट्टी नहीं ली, उसका एक हफ़्ते का आराम बाक़ी है जिसे वह प्लेटफ़ॉर्म पर ही काट लेता है, और वैशाख में उसने डिस्पैच बाबू की वह जगह ठुकरा दी जो दो हज़ार ज़्यादा देती और उसे दफ़्तर में बिठा देती। हर सुबह वह छह बजकर बीस पर काँटे पर होता है — यानी यार्ड खुलने से चालीस मिनट पहले।"
+      }
+    },
+    {
+      "id": "nomoney",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "NOTHING WENT THE OTHER WAY",
+        "hi": "दूसरी तरफ़ कुछ नहीं गया"
+      },
+      "text": {
+        "en": "Four years of the security supervisor's account: a two-wheeler loan running to term, a wage credit, a wife's tailoring society, and not one cash deposit above three thousand rupees. The eighty-two thousand that the whole yard assumes went to him is in a passbook at Gudha in a widow's name, deposited two thousand at a time.",
+        "hi": "सुरक्षा पर्यवेक्षक के खाते के चार साल: अवधि तक चलता दुपहिया का क़र्ज़, तनख़्वाह की जमा, पत्नी की सिलाई समिति — और तीन हज़ार से ऊपर एक भी नक़द जमा नहीं। पूरा यार्ड जिन बयासी हज़ार को उसके पास गया मानता है, वे गूढ़ा की एक पासबुक में एक विधवा के नाम पड़े हैं — दो-दो हज़ार करके जमा।"
+      }
+    },
+    {
+      "id": "retainer",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "FOUR THOUSAND, VEHICLE SURVEY",
+        "hi": "चार हज़ार, वाहन सर्वेक्षण"
+      },
+      "text": {
+        "en": "Four thousand rupees a month by bank transfer into the security supervisor's account from M/s Marudhar Handling, Kuchaman, described in every one of forty-eight entries as vehicle survey charges. The firm has raised no invoice on him and he has surveyed no vehicle for it. Its proprietor married Mahaveer Prasad Choudhary's daughter the year before the boy died.",
+        "hi": "मेसर्स मारुधर हैंडलिंग, कुचामन से सुरक्षा पर्यवेक्षक के खाते में हर महीने चार हज़ार रुपये बैंक ट्रांसफ़र — और अड़तालीस में से हर प्रविष्टि में विवरण एक ही है: वाहन सर्वेक्षण शुल्क। फ़र्म ने उस पर कोई बिल नहीं बनाया और उसने फ़र्म के लिए कोई वाहन नहीं देखा। उस फ़र्म का मालिक लड़के की मौत से एक साल पहले महावीर प्रसाद चौधरी की बेटी से ब्याहा गया था।"
+      }
+    },
+    {
+      "id": "sympathy",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE YARD'S OWN EXPLANATION",
+        "hi": "यार्ड की अपनी व्याख्या"
+      },
+      "text": {
+        "en": "Everybody on this yard says the weighman is being bled by somebody, because a man on nine thousand four hundred does not lose two thousand a month for four years for nothing.",
+        "hi": "इस यार्ड का हर आदमी कहता है कि काँटा बाबू को कोई निचोड़ रहा है, क्योंकि नौ हज़ार चार सौ वाला आदमी चार साल तक बेवजह दो हज़ार महीना नहीं गँवाता।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the money is real and it is going to Gudha, not to anybody in this works; what is being taken from him every month is not two thousand rupees",
+        "hi": "ख़ारिज — पैसा सच है और वह गूढ़ा जा रहा है, इस वर्क्स के किसी आदमी के पास नहीं; उससे हर महीने जो लिया जा रहा है, वह दो हज़ार रुपये नहीं है"
+      }
+    },
+    {
+      "id": "widowvisit",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "SHE CAME TO THE GATE THREE TIMES",
+        "hi": "वह तीन बार गेट पर आई"
+      },
+      "text": {
+        "en": "Chandi Devi came to the works' gate three times in Chaitra and was turned away each time, and the yard says a woman who comes back three times has come for money.",
+        "hi": "चंदी देवी चैत में तीन बार वर्क्स के गेट पर आई और हर बार लौटा दी गई, और यार्ड कहता है कि जो औरत तीन बार लौटकर आए वह पैसे के लिए आती है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she came each time asking for a certified copy of the gate register page and was refused in writing each time, and all three refusals are on the works' own file",
+        "hi": "ख़ारिज — हर बार वह गेट रजिस्टर के उस पन्ने की प्रमाणित नक़ल माँगने आई और हर बार लिखित में मना किया गया, और तीनों इनकार वर्क्स की अपनी फ़ाइल में हैं"
+      }
+    },
+    {
+      "id": "drink",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "WHAT THE BOY HAD DRUNK",
+        "hi": "लड़के ने क्या पिया था"
+      },
+      "text": {
+        "en": "The yard's version of that night has always been that the cleaner had been drinking and walked behind a reversing lorry on a public road.",
+        "hi": "उस रात की यार्ड वाली कहानी हमेशा यही रही कि क्लीनर पिए हुए था और सार्वजनिक सड़क पर पीछे होती लॉरी के पीछे चला गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the inquest recorded no smell, the viscera report is negative, and what a man has drunk has never once changed the place where he was standing",
+        "hi": "ख़ारिज — पंचनामे में कोई गंध दर्ज नहीं है, विसरा रिपोर्ट नकारात्मक है, और आदमी ने क्या पिया — इससे आज तक यह नहीं बदला कि वह खड़ा कहाँ था"
+      }
+    },
+    {
+      "id": "asi",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE INQUEST CLOSED IN NINE DAYS",
+        "hi": "पंचनामा नौ दिन में बंद"
+      },
+      "text": {
+        "en": "Assistant Sub-Inspector Nathu Lal Meena drew the panchnama and closed the inquest in nine days, which the widow's lawyer at Jaipur called indecent haste.",
+        "hi": "सहायक उप-निरीक्षक नाथू लाल मीणा ने पंचनामा बनाया और नौ दिन में जाँच बंद कर दी, जिसे जयपुर में विधवा के वकील ने अशोभनीय जल्दबाज़ी कहा।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nine days is fast and it is within the rule, he recorded the site the works itself pointed him to, and he wrote in his own hand that the works declined to produce a vehicle log",
+        "hi": "ख़ारिज — नौ दिन तेज़ है और नियम के भीतर है, उसने वही जगह दर्ज की जो वर्क्स ने ख़ुद उसे दिखाई, और उसने अपने हाथ से लिखा कि वर्क्स ने गाड़ियों का लॉग देने से मना कर दिया"
+      }
+    },
+    {
+      "id": "oldcopier",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE COPIER WAS CHANGED LAST YEAR",
+        "hi": "नक़ल मशीन पिछले साल बदली"
+      },
+      "text": {
+        "en": "The works replaced its photocopier in Bhado last year and the office says nobody can stand behind the old machine's counter now.",
+        "hi": "वर्क्स ने पिछले साल भादो में अपनी नक़ल मशीन बदल दी थी, और दफ़्तर कहता है कि अब पुरानी मशीन के काउंटर की ज़मानत कोई नहीं ले सकता।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the store took the old machine's counter log over page by page on the day it went, both officers signed each page, and the four Magh entries are on pages signed a year and a half apart",
+        "hi": "ख़ारिज — जिस दिन पुरानी मशीन गई, भंडार ने उसका काउंटर लॉग पन्ना-दर-पन्ना अपने क़ब्ज़े में लिया, हर पन्ने पर दोनों अधिकारियों के दस्तख़त हैं, और माघ की चारों प्रविष्टियाँ डेढ़ साल के फ़ासले पर दस्तख़त हुए पन्नों पर हैं"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidnothing",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE WEIGHMAN",
+        "hi": "बयान · काँटा बाबू"
+      },
+      "text": {
+        "en": "“He has never asked me for anything. Once a year, on the fourteenth of Magh, there is a paper on my table, folded once, with nothing written on it. I put it in my pocket, I go and stand at my platform, and I keep doing what I have been doing. In four years neither of us has said one word about it out loud — which is why I have nothing to take to anybody, and he knows that better than I do.”",
+        "hi": "“उसने मुझसे कभी कुछ नहीं माँगा। साल में एक बार, माघ की चौदह तारीख़ को, मेरी मेज़ पर एक काग़ज़ पड़ा मिलता है — एक तह किया हुआ, और उस पर लिखा कुछ नहीं। मैं उसे जेब में डालता हूँ, जाकर अपने प्लेटफ़ॉर्म पर खड़ा हो जाता हूँ, और वही करता रहता हूँ जो करता आया हूँ। चार साल में हममें से किसी ने इस बारे में एक शब्द ज़ोर से नहीं कहा — इसीलिए मेरे पास किसी के पास ले जाने को कुछ नहीं है, और यह बात वह मुझसे बेहतर जानता है।”"
+      }
+    },
+    {
+      "id": "saidwrote",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE SUPERVISOR",
+        "hi": "बयान · पर्यवेक्षक"
+      },
+      "text": {
+        "en": "“I wrote what I was told to write, on the telephone, at eleven at night, by a man who has never once set foot in my office. I cut the leaf out myself, because a cut leaf is quieter than an erasure. And then I kept it for four years, which you may call whatever you like — but a man who keeps nothing is a man who can be handed anything.”",
+        "hi": "“जो लिखने को कहा गया, वही लिखा — फ़ोन पर, रात ग्यारह बजे, उस आदमी के कहने पर जिसने मेरे दफ़्तर में कभी पैर नहीं रखा। पन्ना मैंने ख़ुद काटा, क्योंकि कटा पन्ना मिटाई से ज़्यादा चुप रहता है। और फिर उसे चार साल सँभाले रखा — इसे आप जो चाहें कहिए, पर जो आदमी कुछ नहीं रखता, उसके सिर पर कुछ भी मढ़ा जा सकता है।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "bhoop",
+      "name": {
+        "en": "Bhoop Singh Shekhawat",
+        "hi": "भूप सिंह शेखावत"
+      },
+      "role": {
+        "en": "THE SECURITY SUPERVISOR",
+        "hi": "सुरक्षा पर्यवेक्षक"
+      },
+      "hook": {
+        "en": "cut the leaf and kept it",
+        "hi": "पन्ना काटा और सँभालकर रखा"
+      },
+      "confession": {
+        "en": "Cut page forty-one out of a bound register on a telephone call at eleven at night, recopied the night onto a loose sheet with a lorry outside the wall, and has left one unmarked photocopy of the original on the weighman's table on the fourteenth of Magh every year since. Never asked for a rupee and never said a sentence, because a demand can be repeated to a magistrate and a folded paper cannot. Took four thousand a month for four years from a firm at Kuchaman for surveying vehicles he has never seen.",
+        "hi": "रात ग्यारह बजे एक फ़ोन कॉल पर बँधे रजिस्टर से इकतालीसवाँ पन्ना काटा, उस रात को एक अलग शीट पर दोबारा उतारा — इस बार लॉरी दीवार के बाहर — और उसके बाद से हर साल माघ की चौदह तारीख़ को असली पन्ने की एक बिना कुछ लिखी नक़ल काँटा बाबू की मेज़ पर छोड़ता आया। न कभी एक रुपया माँगा, न कभी एक वाक्य कहा — क्योंकि माँग मजिस्ट्रेट के सामने दोहराई जा सकती है, तह किया हुआ काग़ज़ नहीं। कुचामन की एक फ़र्म से चार साल तक चार हज़ार महीना लिए, उन गाड़ियों को देखने के, जो उसने कभी देखी ही नहीं।"
+      }
+    },
+    {
+      "id": "ramniwas",
+      "name": {
+        "en": "Ramniwas Saini",
+        "hi": "रामनिवास सैनी"
+      },
+      "role": {
+        "en": "THE WEIGHMAN",
+        "hi": "काँटा बाबू"
+      },
+      "hook": {
+        "en": "attested the panchnama and pays every month",
+        "hi": "पंचनामे का गवाह, और हर महीने पैसा देता है"
+      },
+      "alibi": {
+        "en": "He is the man being held and not the man holding, and the two thousand a month everyone in this yard reads as a payment has been going into a widow's passbook at Gudha for forty-one months without his name on one slip. He takes fifteen hundred a month from the contractor for four words at the platform and he has never spent a rupee of it, which is worse for him and not better; a small wage taken is what makes a held man unable to complain. He attested a paper he was shown and has not slept properly since.",
+        "hi": "पकड़ा हुआ वह है, पकड़ने वाला नहीं — और जिन दो हज़ार महीने को यह पूरा यार्ड किसी को दी जा रही रक़म पढ़ता है, वे इकतालीस महीने से गूढ़ा की एक विधवा की पासबुक में जा रहे हैं, और किसी एक पर्ची पर उसका नाम नहीं है। प्लेटफ़ॉर्म पर चार शब्द कहने के पंद्रह सौ महीना वह ठेकेदार से लेता है और उसमें से एक रुपया आज तक ख़र्च नहीं किया — जो उसके लिए बेहतर नहीं, बदतर है; पकड़े हुए आदमी को शिकायत करने लायक़ न छोड़ने का काम यही छोटी-सी तनख़्वाह करती है। जो काग़ज़ उसे दिखाया गया, उस पर उसने गवाही दी, और उसके बाद से ठीक से सोया नहीं।"
+      }
+    },
+    {
+      "id": "chandi",
+      "name": {
+        "en": "Chandi Devi",
+        "hi": "चंदी देवी"
+      },
+      "role": {
+        "en": "THE WIDOW AT GUDHA",
+        "hi": "गूढ़ा की विधवा"
+      },
+      "feminine": true,
+      "hook": {
+        "en": "eighty-two thousand rupees in her passbook",
+        "hi": "उसकी पासबुक में बयासी हज़ार"
+      },
+      "alibi": {
+        "en": "She has been receiving two thousand rupees a month for four years and has never known from whom, has asked the bank twice and been told the deposit slips carry no name, and came to this gate three times for a certified copy of a page and was refused in writing every time. A woman blackmailing this works would have asked for the page, not for a copy of it.",
+        "hi": "चार साल से उसे दो हज़ार रुपये महीना मिल रहे हैं और यह उसे आज तक नहीं मालूम कि किससे; बैंक से दो बार पूछा और बताया गया कि जमा पर्चियों पर कोई नाम नहीं है; और एक पन्ने की प्रमाणित नक़ल माँगने वह तीन बार इस गेट पर आई और हर बार लिखित में मना कर दी गई। जो औरत इस वर्क्स को ब्लैकमेल कर रही होती, वह उस पन्ने की नक़ल नहीं, पन्ना माँगती।"
+      }
+    },
+    {
+      "id": "nathu",
+      "name": {
+        "en": "Nathu Lal Meena",
+        "hi": "नाथू लाल मीणा"
+      },
+      "role": {
+        "en": "THE ASI WHO DREW THE PANCHNAMA",
+        "hi": "पंचनामा बनाने वाला सहायक उप-निरीक्षक"
+      },
+      "hook": {
+        "en": "wrote the place of the accident",
+        "hi": "दुर्घटना की जगह उसी ने लिखी"
+      },
+      "alibi": {
+        "en": "He wrote down the spot the works walked him to at midnight, with the works' own gate register open in front of him and two of the works' own men as witnesses. He also wrote, in his own hand and against the run of everybody's convenience, that the management declined to produce the vehicle log — which is the only line in that file anybody has been able to build on since.",
+        "hi": "आधी रात को वर्क्स जिस जगह पर उसे ले गया, वही उसने लिखी — सामने वर्क्स का अपना गेट रजिस्टर खुला था और गवाह वर्क्स के ही दो आदमी थे। यह भी उसी ने, अपने हाथ से और सबकी सहूलियत के ख़िलाफ़ जाकर लिखा कि प्रबंधन ने गाड़ियों का लॉग देने से मना कर दिया — और उस फ़ाइल में आज तक जिस एक पंक्ति पर कुछ खड़ा किया जा सका है, वह यही है।"
+      }
+    },
+    {
+      "id": "mahaveer",
+      "name": {
+        "en": "Mahaveer Prasad Choudhary",
+        "hi": "महावीर प्रसाद चौधरी"
+      },
+      "role": {
+        "en": "THE LABOUR CONTRACTOR",
+        "hi": "श्रम ठेकेदार"
+      },
+      "hook": {
+        "en": "the lorry was his and it was loading his salt",
+        "hi": "लॉरी उसकी थी और उसी का नमक लद रहा था"
+      },
+      "alibi": {
+        "en": "He was at Kuchaman that night and has never made a telephone call to a gate office in his life that anybody can produce a record of, because the works keeps no log of incoming calls and never has. His firm paid no compensation because the Commissioner held there was nothing to pay, and he says a man cannot be blamed for an order a court passed in his favour.",
+        "hi": "उस रात वह कुचामन में था, और गेट के दफ़्तर में उसने ज़िंदगी में कभी कोई फ़ोन किया हो — इसका रिकॉर्ड कोई पेश नहीं कर सकता, क्योंकि वर्क्स आने वाले फ़ोन का लॉग नहीं रखता और कभी रखा नहीं। उसकी फ़र्म ने मुआवज़ा इसलिए नहीं दिया कि आयुक्त ने माना कि देने को कुछ है ही नहीं — और उसका कहना है कि जो आदेश अदालत ने उसके हक़ में दिया, उसका दोष उस पर नहीं मढ़ा जा सकता।"
+      }
+    }
+  ],
+  "culpritId": "bhoop",
+  "interrogations": [
+    {
+      "suspectId": "chandi",
+      "setting": {
+        "en": "A courtyard at Gudha in the rain, a passbook in a cloth bag and a boy's photograph garlanded on the wall.",
+        "hi": "बारिश में गूढ़ा का एक आँगन, कपड़े की थैली में पासबुक, और दीवार पर माला चढ़ी एक लड़के की तस्वीर।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Somebody has been paying you for four years.",
+            "hi": "चार साल से कोई आपको पैसा भेज रहा है।"
+          },
+          "answer": {
+            "en": "“Two thousand, every month, and I do not know one thing about him. I asked at the bank twice. They said the slip has no name in it and they cannot open a window into somebody's shame for me. So I take it, because I have a girl in school.”",
+            "hi": "“हर महीने दो हज़ार, और उसके बारे में मैं कुछ नहीं जानती। बैंक में दो बार पूछा। कहा कि पर्ची पर नाम है ही नहीं, और किसी की शर्म की खिड़की वे मेरे लिए नहीं खोल सकते। तो मैं ले लेती हूँ, क्योंकि घर में एक लड़की स्कूल जाती है।”"
+          },
+          "needsClueId": "claim",
+          "lockedHint": {
+            "en": "Read the Commissioner's order before you go to Gudha. You cannot ask a woman about money without knowing what she was refused.",
+            "hi": "गूढ़ा जाने से पहले आयुक्त का आदेश पढ़िए। जिस औरत से जो छीना गया वह जाने बिना, उससे पैसे की बात नहीं की जा सकती।"
+          },
+          "note": {
+            "en": "Two thousand a month for four years is ninety-six thousand rupees. The order she lost was for sixteen lakh and eighty-odd thousand.",
+            "hi": "चार साल तक दो हज़ार महीना यानी छियानवे हज़ार रुपये। जो आदेश उससे छिना, वह सोलह लाख अस्सी हज़ार से ऊपर का था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You went to the works' gate three times.",
+            "hi": "आप तीन बार वर्क्स के गेट पर गईं।"
+          },
+          "answer": {
+            "en": "“For a copy of one page. Not for money — for a copy of one page, so that my lawyer could show the court where my husband was standing. Three times they wrote me a letter saying no, and I have all three, because a letter saying no is still a letter.”",
+            "hi": "“एक पन्ने की नक़ल के लिए। पैसे के लिए नहीं — एक पन्ने की नक़ल के लिए, ताकि मेरा वकील अदालत को दिखा सके कि मेरा आदमी खड़ा कहाँ था। तीनों बार उन्होंने मुझे चिट्ठी लिखकर मना किया, और तीनों मेरे पास हैं — क्योंकि मना करने वाली चिट्ठी भी चिट्ठी होती है।”"
+          },
+          "note": {
+            "en": "She has been asking for four years, in writing, for the same page that has been sitting folded in an almirah two kilometres away.",
+            "hi": "चार साल से वह लिखकर उसी पन्ने की माँग कर रही है, जो दो किलोमीटर दूर एक अलमारी में तह किया हुआ पड़ा है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ramniwas",
+      "setting": {
+        "en": "The kanta cabin after the yard has shut, the rain on the tin and a folded paper in his shirt pocket that he has not taken out.",
+        "hi": "यार्ड बंद होने के बाद काँटा केबिन, टीन पर बरसता पानी, और उसकी क़मीज़ की जेब में तह किया हुआ वह काग़ज़ जिसे उसने निकाला नहीं है।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Two thousand a month out of nine thousand four hundred.",
+            "hi": "नौ हज़ार चार सौ में से दो हज़ार महीना।"
+          },
+          "answer": {
+            "en": "“Whatever you are about to think, think it. I have been letting this yard think it for four years and it is easier than the other thing.”",
+            "hi": "“जो सोचने वाले हैं, सोच लीजिए। चार साल से मैं इस यार्ड को यही सोचने दे रहा हूँ, और दूसरी बात से यह आसान पड़ता है।”"
+          },
+          "note": {
+            "en": "He would rather the works believed he was being bled than know where the money goes.",
+            "hi": "वह चाहता है कि वर्क्स यही माने कि उसे निचोड़ा जा रहा है — बजाय इसके कि किसी को पता चले कि पैसा जाता कहाँ है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "What is on the paper that comes every Magh?",
+            "hi": "हर माघ जो काग़ज़ आता है, उस पर क्या है?"
+          },
+          "answer": {
+            "en": "“He has never asked me for anything. Once a year, on the fourteenth of Magh, there is a paper on my table, folded once, with nothing written on it. I put it in my pocket, I go and stand at my platform, and I keep doing what I have been doing. In four years neither of us has said one word about it out loud — which is why I have nothing to take to anybody, and he knows that better than I do.”",
+            "hi": "“उसने मुझसे कभी कुछ नहीं माँगा। साल में एक बार, माघ की चौदह तारीख़ को, मेरी मेज़ पर एक काग़ज़ पड़ा मिलता है — एक तह किया हुआ, और उस पर लिखा कुछ नहीं। मैं उसे जेब में डालता हूँ, जाकर अपने प्लेटफ़ॉर्म पर खड़ा हो जाता हूँ, और वही करता रहता हूँ जो करता आया हूँ। चार साल में हममें से किसी ने इस बारे में एक शब्द ज़ोर से नहीं कहा — इसीलिए मेरे पास किसी के पास ले जाने को कुछ नहीं है, और यह बात वह मुझसे बेहतर जानता है।”"
+          },
+          "needsClueId": "copies",
+          "lockedHint": {
+            "en": "Get the copier's counter log first. He will not describe a thing that has never been written down until somebody proves it was printed.",
+            "hi": "पहले नक़ल मशीन का काउंटर लॉग लीजिए। जो चीज़ कभी लिखी ही नहीं गई, उसे वह तब तक नहीं बताएगा जब तक कोई यह साबित न कर दे कि वह छपी थी।"
+          },
+          "unlocksClueId": "saidnothing",
+          "note": {
+            "en": "Four copies, four Maghs, nothing written on any of them. There is no demand in this case at all, and that is the design.",
+            "hi": "चार नक़लें, चार माघ, और किसी पर कुछ लिखा नहीं। इस केस में माँग है ही नहीं — और यही इसका डिज़ाइन है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bhoop",
+      "setting": {
+        "en": "The gate office at night, four years of duty rosters out on the floor and an almirah standing open.",
+        "hi": "रात का गेट दफ़्तर, फ़र्श पर बिखरी चार साल की ड्यूटी सूचियाँ, और खुली खड़ी अलमारी।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Page forty-one is a loose sheet gummed into a bound book.",
+            "hi": "इकतालीसवाँ पन्ना बँधी किताब में चिपकी हुई अलग शीट है।"
+          },
+          "answer": {
+            "en": "“Registers get damaged. That volume went through the flood year and half of it was recopied, and every page of it that was recopied carries my signature because I am the man who recopied it.”",
+            "hi": "“रजिस्टर ख़राब होते हैं। वह जिल्द बाढ़ वाले साल से गुज़री है और उसका आधा हिस्सा दोबारा उतारा गया, और जो भी पन्ना दोबारा उतरा है उस पर मेरे दस्तख़त हैं — क्योंकि उतारने वाला मैं ही था।”"
+          },
+          "needsClueId": "gateentry",
+          "lockedHint": {
+            "en": "Look at the stitching before you ask. A page lost to water is a page that swells; a page lost to a blade is a page that is missing.",
+            "hi": "पूछने से पहले सिलाई देख लीजिए। पानी से गया पन्ना फूलता है; ब्लेड से गया पन्ना ग़ायब होता है।"
+          },
+          "note": {
+            "en": "Eleven pages of that volume are recopied. Ten of them are swollen and stained at the edge. Page forty-one is cut clean.",
+            "hi": "उस जिल्द के ग्यारह पन्ने दोबारा उतारे गए हैं। उनमें से दस किनारे से फूले और दाग़दार हैं। इकतालीसवाँ पन्ना साफ़ कटा हुआ है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You kept the original for four years.",
+            "hi": "आपने असली पन्ना चार साल सँभाला।"
+          },
+          "answer": {
+            "en": "“I wrote what I was told to write, on the telephone, at eleven at night, by a man who has never once set foot in my office. I cut the leaf out myself, because a cut leaf is quieter than an erasure. And then I kept it for four years, which you may call whatever you like — but a man who keeps nothing is a man who can be handed anything.”",
+            "hi": "“जो लिखने को कहा गया, वही लिखा — फ़ोन पर, रात ग्यारह बजे, उस आदमी के कहने पर जिसने मेरे दफ़्तर में कभी पैर नहीं रखा। पन्ना मैंने ख़ुद काटा, क्योंकि कटा पन्ना मिटाई से ज़्यादा चुप रहता है। और फिर उसे चार साल सँभाले रखा — इसे आप जो चाहें कहिए, पर जो आदमी कुछ नहीं रखता, उसके सिर पर कुछ भी मढ़ा जा सकता है।”"
+          },
+          "needsClueId": "draft",
+          "lockedHint": {
+            "en": "Open the almirah before you sit down with him. He has an answer for a missing page and none for a folded one.",
+            "hi": "उसके सामने बैठने से पहले अलमारी खोलिए। ग़ायब पन्ने का जवाब उसके पास है, तह किए हुए पन्ने का कोई नहीं।"
+          },
+          "unlocksClueId": "saidwrote",
+          "note": {
+            "en": "He kept it to protect himself from the man who dictated it, and he spent it four times on the man who witnessed it.",
+            "hi": "उसने वह पन्ना उस आदमी से बचने के लिए रखा जिसने लिखवाया था — और ख़र्च उसे चार बार उस आदमी पर किया जिसने गवाही दी थी।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Four thousand a month, for surveying vehicles.",
+            "hi": "चार हज़ार महीना, गाड़ियाँ देखने के।"
+          },
+          "answer": {
+            "en": "“It is a bank transfer with a narration on it and it has been taxed for four years. If you want to say a man cannot take honest money from a firm because of who his daughter married, say it to the firm.”",
+            "hi": "“बैंक ट्रांसफ़र है, विवरण लिखा हुआ है, और चार साल से उस पर टैक्स कटा है। अगर यह कहना है कि किसी फ़र्म का ईमानदार पैसा इसलिए नहीं लिया जा सकता कि उसकी बेटी की शादी कहाँ हुई है, तो यह फ़र्म से कहिए।”"
+          },
+          "note": {
+            "en": "Forty-eight transfers, one narration, no invoice, and no vehicle. The money did not come from the man he was squeezing. It came from the man he was squeezing him for.",
+            "hi": "अड़तालीस ट्रांसफ़र, एक ही विवरण, कोई बिल नहीं, कोई गाड़ी नहीं। पैसा उस आदमी से नहीं आया जिसे वह भींच रहा था। पैसा उस आदमी से आया जिसके लिए वह भींच रहा था।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "retainer",
+      "correction": {
+        "en": "The widow has been receiving and not asking, the weighman has been paying and not gaining, and the ASI wrote the one line in the file that was against everybody's convenience. Forty-eight bank transfers of four thousand rupees each went to one man for surveying vehicles he never saw, from a firm belonging to the son-in-law of the man whose lorry was loading that night.",
+        "hi": "विधवा को मिलता रहा और उसने माँगा नहीं, काँटा बाबू देता रहा और उसे मिला कुछ नहीं, और सहायक उप-निरीक्षक ने फ़ाइल की वह इकलौती पंक्ति लिखी जो सबकी सहूलियत के ख़िलाफ़ थी। चार-चार हज़ार के अड़तालीस बैंक ट्रांसफ़र एक ही आदमी के पास गए — उन गाड़ियों को देखने के, जो उसने कभी देखी नहीं — और वह फ़र्म उसी आदमी के दामाद की है जिसकी लॉरी उस रात लद रही थी।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "copies",
+      "correction": {
+        "en": "Only one man in this works has the almirah the original leaf is in and the code the copier bills to. Four single-page jobs on that code, on the fourteenth of Magh, in four consecutive years, and on no other day of any Magh. He did not need to be near the weighman's table; he only needed to be near the machine.",
+        "hi": "इस वर्क्स में सिर्फ़ एक आदमी के पास वह अलमारी है जिसमें असली पन्ना पड़ा है, और वही कोड है जिस पर नक़ल मशीन का हिसाब चढ़ता है। लगातार चार साल, माघ की चौदह तारीख़ को, उसी कोड पर एक-एक पन्ने के चार काम — और किसी भी माघ के किसी और दिन एक भी नहीं। उसे काँटा बाबू की मेज़ के पास होने की ज़रूरत नहीं थी; मशीन के पास होना काफ़ी था।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidnothing",
+      "correction": {
+        "en": "There is no demand in this case, and that is not an accident — it is the whole method. A sentence can be repeated to a magistrate and a folded paper with nothing written on it cannot, so for four years neither man said one word and the weighman went on standing at his platform telling two drivers which ramp to use. The blackmail is unprovable by design, and it was designed by the man who wrote the page it is made of.",
+        "hi": "इस केस में कोई माँग है ही नहीं — और यह इत्तिफ़ाक़ नहीं, यही पूरा तरीक़ा है। वाक्य मजिस्ट्रेट के सामने दोहराया जा सकता है, बिना कुछ लिखा तह किया हुआ काग़ज़ नहीं — इसलिए चार साल तक दोनों में से किसी ने एक शब्द नहीं कहा, और काँटा बाबू अपने प्लेटफ़ॉर्म पर खड़ा होकर दो ड्राइवरों को रैंप बताता रहा। यह ब्लैकमेल जान-बूझकर ऐसा है कि साबित न हो — और जिस पन्ने से यह बना है, वह पन्ना भी उसी ने लिखा था।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "payments",
+    "toClueId": "nomoney",
+    "text": {
+      "en": "Everybody in this yard has already decided where that two thousand a month goes. Go and look at the other man's passbook instead, and then at a passbook in Gudha.",
+      "hi": "यह यार्ड पहले ही तय कर चुका है कि वे दो हज़ार महीने कहाँ जाते हैं। इसके बजाय दूसरे आदमी की पासबुक देखिए — और फिर गूढ़ा की एक पासबुक।"
+    }
+  },
+  "bankedClue": {
+    "en": "A gate entry rewritten to put a boy's death fifty metres outside the wall, in the security supervisor's hand and over his own signature",
+    "hi": "गेट की वह प्रविष्टि, जो दोबारा लिखकर एक लड़के की मौत को दीवार से पचास मीटर बाहर कर देती है — सुरक्षा पर्यवेक्षक की लिखाई में और उसी के दस्तख़त के नीचे"
+  }
+}

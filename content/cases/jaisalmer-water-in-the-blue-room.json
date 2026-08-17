@@ -1,0 +1,420 @@
+{
+  "id": "jaisalmer-water-in-the-blue-room",
+  "schema": 1,
+  "city": "jaisalmer",
+  "genre": "sabotage",
+  "difficulty": "quick",
+  "ambience": "MonsoonRain",
+  "story": {
+    "id": "jaisalmer-havelis",
+    "caseNumber": 1
+  },
+  "title": {
+    "en": "Water in the Blue Room",
+    "hi": "नीले कमरे में पानी"
+  },
+  "place": {
+    "en": "Kothari Haveli, the blue room · Bhadra 16, 8:15 AM",
+    "hi": "कोठारी हवेली, नीला कमरा · भादों 16, 8:15 AM"
+  },
+  "brief": {
+    "en": "The second terrace’s stone parnala has thrown monsoon water clear of this wall since 1806, and on Bhadra fifteen it did not. Water ran down inside the north wall of the neel kamra for the first time in two hundred years, and three carved brackets and one jali came off it soft. Eleven inches up the spout’s throat there is a rag and a folded lime bag, rammed home from below and bone dry on the inside. Somebody packed it before the rain and not during it.",
+    "hi": "दूसरी छत का पत्थर का परनाला 1806 से बरसात का पानी इस दीवार से दूर फेंकता आया है, और भादों पंद्रह को उसने नहीं फेंका। दो सौ साल में पहली बार नीले कमरे की उत्तरी दीवार के भीतर पानी उतरा, और उसमें से तीन तराशी कंगनियाँ और एक जाली गलकर निकलीं। परनाले के गले में ग्यारह इंच ऊपर एक चिथड़ा और मुड़ा हुआ चूने का बोरा ठुँसा है — नीचे से ठोका हुआ, और भीतर से पूरी तरह सूखा। किसी ने इसे बरसात के दौरान नहीं, बरसात से पहले ठूँसा है।"
+  },
+  "photoCaption": {
+    "en": "the north wall, morning after",
+    "hi": "अगली सुबह, उत्तरी दीवार"
+  },
+  "iraNote": {
+    "en": "“Two hundred years is a long test to pass. A thing that fails the year somebody starts writing lists about it did not fail of old age.”",
+    "hi": "“दो सौ साल की परीक्षा छोटी नहीं होती। जो चीज़ ठीक उसी साल फेल हो जाए जिस साल कोई उसके बारे में सूचियाँ बनाने लगे, वह बुढ़ापे से फेल नहीं हुई।”"
+  },
+  "clues": [
+    {
+      "id": "spout",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE PARNALA, PACKED",
+        "hi": "परनाला, ठुँसा हुआ"
+      },
+      "text": {
+        "en": "A rag and a folded lime bag eleven inches up the throat, rammed from below with something blunt. The inside face of the packing is dry, so it was in the spout before a drop of rain reached it — and nobody has inspected a working spout on this haveli in living memory.",
+        "hi": "गले में ग्यारह इंच ऊपर एक चिथड़ा और मुड़ा हुआ चूने का बोरा, नीचे से किसी भोथरी चीज़ से ठोका गया। ठूँस का भीतरी हिस्सा सूखा है, यानी वह बारिश की एक बूँद पहुँचने से पहले ही परनाले में था — और इस हवेली के चालू परनाले की जाँच किसी को याद नहीं कि कभी हुई हो।"
+      }
+    },
+    {
+      "id": "shed",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "WHAT THE SPOUT FALLS ON",
+        "hi": "परनाला गिरता कहाँ है"
+      },
+      "text": {
+        "en": "The parnala throws clear of the wall and lands on the flagstones of the side court, which is where the night watchman’s tin shed stands and has stood for six years. Bhadra had already brought three showers before the fifteenth.",
+        "hi": "परनाला दीवार से दूर पानी फेंकता है और वह बग़ल के आँगन के पत्थरों पर गिरता है — जहाँ रात के चौकीदार की टीन की झोंपड़ी खड़ी है, और छह साल से खड़ी है। पंद्रह तारीख़ से पहले भादों तीन बौछारें दे चुका था।"
+      }
+    },
+    {
+      "id": "terrace",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE TERRACE KEY REGISTER",
+        "hi": "छत की चाबी की पंजी"
+      },
+      "text": {
+        "en": "The second terrace is locked at dusk and its key hangs in one box. The register shows it drawn at nine-forty on the night of Bhadra fourteen and returned at five past ten, against a thumb and no reason written in the column that asks for one.",
+        "hi": "दूसरी छत शाम ढले बंद हो जाती है और उसकी चाबी एक ही डिब्बे में टँगती है। पंजी बताती है कि भादों चौदह की रात नौ बजकर चालीस पर वह निकाली गई और दस बजकर पाँच पर लौटाई गई — एक अंगूठे के साथ, और कारण के ख़ाने में कुछ भी लिखे बिना।"
+      }
+    },
+    {
+      "id": "bag",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHERE THE BAG CAME FROM",
+        "hi": "बोरा आया कहाँ से"
+      },
+      "text": {
+        "en": "Twenty lime bags went up to the second terrace on Bhadra one and nineteen came back to the store empty. The terrace tally says all twenty were emptied, and the twentieth is in the spout.",
+        "hi": "भादों एक को चूने के बीस बोरे दूसरी छत पर गए और उन्नीस ख़ाली होकर भंडार लौटे। छत की तालिका कहती है कि बीसों ख़ाली किए गए — और बीसवाँ परनाले में है।"
+      }
+    },
+    {
+      "id": "wall",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE NORTH WALL, INSIDE",
+        "hi": "उत्तरी दीवार, भीतर से"
+      },
+      "text": {
+        "en": "Water tracked down two centuries of dry lime plaster and took the salts with it. Three brackets and the jali of bay nine are sugared through and will not hold a chisel; everything a course above them is as sound as the day it was cut.",
+        "hi": "पानी दो सदी के सूखे चूना पलस्तर से उतरा और अपने साथ नमक भी ले गया। तीन कंगनियाँ और बाय नौ की जाली भीतर तक भुरभुरी हो चुकी हैं और टाँकी नहीं झेलेंगी; उनसे एक ही रद्दा ऊपर सब कुछ उतना ही मज़बूत है जितना तराशे जाने के दिन था।"
+      }
+    },
+    {
+      "id": "schedule",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "REPLACEMENT SCHEDULE, SHEET 9",
+        "hi": "प्रतिस्थापन सूची, पन्ना 9"
+      },
+      "text": {
+        "en": "Three brackets and the jali of bay nine, entered as beyond repair and marked for fresh cutting, initialled by the heritage architect on Bhadra two. The water reached bay nine on Bhadra fifteen.",
+        "hi": "तीन कंगनियाँ और बाय नौ की जाली — मरम्मत से बाहर लिखी हुईं और नई तराशने के लिए निशान लगी हुईं, और भादों दो को हेरिटेज आर्किटेक्ट के हस्ताक्षर। पानी बाय नौ तक भादों पंद्रह को पहुँचा।"
+      }
+    },
+    {
+      "id": "challan",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "DEBRIS CHALLAN 41",
+        "hi": "मलबा चालान 41"
+      },
+      "text": {
+        "en": "The blue room’s spoil went out on the sixteenth in four crates: eleven maunds, eleven maunds, eleven maunds, and seventeen. Rubble is rubble by the crate, and nothing about three soft brackets weighs half again as much as three soft brackets.",
+        "hi": "नीले कमरे का मलबा सोलह तारीख़ को चार बक्सों में बाहर गया: ग्यारह मन, ग्यारह मन, ग्यारह मन — और सत्रह। मलबा हर बक्से में मलबा ही होता है, और तीन गली कंगनियों में ऐसा कुछ नहीं जो तीन गली कंगनियों से डेढ़ गुना भारी हो।"
+      }
+    },
+    {
+      "id": "monsoon",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE HEAVIEST SHOWER IN NINE YEARS",
+        "hi": "नौ साल की सबसे तेज़ बौछार"
+      },
+      "text": {
+        "en": "Bhadra fifteen brought fifty-one millimetres in two hours, the most this town has taken since 2017.",
+        "hi": "भादों पंद्रह को दो घंटे में इकावन मिलीमीटर गिरा — 2017 के बाद इस शहर पर सबसे ज़्यादा।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the same rain fell on the whole fort and on every one of this haveli’s eleven spouts; ten of them threw it clear",
+        "hi": "ख़ारिज — वही बारिश पूरे क़िले पर और इस हवेली के ग्यारहों परनालों पर गिरी; उनमें से दस ने पानी दूर फेंक दिया"
+      }
+    },
+    {
+      "id": "lalu",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE TERRACE MAZDOOR",
+        "hi": "छत का मज़दूर"
+      },
+      "text": {
+        "en": "Lalu mixed lime on the second terrace all of Bhadra one and had both hands in the bags all day.",
+        "hi": "भादों एक को पूरे दिन लालू दूसरी छत पर चूना घोलता रहा और दिन भर उसके दोनों हाथ बोरों में रहे।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he is paid by the finished metre and is off the site at six; the packing went in behind a gate that is locked at dusk, on a key he has never been given",
+        "hi": "ख़ारिज — उसे तैयार मीटर का पैसा मिलता है और छह बजे वह साइट से चला जाता है; ठूँस उस दरवाज़े के पीछे लगी जो शाम ढले बंद हो जाता है — और उसकी चाबी उसे कभी दी ही नहीं गई"
+      }
+    },
+    {
+      "id": "keys",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE CARETAKER’S RING",
+        "hi": "देखभाल करने वाली का छल्ला"
+      },
+      "text": {
+        "en": "Shanti Bai Paliwal has carried this haveli’s keys for thirty-one years and opens every door on the ground floor.",
+        "hi": "इकतीस साल से इस हवेली की चाबियाँ शांति बाई पालीवाल के पास हैं और नीचे की मंज़िल का हर दरवाज़ा वही खोलती हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the second terrace key is not on her ring and never has been, and she was at a wedding at Barmer from the twelfth to the sixteenth",
+        "hi": "ख़ारिज — दूसरी छत की चाबी उनके छल्ले में न है और न कभी थी, और बारह से सोलह तक वे बाड़मेर में एक शादी में थीं"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidthree",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE WATCHMAN",
+        "hi": "बयान · चौकीदार"
+      },
+      "text": {
+        "en": "“Three nights it came down on my sheet. I told the munshi twice and once I told the engineer. Nobody moves a two-hundred-year-old spout for a chowkidar.”",
+        "hi": "“तीन रात वह मेरी चादर पर गिरा। मुंशी को दो बार कहा और एक बार इंजीनियर साहब को। दो सौ साल पुराना परनाला कोई चौकीदार के लिए नहीं हटाता।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ganpat",
+      "name": {
+        "en": "Ganpat Ram",
+        "hi": "गणपत राम"
+      },
+      "role": {
+        "en": "THE NIGHT WATCHMAN",
+        "hi": "रात का चौकीदार"
+      },
+      "hook": {
+        "en": "his shed stands where the spout lands",
+        "hi": "परनाला जहाँ गिरता है, वहीं उसकी झोंपड़ी है"
+      },
+      "confession": {
+        "en": "Drew the terrace key at nine-forty on the night of the fourteenth, rammed a rag and the twentieth lime bag eleven inches up the parnala with the butt of his lathi, and put the key back at five past ten — because three showers of Bhadra had already come down through his roof and he had asked twice and been answered never.",
+        "hi": "चौदह की रात नौ बजकर चालीस पर छत की चाबी निकाली, अपनी लाठी के पिछले सिरे से एक चिथड़ा और बीसवाँ चूने का बोरा परनाले में ग्यारह इंच ऊपर ठोका, और दस बजकर पाँच पर चाबी लौटा दी — क्योंकि भादों की तीन बौछारें पहले ही उसकी छत से उतर चुकी थीं और दो बार कहने पर जवाब एक बार भी नहीं मिला था।"
+      }
+    },
+    {
+      "id": "rewat",
+      "name": {
+        "en": "Rewat Singh Bhati",
+        "hi": "रेवत सिंह भाटी"
+      },
+      "role": {
+        "en": "THE SITE STOREKEEPER",
+        "hi": "साइट भंडारी"
+      },
+      "hook": {
+        "en": "issued the bags and weighed the crates",
+        "hi": "बोरे उसी ने दिए और बक्से उसी ने तौले"
+      },
+      "alibi": {
+        "en": "He issued twenty bags in the morning and took nineteen back, and wrote both numbers down where anybody could subtract them. He locks the store at seven and lives at Amar Sagar, four kilometres out, and the terrace key was never in his box.",
+        "hi": "सुबह उसने बीस बोरे दिए और उन्नीस वापस लिए, और दोनों आँकड़े वहाँ लिखे जहाँ कोई भी घटा सकता है। सात बजे भंडार बंद करके वह चार किलोमीटर दूर अमर सागर चला जाता है, और छत की चाबी उसके डिब्बे में कभी थी ही नहीं।"
+      }
+    },
+    {
+      "id": "shanti",
+      "name": {
+        "en": "Shanti Bai Paliwal",
+        "hi": "शांति बाई पालीवाल"
+      },
+      "role": {
+        "en": "THE HAVELI’S CARETAKER",
+        "hi": "हवेली की देखभाल करने वाली"
+      },
+      "hook": {
+        "en": "thirty-one years of this house’s keys",
+        "hi": "इस घर की चाबियों के इकतीस साल"
+      },
+      "alibi": {
+        "en": "She was at a wedding at Barmer from the twelfth to the sixteenth, and the terrace key has never been on her ring. She is the one who sent for us, at her own cost, on the morning she got back.",
+        "hi": "बारह से सोलह तक वे बाड़मेर की एक शादी में थीं, और छत की चाबी उनके छल्ले में कभी नहीं रही। लौटने की सुबह अपने ही ख़र्च पर हमें बुलवाया भी उन्होंने ही।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "lalu",
+      "name": {
+        "en": "Lalu",
+        "hi": "लालू"
+      },
+      "role": {
+        "en": "THE TERRACE MAZDOOR",
+        "hi": "छत का मज़दूर"
+      },
+      "hook": {
+        "en": "had both hands in the lime bags all day",
+        "hi": "दिन भर दोनों हाथ चूने के बोरों में"
+      },
+      "alibi": {
+        "en": "He empties bags and does not count them, is paid by the finished metre, and is out of the gate at six. The spout was packed after dusk, behind a lock whose key he has never held.",
+        "hi": "वह बोरे ख़ाली करता है, गिनता नहीं; पैसा तैयार मीटर का लेता है और छह बजे गेट से बाहर हो जाता है। परनाला शाम ढले उस ताले के पीछे ठुँसा, जिसकी चाबी उसके हाथ में कभी नहीं आई।"
+      }
+    }
+  ],
+  "culpritId": "ganpat",
+  "interrogations": [
+    {
+      "suspectId": "rewat",
+      "setting": {
+        "en": "The site store at noon, bags stacked to the lintel, a spring balance on a hook and the challan book under it.",
+        "hi": "दोपहर का साइट भंडार, चौखट तक चिने बोरे, खूँटी पर लटका काँटा और उसके नीचे चालान बही।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Twenty bags out, nineteen back.",
+            "hi": "बीस बोरे गए, उन्नीस लौटे।"
+          },
+          "answer": {
+            "en": "“Then one is somewhere on this site, and there are nine floors of somewhere. I write what leaves and I write what returns. Nobody has ever asked me to go and look for the difference.”",
+            "hi": "“तो एक इसी साइट पर कहीं है, और ‘कहीं’ की नौ मंज़िलें हैं। जो जाता है मैं लिखता हूँ और जो लौटता है वह भी। फ़र्क़ ढूँढ़ने जाने को मुझसे आज तक किसी ने नहीं कहा।”"
+          },
+          "note": {
+            "en": "He wrote both numbers and put them one under the other. That is the opposite of hiding one of them.",
+            "hi": "उसने दोनों आँकड़े लिखे और एक के नीचे एक रखे। यह उनमें से एक छिपाने का उल्टा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Three crates at eleven maunds and one at seventeen.",
+            "hi": "तीन बक्से ग्यारह मन के और एक सत्रह का।"
+          },
+          "answer": {
+            "en": "“I weigh what is brought to the door and I write the figure. If a crate is heavy, the crate is heavy. There is no column in this book for why.”",
+            "hi": "“दरवाज़े तक जो लाया जाता है मैं तौलता हूँ और आँकड़ा लिख देता हूँ। बक्सा भारी है तो भारी है। इस बही में ‘क्यों’ का ख़ाना नहीं है।”"
+          },
+          "needsClueId": "challan",
+          "lockedHint": {
+            "en": "Pin the challan. He is not going to volunteer a weight; he will confirm one that is already on the board.",
+            "hi": "चालान टाँगो। वज़न वह ख़ुद से नहीं बताएगा; जो बोर्ड पर पहले से टँगा हो, उसकी तसदीक़ कर देगा।"
+          },
+          "note": {
+            "en": "Three crates of the same rubble weigh the same. One of these four is not the same rubble, and nothing in this case explains that.",
+            "hi": "एक ही मलबे के तीन बक्से बराबर वज़न के होते हैं। इन चार में से एक वही मलबा नहीं है — और इस केस में उसकी कोई वजह नहीं मिलती।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ganpat",
+      "setting": {
+        "en": "The side court after the rain, the tin shed with a bucket still under one corner, a lathi leaning by the door.",
+        "hi": "बारिश के बाद का बग़ल का आँगन, टीन की झोंपड़ी — एक कोने के नीचे अब भी रखी बाल्टी, और दरवाज़े से टिकी लाठी।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You drew the terrace key at nine-forty and gave it back at ten past.",
+            "hi": "नौ बजकर चालीस पर आपने छत की चाबी निकाली और दस बजकर पाँच पर लौटा दी।"
+          },
+          "answer": {
+            "en": "“I draw it most nights. There is a wall up there with no railing and a hundred pigeons. Twenty-five minutes is what one round of that terrace takes.”",
+            "hi": "“ज़्यादातर रातों निकालता हूँ। ऊपर बिना जँगले की एक दीवार है और सौ कबूतर। उस छत का एक चक्कर पच्चीस मिनट का ही होता है।”"
+          },
+          "needsClueId": "terrace",
+          "lockedHint": {
+            "en": "Pin the key register. The twenty-five minutes only mean something once they have a date and a thumb beside them.",
+            "hi": "चाबी की पंजी टाँगो। वे पच्चीस मिनट तभी कुछ कहते हैं जब उनके साथ एक तारीख़ और एक अंगूठा हो।"
+          },
+          "note": {
+            "en": "He is right that he draws it most nights, and the reason column is blank on every one of them. It is blank on this one too.",
+            "hi": "यह सही है कि वह ज़्यादातर रातों चाबी निकालता है — और हर बार कारण का ख़ाना कोरा है। इस बार भी कोरा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The spout empties onto your roof.",
+            "hi": "परनाला आपकी छत पर गिरता है।"
+          },
+          "answer": {
+            "en": "“Three nights it came down on my sheet. I told the munshi twice and once I told the engineer. Nobody moves a two-hundred-year-old spout for a chowkidar.”",
+            "hi": "“तीन रात वह मेरी चादर पर गिरा। मुंशी को दो बार कहा और एक बार इंजीनियर साहब को। दो सौ साल पुराना परनाला कोई चौकीदार के लिए नहीं हटाता।”"
+          },
+          "needsClueId": "shed",
+          "lockedHint": {
+            "en": "Pin what the spout falls on. He will keep this at the level of a night round until somebody puts his own roof in it.",
+            "hi": "परनाला जहाँ गिरता है वह टाँगो। जब तक कोई उसकी अपनी छत बीच में न रखे, वह इसे रात के चक्कर तक ही रखेगा।"
+          },
+          "unlocksClueId": "saidthree",
+          "note": {
+            "en": "He asked three times and was answered never, and then he answered himself with a lathi. Every part of that is his and none of it is a mystery.",
+            "hi": "उसने तीन बार कहा और जवाब एक बार भी नहीं मिला, फिर उसने ख़ुद को लाठी से जवाब दे दिया। इसका हर हिस्सा उसका है और इसमें रहस्य कुछ नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The bag in the spout is the store’s twentieth.",
+            "hi": "परनाले वाला बोरा भंडार का बीसवाँ है।"
+          },
+          "answer": {
+            "en": "“There are lime bags on every floor of this house. Ask the store how many it has lost since Chaitra.”",
+            "hi": "“इस घर की हर मंज़िल पर चूने के बोरे पड़े हैं। भंडार से पूछिए कि चैत से उसके कितने ग़ायब हुए हैं।”"
+          },
+          "needsClueId": "bag",
+          "lockedHint": {
+            "en": "Pin the bag count. Twenty out and nineteen in is a subtraction, and it only bites once he can see it done.",
+            "hi": "बोरों की गिनती टाँगो। बीस गए और उन्नीस आए — यह घटाना है, और यह तभी काटता है जब वह उसे होते हुए देख ले।"
+          },
+          "note": {
+            "en": "The store has lost none since Chaitra, and the twentieth bag of Bhadra one is eleven inches up a spout.",
+            "hi": "चैत से भंडार का एक भी ग़ायब नहीं हुआ, और भादों एक का बीसवाँ बोरा एक परनाले में ग्यारह इंच ऊपर है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "shed",
+      "correction": {
+        "en": "The mazdoor is paid by the metre and the storekeeper lives four kilometres out at Amar Sagar. One man on this site sleeps under where that spout lands, had three showers of Bhadra come through his roof, and asked twice for it to be moved.",
+        "hi": "मज़दूर को मीटर का पैसा मिलता है और भंडारी चार किलोमीटर दूर अमर सागर में रहता है। इस साइट पर एक ही आदमी उस जगह के नीचे सोता है जहाँ परनाला गिरता है, जिसकी छत से भादों की तीन बौछारें उतर चुकी थीं, और जिसने दो बार उसे हटाने को कहा था।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "terrace",
+      "correction": {
+        "en": "Nothing was reached from the ground; a parnala is packed from below, standing on the terrace it drains. That terrace is locked at dusk and its key left one box at nine-forty on the night of the fourteenth, against one thumb, with the reason column blank.",
+        "hi": "यह ज़मीन से नहीं हुआ; परनाला उसी छत पर खड़े होकर नीचे से ठूँसा जाता है जिसका पानी वह ढोता है। वह छत शाम ढले बंद हो जाती है और उसकी चाबी चौदह की रात नौ बजकर चालीस पर एक ही डिब्बे से निकली — एक अंगूठे पर, और कारण का ख़ाना कोरा।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "spout",
+      "correction": {
+        "en": "Nobody had to get away, because nobody was ever going to look. The packing sits eleven inches up the throat of a spout that has worked for two hundred years, and a spout that works is the one thing on a restoration nobody surveys.",
+        "hi": "किसी को भागना ही नहीं था, क्योंकि देखने वाला कोई होने ही नहीं वाला था। ठूँस उस परनाले के गले में ग्यारह इंच ऊपर बैठी है जो दो सौ साल चला है — और मरम्मत की साइट पर चालू परनाला ही वह एक चीज़ है जिसका सर्वे कोई नहीं करता।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "spout",
+    "toClueId": "shed",
+    "text": {
+      "en": "A spout that has worked for two hundred years suddenly became a problem for somebody. Stop asking who could climb up to it and go and stand where it lands.",
+      "hi": "दो सौ साल चला हुआ परनाला अचानक किसी के लिए मुसीबत बन गया। यह पूछना छोड़िए कि उस तक कौन चढ़ सकता था, और जाकर वहाँ खड़े हो जाइए जहाँ वह गिरता है।"
+    }
+  },
+  "bankedClue": {
+    "en": "A replacement schedule marking bay nine beyond repair, initialled a fortnight before the water reached it",
+    "hi": "प्रतिस्थापन सूची, जिसमें बाय नौ ‘मरम्मत से बाहर’ लिखी है — और उस पर हस्ताक्षर पानी के वहाँ पहुँचने से पूरे पखवाड़े पहले के हैं"
+  }
+}

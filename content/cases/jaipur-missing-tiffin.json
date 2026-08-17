@@ -17,6 +17,11 @@
   "photoCaption": {
     "en": "the gate, 12:33 pm"
   },
+  "art": {
+    "ground": "courtyard",
+    "light": "day",
+    "props": ["tiffin", "bicycle", "jharokha"]
+  },
   "iraNote": {
     "en": "“Both lines of that register are in one handwriting. Ask who was holding the pen.”"
   },

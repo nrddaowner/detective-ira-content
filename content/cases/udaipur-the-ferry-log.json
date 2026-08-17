@@ -1,0 +1,557 @@
+{
+  "id": "udaipur-the-ferry-log",
+  "schema": 1,
+  "city": "udaipur",
+  "genre": "fraud",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "udaipur-lake-palace-season",
+    "caseNumber": 2
+  },
+  "title": {
+    "en": "The Ferry Log",
+    "hi": "नाव की बही"
+  },
+  "place": {
+    "en": "Rameshwar ghat · the jetty gate · Tuesday, 7:05 AM",
+    "hi": "रामेश्वर घाट · घाट का फाटक · मंगलवार, 7:05 AM"
+  },
+  "brief": {
+    "en": "Two hundred and fourteen crossings were billed to this wedding at four hundred and fifty rupees each. The municipality’s sealed counter on the jetty gate — which cannot be wound backwards — clicked one hundred and ninety-seven. Somewhere in that gap of seventeen is a fraud, and somewhere in the same season is one real crossing at ten to two in the morning that no boatman on this lake wrote down at all.",
+    "hi": "इस शादी के नाम दो सौ चौदह फेरे, साढ़े चार सौ रुपए प्रति फेरा, बिल में चढ़े। घाट के फाटक पर लगे नगर पालिका के सीलबंद काउंटर ने — जिसे पीछे घुमाया ही नहीं जा सकता — एक सौ सत्तानवे गिने। सत्रह के इस फ़र्क़ में कहीं एक धोखाधड़ी है, और इसी सहालग में कहीं रात पौने दो बजे का एक असली फेरा है जिसे इस झील के किसी मल्लाह ने लिखा ही नहीं।"
+  },
+  "photoCaption": {
+    "en": "the gate counter, seven in the morning",
+    "hi": "फाटक का काउंटर, सुबह सात बजे"
+  },
+  "iraNote": {
+    "en": "“A machine that only counts upward is the most honest witness on this lake. Everything else here is a book, and a book is only as honest as the hand holding it.”",
+    "hi": "“जो मशीन सिर्फ़ आगे गिनती है, वही इस झील की सबसे ईमानदार गवाह है। बाक़ी सब यहाँ बही है — और बही उतनी ही ईमानदार होती है जितना उसे पकड़ने वाला हाथ।”"
+  },
+  "clues": [
+    {
+      "id": "bill",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE BOAT BILL",
+        "hi": "नाव का बिल"
+      },
+      "text": {
+        "en": "214 crossings at ₹450, billed to the family through the planner’s office and paid without a query.",
+        "hi": "214 फेरे, ₹450 के हिसाब से, प्लानर के दफ़्तर से परिवार को भेजे और बिना एक सवाल के चुका दिए गए।"
+      }
+    },
+    {
+      "id": "counter",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE SEALED GATE COUNTER",
+        "hi": "फाटक का सीलबंद काउंटर"
+      },
+      "text": {
+        "en": "197. A mechanical counter, sealed by the municipality in Kartik, with no way to wind it back and the seal unbroken.",
+        "hi": "197। कार्तिक में नगर पालिका की सील लगी यांत्रिक गिनती मशीन — पीछे घुमाने का कोई रास्ता नहीं, और सील अटूट।"
+      }
+    },
+    {
+      "id": "tokenbook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "TWO TOKEN BOOKS, ONE RANGE",
+        "hi": "एक ही क्रम की दो टोकन बहियाँ"
+      },
+      "text": {
+        "en": "The jetty issued serials 4001–4100 in Kartik. There is a second book carrying the same serials, on paper half a shade lighter.",
+        "hi": "घाट ने कार्तिक में 4001–4100 क्रम जारी किए। ठीक उन्हीं क्रमांकों वाली एक दूसरी बही भी है — काग़ज़ आधा शेड हल्का।"
+      }
+    },
+    {
+      "id": "paper",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE SECOND BOOK",
+        "hi": "लैब पर्ची · दूसरी बही"
+      },
+      "text": {
+        "en": "Not municipal stock. It came by the ream from a press in Bhattiyani Chohatta that prints wedding cards, and the press remembers the order.",
+        "hi": "नगर पालिका का काग़ज़ नहीं। यह भट्टियानी चोहट्टा की उस प्रेस से रीम में आया जो शादी के कार्ड छापती है — और प्रेस को वह ऑर्डर याद है।"
+      }
+    },
+    {
+      "id": "cut",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "SEVENTEEN PAYMENTS OF ₹150",
+        "hi": "₹150 के सत्रह भुगतान"
+      },
+      "text": {
+        "en": "Into the token clerk’s account across the season, each one landing the morning after a night the count was padded.",
+        "hi": "पूरे सहालग में टोकन बाबू के खाते में — और हर एक ठीक उस रात की अगली सुबह, जिस रात गिनती बढ़ाकर लिखी गई।"
+      }
+    },
+    {
+      "id": "onefifty",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE 1:50 CROSSING",
+        "hi": "पौने दो बजे का फेरा"
+      },
+      "text": {
+        "en": "The gate counter clicked once at 1:50 on the night of the sangeet. Not one trip log on this lake has a line for it.",
+        "hi": "सहालग वाली रात 1:50 पर फाटक का काउंटर एक बार चला। इस झील की किसी भी नाव-बही में उसकी एक लाइन तक नहीं है।"
+      }
+    },
+    {
+      "id": "pencil",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE TRIP LOG",
+        "hi": "लैब पर्ची · फेरों की बही"
+      },
+      "text": {
+        "en": "Bheem Singh keeps his log in pencil throughout. On that page one line has been rubbed out and the rule drawn again over the erasure.",
+        "hi": "भीम सिंह पूरी बही पेंसिल से लिखता है। उस पन्ने पर एक लाइन मिटाई गई है, और मिटाने के ऊपर से लकीर दोबारा खींची गई है।"
+      }
+    },
+    {
+      "id": "fog",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE TWO FOGGED NIGHTS",
+        "hi": "कोहरे की दो रातें"
+      },
+      "text": {
+        "en": "Two nights in Pausha the lake fogged out and nothing crossed.",
+        "hi": "पौष की दो रातें झील पर कोहरा रहा और कुछ भी पार नहीं गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the count is short on those nights too, in the honest direction, which is exactly what a real night looks like",
+        "hi": "ख़ारिज — उन रातों की गिनती भी कम है, और ईमानदार दिशा में कम है — असली रात ऐसी ही दिखती है"
+      }
+    },
+    {
+      "id": "faiz",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE SECOND BOAT",
+        "hi": "फ़ोटो · दूसरी नाव"
+      },
+      "text": {
+        "en": "Faiz Mohammed’s boat tied up at the far jetty at midnight.",
+        "hi": "आधी रात, दूसरे घाट पर बँधी फ़ैज़ मोहम्मद की नाव।"
+      },
+      "dismissNote": {
+        "en": "ruled out — tied up is the whole point; his boat did not move and his log says so in ink, which is harder to rub out than pencil",
+        "hi": "ख़ारिज — बँधी होना ही पूरी बात है; उसकी नाव हिली ही नहीं और उसकी बही स्याही में यही कहती है — और स्याही पेंसिल से ज़्यादा मुश्किल से मिटती है"
+      }
+    },
+    {
+      "id": "rate",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE RATE CARD",
+        "hi": "भाव पट्टी"
+      },
+      "text": {
+        "en": "₹450 a crossing this season, up from ₹380 last.",
+        "hi": "इस सहालग ₹450 प्रति फेरा, पिछले सहालग ₹380 था।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the rate went up for every wedding on this lake and it is painted on the jetty board where anybody can read it",
+        "hi": "ख़ारिज — भाव इस झील की हर शादी के लिए बढ़ा और वह घाट के बोर्ड पर लिखा है, जहाँ कोई भी पढ़ सकता है"
+      }
+    },
+    {
+      "id": "rounds",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE SUPERVISOR’S ROUNDS",
+        "hi": "सुपरवाइज़र का चक्कर"
+      },
+      "text": {
+        "en": "Girija Bhati signs the jetty gate shut, and on four nights she signed it shut before the last crossing.",
+        "hi": "गिरिजा भाटी घाट का फाटक बंद होने पर दस्तख़त करती है, और चार रातें उसने आख़िरी फेरे से पहले ही बंद लिख दिया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she signs shut when she goes home at eleven and the boats run till two; the roster says so and the whole lake works that way",
+        "hi": "ख़ारिज — वह ग्यारह बजे घर जाते वक़्त बंद लिखती है और नावें दो बजे तक चलती हैं; ड्यूटी सूची यही कहती है और पूरी झील ऐसे ही चलती है"
+      }
+    },
+    {
+      "id": "torch",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE WATER, 1:50 AM",
+        "hi": "फ़ोटो · पानी, रात 1:50"
+      },
+      "text": {
+        "en": "A torch beam swinging on the water from the island side.",
+        "hi": "टापू की तरफ़ से पानी पर घूमती एक टॉर्च की रोशनी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the island watchman has walked a two o’clock round with a torch every night since the hotel opened",
+        "hi": "ख़ारिज — होटल खुलने के दिन से टापू का चौकीदार हर रात दो बजे टॉर्च लेकर चक्कर लगाता है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidcut",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE TOKEN CLERK",
+        "hi": "बयान · टोकन बाबू"
+      },
+      "text": {
+        "en": "“A hundred and fifty a night, and all I did was tear tokens off a book somebody else had printed. I never chose the number. I was given the number.”",
+        "hi": "“रात के डेढ़ सौ, और मैंने बस उस बही से टोकन फाड़े जो छपवाई किसी और ने थी। नंबर मैंने कभी तय नहीं किया। नंबर मुझे बताया जाता था।”"
+      }
+    },
+    {
+      "id": "saidrubbed",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE BOATMAN",
+        "hi": "बयान · मल्लाह"
+      },
+      "text": {
+        "en": "“I rubbed out one line. Nobody paid me for it, which is why I remember exactly who asked — you do not forget the favour you were not paid for.”",
+        "hi": "“मैंने एक लाइन मिटाई थी। इसके पैसे किसी ने नहीं दिए, इसीलिए ठीक-ठीक याद है कि कहा किसने था — जिस एहसान के पैसे न मिले हों, वह भूलता नहीं।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "nandu",
+      "name": {
+        "en": "Nandu Lohar",
+        "hi": "नंदू लोहार"
+      },
+      "role": {
+        "en": "THE TOKEN CLERK",
+        "hi": "टोकन बाबू"
+      },
+      "hook": {
+        "en": "tears every token this jetty issues",
+        "hi": "इस घाट का हर टोकन उसी के हाथ फटता है"
+      },
+      "confession": {
+        "en": "Ran a second token book printed at a wedding-card press alongside the municipality’s, tore seventeen crossings that never happened off it across the season, and took a hundred and fifty rupees a night for the difference between what the gate counted and what the family paid.",
+        "hi": "नगर पालिका की बही के साथ-साथ शादी के कार्ड छापने वाली प्रेस से छपी दूसरी टोकन बही चलाई, पूरे सहालग में उससे सत्रह ऐसे फेरे फाड़े जो हुए ही नहीं, और फाटक की गिनती और परिवार के भुगतान के फ़र्क़ के लिए हर रात डेढ़ सौ रुपए लिए।"
+      }
+    },
+    {
+      "id": "bheem",
+      "name": {
+        "en": "Bheem Singh",
+        "hi": "भीम सिंह"
+      },
+      "role": {
+        "en": "THE BOATMAN",
+        "hi": "मल्लाह"
+      },
+      "hook": {
+        "en": "his log is the one with a line rubbed out",
+        "hi": "मिटाई हुई लाइन उसी की बही में है"
+      },
+      "alibi": {
+        "en": "He rubbed out one line and was paid nothing for it. A man padding a bill adds crossings; he took one away, which costs him four hundred and fifty rupees of his own.",
+        "hi": "उसने एक लाइन मिटाई और उसके पैसे उसे मिले ही नहीं। बिल बढ़ाने वाला फेरे जोड़ता है; उसने एक घटाया — जिसमें उसके अपने साढ़े चार सौ रुपए गए।"
+      }
+    },
+    {
+      "id": "suhani",
+      "name": {
+        "en": "Suhani Rathore",
+        "hi": "सुहानी राठौड़"
+      },
+      "role": {
+        "en": "THE WEDDING PLANNER",
+        "hi": "वेडिंग प्लानर"
+      },
+      "hook": {
+        "en": "every boat on this lake is booked through her",
+        "hi": "इस झील की हर नाव उसी के ज़रिए बुक होती है"
+      },
+      "alibi": {
+        "en": "The bill goes out on her letterhead and the padding is seventeen crossings she could have written herself without a second token book existing. Whoever needed the tokens needed them because they are not her.",
+        "hi": "बिल उसी के लेटरहेड पर जाता है, और जो सत्रह फेरे बढ़ाए गए वे वह दूसरी टोकन बही के बिना भी लिख सकती थी। जिसे टोकन चाहिए थे, उसे इसीलिए चाहिए थे कि वह वह नहीं है।"
+      }
+    },
+    {
+      "id": "faiz",
+      "name": {
+        "en": "Faiz Mohammed",
+        "hi": "फ़ैज़ मोहम्मद"
+      },
+      "role": {
+        "en": "THE SECOND BOATMAN",
+        "hi": "दूसरा मल्लाह"
+      },
+      "hook": {
+        "en": "the other boat on this contract",
+        "hi": "इस ठेके की दूसरी नाव"
+      },
+      "alibi": {
+        "en": "His boat was tied at the far jetty from eleven and his log is in ink, unaltered, timed and countersigned by the ghat’s own night man.",
+        "hi": "उसकी नाव ग्यारह बजे से दूसरे घाट पर बँधी थी और उसकी बही स्याही में है — बिना छेड़छाड़, समय के साथ, और घाट के रात वाले आदमी के प्रतिहस्ताक्षर के साथ।"
+      }
+    },
+    {
+      "id": "girija",
+      "name": {
+        "en": "Girija Bhati",
+        "hi": "गिरिजा भाटी"
+      },
+      "role": {
+        "en": "THE JETTY SUPERVISOR",
+        "hi": "घाट सुपरवाइज़र"
+      },
+      "hook": {
+        "en": "signs the gate open and shut",
+        "hi": "फाटक खुलने-बंद होने पर उसी के दस्तख़त"
+      },
+      "alibi": {
+        "en": "She is off the ghat by eleven and the counter she is accused of not watching is the one piece of evidence that caught this. Sealing it in Kartik was her requisition.",
+        "hi": "वह ग्यारह बजे घाट से निकल जाती है, और जिस काउंटर पर नज़र न रखने का इल्ज़ाम है, वही इकलौता सबूत है जिसने यह पकड़ा। कार्तिक में उस पर सील लगवाने की माँग-पर्ची भी उसी की थी।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "nandu",
+  "interrogations": [
+    {
+      "suspectId": "bheem",
+      "setting": {
+        "en": "The steps at Rameshwar ghat, his boat bailed out and turned, the log wedged under the thwart.",
+        "hi": "रामेश्वर घाट की सीढ़ियाँ, उसकी नाव उलीचकर पलटी हुई, और पटरे के नीचे दबी बही।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How many crossings did you make this season?",
+            "hi": "इस सहालग आपने कितने फेरे लगाए?"
+          },
+          "answer": {
+            "en": "“What is in the book. I have never once had to guess — twenty-two years, and the book is the only thing on this lake I own outright.”",
+            "hi": "“जो बही में है। मुझे कभी अंदाज़ा नहीं लगाना पड़ा — बाईस साल, और इस झील पर पूरी तरह मेरी अपनी सिर्फ़ यही बही है।”"
+          },
+          "note": {
+            "en": "A man that proud of a book is a man who does not casually rub a line out of it.",
+            "hi": "जिस आदमी को अपनी बही पर इतना गर्व हो, वह उसमें से यूँ ही कोई लाइन नहीं मिटाता।"
+          }
+        },
+        {
+          "ask": {
+            "en": "One line on the sangeet page is rubbed out.",
+            "hi": "सहालग वाले पन्ने की एक लाइन मिटी हुई है।"
+          },
+          "answer": {
+            "en": "“I rubbed out one line. Nobody paid me for it, which is why I remember exactly who asked — you do not forget the favour you were not paid for.”",
+            "hi": "“मैंने एक लाइन मिटाई थी। इसके पैसे किसी ने नहीं दिए, इसीलिए ठीक-ठीक याद है कि कहा किसने था — जिस एहसान के पैसे न मिले हों, वह भूलता नहीं।”"
+          },
+          "needsClueId": "pencil",
+          "lockedHint": {
+            "en": "Pin the trip log. He will not discuss a page he has not been shown somebody else has already read.",
+            "hi": "फेरों की बही टाँगो। जब तक उसे न दिखे कि पन्ना कोई और पढ़ चुका है, वह उस पर बात नहीं करेगा।"
+          },
+          "unlocksClueId": "saidrubbed",
+          "note": {
+            "en": "He erased a crossing he had actually made. That is a man hiding a trip, not inventing one.",
+            "hi": "उसने वह फेरा मिटाया जो सचमुच हुआ था। यह फेरा छिपाने वाला आदमी है, गढ़ने वाला नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who was in the boat at ten to two?",
+            "hi": "पौने दो बजे नाव में कौन था?"
+          },
+          "answer": {
+            "en": "“One person, one bag, island to ghat. I row where I am told and I do not put a lamp on anybody’s face.”",
+            "hi": "“एक आदमी, एक थैला, टापू से घाट। जहाँ कहा जाता है वहाँ खेता हूँ, और किसी के चेहरे पर लालटेन नहीं करता।”"
+          },
+          "note": {
+            "en": "Island to ghat, at ten to two, with a bag. Everything of value that night was on the island.",
+            "hi": "टापू से घाट, पौने दो बजे, थैले के साथ। उस रात क़ीमत की हर चीज़ टापू पर थी।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "suhani",
+      "setting": {
+        "en": "The planner’s office above a card shop, nineteen files on the shelf and every one of them squared.",
+        "hi": "कार्ड की दुकान के ऊपर प्लानर का दफ़्तर, ताक पर उन्नीस फ़ाइलें और हर एक बिल्कुल सीध में।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Two hundred and fourteen crossings went out on your letterhead.",
+            "hi": "दो सौ चौदह फेरे आपके लेटरहेड पर गए।"
+          },
+          "answer": {
+            "en": "“On my letterhead, from the jetty’s tokens. I bill what the ghat hands me. If the ghat hands me a lie I bill a lie, and I sign it — which is why I want the jetty’s book more than you do.”",
+            "hi": "“मेरे लेटरहेड पर, पर घाट के टोकनों से। घाट जो थमाता है वही मैं बिल में लिखती हूँ। घाट झूठ थमाए तो झूठ बिल में जाएगा, और दस्तख़त मेरे होंगे — इसीलिए घाट की बही मुझे आपसे ज़्यादा चाहिए।”"
+          },
+          "needsClueId": "bill",
+          "lockedHint": {
+            "en": "Pin the bill. She answers documents, not questions — hand her the document.",
+            "hi": "बिल टाँगो। वह सवालों का नहीं, दस्तावेज़ों का जवाब देती है — दस्तावेज़ उसके हाथ में दो।"
+          },
+          "note": {
+            "en": "Every answer she gives is true, checkable and points somewhere else. That is either innocence or a great deal of practice.",
+            "hi": "उसका हर जवाब सच है, जाँचा जा सकता है, और कहीं और इशारा करता है। यह या तो बेगुनाही है, या बहुत ज़्यादा अभ्यास।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who books a boat at one in the morning?",
+            "hi": "रात एक बजे नाव कौन बुक करता है?"
+          },
+          "answer": {
+            "en": "“Nobody books one. After eleven the boats belong to whoever is standing on the jetty asking.”",
+            "hi": "“कोई बुक नहीं करता। ग्यारह के बाद नाव उसी की होती है जो घाट पर खड़ा होकर माँग ले।”"
+          },
+          "note": {
+            "en": "So after eleven the booking sheet stops being a record of anything. She knows the hours of her own system very well.",
+            "hi": "यानी ग्यारह के बाद बुकिंग शीट किसी चीज़ का रिकॉर्ड रह ही नहीं जाती। अपने ही सिस्टम के घंटे वह बहुत अच्छी तरह जानती है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Seventeen crossings did not happen.",
+            "hi": "सत्रह फेरे हुए ही नहीं।"
+          },
+          "answer": {
+            "en": "“Then somebody at that gate made seventeen tokens. I could have simply typed a bigger number — I do not need a token to write a line.”",
+            "hi": "“तो उस फाटक पर किसी ने सत्रह टोकन बनाए। मैं तो बस बड़ा आँकड़ा टाइप कर देती — एक लाइन लिखने के लिए मुझे टोकन की ज़रूरत नहीं।”"
+          },
+          "note": {
+            "en": "True, and the truest thing said in this room. She would not have needed the second book at all.",
+            "hi": "सच, और इस कमरे में कही गई सबसे सच्ची बात। उसे उस दूसरी बही की ज़रूरत होती ही नहीं।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "nandu",
+      "setting": {
+        "en": "The token hut, a nail of spiked stubs on the wall, two books under the cash tray.",
+        "hi": "टोकन की गुमटी, दीवार पर कील में गुँथे टोकनों के छोर, और गल्ले की ट्रे के नीचे दो बहियाँ।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Why are there two books with the same serials?",
+            "hi": "एक ही क्रमांक की दो बहियाँ क्यों हैं?"
+          },
+          "answer": {
+            "en": "“The municipality is slow. In season you run out. You get a book printed and you square it later.”",
+            "hi": "“नगर पालिका सुस्त है। सहालग में बही ख़त्म हो जाती है। छपवा लेते हैं और बाद में हिसाब बैठा देते हैं।”"
+          },
+          "needsClueId": "tokenbook",
+          "lockedHint": {
+            "en": "Pin the two books. He will explain a shortage all morning; the same hundred serials twice is not a shortage.",
+            "hi": "दोनों बहियाँ टाँगो। कमी की सफ़ाई वह सुबह भर देगा; पर एक ही सौ क्रमांक दो बार होना कमी नहीं है।"
+          },
+          "note": {
+            "en": "A book printed for a shortage carries the next hundred numbers. This one carries the same hundred again.",
+            "hi": "कमी के लिए छपी बही में अगले सौ नंबर होते हैं। इसमें वही सौ नंबर दोबारा हैं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The gate says 197 and the bill says 214.",
+            "hi": "फाटक कहता है 197 और बिल कहता है 214।"
+          },
+          "answer": {
+            "en": "“The counter misses people. Two on one token, children, the priest —”",
+            "hi": "“काउंटर लोगों को छोड़ देता है। एक टोकन पर दो, बच्चे, पंडितजी —”"
+          },
+          "needsClueId": "counter",
+          "lockedHint": {
+            "en": "Pin the counter. It counts the gate, not the passengers, and he needs to be shown that somebody knows the difference.",
+            "hi": "काउंटर टाँगो। वह फाटक गिनता है, सवारी नहीं — और उसे दिखना चाहिए कि यह फ़र्क़ किसी को मालूम है।"
+          },
+          "note": {
+            "en": "It counts the gate turning, not the people through it. Seventeen turns of a gate nobody turned.",
+            "hi": "वह फाटक के घूमने को गिनता है, उसमें से गुज़रने वालों को नहीं। यानी सत्रह बार वह फाटक घूमा जिसे किसी ने घुमाया ही नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Seventeen payments of a hundred and fifty.",
+            "hi": "डेढ़ सौ के सत्रह भुगतान।"
+          },
+          "answer": {
+            "en": "“A hundred and fifty a night, and all I did was tear tokens off a book somebody else had printed. I never chose the number. I was given the number.”",
+            "hi": "“रात के डेढ़ सौ, और मैंने बस उस बही से टोकन फाड़े जो छपवाई किसी और ने थी। नंबर मैंने कभी तय नहीं किया। नंबर मुझे बताया जाता था।”"
+          },
+          "needsClueId": "cut",
+          "lockedHint": {
+            "en": "Pin the payments. Seventeen of them line up with seventeen padded nights, and he has not seen the two columns beside each other.",
+            "hi": "भुगतान टाँगो। सत्रह भुगतान सत्रह बढ़ाई गई रातों से मिलते हैं, और उसने ये दोनों कॉलम साथ-साथ देखे ही नहीं।"
+          },
+          "unlocksClueId": "saidcut",
+          "note": {
+            "en": "Given the number, by somebody who did not need a token to write a line — and took a hundred and fifty rupees of risk off their own hands.",
+            "hi": "नंबर उसे किसी ऐसे ने बताया जिसे एक लाइन लिखने के लिए टोकन की ज़रूरत ही नहीं थी — और जिसने डेढ़ सौ रुपए में जोखिम अपने हाथ से हटा दिया।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "cut",
+      "correction": {
+        "en": "The boatman lost four hundred and fifty rupees on the night in question and the supervisor is the reason the counter was sealed at all. Seventeen payments of a hundred and fifty, each the morning after a padded night, is a wage for a job.",
+        "hi": "जिस रात की बात है उसमें मल्लाह के अपने साढ़े चार सौ गए, और काउंटर पर सील लगी ही सुपरवाइज़र की वजह से। डेढ़ सौ के सत्रह भुगतान — हर एक बढ़ाई गई रात की अगली सुबह — किसी काम की मज़दूरी होते हैं।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "tokenbook",
+      "correction": {
+        "en": "The planner did not need a token to write a line and said so. Only the hand that tears the tokens could run a second book of them beside the first, and only at that hut do the two books sit under one cash tray.",
+        "hi": "प्लानर को एक लाइन लिखने के लिए टोकन चाहिए ही नहीं था, और उसने यह कहा भी। पहली बही के साथ दूसरी बही सिर्फ़ वही हाथ चला सकता है जो टोकन फाड़ता है — और दोनों बहियाँ एक ही गल्ले की ट्रे के नीचे सिर्फ़ उसी गुमटी में मिलती हैं।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidcut",
+      "correction": {
+        "en": "Nothing had to be hidden from the family, because the family were shown tokens. Seventeen crossings survived an audit by having paper behind them — and the paper came off a book printed where wedding cards are printed.",
+        "hi": "परिवार से कुछ छिपाना ही नहीं पड़ा, क्योंकि परिवार को टोकन दिखाए गए। सत्रह फेरे जाँच से इसलिए बच गए कि उनके पीछे काग़ज़ था — और वह काग़ज़ उस बही का था जो वहाँ छपी जहाँ शादी के कार्ड छपते हैं।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "bill",
+    "toClueId": "counter",
+    "text": {
+      "en": "Two numbers disagree and one of them is a book. Go and find the number that is not a book — a machine with a seal on it has no reason to lie and no way to.",
+      "hi": "दो आँकड़े आपस में नहीं मिलते और उनमें से एक बही है। वह आँकड़ा ढूँढ़ो जो बही नहीं है — सीलबंद मशीन के पास झूठ बोलने की न वजह होती है, न रास्ता।"
+    }
+  },
+  "bankedClue": {
+    "en": "A crossing the jetty counted and the trip log never wrote down",
+    "hi": "एक फेरा, जो घाट ने गिना और नाव की बही ने कभी लिखा ही नहीं"
+  }
+}

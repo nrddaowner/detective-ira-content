@@ -1,0 +1,524 @@
+{
+  "id": "jaisalmer-the-hotel-jharokha",
+  "schema": 1,
+  "city": "jaisalmer",
+  "genre": "smuggling",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jaisalmer-havelis",
+    "caseNumber": 5
+  },
+  "title": {
+    "en": "The Hotel Jharokha",
+    "hi": "होटल का झरोखा"
+  },
+  "place": {
+    "en": "A hotel lobby, Sam road · Ashwin 21, 11:00 AM",
+    "hi": "सम रोड का एक होटल, लॉबी · आश्विन 21, 11:00 AM"
+  },
+  "brief": {
+    "en": "The lobby of a new hotel on the Sam road carries a carved jharokha, and the hotel holds an invoice for it that reads new work, one jharokha, eighty-four thousand rupees. Its inner sill is worn hollow by half an inch, its tenons are cut for a wall twenty-two inches thick, and there is two-hundred-year-old lime with surkhi still sitting in the tenon housings. It fits bay six of Kothari Haveli’s south face to a sixteenth of an inch on all four sides. Bay six was written off in Shravan and went out of the site gate as debris.",
+    "hi": "सम रोड के एक नए होटल की लॉबी में एक तराशा हुआ झरोखा लगा है, और होटल के पास उसका बिल है जिस पर लिखा है — नया काम, एक झरोखा, चौरासी हज़ार रुपए। उसकी भीतरी चौकी आधा इंच घिसकर गड्ढा बन चुकी है, उसके चूल बाईस इंच मोटी दीवार के लिए कटे हैं, और चूल के ख़ानों में आज भी दो सौ साल पुराना सुरखी वाला चूना बैठा है। वह कोठारी हवेली के दक्षिणी मुख की बाय छह में चारों तरफ़ से इंच के सोलहवें हिस्से तक सटीक बैठता है। बाय छह सावन में ‘मरम्मत से बाहर’ लिखी गई थी और साइट के गेट से मलबे के रूप में निकली थी।"
+  },
+  "photoCaption": {
+    "en": "the inner sill, hollowed",
+    "hi": "भीतरी चौकी, घिसी हुई"
+  },
+  "iraNote": {
+    "en": "“Every fake I have ever met was new pretending to be old. This is the first one I have met the other way round, and it is far cleverer, because a new thing is allowed to be sold.”",
+    "hi": "“अब तक जो भी नक़ल मुझे मिली, वह नई थी और पुरानी होने का दिखावा करती थी। यह पहली है जो उल्टी तरफ़ चली है — और यह कहीं ज़्यादा चतुर है, क्योंकि नई चीज़ को बेचने की इजाज़त होती है।”"
+  },
+  "clues": [
+    {
+      "id": "sill",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE INNER SILL",
+        "hi": "भीतरी चौकी"
+      },
+      "text": {
+        "en": "Hollowed a full half inch across its length, deepest at the two places a forearm rests and a water pot stands. A carver leaves an arris on a new sill sharp enough to open a hand, and nothing but two centuries of leaning makes that dish.",
+        "hi": "पूरी लंबाई में आधा इंच घिसी हुई, और सबसे गहरी उन दो जगहों पर जहाँ कोहनी टिकती है और पानी का घड़ा रखा जाता है। नई चौकी पर सिलावट ऐसा किनारा छोड़ता है जो हाथ चीर दे — और यह कटोरी दो सदी के टिकने के सिवा कोई चीज़ नहीं बनाती।"
+      }
+    },
+    {
+      "id": "tenons",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE TENONS",
+        "hi": "चूल"
+      },
+      "text": {
+        "en": "Cut to sit in a wall twenty-two inches through, which is what a fort haveli is built to. This lobby wall is nine inches of block, and the frame has been packed out behind with modern brick and a steel angle to hold it up.",
+        "hi": "बाईस इंच मोटी दीवार में बैठने के लिए कटे हुए — और क़िले की हवेली इसी मोटाई की बनती है। यह लॉबी की दीवार नौ इंच के ब्लॉक की है, और चौखट को पीछे से आजकल की ईंट और लोहे के एंगल से भरकर टिकाया गया है।"
+      }
+    },
+    {
+      "id": "limebed",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LIME IN THE HOUSINGS",
+        "hi": "ख़ानों में चूना"
+      },
+      "text": {
+        "en": "Lime with surkhi and a trace of jaggery, carbonated all the way through, still packed in both tenon housings and along the head. A piece that has never been bedded in a wall has clean housings, because a housing is only filled once.",
+        "hi": "सुरखी और थोड़े गुड़ वाला चूना, भीतर तक पका हुआ, दोनों चूल के ख़ानों में और ऊपर के सिरे पर अब भी भरा हुआ। जो टुकड़ा किसी दीवार में कभी चिना ही न गया हो, उसके ख़ाने साफ़ रहते हैं — क्योंकि ख़ाना एक ही बार भरा जाता है।"
+      }
+    },
+    {
+      "id": "measure",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "IT FITS BAY SIX",
+        "hi": "यह बाय छह में बैठता है"
+      },
+      "text": {
+        "en": "Matched to Kothari Haveli’s south face on all four sides to a sixteenth of an inch, including the two out-of-square corners that the eighteen-hundreds left in that opening. Nobody reproduces a mistake that precisely on purpose.",
+        "hi": "कोठारी हवेली के दक्षिणी मुख से चारों तरफ़ इंच के सोलहवें हिस्से तक मिलाया गया — उन दो टेढ़े कोनों समेत जो उन्नीसवीं सदी उस झरोखे में छोड़ गई थी। किसी ग़लती की नक़ल कोई जानबूझकर इतनी सटीक नहीं करता।"
+      }
+    },
+    {
+      "id": "patina",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE LICHEN LINE",
+        "hi": "काई की लकीर"
+      },
+      "text": {
+        "en": "A band of dead lichen across what used to be the outer face, at exactly the height of the haveli’s own drip course. Lichen wants weather and a hundred years, and a hotel lobby has never grown any.",
+        "hi": "जो पहले बाहरी सतह थी, उस पर मरी हुई काई की एक पट्टी — ठीक उसी ऊँचाई पर, जहाँ हवेली का अपना टपकन-रद्दा है। काई के लिए मौसम चाहिए और सौ साल चाहिए, और होटल की लॉबी में आज तक काई उगी ही नहीं।"
+      }
+    },
+    {
+      "id": "invoice",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "NEW WORK, RS 84,000",
+        "hi": "नया काम, ₹84,000"
+      },
+      "text": {
+        "en": "One tax invoice, new work, one carved jharokha, eighty-four thousand rupees, paid by cheque against a purchase order. A jharokha of this age and quality moves at six lakh in Jaipur — and cannot be sold at all without a registration, which is the whole reason it was invoiced as new.",
+        "hi": "एक कर बिल: नया काम, एक तराशा झरोखा, चौरासी हज़ार रुपए, ख़रीद आदेश पर चेक से चुकाया गया। इस उम्र और इस काम का झरोखा जयपुर में छह लाख में चलता है — और पंजीकरण के बिना बिक ही नहीं सकता, और उसे ‘नया’ लिखकर बेचने की पूरी वजह यही है।"
+      }
+    },
+    {
+      "id": "bought",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHAT HE PAID FOR IT",
+        "hi": "उसने इसके क्या दिए"
+      },
+      "text": {
+        "en": "The dealer’s own purchase book, Shravan nineteen: one jharokha, entered as debris, south court, nine thousand rupees, cash, paid to a lorry. Nine thousand is not a price for a jharokha; it is a price for getting rid of one.",
+        "hi": "व्यापारी की अपनी ख़रीद बही, सावन उन्नीस: एक झरोखा, मलबा लिखा हुआ, दक्षिणी आँगन, नौ हज़ार रुपए, नक़द, एक ट्रक को दिए गए। नौ हज़ार झरोखे का दाम नहीं है; वह झरोखे से पीछा छुड़ाने का दाम है।"
+      }
+    },
+    {
+      "id": "inventory",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE FIXTURES INVENTORY",
+        "hi": "जड़ाऊ सामान की सूची"
+      },
+      "text": {
+        "en": "Bay six struck through with one line and initialled in the caretaker’s hand on Shravan eighteen. In thirty-one years of that book it is the only entry that has ever been struck off anything.",
+        "hi": "बाय छह पर एक लकीर, और सावन अठारह को देखभाल करने वाली के हाथ के छोटे हस्ताक्षर। उस बही के इकतीस साल में यह अकेली प्रविष्टि है जो कभी किसी चीज़ पर से काटी गई है।"
+      }
+    },
+    {
+      "id": "firozfit",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "HOW IT WAS FITTED",
+        "hi": "यह कैसे लगाया गया"
+      },
+      "text": {
+        "en": "Firoz Khan packed a nine inch wall out to twenty-two with brick and a steel angle to take the frame.",
+        "hi": "फ़िरोज़ ख़ान ने चौखट लेने के लिए नौ इंच की दीवार को ईंट और लोहे के एंगल से बाईस इंच तक भरा।"
+      },
+      "dismissNote": {
+        "en": "ruled out — an interior contractor fits what purchase buys; the packing is open to view from the service passage and he photographed all of it for his own running bill",
+        "hi": "ख़ारिज — इंटीरियर ठेकेदार वही लगाता है जो ख़रीद विभाग ख़रीदता है; भराई सेवा गलियारे से खुली दिखती है और उसने अपने ही चालू बिल के लिए उसकी पूरी फ़ोटो खींची है"
+      }
+    },
+    {
+      "id": "gauri",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO RAISED THE ORDER",
+        "hi": "आदेश किसने निकाला"
+      },
+      "text": {
+        "en": "Gauri Devi raised the purchase order against a written quotation for new work and paid it by cheque.",
+        "hi": "गौरी देवी ने नए काम के लिखित कोटेशन पर ख़रीद आदेश निकाला और भुगतान चेक से किया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — quotation, order, invoice and cheque are all in one file in her own cabinet, and she is the one who fetched the file before we asked for it",
+        "hi": "ख़ारिज — कोटेशन, आदेश, बिल और चेक — चारों उसकी ही अलमारी की एक फ़ाइल में हैं, और फ़ाइल हमारे माँगने से पहले लाकर रखने वाली भी वही है"
+      }
+    },
+    {
+      "id": "shantibook",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE VISITORS’ BOOK",
+        "hi": "आने-जाने वालों की बही"
+      },
+      "text": {
+        "en": "Shanti Bai Paliwal’s book has the dealer inside Kothari Haveli three times in Shravan.",
+        "hi": "शांति बाई पालीवाल की बही में सावन में तीन बार व्यापारी की कोठारी हवेली के भीतर हाज़िरी दर्ज है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — all three visits are in daylight with the engineer beside him, and she is the one who noticed bay six was neither in the wall nor in the store and would not stop saying so",
+        "hi": "ख़ारिज — तीनों बार दिन में और इंजीनियर उसके साथ; और यह पकड़ने वाली वही हैं कि बाय छह न दीवार में है, न भंडार में — और वह यह कहना बंद ही नहीं कर रही थीं"
+      }
+    },
+    {
+      "id": "sameroad",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ELEVEN OTHER OLD-LOOKING PIECES",
+        "hi": "पुराने से दिखते ग्यारह और"
+      },
+      "text": {
+        "en": "The same lobby and corridors carry eleven other carved pieces that all look two hundred years old.",
+        "hi": "उसी लॉबी और गलियारों में ग्यारह और तराशे टुकड़े हैं, और सब दो सौ साल पुराने लगते हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — ten of the eleven are honest reproductions off a Jodhpur shed’s templates with the template marks still on them, and the eleventh is a Barmer door with a registration number that checks out",
+        "hi": "ख़ारिज — ग्यारह में से दस जोधपुर के एक छप्पर के नमूनों से बनी सच्ची प्रतिकृतियाँ हैं और उन पर नमूने के निशान अब भी हैं, और ग्यारहवाँ बाड़मेर का दरवाज़ा है जिसका पंजीकरण नंबर जाँच में सही निकलता है"
+      }
+    },
+    {
+      "id": "challan",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE SOUTH COURT CHALLAN",
+        "hi": "दक्षिणी आँगन का चालान"
+      },
+      "text": {
+        "en": "Debris challan for the south court, Shravan nineteen, four crates, signed out and signed in.",
+        "hi": "दक्षिणी आँगन का मलबा चालान, सावन उन्नीस, चार बक्से, निकासी और प्राप्ति दोनों पर दस्तख़त।"
+      },
+      "dismissNote": {
+        "en": "ruled out — it is honest paper for a dishonest word; a debris challan has never once said what is inside a crate, because debris is not supposed to have contents worth listing",
+        "hi": "ख़ारिज — यह एक बेईमान शब्द का ईमानदार काग़ज़ है; मलबा चालान ने आज तक यह नहीं लिखा कि बक्से में क्या है, क्योंकि मलबे में गिनाने लायक़ कुछ होना ही नहीं चाहिए"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidnew",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DEALER",
+        "hi": "बयान · व्यापारी"
+      },
+      "text": {
+        "en": "“An old stone cannot be sold, madam, it can only be surrendered. A new stone can be sold to anybody with a bank account. So I sell new stones, and I have never once been asked to prove that a new stone is new.”",
+        "hi": "“मैडम, पुराना पत्थर बेचा नहीं जा सकता, वह सिर्फ़ जमा कराया जा सकता है। नया पत्थर उस हर आदमी को बेचा जा सकता है जिसके पास बैंक खाता है। इसलिए मैं नए पत्थर बेचता हूँ — और यह साबित करने को मुझसे आज तक एक बार भी नहीं कहा गया कि नया पत्थर नया है।”"
+      }
+    },
+    {
+      "id": "saidasked",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE HOTEL’S OWNER",
+        "hi": "बयान · होटल मालिक"
+      },
+      "text": {
+        "en": "“I asked him for a certificate. He laughed and said certificates are for old things. I have built four hotels and nobody in this trade has ever offered me a certificate for a new window.”",
+        "hi": "“मैंने उससे प्रमाण-पत्र माँगा था। वह हँस दिया और बोला, प्रमाण-पत्र पुरानी चीज़ों के लिए होते हैं। मैंने चार होटल बनाए हैं और इस धंधे में नई खिड़की का प्रमाण-पत्र मुझे आज तक किसी ने नहीं दिया।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "kanhaiya",
+      "name": {
+        "en": "Kanhaiya Lal",
+        "hi": "कन्हैया लाल"
+      },
+      "role": {
+        "en": "THE SALVAGE DEALER",
+        "hi": "सलवेज व्यापारी"
+      },
+      "hook": {
+        "en": "bought it as debris and sold it as new",
+        "hi": "मलबा कहकर ख़रीदा, नया कहकर बेचा"
+      },
+      "confession": {
+        "en": "Took bay six’s jharokha off a debris lorry for nine thousand rupees in cash on Shravan nineteen, and sold a registrable two-hundred-year-old antiquity into a hotel lobby on a tax invoice reading new work, eighty-four thousand — because an antiquity has to be registered and surrendered and a reproduction can be sold to anybody with a chequebook.",
+        "hi": "सावन उन्नीस को बाय छह का झरोखा एक मलबा ट्रक से नौ हज़ार रुपए नक़द में लिया, और दो सौ साल पुरानी, पंजीकरण योग्य प्राचीन वस्तु को ‘नया काम, चौरासी हज़ार’ लिखे कर बिल पर एक होटल की लॉबी में बेच दिया — क्योंकि प्राचीन वस्तु को पंजीकृत और जमा कराना पड़ता है, और प्रतिकृति उस हर आदमी को बेची जा सकती है जिसके पास चेक बुक हो।"
+      }
+    },
+    {
+      "id": "virendra",
+      "name": {
+        "en": "Virendra Singh Bhati",
+        "hi": "वीरेंद्र सिंह भाटी"
+      },
+      "role": {
+        "en": "THE HOTEL’S OWNER",
+        "hi": "होटल मालिक"
+      },
+      "hook": {
+        "en": "it is in his lobby and his cheque paid for it",
+        "hi": "लॉबी उसकी और चेक भी उसी का"
+      },
+      "alibi": {
+        "en": "He paid eighty-four thousand by cheque for what he was told was new work and asked for a certificate he was laughed at for wanting. A man buying a stolen antiquity does not put it in a lobby that four hundred people walk through every day.",
+        "hi": "जिसे नया काम बताया गया, उसके उसने चेक से चौरासी हज़ार दिए — और प्रमाण-पत्र माँगने पर उसकी हँसी उड़ाई गई। चोरी की प्राचीन वस्तु ख़रीदने वाला उसे उस लॉबी में नहीं लगाता जहाँ से रोज़ चार सौ लोग गुज़रते हैं।"
+      }
+    },
+    {
+      "id": "firoz",
+      "name": {
+        "en": "Firoz Khan",
+        "hi": "फ़िरोज़ ख़ान"
+      },
+      "role": {
+        "en": "THE INTERIOR CONTRACTOR",
+        "hi": "इंटीरियर ठेकेदार"
+      },
+      "hook": {
+        "en": "packed a nine inch wall out to twenty-two",
+        "hi": "नौ इंच की दीवार को बाईस तक भरा"
+      },
+      "alibi": {
+        "en": "He fits what purchase buys, and he photographed the whole packing for his own running bill, which is where we found the tenon depth. He asked in writing why a new frame was cut for a fort wall and was told to fit it.",
+        "hi": "ख़रीद विभाग जो ख़रीदता है वही वह लगाता है, और पूरी भराई की फ़ोटो उसने अपने चालू बिल के लिए खींची — चूल की गहराई हमें वहीं से मिली। नई चौखट क़िले की दीवार की नाप में क्यों कटी है, यह उसने लिखकर पूछा था और जवाब मिला कि लगा दो।"
+      }
+    },
+    {
+      "id": "gauri",
+      "name": {
+        "en": "Gauri Devi",
+        "hi": "गौरी देवी"
+      },
+      "role": {
+        "en": "THE HOTEL’S PURCHASE MANAGER",
+        "hi": "होटल की ख़रीद प्रबंधक"
+      },
+      "hook": {
+        "en": "the order, the invoice and the cheque are hers",
+        "hi": "आदेश, बिल और चेक — तीनों उसी के"
+      },
+      "alibi": {
+        "en": "Quotation, purchase order, tax invoice and cheque counterfoil are in one file in her own cabinet, and she brought the file out before anybody asked for it. Nothing in that file is false except one word written by somebody else.",
+        "hi": "कोटेशन, ख़रीद आदेश, कर बिल और चेक का प्रतिपर्ण — चारों उसकी ही अलमारी की एक फ़ाइल में हैं, और फ़ाइल उसने किसी के माँगने से पहले निकालकर रख दी। उस फ़ाइल में एक भी चीज़ झूठ नहीं है — सिवाय एक शब्द के, जो किसी और ने लिखा था।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "shanti",
+      "name": {
+        "en": "Shanti Bai Paliwal",
+        "hi": "शांति बाई पालीवाल"
+      },
+      "role": {
+        "en": "THE HAVELI’S CARETAKER",
+        "hi": "हवेली की देखभाल करने वाली"
+      },
+      "hook": {
+        "en": "struck bay six off her own inventory",
+        "hi": "बाय छह अपनी ही सूची से उसी ने काटी"
+      },
+      "alibi": {
+        "en": "She struck off what the replacement schedule told her was gone, in a book she keeps by hand and has never altered in thirty-one years. She is also the one who kept saying bay six was neither in the wall nor in the store until somebody came and listened.",
+        "hi": "प्रतिस्थापन सूची ने जो चला गया बताया, उसे उन्होंने काटा — उस बही में, जो वे हाथ से रखती हैं और जिसमें इकतीस साल में कभी कोई फेरबदल नहीं किया। और यह कहती भी वही रहीं कि बाय छह न दीवार में है, न भंडार में — जब तक कोई आकर सुन नहीं गया।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "kanhaiya",
+  "interrogations": [
+    {
+      "suspectId": "firoz",
+      "setting": {
+        "en": "The service passage behind the lobby wall, brick packing and a steel angle open to view, a phone full of photographs.",
+        "hi": "लॉबी की दीवार के पीछे का सेवा गलियारा, खुली दिखती ईंट की भराई और लोहे का एंगल, और फ़ोटो से भरा एक फ़ोन।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You built a wall out from nine inches to twenty-two.",
+            "hi": "आपने नौ इंच की दीवार को बाईस इंच तक बढ़ाया।"
+          },
+          "answer": {
+            "en": "“The frame came cut for twenty-two. I wrote and asked why a new window was cut for a fort wall, and the answer was fit it. I have the letter and I have the answer.”",
+            "hi": "“चौखट बाईस के लिए कटी हुई आई थी। मैंने लिखकर पूछा कि नई खिड़की क़िले की दीवार की नाप में क्यों कटी है, और जवाब आया — लगा दो। चिट्ठी मेरे पास है और जवाब भी।”"
+          },
+          "needsClueId": "tenons",
+          "lockedHint": {
+            "en": "Pin the tenons. He will describe his packing all morning and the tenon depth only once it is measured on the board.",
+            "hi": "चूल टाँगो। अपनी भराई का ब्योरा वह सुबह भर देगा; चूल की गहराई पर तभी आएगा जब वह नापकर बोर्ड पर आ जाए।"
+          },
+          "note": {
+            "en": "Nobody cuts a new frame for a wall that does not exist in the building it is going into. He noticed in writing before anybody paid him.",
+            "hi": "जिस इमारत में चौखट जा रही है, उसमें वह दीवार ही नहीं है — ऐसी नई चौखट कोई नहीं काटता। उसने पैसा मिलने से पहले ही लिखकर यह पकड़ लिया था।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "virendra",
+      "setting": {
+        "en": "The manager’s office off the lobby, a purchase file squared on the desk, and the jharokha visible through the doorway.",
+        "hi": "लॉबी से लगा मैनेजर का दफ़्तर, मेज़ पर सीधी रखी ख़रीद फ़ाइल, और दरवाज़े से दिखता झरोखा।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Eighty-four thousand for a new jharokha.",
+            "hi": "एक नए झरोखे के चौरासी हज़ार।"
+          },
+          "answer": {
+            "en": "“I asked him for a certificate. He laughed and said certificates are for old things. I have built four hotels and nobody in this trade has ever offered me a certificate for a new window.”",
+            "hi": "“मैंने उससे प्रमाण-पत्र माँगा था। वह हँस दिया और बोला, प्रमाण-पत्र पुरानी चीज़ों के लिए होते हैं। मैंने चार होटल बनाए हैं और इस धंधे में नई खिड़की का प्रमाण-पत्र मुझे आज तक किसी ने नहीं दिया।”"
+          },
+          "needsClueId": "invoice",
+          "lockedHint": {
+            "en": "Pin the invoice. He will not talk about the price until the words on his own paper are in front of him.",
+            "hi": "बिल टाँगो। जब तक उसके अपने काग़ज़ के शब्द सामने न आएँ, वह दाम पर बात नहीं करेगा।"
+          },
+          "unlocksClueId": "saidasked",
+          "note": {
+            "en": "He asked the one question that would have stopped this and was laughed out of it by the one man who knew the answer.",
+            "hi": "जो एक सवाल इसे रोक सकता था, वह उसने पूछा — और जिस एक आदमी को जवाब पता था, उसी ने हँसकर उसे टाल दिया।"
+          }
+        },
+        {
+          "ask": {
+            "en": "It fits an opening in the fort to a sixteenth of an inch.",
+            "hi": "यह क़िले के एक झरोखे में इंच के सोलहवें हिस्से तक बैठता है।"
+          },
+          "answer": {
+            "en": "“Then take it out of my wall today and put it back in that wall. I did not build a hotel to keep somebody’s window in it.”",
+            "hi": "“तो आज ही इसे मेरी दीवार से निकालकर उसी दीवार में लगा दीजिए। मैंने होटल किसी की खिड़की रखने के लिए नहीं बनाया।”"
+          },
+          "note": {
+            "en": "He means it, and he will still be out eighty-four thousand and a lobby wall.",
+            "hi": "वह सच में यही चाहता है — और फिर भी चौरासी हज़ार और एक लॉबी की दीवार उसी के सिर जाएँगे।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "kanhaiya",
+      "setting": {
+        "en": "The Gandhi Chowk shop at four, four doors and nine brackets stacked on the floor, and a purchase book chained to the counter.",
+        "hi": "चार बजे की गांधी चौक की दुकान, फ़र्श पर चिने चार दरवाज़े और नौ कंगनियाँ, और काउंटर से ज़ंजीर में बँधी ख़रीद बही।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Nine thousand rupees, Shravan nineteen, entered as debris.",
+            "hi": "नौ हज़ार रुपए, सावन उन्नीस, मलबा लिखा हुआ।"
+          },
+          "answer": {
+            "en": "“That is what a lorry man asks for a crate he wants off his bed. I did not write the word debris on it. Somebody at a site wrote it, and I paid the price the word carries.”",
+            "hi": "“अपने ट्रक से बक्सा उतारने के लिए ट्रक वाला इतना ही माँगता है। ‘मलबा’ लिखने वाला मैं नहीं हूँ। किसी साइट पर किसी ने लिखा, और मैंने उस शब्द का जो दाम बनता है वही दिया।”"
+          },
+          "needsClueId": "bought",
+          "lockedHint": {
+            "en": "Pin his purchase book. He counts in words and not in stones, and the book is where the word and the price sit together.",
+            "hi": "उसकी ख़रीद बही टाँगो। वह शब्दों में गिनता है, पत्थरों में नहीं — और बही ही वह जगह है जहाँ शब्द और दाम साथ बैठे हैं।"
+          },
+          "note": {
+            "en": "He is telling the truth and pointing upward while he does it, which is the most useful thing anybody has done all week.",
+            "hi": "वह सच बोल रहा है और बोलते-बोलते ऊपर की तरफ़ इशारा भी कर रहा है — और इस पूरे हफ़्ते किसी ने इससे ज़्यादा काम की चीज़ नहीं की।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You sold a registrable antiquity on an invoice that says new.",
+            "hi": "आपने पंजीकरण योग्य प्राचीन वस्तु उस बिल पर बेची जिस पर ‘नया’ लिखा है।"
+          },
+          "answer": {
+            "en": "“An old stone cannot be sold, madam, it can only be surrendered. A new stone can be sold to anybody with a bank account. So I sell new stones, and I have never once been asked to prove that a new stone is new.”",
+            "hi": "“मैडम, पुराना पत्थर बेचा नहीं जा सकता, वह सिर्फ़ जमा कराया जा सकता है। नया पत्थर उस हर आदमी को बेचा जा सकता है जिसके पास बैंक खाता है। इसलिए मैं नए पत्थर बेचता हूँ — और यह साबित करने को मुझसे आज तक एक बार भी नहीं कहा गया कि नया पत्थर नया है।”"
+          },
+          "needsClueId": "invoice",
+          "lockedHint": {
+            "en": "Pin the invoice. One word on that paper is the whole offence, and he will not discuss the word until he can read it.",
+            "hi": "बिल टाँगो। उस काग़ज़ का एक शब्द ही पूरा जुर्म है, और जब तक वह उसे पढ़ न ले, उस शब्द पर बात नहीं करेगा।"
+          },
+          "unlocksClueId": "saidnew",
+          "note": {
+            "en": "Every law we have is built to catch new things pretending to be old. He read it the other way round and walked straight through.",
+            "hi": "हमारा हर क़ानून उन नई चीज़ों को पकड़ने के लिए बना है जो पुरानी होने का दिखावा करती हैं। उसने उसे उल्टा पढ़ा और सीधा निकल गया।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The sill has two centuries of forearms in it.",
+            "hi": "उस चौकी में दो सदी की कोहनियाँ घिसी हुई हैं।"
+          },
+          "answer": {
+            "en": "“I sell stone, not history. If a hotel wants a window that looks lived in, that is the hotel’s taste and not my crime.”",
+            "hi": "“मैं पत्थर बेचता हूँ, इतिहास नहीं। किसी होटल को बरती हुई लगने वाली खिड़की चाहिए तो यह होटल का शौक़ है, मेरा जुर्म नहीं।”"
+          },
+          "note": {
+            "en": "It is lived in. Two hundred years of somebody’s family leaned on it, and he sold it as a thing with no past at all.",
+            "hi": "वह बरती हुई ही है। किसी के परिवार की दो सौ साल की कोहनियाँ उस पर टिकी हैं — और उसने उसे ऐसी चीज़ बनाकर बेचा जिसका कोई कल ही न हो।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "bought",
+      "correction": {
+        "en": "The hotel paid out and the contractor was paid a fitting rate. One man laid out nine thousand rupees in cash for a crate off a lorry bed and needed it to become something a chequebook could buy.",
+        "hi": "होटल ने पैसा दिया और ठेकेदार को लगाई की मज़दूरी मिली। एक ही आदमी था जिसने ट्रक से उतरे एक बक्से के नौ हज़ार रुपए नक़द लगाए — और जिसे उसे ऐसी चीज़ बनाना ज़रूरी था जो चेक बुक से ख़रीदी जा सके।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidnew",
+      "correction": {
+        "en": "Nothing had to be forged, because every law we have is built to catch new things pretending to be old. He turned it round: an antiquity must be registered and surrendered, a reproduction may be sold to anybody, and nobody has ever been asked to prove that a new stone is new.",
+        "hi": "यहाँ कुछ जाली बनाने की ज़रूरत ही नहीं थी, क्योंकि हमारा हर क़ानून उन नई चीज़ों को पकड़ने के लिए बना है जो पुरानी होने का दिखावा करती हैं। उसने उसे उल्टा कर दिया: प्राचीन वस्तु पंजीकृत और जमा करानी पड़ती है, प्रतिकृति किसी को भी बेची जा सकती है — और यह साबित करने को आज तक किसी से नहीं कहा गया कि नया पत्थर नया है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "invoice",
+      "correction": {
+        "en": "It did not have to leave anywhere quietly. It travelled eight kilometres in daylight on a tax invoice, a purchase order and a crossed cheque, into a lobby four hundred people walk through — because one word on that invoice reads new work.",
+        "hi": "इसे कहीं चुपचाप जाना ही नहीं था। यह एक कर बिल, एक ख़रीद आदेश और एक क्रॉस चेक पर, दिन के उजाले में आठ किलोमीटर चलकर उस लॉबी में पहुँचा जहाँ से रोज़ चार सौ लोग गुज़रते हैं — क्योंकि उस बिल का एक शब्द कहता है: नया काम।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "sill",
+    "toClueId": "limebed",
+    "text": {
+      "en": "Wear can be faked with a rasp and a wet sack, and a good faker would. So stop reading the face everybody looks at and go into the housings, where nothing is ever finished because nothing is ever seen.",
+      "hi": "घिसाव रेती और गीली बोरी से बनाई जा सकती है, और कोई अच्छा नक़लची बना भी देता। तो जिस सतह को सब देखते हैं उसे पढ़ना छोड़िए और उन ख़ानों में जाइए, जहाँ कुछ भी सँवारा नहीं जाता क्योंकि कुछ भी दिखता नहीं।"
+    }
+  },
+  "bankedClue": {
+    "en": "A fixtures inventory where bay six was struck off in the caretaker’s hand, the only strike-off in thirty-one years",
+    "hi": "जड़ाऊ सामान की सूची, जिसमें बाय छह देखभाल करने वाली के हाथ से काटी गई — इकतीस साल की उस बही की अकेली कटी हुई प्रविष्टि"
+  }
+}

@@ -63,6 +63,17 @@
         "odhni",
         "ghoonghat",
         "chefCap"
+      ],
+      "sceneGrounds": [
+        "courtyard",
+        "counter",
+        "lane"
+      ],
+      "sceneProps": [
+        "jharokha",
+        "bunting",
+        "matka",
+        "tiffin"
       ]
     },
     {
@@ -88,6 +99,197 @@
         "odhni",
         "topi",
         "ghoonghat"
+      ],
+      "sceneGrounds": [
+        "office",
+        "courtyard",
+        "lane"
+      ],
+      "sceneProps": [
+        "jharokha",
+        "files",
+        "matka",
+        "charpai"
+      ]
+    },
+    {
+      "id": "udaipur",
+      "region": "rajasthan",
+      "label": {
+        "en": "Udaipur",
+        "hi": "उदयपुर"
+      },
+      "blurb": {
+        "en": "lake palaces & wedding season",
+        "hi": "झील के महल और सहालग"
+      },
+      "paletteA": "#C6D4E8",
+      "paletteB": "#E1E8F4",
+      "paletteInk": "#3A4A6B",
+      "skyline": {
+        "en": "udaipur lake palaces & ghat steps art"
+      },
+      "faceHeadwear": [
+        "safa",
+        "none",
+        "odhni",
+        "ghoonghat",
+        "topi"
+      ],
+      "sceneGrounds": [
+        "quay",
+        "courtyard",
+        "counter"
+      ],
+      "sceneProps": [
+        "boat",
+        "bunting",
+        "jharokha",
+        "basket"
+      ]
+    },
+    {
+      "id": "pushkar",
+      "region": "rajasthan",
+      "label": {
+        "en": "Pushkar",
+        "hi": "पुष्कर"
+      },
+      "blurb": {
+        "en": "camel fair & ghat steps",
+        "hi": "ऊँट मेला और घाट"
+      },
+      "paletteA": "#E3B478",
+      "paletteB": "#F0D3A6",
+      "paletteInk": "#7A4A16",
+      "skyline": {
+        "en": "pushkar ghats & camel fair skyline art"
+      },
+      "faceHeadwear": [
+        "safa",
+        "none",
+        "odhni",
+        "ghoonghat",
+        "topi"
+      ],
+      "sceneGrounds": [
+        "courtyard",
+        "lane",
+        "godown"
+      ],
+      "sceneProps": [
+        "charpai",
+        "sacks",
+        "basket",
+        "stall"
+      ]
+    },
+    {
+      "id": "jaisalmer",
+      "region": "rajasthan",
+      "label": {
+        "en": "Jaisalmer",
+        "hi": "जैसलमेर"
+      },
+      "blurb": {
+        "en": "golden fort & carved stone",
+        "hi": "सोनार क़िला और तराशा पत्थर"
+      },
+      "paletteA": "#E5C65C",
+      "paletteB": "#F2E4A6",
+      "paletteInk": "#6E5410",
+      "skyline": {
+        "en": "jaisalmer fort ramparts & jharokha art"
+      },
+      "faceHeadwear": [
+        "safa",
+        "none",
+        "odhni",
+        "ghoonghat",
+        "topi"
+      ],
+      "sceneGrounds": [
+        "courtyard",
+        "godown",
+        "counter"
+      ],
+      "sceneProps": [
+        "jharokha",
+        "crate",
+        "matka",
+        "handcart"
+      ]
+    },
+    {
+      "id": "bikaner",
+      "region": "rajasthan",
+      "label": {
+        "en": "Bikaner",
+        "hi": "बीकानेर"
+      },
+      "blurb": {
+        "en": "red stone lanes & sweetshops",
+        "hi": "लाल पत्थर की गलियाँ और मिठाई की दुकानें"
+      },
+      "paletteA": "#D96A4F",
+      "paletteB": "#F0A98E",
+      "paletteInk": "#77291A",
+      "skyline": {
+        "en": "bikaner junagarh ramparts & sweetshop lane art"
+      },
+      "faceHeadwear": [
+        "safa",
+        "none",
+        "odhni",
+        "ghoonghat",
+        "topi"
+      ],
+      "sceneGrounds": [
+        "counter",
+        "lane",
+        "godown"
+      ],
+      "sceneProps": [
+        "tin",
+        "stall",
+        "sacks",
+        "scale"
+      ]
+    },
+    {
+      "id": "sambhar",
+      "region": "rajasthan",
+      "label": {
+        "en": "Sambhar",
+        "hi": "साँभर"
+      },
+      "blurb": {
+        "en": "salt pans & muster rolls",
+        "hi": "नमक की क्यारियाँ और हाज़िरी"
+      },
+      "paletteA": "#B9BFAE",
+      "paletteB": "#DCE0D2",
+      "paletteInk": "#4B5340",
+      "skyline": {
+        "en": "sambhar salt pans & bund road art"
+      },
+      "faceHeadwear": [
+        "safa",
+        "none",
+        "odhni",
+        "ghoonghat",
+        "topi"
+      ],
+      "sceneGrounds": [
+        "quay",
+        "office",
+        "godown"
+      ],
+      "sceneProps": [
+        "scale",
+        "sacks",
+        "basket",
+        "handcart"
       ]
     },
     {
@@ -112,6 +314,17 @@
         "topi",
         "kufi",
         "policeCap"
+      ],
+      "sceneGrounds": [
+        "lane",
+        "godown",
+        "office"
+      ],
+      "sceneProps": [
+        "handcart",
+        "stall",
+        "lampPost",
+        "signboard"
       ]
     },
     {
@@ -135,6 +348,17 @@
         "thorthu",
         "none",
         "kufi"
+      ],
+      "sceneGrounds": [
+        "quay",
+        "godown",
+        "counter"
+      ],
+      "sceneProps": [
+        "boat",
+        "nets",
+        "sacks",
+        "crate"
       ]
     },
     {
@@ -160,6 +384,17 @@
         "topi",
         "kufi",
         "ghoonghat"
+      ],
+      "sceneGrounds": [
+        "office",
+        "godown",
+        "lane"
+      ],
+      "sceneProps": [
+        "files",
+        "ledger",
+        "handcart",
+        "lampPost"
       ]
     },
     {
@@ -184,6 +419,17 @@
         "ghoonghat",
         "headband",
         "topi"
+      ],
+      "sceneGrounds": [
+        "quay",
+        "lane",
+        "courtyard"
+      ],
+      "sceneProps": [
+        "boat",
+        "nets",
+        "basket",
+        "tap"
       ]
     },
     {
@@ -207,6 +453,17 @@
         "monkeyCap",
         "none",
         "headband"
+      ],
+      "sceneGrounds": [
+        "godown",
+        "office",
+        "lane"
+      ],
+      "sceneProps": [
+        "crate",
+        "basket",
+        "scale",
+        "clock"
       ]
     }
   ],
@@ -224,7 +481,8 @@
       },
       "blurb": {
         "en": "5 cases · a brooch, a bazaar, a conspiracy"
-      }
+      },
+      "art": "HaveliCourtyard"
     },
     {
       "id": "jodhpur-blue-house-register",
@@ -241,6 +499,91 @@
       "blurb": {
         "en": "6 cases · a lodging register, three tenants written in as guests, a road that moves eleven feet",
         "hi": "6 केस · एक सराय-रजिस्टर, मेहमान लिखे गए तीन किरायेदार, और ग्यारह फुट खिसकती सड़क"
+      }
+    },
+    {
+      "id": "udaipur-lake-palace-season",
+      "region": "rajasthan",
+      "city": "udaipur",
+      "number": 3,
+      "caseCount": 6,
+      "difficulty": "tricky",
+      "unlockStars": 18,
+      "title": {
+        "en": "Lake Palace Season",
+        "hi": "झील के महल का सहालग"
+      },
+      "blurb": {
+        "en": "6 cases · every boat booked, every gift logged, and one box that arrives empty",
+        "hi": "6 केस · हर नाव बुक, हर नेग दर्ज — और एक डिब्बा जो ख़ाली पहुँचता है"
+      }
+    },
+    {
+      "id": "pushkar-camel-fair-books",
+      "region": "rajasthan",
+      "city": "pushkar",
+      "number": 4,
+      "caseCount": 5,
+      "difficulty": "quick",
+      "unlockStars": 30,
+      "title": {
+        "en": "The Camel Fair Books",
+        "hi": "ऊँट मेले की बहियाँ"
+      },
+      "blurb": {
+        "en": "5 cases · the same camel sold three times in one fair, and one animal on the ground for all three",
+        "hi": "5 केस · एक ही मेले में एक ही ऊँट तीन बार बिका, और मैदान पर तीनों के लिए जानवर एक ही"
+      }
+    },
+    {
+      "id": "jaisalmer-havelis",
+      "region": "rajasthan",
+      "city": "jaisalmer",
+      "number": 5,
+      "caseCount": 7,
+      "difficulty": "tricky",
+      "unlockStars": 44,
+      "title": {
+        "en": "Havelis of Jaisalmer",
+        "hi": "जैसलमेर की हवेलियाँ"
+      },
+      "blurb": {
+        "en": "7 cases · a fort haveli under restoration, and its original carvings leaving in crates marked debris",
+        "hi": "7 केस · मरम्मत में खड़ी क़िले की एक हवेली, और उसकी असली तराश ‘मलबा’ लिखे बक्सों में बाहर"
+      }
+    },
+    {
+      "id": "bikaner-sweet-war",
+      "region": "rajasthan",
+      "city": "bikaner",
+      "number": 6,
+      "caseCount": 5,
+      "difficulty": "quick",
+      "unlockStars": 60,
+      "title": {
+        "en": "The Bikaner Sweet War",
+        "hi": "बीकानेर की मिठाई की लड़ाई"
+      },
+      "blurb": {
+        "en": "5 cases · two sweetshops across one lane, a landlord who owns both frontages, and a fire in the wrong shop",
+        "hi": "5 केस · एक गली, आमने-सामने दो मिठाई की दुकानें, दोनों फ़्रंट का एक ही मकान मालिक — और आग ग़लत दुकान में"
+      }
+    },
+    {
+      "id": "sambhar-salt-and-silence",
+      "region": "rajasthan",
+      "city": "sambhar",
+      "number": 7,
+      "caseCount": 6,
+      "difficulty": "tricky",
+      "unlockStars": 78,
+      "title": {
+        "en": "Salt and Silence",
+        "hi": "नमक और चुप्पी"
+      },
+      "blurb": {
+        "en": "6 cases · two hundred and fourteen names on a muster, a hundred and fifty-one pairs of boots out of the store, and a weighbridge that only lies one way",
+        "hi": "6 केस · हाज़िरी में दो सौ चौदह नाम, भंडार से निकले एक सौ इक्यावन जोड़ी बूट, और एक काँटा जो झूठ सिर्फ़ एक तरफ़ बोलता है"
       }
     },
     {

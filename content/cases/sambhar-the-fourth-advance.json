@@ -1,0 +1,510 @@
+{
+  "id": "sambhar-the-fourth-advance",
+  "schema": 1,
+  "city": "sambhar",
+  "genre": "blackmail",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "sambhar-salt-and-silence",
+    "caseNumber": 4
+  },
+  "title": {
+    "en": "The Fourth Advance",
+    "hi": "चौथी पेशगी"
+  },
+  "place": {
+    "en": "The contractor's compound, Nawa road · Shravan 22, 11:00 AM",
+    "hi": "ठेकेदार का अहाता, नावाँ रोड · सावन 22, सुबह 11:00"
+  },
+  "brief": {
+    "en": "Hazari Lal has worked the eastern kyars nineteen years and owes twenty-one thousand four hundred rupees against four advance receipts of five thousand each, every one of them closed with his thumb. He took the first in Kartik for his daughter's fever and has never in his life seen the other three. On Magh 24 he walked sixteen kilometres to the Labour Inspector's office at Phulera, sat on the bench until four o'clock, and came home without filing anything. Nobody threatened him in that office, and nobody has threatened him since.",
+    "hi": "हज़ारी लाल उन्नीस साल से पूरब की क्यारियों पर है और पाँच-पाँच हज़ार की चार पेशगी रसीदों पर उस पर इक्कीस हज़ार चार सौ रुपये चढ़े हैं — हर रसीद उसी के अंगूठे से बंद। पहली उसने कार्तिक में बेटी के बुख़ार के लिए ली थी और बाक़ी तीन उसने ज़िंदगी में देखी ही नहीं। माघ 24 को वह सोलह किलोमीटर चलकर फुलेरा में श्रम निरीक्षक के दफ़्तर गया, चार बजे तक बेंच पर बैठा रहा, और बिना कुछ दर्ज कराए लौट आया। उस दफ़्तर में उसे किसी ने धमकाया नहीं, और उसके बाद से भी किसी ने नहीं।"
+  },
+  "photoCaption": {
+    "en": "the almirah in the compound office, second shelf",
+    "hi": "अहाते के दफ़्तर की अलमारी, दूसरा ख़ाना"
+  },
+  "iraNote": {
+    "en": "“The cruellest thing is not to threaten a person. It is to arrange the world so the truth itself does the threatening, and then leave them alone in a room to work it out.”",
+    "hi": "“सबसे निर्दयी काम किसी को धमकाना नहीं है। सबसे निर्दयी काम दुनिया को ऐसा जमा देना है कि धमकी का काम सच ख़ुद कर दे — और फिर उस आदमी को कमरे में अकेला छोड़ देना कि वह ख़ुद समझे।”"
+  },
+  "clues": [
+    {
+      "id": "register",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE ADVANCE REGISTER, FOUR ROWS",
+        "hi": "पेशगी की बही, चार पंक्तियाँ"
+      },
+      "text": {
+        "en": "Four advances of five thousand rupees against Hazari Lal's thumb: Kartik 9, Magh 2, Phalgun 18, Chaitra 6, spread over nineteen months. The register is kept in Mahaveer Prasad Choudhary's own almirah and every entry is in the munim's hand. The interest column down the margin — five per cent a month, compounded, in ink that has never once been ruled off — is in neither of their handwritings that anybody in this compound can name.",
+        "hi": "हज़ारी लाल के अंगूठे पर पाँच-पाँच हज़ार की चार पेशगियाँ: कार्तिक 9, माघ 2, फाल्गुन 18, चैत 6 — उन्नीस महीनों में फैली हुई। बही महावीर प्रसाद चौधरी की अपनी अलमारी में रहती है और हर प्रविष्टि मुनीम की लिखाई में है। हाशिये पर ब्याज का ख़ाना — पाँच फ़ीसदी महीना, चक्रवृद्धि, और वह स्याही जिस पर आज तक एक बार भी लकीर नहीं खिंची — उन दोनों में से किसी की लिखाई में नहीं है, और इस अहाते में कोई यह नहीं बता पाता कि वह किसकी है।"
+      }
+    },
+    {
+      "id": "chest",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE CHEST, ON THREE OF FOUR DAYS",
+        "hi": "तिजोरी, चार में से तीन दिन"
+      },
+      "text": {
+        "en": "The advance chest's cash book shows five thousand rupees drawn on each of the four dates. An advance is paid into a hand in this compound and nowhere else. On Magh 2, Phalgun 18 and Chaitra 6 the gang hazri has Hazari Lal on kyar nine from first light, and kyar nine is sixteen kilometres from this gate by the bund road.",
+        "hi": "पेशगी की तिजोरी की रोकड़ बही चारों तारीख़ों पर पाँच-पाँच हज़ार निकले हुए दिखाती है। पेशगी इस अहाते में हाथ में दी जाती है, और कहीं नहीं। माघ 2, फाल्गुन 18 और चैत 6 — तीनों दिन गैंग की हाज़िरी हज़ारी लाल को पौ फटने से क्यारी नौ पर दिखाती है, और क्यारी नौ इस गेट से बाँध वाले रास्ते सोलह किलोमीटर है।"
+      }
+    },
+    {
+      "id": "witness",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHO WITNESSED WHICH RECEIPT",
+        "hi": "कौन-सी रसीद पर कौन गवाह"
+      },
+      "text": {
+        "en": "The Kartik receipt — the real one — is witnessed by the camp store man, who wrote his name and his designation in full. The other three are witnessed by the thumb of Ratni Devi, jamadarni, who cannot read the word witness or any other word on the page. Nobody has ever asked her to attest anything else in four seasons.",
+        "hi": "कार्तिक वाली रसीद — यानी असली — पर गवाही कैंप की दुकान वाले की है, जिसने अपना नाम और पद पूरा लिखा है। बाक़ी तीन पर गवाही रतनी देवी, जमादारनी के अंगूठे की है — जो उस पन्ने पर लिखा ‘गवाह’ शब्द भी नहीं पढ़ सकती, और कोई शब्द भी नहीं। चार सीज़न में उससे किसी और काग़ज़ पर गवाही आज तक नहीं ली गई।"
+      }
+    },
+    {
+      "id": "office",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "A VISIT WITH NO COMPLAINT",
+        "hi": "आना हुआ, शिकायत नहीं"
+      },
+      "text": {
+        "en": "The Labour Inspector's office at Phulera writes every caller into a visitors' column and every complaint into an inward register beside it. Hazari Lal, kyar nine, Sambhar works, is in the visitors' column for Magh 24 at eleven twenty. The inward register for that day, and for every day since, has nothing against his name.",
+        "hi": "फुलेरा में श्रम निरीक्षक का दफ़्तर हर आने वाले को आगंतुक ख़ाने में और हर शिकायत को उसके बग़ल की आवक पंजी में दर्ज करता है। माघ 24, ग्यारह बजकर बीस मिनट के सामने आगंतुक ख़ाने में लिखा है — हज़ारी लाल, क्यारी नौ, साँभर वर्क्स। उस दिन की और उसके बाद के हर दिन की आवक पंजी में उसके नाम के सामने कुछ नहीं है।"
+      }
+    },
+    {
+      "id": "wage",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "NINETEEN MONTHS, NOTHING PAID OFF",
+        "hi": "उन्नीस महीने, कुछ नहीं उतरा"
+      },
+      "text": {
+        "en": "A thousand rupees a month has been cut from his wage for nineteen months, which is nineteen thousand rupees recovered. The interest on twenty thousand at five per cent a month is a thousand rupees a month. The balance in the register today is twenty-one thousand four hundred, and it has never in nineteen months been lower than twenty thousand.",
+        "hi": "उन्नीस महीने से उसकी मज़दूरी में से एक हज़ार रुपया महीना कटता आया है — यानी उन्नीस हज़ार वसूल हो चुके। बीस हज़ार पर पाँच फ़ीसदी महीने का ब्याज एक हज़ार रुपया महीना होता है। बही में आज बक़ाया इक्कीस हज़ार चार सौ है, और उन्नीस महीने में यह एक बार भी बीस हज़ार से नीचे नहीं गया।"
+      }
+    },
+    {
+      "id": "pledge",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "A CHAIN PLEDGED AT NAWA",
+        "hi": "नावाँ में गिरवी रखी चेन"
+      },
+      "text": {
+        "en": "A gold chain of thirty-one grams pledged at a Nawa pawnbroker on Jyeshtha 11 for sixteen thousand two hundred rupees, in the name of the munim's wife, redeemable in a year. On Jyeshtha 12 the advance chest received fifteen thousand rupees in cash against a one-line entry reading recovery, and no name.",
+        "hi": "जेठ 11 को नावाँ के एक साहूकार के यहाँ इकतीस ग्राम की सोने की चेन सोलह हज़ार दो सौ रुपये में गिरवी रखी गई — मुनीम की पत्नी के नाम, एक साल में छुड़ाने की शर्त पर। जेठ 12 को पेशगी की तिजोरी में पंद्रह हज़ार रुपये नक़द आए, और सामने एक ही पंक्ति लिखी है — वसूली। किसी का नाम नहीं।"
+      }
+    },
+    {
+      "id": "audit",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHY THE CHEST WAS SQUARED",
+        "hi": "तिजोरी क्यों बराबर की गई"
+      },
+      "text": {
+        "en": "The contractor counts the advance chest against the register once a year, on the day the season closes, and the season closed on Ashadh 3. On Jyeshtha 9 the Labour Inspector's office telephoned this compound to ask whether one Hazari Lal was still on the rolls. The chain was pledged on the eleventh.",
+        "hi": "ठेकेदार साल में एक बार, सीज़न बंद होने के दिन, पेशगी की तिजोरी को बही से मिलाता है — और यह सीज़न आषाढ़ 3 को बंद हुआ। जेठ 9 को श्रम निरीक्षक के दफ़्तर से इस अहाते में फ़ोन आया कि एक हज़ारी लाल अब भी हाज़िरी में है या नहीं। चेन ग्यारह तारीख़ को गिरवी रखी गई।"
+      }
+    },
+    {
+      "id": "lender",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE MAN WHO LENDS IN THE CAMP",
+        "hi": "कैंप में उधार देने वाला"
+      },
+      "text": {
+        "en": "Prabhu Dayal keeps the camp's grain counter and lends against the next fortnight's wage at ten per cent, which everybody on the eastern flat knows and nobody writes down.",
+        "hi": "प्रभु दयाल कैंप की अनाज की दुकान चलाता है और अगले पखवाड़े की मज़दूरी पर दस फ़ीसदी पर उधार देता है — यह पूरब का मैदान जानता है और कोई लिखता नहीं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he lends on a name and a memory, has never taken a thumb on anything, and Hazari Lal has not borrowed a rupee from him in nineteen years",
+        "hi": "ख़ारिज — वह नाम और याददाश्त पर उधार देता है, किसी काग़ज़ पर आज तक अंगूठा नहीं लिया, और हज़ारी लाल ने उन्नीस साल में उससे एक रुपया उधार नहीं लिया"
+      }
+    },
+    {
+      "id": "ratnigain",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE JAMADARNI ATTESTED THREE",
+        "hi": "तीन पर जमादारनी की गवाही"
+      },
+      "text": {
+        "en": "Ratni Devi's thumb closes three of the four receipts, and she is the only person besides the munim whose mark is on all of them.",
+        "hi": "चार में से तीन रसीदें रतनी देवी के अंगूठे से बंद हैं, और मुनीम के अलावा वही अकेली है जिसका निशान इन सब पर है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — attesting pays nothing, her thumb is on ninety-one papers this season of which eighty-eight are ordinary hazri sheets, and she was never once told what any of them said",
+        "hi": "ख़ारिज — गवाही का कोई पैसा नहीं मिलता, इस सीज़न उसका अंगूठा इक्यानवे काग़ज़ों पर है जिनमें से अट्ठासी मामूली हाज़िरी शीटें हैं, और उनमें से किसी में क्या लिखा है, यह उसे एक बार भी नहीं बताया गया"
+      }
+    },
+    {
+      "id": "peonfee",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "TWENTY RUPEES FOR THE FORM",
+        "hi": "फ़ॉर्म के बीस रुपये"
+      },
+      "text": {
+        "en": "Dungar Singh took twenty rupees off Hazari Lal at the Phulera office on Magh 24 and did not give him a receipt for it.",
+        "hi": "माघ 24 को फुलेरा के दफ़्तर में डूँगर सिंह ने हज़ारी लाल से बीस रुपये लिए और उसकी कोई रसीद नहीं दी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he takes twenty rupees off everybody for the form, the rate is written on that office wall in chalk in his own hand, and he is the only man in this case who told Hazari Lal the truth",
+        "hi": "ख़ारिज — वह फ़ॉर्म के बीस रुपये सबसे लेता है, यह दर उसी की लिखाई में उस दफ़्तर की दीवार पर चॉक से लिखी है, और इस पूरे केस में हज़ारी लाल को सच बताने वाला अकेला आदमी वही है"
+      }
+    },
+    {
+      "id": "sonjob",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "HIS SON WAS TAKEN ON IN CHAITRA",
+        "hi": "चैत में उसका बेटा रखा गया"
+      },
+      "text": {
+        "en": "Hazari Lal's son was put on kyar eleven in Chaitra, a fortnight after the fourth advance was written.",
+        "hi": "चौथी पेशगी लिखे जाने के पखवाड़े भर बाद, चैत में हज़ारी लाल के बेटे को क्यारी ग्यारह पर रख लिया गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the boy is nineteen, is on the muster in his own name, draws his own packet and has no advance against him; work given is not a debt owed",
+        "hi": "ख़ारिज — लड़का उन्नीस साल का है, अपने नाम से हाज़िरी में है, अपना लिफ़ाफ़ा ख़ुद लेता है और उस पर कोई पेशगी नहीं है; काम मिल जाना क़र्ज़ चढ़ जाना नहीं होता"
+      }
+    },
+    {
+      "id": "floodyear",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "EVERYBODY HERE OWES SOMETHING",
+        "hi": "यहाँ हर किसी पर कुछ चढ़ा है"
+      },
+      "text": {
+        "en": "A hundred and six of the two hundred and fourteen names on this muster carry an advance, which is what a camp looks like two years after a flood year.",
+        "hi": "इस हाज़िरी के दो सौ चौदह नामों में से एक सौ छह पर पेशगी चढ़ी है — बाढ़ वाले साल के दो साल बाद कैंप ऐसा ही दिखता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a hundred and five of those advances have a paid date, a witness who can read, and a balance that goes down; one of them has three of each and none",
+        "hi": "ख़ारिज — उन पेशगियों में से एक सौ पाँच के सामने भुगतान की तारीख़ है, पढ़ा-लिखा गवाह है और बक़ाया घटता है; एक ऐसी है जिसमें तीनों में से कुछ भी नहीं"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidwhatitold",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE INSPECTOR'S PEON",
+        "hi": "बयान · निरीक्षक का चपरासी"
+      },
+      "text": {
+        "en": "“I told him what I tell everyone. Your complaint will be about four receipts, sahib, and three of them carry a woman's thumb as the witness. She will be summoned. When she stands there and says she cannot read, the department will have to look at her as well as at them. He asked me whether that part could be left out. I said the department does not leave parts out, and he sat down again until four o'clock and then he went home.”",
+        "hi": "“मैंने वही कहा जो सबसे कहता हूँ। शिकायत चार रसीदों की होगी, साहब, और उनमें से तीन पर गवाह के तौर पर एक औरत का अंगूठा है। उसे बुलाया जाएगा। और जब वह खड़ी होकर कहेगी कि वह पढ़ नहीं सकती, तो विभाग को उनके साथ-साथ उसे भी देखना पड़ेगा। उसने पूछा कि वह हिस्सा छोड़ा जा सकता है क्या। मैंने कहा — विभाग हिस्से नहीं छोड़ता। वह फिर बैठ गया, चार बजे तक बैठा रहा, और फिर घर चला गया।”"
+      }
+    },
+    {
+      "id": "saidtold",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE MUNIM",
+        "hi": "बयान · मुनीम"
+      },
+      "text": {
+        "en": "“I said it to him in Magh, three weeks before he ever walked to Phulera, and I said it kindly. Your jamadarni's thumb is on three of these. Think what you are doing. Where is the crime in telling a man the truth about his own paper?”",
+        "hi": "“यह मैंने उससे माघ में कहा था — फुलेरा जाने से तीन हफ़्ते पहले — और नरमी से कहा था। तेरी जमादारनी का अंगूठा इनमें से तीन पर है। सोच ले क्या कर रहा है। किसी आदमी को उसके अपने काग़ज़ का सच बता देने में जुर्म कहाँ है?”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "tarachand",
+      "name": {
+        "en": "Tarachand Modi",
+        "hi": "ताराचंद मोदी"
+      },
+      "role": {
+        "en": "THE CONTRACTOR'S MUNIM",
+        "hi": "ठेकेदार का मुनीम"
+      },
+      "hook": {
+        "en": "wrote all four rows himself",
+        "hi": "चारों पंक्तियाँ उसी ने लिखीं"
+      },
+      "confession": {
+        "en": "Wrote three advances that were never paid to anybody, drew fifteen thousand rupees out of the chest on three days when the man was sixteen kilometres away in a pan, and chose a witness who could not read the word. Says the choice of witness was convenience. It was not: he told Hazari Lal in Magh exactly what that thumb would cost the woman who put it there, three weeks before the man walked to Phulera and sat on a bench until four o'clock.",
+        "hi": "तीन पेशगियाँ लिखीं जो कभी किसी को दी ही नहीं गईं, तीन ऐसे दिनों में तिजोरी से पंद्रह हज़ार निकाले जब वह आदमी सोलह किलोमीटर दूर क्यारी में था, और गवाह वह चुना जो ‘गवाह’ शब्द भी नहीं पढ़ सकती। कहता है कि गवाह का चुनाव सहूलियत भर था। नहीं था: माघ में उसने हज़ारी लाल को ठीक-ठीक बता दिया था कि वह अंगूठा उस औरत को क्या क़ीमत चुकाएगा — यानी उस आदमी के फुलेरा जाकर चार बजे तक बेंच पर बैठने से तीन हफ़्ते पहले।"
+      }
+    },
+    {
+      "id": "ratni",
+      "name": {
+        "en": "Ratni Devi",
+        "hi": "रतनी देवी"
+      },
+      "role": {
+        "en": "THE GANG LEADER",
+        "hi": "जमादारनी"
+      },
+      "feminine": true,
+      "hook": {
+        "en": "her thumb closes three of the four",
+        "hi": "चार में से तीन उसी के अंगूठे से बंद"
+      },
+      "alibi": {
+        "en": "She attested three receipts she could not read, for no money, at the end of three fourteen-hour days, and she has not been paid a rupee more this season than the three hundred she is paid for being jamadarni. She is not the lever in this case. She is what the lever is made of, and she was chosen for it.",
+        "hi": "उसने तीन ऐसी रसीदों पर गवाही दी जिन्हें वह पढ़ नहीं सकती — बिना एक पैसे के, चौदह-चौदह घंटे के तीन दिनों के आख़िर में — और इस सीज़न जमादारनी होने के तीन सौ के अलावा उसे एक रुपया ज़्यादा नहीं मिला। इस केस में वह लीवर नहीं है। वह वही चीज़ है जिससे लीवर बनाया गया, और उसे इसीलिए चुना गया था।"
+      }
+    },
+    {
+      "id": "dungar",
+      "name": {
+        "en": "Dungar Singh",
+        "hi": "डूँगर सिंह"
+      },
+      "role": {
+        "en": "THE INSPECTOR'S PEON",
+        "hi": "निरीक्षक का चपरासी"
+      },
+      "hook": {
+        "en": "the last man to speak to him before he left",
+        "hi": "जाने से पहले आख़िरी बार उसी से बात हुई"
+      },
+      "alibi": {
+        "en": "He said out loud in a government office what the law does, which is the one thing in this case anybody said honestly. He took twenty rupees for the form as he takes from everybody, wrote the visitor's name into the column in his own hand, and left the inward register open on the desk for an hour in case the man came back.",
+        "hi": "उसने सरकारी दफ़्तर में ज़ोर से वही कहा जो क़ानून करता है — और इस पूरे केस में यही एक बात ईमानदारी से कही गई। फ़ॉर्म के बीस रुपये उसने वैसे ही लिए जैसे सबसे लेता है, आगंतुक का नाम अपनी लिखाई में ख़ाने में चढ़ाया, और आवक पंजी घंटे भर मेज़ पर खुली छोड़े रखी — इस उम्मीद में कि आदमी लौट आए।"
+      }
+    },
+    {
+      "id": "prabhu",
+      "name": {
+        "en": "Prabhu Dayal",
+        "hi": "प्रभु दयाल"
+      },
+      "role": {
+        "en": "THE CAMP LENDER",
+        "hi": "कैंप का उधार देने वाला"
+      },
+      "hook": {
+        "en": "lends at ten per cent and writes nothing",
+        "hi": "दस फ़ीसदी पर देता है, लिखता कुछ नहीं"
+      },
+      "alibi": {
+        "en": "His whole trade is that there is no paper, which is what makes him unable to be the man in this case — this case is made entirely of paper. He has no receipt with anybody's thumb on it, and Hazari Lal, who has been on this lake nineteen years, has never taken a rupee from him.",
+        "hi": "उसका पूरा धंधा इसी पर टिका है कि काग़ज़ कोई नहीं होता — और इसीलिए वह इस केस का आदमी हो ही नहीं सकता, क्योंकि यह केस पूरा का पूरा काग़ज़ से बना है। उसके पास किसी के अंगूठे वाली कोई रसीद नहीं है, और हज़ारी लाल — जो उन्नीस साल से इस झील पर है — ने उससे एक रुपया कभी नहीं लिया।"
+      }
+    },
+    {
+      "id": "mahaveer",
+      "name": {
+        "en": "Mahaveer Prasad Choudhary",
+        "hi": "महावीर प्रसाद चौधरी"
+      },
+      "role": {
+        "en": "THE LABOUR CONTRACTOR",
+        "hi": "श्रम ठेकेदार"
+      },
+      "hook": {
+        "en": "the register and the chest are both his",
+        "hi": "बही भी उसकी, तिजोरी भी उसी की"
+      },
+      "alibi": {
+        "en": "The money that went missing out of that chest was his own money, and it was put back without his ever being told it had gone. He counts the chest against the register once a year and he counted it this Ashadh and found it correct, because by then a chain had been pledged at Nawa to make it correct.",
+        "hi": "उस तिजोरी से जो पैसा गया, वह उसी का पैसा था — और वह वापस भी रख दिया गया, बिना उसे कभी यह पता चले कि गया भी था। वह साल में एक बार तिजोरी को बही से मिलाता है, इस आषाढ़ मिलाई और सही पाई — क्योंकि तब तक उसे सही करने के लिए नावाँ में एक चेन गिरवी रखी जा चुकी थी।"
+      }
+    }
+  ],
+  "culpritId": "tarachand",
+  "interrogations": [
+    {
+      "suspectId": "dungar",
+      "setting": {
+        "en": "The Phulera office at half past three, the inward register open, a chalked list of fees on the wall behind the bench.",
+        "hi": "साढ़े तीन बजे फुलेरा का दफ़्तर, खुली आवक पंजी, और बेंच के पीछे दीवार पर चॉक से लिखी फ़ीस की सूची।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "He sat here five hours and filed nothing.",
+            "hi": "वह यहाँ पाँच घंटे बैठा रहा और कुछ दर्ज नहीं कराया।"
+          },
+          "answer": {
+            "en": "“I told him what I tell everyone. Your complaint will be about four receipts, sahib, and three of them carry a woman's thumb as the witness. She will be summoned. When she stands there and says she cannot read, the department will have to look at her as well as at them. He asked me whether that part could be left out. I said the department does not leave parts out, and he sat down again until four o'clock and then he went home.”",
+            "hi": "“मैंने वही कहा जो सबसे कहता हूँ। शिकायत चार रसीदों की होगी, साहब, और उनमें से तीन पर गवाह के तौर पर एक औरत का अंगूठा है। उसे बुलाया जाएगा। और जब वह खड़ी होकर कहेगी कि वह पढ़ नहीं सकती, तो विभाग को उनके साथ-साथ उसे भी देखना पड़ेगा। उसने पूछा कि वह हिस्सा छोड़ा जा सकता है क्या। मैंने कहा — विभाग हिस्से नहीं छोड़ता। वह फिर बैठ गया, चार बजे तक बैठा रहा, और फिर घर चला गया।”"
+          },
+          "needsClueId": "office",
+          "lockedHint": {
+            "en": "Find the visit before you ask about it — the visitors' column, not the inward register. There is nothing in the inward register, and that is the case.",
+            "hi": "पूछने से पहले वह आना ढूँढ़िए — आगंतुक ख़ाना देखिए, आवक पंजी नहीं। आवक पंजी में कुछ है ही नहीं, और यही तो पूरा केस है।"
+          },
+          "unlocksClueId": "saidwhatitold",
+          "note": {
+            "en": "Every word of that is true and correct procedure. Somebody built a fraud out of what correct procedure would do to a woman who cannot read.",
+            "hi": "इसका एक-एक शब्द सच है और नियम के मुताबिक़ है। किसी ने ठीक इसी बात से धोखा गढ़ा कि नियम एक अनपढ़ औरत के साथ क्या करेगा।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ratni",
+      "setting": {
+        "en": "The end of the bund at dusk, her gang's sheets under one arm and a shallow tin of drinking water on the stones beside her.",
+        "hi": "शाम के वक़्त बाँध का सिरा, एक बाँह में गैंग की शीटें और पत्थरों पर बग़ल में पीने के पानी की छिछली तसली।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Three receipts carry your thumb as witness.",
+            "hi": "तीन रसीदों पर गवाह के तौर पर आपका अंगूठा है।"
+          },
+          "answer": {
+            "en": "“Then he brought them at the end of a day, as he brings everything. I do not ask. I have never in four seasons been given a paper and asked whether I would like to know what is in it.”",
+            "hi": "“तो वह उन्हें दिन के आख़िर में लाया होगा, जैसे सब कुछ लाता है। मैं पूछती नहीं। चार सीज़न में मुझे कोई काग़ज़ देकर यह नहीं पूछा गया कि जानना चाहोगी उसमें क्या है।”"
+          },
+          "note": {
+            "en": "Eighty-eight of the ninety-one papers with her thumb on them are hazri sheets. Three are not, and all three are one man's debt.",
+            "hi": "उसके अंगूठे वाले इक्यानवे काग़ज़ों में अट्ठासी हाज़िरी शीटें हैं। तीन नहीं हैं, और वे तीनों एक ही आदमी का क़र्ज़ हैं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Do you know what those three would cost you?",
+            "hi": "क्या आप जानती हैं कि वे तीन आपको क्या पड़ेंगी?"
+          },
+          "answer": {
+            "en": "“I know now. Hazari sat outside my hut in Phalgun and said nothing for an hour and then went away, and I thought he had come about his son's work. He had come to see whether I looked like a woman who could stand in a court.”",
+            "hi": "“अब जानती हूँ। फाल्गुन में हज़ारी मेरी झोंपड़ी के बाहर घंटे भर चुप बैठा रहा और फिर चला गया, और मैंने समझा कि बेटे के काम के लिए आया होगा। वह यह देखने आया था कि मैं ऐसी औरत लगती हूँ या नहीं, जो अदालत में खड़ी हो सके।”"
+          },
+          "needsClueId": "register",
+          "lockedHint": {
+            "en": "Open the advance register with her sitting there. She has never once been shown a page she has marked.",
+            "hi": "उसे बिठाकर पेशगी की बही खोलिए। जिस पन्ने पर उसने निशान लगाया है, वह पन्ना उसे आज तक दिखाया नहीं गया।"
+          },
+          "note": {
+            "en": "The man who was being robbed spent an hour outside her hut deciding not to complain. That is what the third receipt was for.",
+            "hi": "जिस आदमी को लूटा जा रहा था, वह घंटे भर उसकी झोंपड़ी के बाहर बैठकर तय करता रहा कि शिकायत नहीं करेगा। तीसरी रसीद का काम यही था।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "tarachand",
+      "setting": {
+        "en": "The compound office, the almirah open, a season's registers on the table and a bare place on his wife's neck in the photograph on the shelf.",
+        "hi": "अहाते का दफ़्तर, खुली अलमारी, मेज़ पर सीज़न की बहियाँ — और ताक़ पर रखी तस्वीर में उसकी पत्नी के गले की ख़ाली जगह।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Why is the witness on three of them somebody who cannot read?",
+            "hi": "तीन पर गवाह ऐसी क्यों है जो पढ़ नहीं सकती?"
+          },
+          "answer": {
+            "en": "“I said it to him in Magh, three weeks before he ever walked to Phulera, and I said it kindly. Your jamadarni's thumb is on three of these. Think what you are doing. Where is the crime in telling a man the truth about his own paper?”",
+            "hi": "“यह मैंने उससे माघ में कहा था — फुलेरा जाने से तीन हफ़्ते पहले — और नरमी से कहा था। तेरी जमादारनी का अंगूठा इनमें से तीन पर है। सोच ले क्या कर रहा है। किसी आदमी को उसके अपने काग़ज़ का सच बता देने में जुर्म कहाँ है?”"
+          },
+          "needsClueId": "witness",
+          "lockedHint": {
+            "en": "Compare the four witnesses first. One of them wrote his name and his designation; three of them are a thumb.",
+            "hi": "पहले चारों गवाहियाँ मिलाइए। एक ने अपना नाम और पद लिखा है; तीन जगह सिर्फ़ एक अंगूठा है।"
+          },
+          "unlocksClueId": "saidtold",
+          "note": {
+            "en": "He was not asked why he told him. He was asked why he chose her, and he answered the other question.",
+            "hi": "उससे यह नहीं पूछा गया कि उसने बताया क्यों। पूछा यह गया था कि उसने उसे चुना क्यों — और उसने दूसरे सवाल का जवाब दे दिया।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Thirty-one grams, at Nawa, on Jyeshtha 11.",
+            "hi": "इकतीस ग्राम, नावाँ में, जेठ 11 को।"
+          },
+          "answer": {
+            "en": "“A daughter's engagement. Half this district's gold is in that shop between one season and the next and every one of them takes it back out. You may look at the pledge slip as long as you like — it is in my wife's name and it is entirely lawful.”",
+            "hi": "“बेटी की सगाई थी। इस ज़िले का आधा सोना एक सीज़न से दूसरे सीज़न तक उसी दुकान में रहता है और हर कोई उसे छुड़ा भी लेता है। गिरवी की पर्ची जितनी देर चाहें देखिए — वह मेरी पत्नी के नाम है और पूरी तरह क़ानूनी है।”"
+          },
+          "needsClueId": "pledge",
+          "lockedHint": {
+            "en": "Get the pledge slip before you sit down. A date is a very ordinary thing until it is put next to another date.",
+            "hi": "बैठने से पहले गिरवी की पर्ची ले लीजिए। तारीख़ बहुत मामूली चीज़ होती है — जब तक उसके बग़ल में दूसरी तारीख़ न रख दी जाए।"
+          },
+          "note": {
+            "en": "The office telephoned on the ninth. The chain was pledged on the eleventh, and fifteen thousand went into the chest on the twelfth against the word recovery.",
+            "hi": "दफ़्तर से फ़ोन नौ तारीख़ को आया। चेन ग्यारह को गिरवी रखी गई, और बारह को पंद्रह हज़ार तिजोरी में गए — सामने लिखा हुआ, वसूली।"
+          }
+        },
+        {
+          "ask": {
+            "en": "He was in a pan sixteen kilometres away on three of the four days.",
+            "hi": "चार में से तीन दिन वह सोलह किलोमीटर दूर क्यारी में था।"
+          },
+          "answer": {
+            "en": "“Then somebody fetched it for him. That is done all the time here and no register has ever recorded it, because there is no column for it and there never has been.”",
+            "hi": "“तो कोई उसके लिए ले गया होगा। यहाँ यह रोज़ होता है और किसी बही में कभी दर्ज नहीं हुआ, क्योंकि उसका ख़ाना ही नहीं है और कभी था भी नहीं।”"
+          },
+          "note": {
+            "en": "There is no column for it because it is not done. An advance is paid into a hand, which is the only reason a thumb is taken at all.",
+            "hi": "ख़ाना इसलिए नहीं है कि ऐसा होता ही नहीं। पेशगी हाथ में दी जाती है — अंगूठा लिया ही इसीलिए जाता है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "pledge",
+      "correction": {
+        "en": "The jamadarni was paid nothing, the peon takes twenty rupees from everybody and the lender never wrote a line. One man pledged his wife's chain for sixteen thousand two hundred rupees two days after a government office telephoned this compound, and put fifteen thousand of it into the chest the next morning under the word recovery.",
+        "hi": "जमादारनी को कुछ नहीं मिला, चपरासी सबसे बीस रुपये लेता है और उधार देने वाले ने एक पंक्ति नहीं लिखी। एक ही आदमी ने अपनी पत्नी की चेन सोलह हज़ार दो सौ में गिरवी रखी — एक सरकारी दफ़्तर से इस अहाते में फ़ोन आने के दो दिन बाद — और अगली सुबह उसमें से पंद्रह हज़ार ‘वसूली’ लिखकर तिजोरी में डाल दिए।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "chest",
+      "correction": {
+        "en": "Five thousand rupees left this chest on each of four days and a thumb closed a receipt each time. On three of those days the owner of the thumb was standing in kyar nine from first light, sixteen kilometres away by the bund road. One man is on both sides of that transaction, and he is the one who writes the rows.",
+        "hi": "चार दिनों में हर बार इस तिजोरी से पाँच हज़ार निकले और हर बार एक अंगूठे ने रसीद बंद की। उनमें से तीन दिन उस अंगूठे का मालिक पौ फटने से क्यारी नौ पर खड़ा था — बाँध वाले रास्ते सोलह किलोमीटर दूर। उस लेन-देन के दोनों तरफ़ एक ही आदमी है, और पंक्तियाँ भी वही लिखता है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidwhatitold",
+      "correction": {
+        "en": "Nobody had to silence him. The only door out of this ran through a woman who cannot read the word witness, and the man who wrote the receipts made sure of it before he wrote them and then told the victim so, three weeks before he walked to Phulera. A complaint that would ruin somebody who did you no harm is not a complaint anybody makes.",
+        "hi": "उसे चुप कराने की ज़रूरत किसी को नहीं पड़ी। यहाँ से निकलने का इकलौता दरवाज़ा उस औरत के बीच से जाता था जो ‘गवाह’ शब्द भी नहीं पढ़ सकती — और रसीदें लिखने वाले ने लिखने से पहले यह पक्का किया, फिर उसके फुलेरा जाने से तीन हफ़्ते पहले पीड़ित को बता भी दिया। जिस शिकायत से आपका कुछ न बिगाड़ने वाला कोई तबाह हो जाए, वह शिकायत कोई नहीं करता।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "register",
+    "toClueId": "witness",
+    "text": {
+      "en": "Stop reading the amounts; they are all the same amount. Read the bottom line of each receipt instead, and ask why one of the four has a witness who can write.",
+      "hi": "रक़में पढ़ना छोड़िए, चारों एक ही हैं। हर रसीद की आख़िरी पंक्ति पढ़िए — और पूछिए कि चार में से एक की गवाही लिखने वाले की क्यों है।"
+    }
+  },
+  "bankedClue": {
+    "en": "An advance register kept in the contractor's own almirah — four receipts against one thumb, and the interest column in his own hand",
+    "hi": "ठेकेदार की अपनी अलमारी में रखी पेशगी की बही — एक ही अंगूठे पर चार रसीदें, और ब्याज का ख़ाना उसी की लिखाई में"
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "id": "bikaner-the-second-meter",
+  "schema": 1,
+  "city": "bikaner",
+  "genre": "fraud",
+  "difficulty": "quick",
+  "ambience": "TrainClatter",
+  "story": {
+    "id": "bikaner-sweet-war",
+    "caseNumber": 3
+  },
+  "title": {
+    "en": "The Second Meter",
+    "hi": "दूसरा मीटर"
+  },
+  "place": {
+    "en": "The nigam’s city sub-division, Station Road · Kartik 6, 10:20 AM",
+    "hi": "निगम का शहर उपखंड, स्टेशन रोड · कार्तिक 6, 10:20 AM"
+  },
+  "brief": {
+    "en": "A lawyer’s notice reached the old shop in Kartik saying the tenancy is forfeit because the tenant has sublet half his premises, and the proof annexed to it is a commercial electricity connection sanctioned in Ashadh at this very shop number, in the name of the shop’s own head karigar. The karigar has stood at that bhatti for twenty-two years and has applied for nothing in his life. The meter is on the outside wall, sealed by the nigam, showing eleven units in four months. Behind it the cable runs eleven inches into the brickwork and stops.",
+    "hi": "कार्तिक में पुरानी दुकान पर वकील का नोटिस आया — किरायेदारी ख़त्म, क्योंकि किरायेदार ने अपनी आधी दुकान उपकिराये पर दे दी — और उसके साथ लगा सबूत है आषाढ़ में इसी दुकान नंबर पर मंज़ूर हुआ एक व्यापारिक बिजली कनेक्शन, दुकान के ही मुख्य कारीगर के नाम। वह कारीगर बाईस साल से उसी भट्टी पर खड़ा है और ज़िंदगी में उसने किसी चीज़ के लिए अर्ज़ी नहीं दी। मीटर बाहर की दीवार पर है, निगम की सील लगा, और चार महीने में ग्यारह यूनिट दिखा रहा है। उसके पीछे केबल ग्यारह इंच चिनाई में जाकर ख़त्म हो जाती है।"
+  },
+  "photoCaption": {
+    "en": "the new meter, and the wall behind it",
+    "hi": "नया मीटर, और उसके पीछे की दीवार"
+  },
+  "iraNote": {
+    "en": "“Paper will put a man in a room he has never entered. It cannot put current in a wire that goes nowhere.”",
+    "hi": "“काग़ज़ किसी आदमी को उस कमरे में बिठा देगा जिसमें वह कभी घुसा नहीं। वह उस तार में करंट नहीं डाल सकता, जो कहीं जाता ही नहीं।”"
+  },
+  "clues": [
+    {
+      "id": "notice",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE LAWYER’S NOTICE",
+        "hi": "वकील का नोटिस"
+      },
+      "text": {
+        "en": "Sublet without the landlord’s written consent, which under the 1950 Act is one of the few grounds that will unseat a tenancy older than 1962. The notice pleads no arrears, no nuisance and no alteration — the whole case is the annexure, and the annexure is a meter.",
+        "hi": "मकान मालिक की लिखित सहमति के बिना उपकिराया — और 1950 के अधिनियम में यही उन कुछ आधारों में से एक है, जो 1962 से पुरानी किरायेदारी को भी उखाड़ देता है। नोटिस में न बकाया है, न परेशानी, न कोई तोड़फोड़ — पूरा मुक़दमा वह संलग्नक है, और वह संलग्नक एक मीटर है।"
+      }
+    },
+    {
+      "id": "nowire",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "NOTHING BEHIND THE METER",
+        "hi": "मीटर के पीछे कुछ नहीं"
+      },
+      "text": {
+        "en": "The incoming side is tapped off the pole like any other, and the outgoing side goes into a hole in the brickwork where the cable ends eleven inches in, cut square and taped. Four months on the wall and the dial stands at eleven units, which is what a meter reads when it is a photograph of a meter.",
+        "hi": "आने वाली तरफ़ खंभे से आम की तरह जुड़ी है, और जाने वाली तरफ़ चिनाई के एक छेद में घुसकर ग्यारह इंच भीतर ख़त्म हो जाती है — सीधा कटा और टेप किया हुआ सिरा। दीवार पर चार महीने, और डायल ग्यारह यूनिट पर खड़ा है — मीटर तभी इतना पढ़ता है जब वह मीटर की तस्वीर हो।"
+      }
+    },
+    {
+      "id": "seal",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE SEAL’S DIE NUMBER",
+        "hi": "सील की डाई नंबर"
+      },
+      "text": {
+        "en": "The lead seal on the meter box is crimped, not tied, and the crimp carries the nigam’s die number forty-one. Dies are issued against a name and signed for in the sub-division’s tool register, and forty-one has been out to one helper of this ward since 2019.",
+        "hi": "मीटर बॉक्स की सीसे की सील बाँधी नहीं, चिमटी से दबाई गई है — और उस दबाव पर निगम की डाई नंबर इकतालीस है। डाइयाँ नाम पर दी जाती हैं और उपखंड के औज़ार रजिस्टर में दस्तख़त होते हैं, और इकतालीस 2019 से इस वार्ड के एक ही हेल्पर के पास है।"
+      }
+    },
+    {
+      "id": "stamp",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE STAMP VENDOR’S REGISTER",
+        "hi": "स्टाम्प विक्रेता की पंजी"
+      },
+      "text": {
+        "en": "The file’s rent agreement is typed on a hundred-rupee stamp paper, and a vendor must enter every sheet he sells with its serial, its purpose and its purchaser. Serial nine three one one of Ashadh twenty-two: purpose kirayanama, purchaser Kishan Lal Agarwal.",
+        "hi": "फ़ाइल का किरायानामा सौ रुपये के स्टाम्प पेपर पर टाइप है, और विक्रेता को हर बिकी शीट का क्रमांक, प्रयोजन और ख़रीदार दर्ज करना होता है। आषाढ़ बाईस का क्रमांक नौ तीन एक एक: प्रयोजन किरायानामा, ख़रीदार किशन लाल अग्रवाल।"
+      }
+    },
+    {
+      "id": "sidework",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ELEVEN FILES, ONE TYPIST",
+        "hi": "ग्यारह फ़ाइलें, एक टाइपिस्ट"
+      },
+      "text": {
+        "en": "Eleven new commercial connections have been sanctioned in this ward in two years and every one of the eleven files was carried through the counter by the same helper, on the same typist’s rent agreement, before the same two witnesses. All eleven were sanctioned across the desk of Rakesh Vyas, who signs off the file and has never once been asked to stand at a site. Three of the eleven meters have nothing behind them.",
+        "hi": "इस वार्ड में दो साल में ग्यारह नए व्यापारिक कनेक्शन मंज़ूर हुए हैं, और ग्यारहों फ़ाइलें एक ही हेल्पर खिड़की से भीतर लेकर गया — एक ही टाइपिस्ट के किरायानामे पर, एक ही दो गवाहों के सामने। ग्यारहों राकेश व्यास की मेज़ से मंज़ूर हुए, जो फ़ाइल देखकर दस्तख़त करते हैं और जिन्हें एक बार भी किसी साइट पर खड़े होने को नहीं कहा गया। ग्यारह में से तीन मीटरों के पीछे कुछ भी नहीं है।"
+      }
+    },
+    {
+      "id": "reader",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "FOUR IDENTICAL READINGS",
+        "hi": "चार बार वही रीडिंग"
+      },
+      "text": {
+        "en": "The meter reader’s book carries this connection four times — eleven, eleven, eleven, eleven — with the consumer’s signature column blank on all four visits. A reading that never changes is never queried, and a bill of the minimum charge is paid at the counter in cash by somebody in a queue of two hundred.",
+        "hi": "मीटर रीडर की बही में यह कनेक्शन चार बार दर्ज है — ग्यारह, ग्यारह, ग्यारह, ग्यारह — और चारों बार उपभोक्ता के दस्तख़त का ख़ाना कोरा है। जो रीडिंग बदलती ही नहीं, उस पर सवाल कभी नहीं उठता — और न्यूनतम शुल्क का बिल दो सौ की क़तार में खड़ा कोई भी खिड़की पर नक़द भर देता है।"
+      }
+    },
+    {
+      "id": "noc",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE OWNER’S NO OBJECTION",
+        "hi": "मालिक की अनापत्ति"
+      },
+      "text": {
+        "en": "No new connection is sanctioned at a tenanted premises without the owner’s no objection, and this file has one, on the landlord’s own letterhead. It is not a forgery: the signature runs with thirty years of the same hand at the foot of the same rent book.",
+        "hi": "किरायेदारी वाली दुकान पर कोई नया कनेक्शन मालिक की अनापत्ति के बिना मंज़ूर नहीं होता, और इस फ़ाइल में वह मौजूद है — मकान मालिक के अपने लेटरहेड पर। वह जाली नहीं है: दस्तख़त उसी बही के नीचे तीस साल चले उसी हाथ से मिल जाता है।"
+      }
+    },
+    {
+      "id": "wedding",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE KARIGAR AT NOKHA",
+        "hi": "कारीगर नोखा में"
+      },
+      "text": {
+        "en": "The demand note on this file was paid in cash at the counter on Ashadh twenty-seven, and Chandan Lal was at his daughter’s wedding at Nokha from the twenty-sixth to the twenty-ninth.",
+        "hi": "इस फ़ाइल का डिमांड नोट आषाढ़ सत्ताईस को खिड़की पर नक़द भरा गया, और चंदन लाल छब्बीस से उनतीस तक नोखा में अपनी बेटी की शादी में थे।"
+      },
+      "dismissNote": {
+        "en": "ruled out — sixty kilometres away in front of four hundred people, and the man in whose name the file stands is the only man in it who paid nothing and received nothing",
+        "hi": "ख़ारिज — साठ किलोमीटर दूर, चार सौ लोगों के सामने; और जिसके नाम पर फ़ाइल है, इस पूरे किस्से में उसी एक ने न कुछ दिया, न कुछ पाया"
+      }
+    },
+    {
+      "id": "load",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "FIVE KILOWATTS SANCTIONED",
+        "hi": "पाँच किलोवाट मंज़ूर"
+      },
+      "text": {
+        "en": "The sanctioned load on the new connection is five kilowatts, which is more than the sweetshop’s own thirty-one-year-old connection carries.",
+        "hi": "नए कनेक्शन पर मंज़ूर भार पाँच किलोवाट है — मिठाई की दुकान का अपना इकतीस साल पुराना कनेक्शन इससे कम उठाता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a sanctioned load is a figure on a form, and this one has never carried a single watt of anything",
+        "hi": "ख़ारिज — मंज़ूर भार एक फ़ॉर्म का आँकड़ा है, और इसने आज तक एक वॉट भी नहीं उठाया"
+      }
+    },
+    {
+      "id": "dues",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE OLD SHOP’S OWN BILL",
+        "hi": "पुरानी दुकान का अपना बिल"
+      },
+      "text": {
+        "en": "The sweetshop’s own connection is four thousand one hundred rupees in arrears, which it has been most Novembers since the bhatti went to a blower.",
+        "hi": "मिठाई की दुकान के अपने कनेक्शन पर चार हज़ार एक सौ रुपये बकाया हैं — जब से भट्टी पर ब्लोअर लगा है, ज़्यादातर कातिक में इतना ही रहता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — arrears on your own meter are not subletting, and the notice does not plead them; it pleads the second meter and nothing else",
+        "hi": "ख़ारिज — अपने ही मीटर का बकाया उपकिराया नहीं होता, और नोटिस उसका ज़िक्र भी नहीं करता; वह सिर्फ़ दूसरे मीटर की बात करता है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidname",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE STAMP VENDOR",
+        "hi": "बयान · स्टाम्प विक्रेता"
+      },
+      "text": {
+        "en": "“I write down the name the man at my window gives me. In thirty-one years at this window nobody has been asked for a proof of his own name, and if I started asking I would sell eleven sheets a month instead of ninety.”",
+        "hi": "“मेरी खिड़की पर जो आदमी जो नाम बताता है, मैं वही लिख देता हूँ। इस खिड़की के इकतीस साल में किसी से अपने नाम का सबूत नहीं माँगा गया — और माँगने लगूँ तो नब्बे की जगह महीने में ग्यारह शीट बिकेंगी।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ashok",
+      "name": {
+        "en": "Ashok Kumar",
+        "hi": "अशोक कुमार"
+      },
+      "role": {
+        "en": "THE NIGAM’S LINEMAN",
+        "hi": "निगम का लाइनमैन"
+      },
+      "hook": {
+        "en": "die forty-one has been his since 2019",
+        "hi": "डाई इकतालीस 2019 से उसी की है"
+      },
+      "confession": {
+        "en": "Took nine thousand rupees from a man who met him twice at the sub-division gate, had the rent agreement typed at the usual shop on a stamp paper bought in the tenant’s name, put in a photocopied photograph, walked the file through the counter, hung the meter on the outer wall and crimped it with his own die. He never ran a cable to it, because running one means a shutdown and a shutdown means asking the shop.",
+        "hi": "उपखंड के गेट पर दो बार मिले एक आदमी से नौ हज़ार रुपये लिए, रोज़ वाली दुकान पर किरायानामा टाइप कराया — स्टाम्प पेपर किरायेदार के नाम पर ख़रीदकर — फ़ोटो की फ़ोटोकॉपी लगाई, फ़ाइल खिड़की से भीतर पहुँचाई, बाहरी दीवार पर मीटर टाँगा और अपनी ही डाई से सील दबा दी। केबल उसने कभी जोड़ी नहीं, क्योंकि जोड़ने के लिए शटडाउन चाहिए और शटडाउन के लिए दुकान से पूछना पड़ता है।"
+      }
+    },
+    {
+      "id": "suraj",
+      "name": {
+        "en": "Suraj Karan",
+        "hi": "सूरज करण"
+      },
+      "role": {
+        "en": "THE STAMP VENDOR",
+        "hi": "स्टाम्प विक्रेता"
+      },
+      "hook": {
+        "en": "sold the sheet and wrote the name down",
+        "hi": "शीट उसी ने बेची और नाम उसी ने लिखा"
+      },
+      "alibi": {
+        "en": "He entered the purchaser his customer named, at a window where no proof of a name has ever been asked for, and then kept that entry for four months where anybody could come and read it. The register that convicts nobody of forging a signature is the register that proves the sheet was bought by a man who was not there.",
+        "hi": "उसने वही ख़रीदार दर्ज किया जो उसके ग्राहक ने बताया — उस खिड़की पर, जहाँ नाम का सबूत आज तक नहीं माँगा गया — और फिर वह प्रविष्टि चार महीने वहीं रखी, जहाँ कोई भी आकर पढ़ सकता था। जो पंजी किसी पर दस्तख़त जाली करने का इलज़ाम नहीं लगाती, वही यह साबित करती है कि शीट उस आदमी ने ख़रीदी जो वहाँ था ही नहीं।"
+      }
+    },
+    {
+      "id": "chandan",
+      "name": {
+        "en": "Chandan Lal",
+        "hi": "चंदन लाल"
+      },
+      "role": {
+        "en": "THE HEAD KARIGAR",
+        "hi": "मुख्य कारीगर"
+      },
+      "hook": {
+        "en": "the connection stands in his name",
+        "hi": "कनेक्शन उसके नाम पर है"
+      },
+      "alibi": {
+        "en": "He was at Nokha for four days across the date the demand note was paid, and he has neither a bank account nor a rupee of rent from anybody. Twenty-two years at that bhatti and the only paper in this shop with his name on it is a labour card the owner keeps in a tin.",
+        "hi": "जिस तारीख़ को डिमांड नोट भरा गया, उसके आगे-पीछे चार दिन वह नोखा में था — और उसके पास न बैंक खाता है, न किसी से एक रुपया किराया। उस भट्टी के बाईस साल, और इस दुकान में उसके नाम का अकेला काग़ज़ एक मज़दूर कार्ड है, जो मालिक टिन के डिब्बे में रखते हैं।"
+      }
+    },
+    {
+      "id": "rakesh",
+      "name": {
+        "en": "Rakesh Vyas",
+        "hi": "राकेश व्यास"
+      },
+      "role": {
+        "en": "JUNIOR ENGINEER",
+        "hi": "कनिष्ठ अभियंता"
+      },
+      "hook": {
+        "en": "signed the sanction off the file",
+        "hi": "मंज़ूरी फ़ाइल देखकर उसी ने दी"
+      },
+      "alibi": {
+        "en": "He sanctions two hundred connections a month off complete files and the rules do not send him to a single one of them. His signature is on the sanction and on the other ten as well, and there is not a rupee anywhere near him that the eleven files can explain.",
+        "hi": "वह महीने में दो सौ कनेक्शन पूरी फ़ाइलों के आधार पर मंज़ूर करता है, और नियम उसे उनमें से एक पर भी नहीं भेजते। मंज़ूरी पर उसके दस्तख़त हैं, और बाक़ी दसों पर भी — और उसके आसपास एक रुपया ऐसा नहीं है जिसकी वजह ये ग्यारह फ़ाइलें बता सकें।"
+      }
+    }
+  ],
+  "culpritId": "ashok",
+  "interrogations": [
+    {
+      "suspectId": "suraj",
+      "setting": {
+        "en": "A stamp window under a tin awning on the court road, four registers on a shelf and a queue of eleven.",
+        "hi": "कचहरी रोड पर टीन के छज्जे के नीचे स्टाम्प की खिड़की, ताक़ पर चार पंजियाँ और ग्यारह लोगों की क़तार।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Do you remember who bought serial nine three one one?",
+            "hi": "क्रमांक नौ तीन एक एक किसने ख़रीदा, याद है?"
+          },
+          "answer": {
+            "en": "“Ninety sheets a month, sahib. I remember the ones who argue about the two rupees.”",
+            "hi": "“महीने की नब्बे शीट, साहब। जो दो रुपये पर बहस करते हैं, वही याद रहते हैं।”"
+          },
+          "note": {
+            "en": "He does not remember the man, and that is exactly what makes his register worth reading.",
+            "hi": "आदमी उसे याद नहीं — और इसी वजह से उसकी पंजी पढ़ने लायक़ है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The purchaser you wrote down was sixty years old and blind in one eye.",
+            "hi": "आपने जो ख़रीदार लिखा, वह साठ साल का और एक आँख से अंधा है।"
+          },
+          "answer": {
+            "en": "“I write down the name the man at my window gives me. In thirty-one years at this window nobody has been asked for a proof of his own name, and if I started asking I would sell eleven sheets a month instead of ninety.”",
+            "hi": "“मेरी खिड़की पर जो आदमी जो नाम बताता है, मैं वही लिख देता हूँ। इस खिड़की के इकतीस साल में किसी से अपने नाम का सबूत नहीं माँगा गया — और माँगने लगूँ तो नब्बे की जगह महीने में ग्यारह शीट बिकेंगी।”"
+          },
+          "needsClueId": "stamp",
+          "lockedHint": {
+            "en": "Pin the vendor’s register. He will not discuss a purchaser until the line with the purchaser on it is on the board.",
+            "hi": "विक्रेता की पंजी टाँगो। जब तक ख़रीदार वाली पंक्ति बोर्ड पर न आए, वह ख़रीदार की बात नहीं करेगा।"
+          },
+          "unlocksClueId": "saidname",
+          "note": {
+            "en": "So the name in that column is not a signature and never was. It is whatever somebody said at a window.",
+            "hi": "यानी उस ख़ाने का नाम दस्तख़त नहीं है और कभी था भी नहीं। वह बस वही है, जो किसी ने खिड़की पर कह दिया।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ashok",
+      "setting": {
+        "en": "The sub-division yard at four, a tool register on the store counter and a crimping plier hanging from a nail behind it.",
+        "hi": "चार बजे का उपखंड परिसर, भंडार की खिड़की पर औज़ार रजिस्टर और उसके पीछे खूँटी पर लटकी सील की चिमटी।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "The crimp on that meter is die forty-one.",
+            "hi": "उस मीटर की सील डाई इकतालीस की है।"
+          },
+          "answer": {
+            "en": "“Forty-one has sealed six hundred boxes in this ward. A die is not a signature.”",
+            "hi": "“इकतालीस ने इस वार्ड में छह सौ बॉक्स सील किए हैं। डाई दस्तख़त नहीं होती।”"
+          },
+          "needsClueId": "seal",
+          "lockedHint": {
+            "en": "Pin the die number. He will talk about six hundred boxes for as long as nobody puts the tool register in front of him.",
+            "hi": "डाई नंबर टाँगो। जब तक कोई औज़ार रजिस्टर उसके सामने न रखे, वह छह सौ बॉक्स की बात करता रहेगा।"
+          },
+          "note": {
+            "en": "It is not a signature. It is a thing signed for in a register, held by one man since 2019, and returned to the store every night by that one man.",
+            "hi": "वह दस्तख़त नहीं है। वह एक रजिस्टर में दस्तख़त करके ली गई चीज़ है — 2019 से एक ही आदमी के पास, और हर रात भंडार में उसी एक आदमी के हाथ से जमा।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Why is there no cable behind it?",
+            "hi": "उसके पीछे केबल क्यों नहीं है?"
+          },
+          "answer": {
+            "en": "“The consumer’s internal wiring is the consumer’s work. We hang the meter, they bring the wire to it.”",
+            "hi": "“उपभोक्ता की भीतरी वायरिंग उपभोक्ता का काम है। हम मीटर टाँगते हैं, तार वे लाते हैं।”"
+          },
+          "needsClueId": "nowire",
+          "lockedHint": {
+            "en": "Pin what is behind the meter. He will keep this in the language of departmental duty until the cut cable end is on the board.",
+            "hi": "मीटर के पीछे जो है, वह टाँगो। जब तक कटी केबल का सिरा बोर्ड पर न आए, वह इसे महकमे की ज़बान में ही रखेगा।"
+          },
+          "note": {
+            "en": "There is a cable. It goes eleven inches into the wall and is cut square, which is a job somebody did on purpose and then plastered over.",
+            "hi": "केबल है। वह दीवार में ग्यारह इंच जाकर सीधा कटी है — यह किसी ने जान-बूझकर किया और ऊपर पलस्तर कर दिया।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eleven files in two years, one typist, two witnesses.",
+            "hi": "दो साल में ग्यारह फ़ाइलें, एक टाइपिस्ट, दो गवाह।"
+          },
+          "answer": {
+            "en": "“People come to me because the counter frightens them. Is helping a man fill a form a crime now?”",
+            "hi": "“लोग मेरे पास आते हैं क्योंकि खिड़की से डरते हैं। किसी का फ़ॉर्म भरवा देना अब जुर्म हो गया?”"
+          },
+          "note": {
+            "en": "Helping a man fill a form is not. Three of the eleven forms are for shops whose owners have never heard the name on them.",
+            "hi": "फ़ॉर्म भरवा देना जुर्म नहीं है। उन ग्यारह में से तीन फ़ॉर्म उन दुकानों के हैं, जिनके मालिकों ने उन पर लिखा नाम कभी सुना ही नहीं।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "sidework",
+      "correction": {
+        "en": "The engineer signed a complete file as the rules require and the karigar was sixty kilometres away with four hundred witnesses. One man has carried eleven of these files through that counter in two years, and three of the eleven meters are hanging on walls with nothing behind them.",
+        "hi": "अभियंता ने नियम के मुताबिक़ पूरी फ़ाइल पर दस्तख़त किए और कारीगर चार सौ गवाहों के साथ साठ किलोमीटर दूर था। दो साल में ऐसी ग्यारह फ़ाइलें उसी खिड़की से एक ही आदमी भीतर लेकर गया — और उन ग्यारह में से तीन मीटर उन दीवारों पर टँगे हैं, जिनके पीछे कुछ भी नहीं है।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "seal",
+      "correction": {
+        "en": "Anybody can screw a meter to a wall; nobody outside the nigam can close its box with the nigam’s lead. That crimp carries die forty-one, and die forty-one is signed out of the store register to one helper and back into it every evening by the same hand.",
+        "hi": "मीटर को दीवार पर कोई भी कस सकता है; उसका बॉक्स निगम के सीसे से निगम के बाहर कोई बंद नहीं कर सकता। उस सील पर डाई इकतालीस है — और डाई इकतालीस भंडार रजिस्टर से एक ही हेल्पर के नाम निकलती है और हर शाम उसी हाथ से वापस जमा होती है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "reader",
+      "correction": {
+        "en": "He did not need to get away with anything for very long — only until a notice went out in Kartik. A meter with no wire behind it gives the same reading for ever, and four months of eleven, eleven, eleven, eleven means no man has stood in front of it and no man ever would have.",
+        "hi": "उसे बहुत दिन बचना नहीं था — बस कार्तिक में नोटिस निकलने तक। जिस मीटर के पीछे तार नहीं, वह हमेशा वही रीडिंग देता है — और चार महीने की ग्यारह, ग्यारह, ग्यारह, ग्यारह का मतलब है कि उसके सामने कोई खड़ा नहीं हुआ, और कभी होता भी नहीं।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "notice",
+    "toClueId": "nowire",
+    "text": {
+      "en": "The notice rests its whole weight on one object, so go and look at the object. Not the file, not the sanction — the thing on the wall.",
+      "hi": "नोटिस अपना पूरा वज़न एक ही चीज़ पर रखता है — तो जाकर उस चीज़ को देखिए। फ़ाइल नहीं, मंज़ूरी नहीं — दीवार पर टँगी वह चीज़।"
+    }
+  },
+  "bankedClue": {
+    "en": "A hundred-rupee stamp paper for a sublet agreement, bought at the vendor’s counter in the halwai’s own name",
+    "hi": "उपकिरायेदारी के इकरारनामे का सौ रुपये का स्टाम्प पेपर — विक्रेता की खिड़की से हलवाई के अपने नाम पर ख़रीदा हुआ"
+  }
+}

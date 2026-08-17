@@ -1,0 +1,413 @@
+{
+  "id": "pushkar-nine-ropes",
+  "schema": 1,
+  "city": "pushkar",
+  "genre": "theft",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "pushkar-camel-fair-books",
+    "caseNumber": 2
+  },
+  "title": {
+    "en": "Nine Ropes",
+    "hi": "नौ रस्सियाँ"
+  },
+  "place": {
+    "en": "The Raika lines, row fourteen · Thursday, 6:05 AM",
+    "hi": "रायका डोरें, चौदहवीं क़तार · गुरुवार, 6:05 AM"
+  },
+  "brief": {
+    "en": "Phool Bai Raika counts her string at first light the way her family has for forty years, by walking the pegs and not the animals. This morning row fourteen has nine pegs, nine ropes and eight camels. Not one rope is cut, and the ninth is tied off at its own peg in a knot that is not hers. Nobody on this ground has seen a camel walk out of a line since the fair opened.",
+    "hi": "फूल बाई रायका पहली रोशनी में अपनी डोर उसी तरह गिनती है जैसे उसका परिवार चालीस साल से गिनता आया है — खूँटे चलकर, जानवर नहीं। आज सुबह चौदहवीं क़तार में नौ खूँटे हैं, नौ रस्सियाँ हैं और आठ ऊँट। एक भी रस्सी कटी नहीं है, और नौवीं अपने ही खूँटे पर ऐसी गाँठ में बँधी है जो उसकी नहीं है। मेला खुलने के बाद से इस मैदान पर किसी ने किसी ऊँट को डोर से निकलते नहीं देखा।"
+  },
+  "photoCaption": {
+    "en": "row fourteen, nine pegs",
+    "hi": "चौदहवीं क़तार, नौ खूँटे"
+  },
+  "iraNote": {
+    "en": "“Nothing was cut and nothing ran. Somebody untied an animal, and untying is a thing you only do slowly, and only if you are not afraid of being seen.”",
+    "hi": "“न कुछ काटा गया, न कुछ भागा। किसी ने जानवर खोला है — और खोलना धीरे ही होता है, और वही करता है जिसे देखे जाने का डर न हो।”"
+  },
+  "clues": [
+    {
+      "id": "knot",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE KNOT ON THE NINTH PEG",
+        "hi": "नौवें खूँटे की गाँठ"
+      },
+      "text": {
+        "en": "A Raika ties a two-loop dobara that comes free with one pull from the animal’s side. This is a single-loop cart knot, drawn tight from the far side of the peg by a right hand — a knot for holding a bullock cart shaft, tied by somebody standing where a herder never stands.",
+        "hi": "रायका दो फंदों वाली दोबरा गाँठ लगाता है, जो जानवर की तरफ़ से एक खींच में खुल जाती है। यह एक फंदे वाली गाड़ी की गाँठ है, खूँटे की दूसरी तरफ़ से दाहिने हाथ ने कसी हुई — बैलगाड़ी का जुआ बाँधने वाली गाँठ, और लगाने वाला वहाँ खड़ा था जहाँ चरवाहा कभी खड़ा नहीं होता।"
+      }
+    },
+    {
+      "id": "clip",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE NEW PATTERN",
+        "hi": "नई कटाई"
+      },
+      "text": {
+        "en": "A dun male standing forty rows away in a commission agent’s line, clipped four days ago in a fresh pattern of leaves and diamonds. The shorn ground runs straight across the near shoulder, which is the one place on a camel nobody clips for beauty.",
+        "hi": "चालीस क़तार दूर एक दलाल की डोर में खड़ा एक भूरा नर, चार दिन पहले पत्तों और चौकड़ियों की नई कटाई में कटा हुआ। छँटी हुई ज़मीन सीधी बाएँ कंधे के आर-पार जाती है — ऊँट पर वही एक जगह है जिसे सजावट के लिए कोई नहीं छाँटता।"
+      }
+    },
+    {
+      "id": "brand",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "UNDER THE CLIPPING",
+        "hi": "कटाई के नीचे"
+      },
+      "text": {
+        "en": "The hair is gone and the hide is not. A trishul brand sits under the shorn patch, twelve years healed, and Phool Bai Raika has burnt that trishul on every animal her family has bred since her father’s time.",
+        "hi": "बाल गए हैं, खाल नहीं गई। छँटी हुई जगह के नीचे बारह साल पुराना भरा हुआ त्रिशूल का दाग़ बैठा है — और फूल बाई रायका अपने बाप के वक़्त से अपने हर जानवर पर यही त्रिशूल लगाती आई है।"
+      }
+    },
+    {
+      "id": "receipt",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "DALALI · TWO PERCENT",
+        "hi": "दलाली · दो फ़ीसदी"
+      },
+      "text": {
+        "en": "Daulat Ram’s own commission receipt, one thousand three hundred and forty rupees against a sale of one dun male, seller written as Nathu Ram Gurjar. The neelami bahi has no lot for it — the sale is on the agent’s paper and nowhere in the fair’s.",
+        "hi": "दौलत राम की अपनी दलाली रसीद — एक भूरे नर की बिक्री पर तेरह सौ चालीस रुपए, बेचने वाले के ख़ाने में नाथू राम गुर्जर। नीलामी बही में इसका कोई लॉट ही नहीं है — बिक्री दलाल के काग़ज़ पर है और मेले के किसी काग़ज़ पर नहीं।"
+      }
+    },
+    {
+      "id": "debtbook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE KADBI ACCOUNT",
+        "hi": "कड़बी का खाता"
+      },
+      "text": {
+        "en": "Thirty-eight thousand owed since Ashadh for a season of fodder, in the fodder-seller’s own hand, with four part payments and none since Bhadra. The last line reads only: nine head, fed all season, paid for four.",
+        "hi": "आषाढ़ से पूरे मौसम के चारे के अड़तीस हज़ार बाक़ी — चारा बेचने वाले के अपने हाथ की लिखत, चार बार थोड़ा-थोड़ा जमा और भादों के बाद कुछ नहीं। आख़िरी पंक्ति में बस इतना है: नौ जानवर, पूरा मौसम खिलाए, चार के पैसे मिले।"
+      }
+    },
+    {
+      "id": "groundeight",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE GROUND BOOK, ROW FOURTEEN",
+        "hi": "ज़मीन बही, चौदहवीं क़तार"
+      },
+      "text": {
+        "en": "Row fourteen has been entered as a string of eight since the day the fair opened, and the ground fee has been taken on eight. Nine animals came off the Merta road and nine pegs went into the ground, and the book has said eight from the first morning.",
+        "hi": "मेला खुलने के दिन से चौदहवीं क़तार आठ की डोर लिखी जा रही है, और ज़मीन का शुल्क आठ पर ही लिया गया है। मेड़ता की सड़क से नौ जानवर उतरे थे और ज़मीन में नौ खूँटे गड़े थे — और बही पहली सुबह से आठ ही कहती आई है।"
+      }
+    },
+    {
+      "id": "watchman",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE NIGHT BEAT SHEET",
+        "hi": "रात की गश्त पर्ची"
+      },
+      "text": {
+        "en": "Sawai Singh passed row fourteen at two-forty and again at four-ten and wrote nine both times.",
+        "hi": "सवाई सिंह दो बजकर चालीस पर और फिर चार बजकर दस पर चौदहवीं क़तार से गुज़रा, और दोनों बार नौ लिखा।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he counts humps by lantern from the head of the row, and nine ropes standing to nine pegs read as nine animals from there; the sheet is honest and it is useless",
+        "hi": "ख़ारिज — वह क़तार के सिरे से लालटेन में कूबड़ गिनता है, और वहाँ से नौ खूँटों पर तनी नौ रस्सियाँ नौ जानवर ही दिखती हैं; पर्ची सच्ची है और किसी काम की नहीं"
+      }
+    },
+    {
+      "id": "shearer",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE PATTERN BOOK, PAGE NINE",
+        "hi": "कटाई की बही, पन्ना नौ"
+      },
+      "text": {
+        "en": "Kheta Ram’s book of clipping patterns: leaves and diamonds, one dun male, one hundred and fifty rupees, cash, four days ago.",
+        "hi": "खेता राम की कटाई की बही: पत्ते और चौकड़ियाँ, एक भूरा नर, डेढ़ सौ रुपए नक़द, चार दिन पहले।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he clips what is brought to him and writes down every head he clips; a man hiding a brand does not pay a barber who keeps a book",
+        "hi": "ख़ारिज — जो सामने लाया जाए वही छाँटता है और हर जानवर बही में लिखता है; दाग़ छिपाने वाला उस नाई को पैसे नहीं देता जो बही रखता हो"
+      }
+    },
+    {
+      "id": "dalalfile",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE LINE IT WAS FOUND IN",
+        "hi": "जिस डोर में मिला"
+      },
+      "text": {
+        "en": "The animal was standing in Daulat Ram’s consignment line, roped in with eleven others he is selling on commission.",
+        "hi": "जानवर दौलत राम की खेप वाली डोर में खड़ा था, उन ग्यारह और जानवरों के साथ बँधा जिन्हें वह दलाली पर बेच रहा है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he took it in with a seller’s name and a rope and filed his own two percent with the mela office the same evening; hiding does not file",
+        "hi": "ख़ारिज — उसने जानवर एक नाम और एक रस्सी के साथ लिया और उसी शाम अपनी दो फ़ीसदी मेला दफ़्तर में दाख़िल भी कर दी; छिपाने वाला काग़ज़ जमा नहीं करता"
+      }
+    },
+    {
+      "id": "rumour",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE KUTCH BUYER STORY",
+        "hi": "कच्छ वाले ख़रीदार की बात"
+      },
+      "text": {
+        "en": "Three men at the fodder line say the animal went to a Kutch buyer at the far gate on Wednesday night.",
+        "hi": "चारे की क़तार पर तीन आदमी कहते हैं कि जानवर बुधवार रात दूर वाले गेट से किसी कच्छ के ख़रीदार के पास चला गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — no exit slip for a dun male passed either gate that night, and the animal was standing forty rows away the whole time the story was being told",
+        "hi": "ख़ारिज — उस रात किसी गेट से किसी भूरे नर की निर्गम पर्ची निकली ही नहीं, और जब यह बात चल रही थी तब जानवर चालीस क़तार दूर खड़ा था"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidowed",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE FODDER SELLER",
+        "hi": "बयान · चारा बेचने वाला"
+      },
+      "text": {
+        "en": "“Thirty-eight thousand since Ashadh. I fed her nine animals all season and she paid me for four. You tell me which of the nine I fed for nothing.”",
+        "hi": "“आषाढ़ से अड़तीस हज़ार। मैंने पूरे मौसम उसके नौ जानवर खिलाए और उसने चार के पैसे दिए। अब आप ही बता दीजिए कि उन नौ में से कौन-सा मैंने मुफ़्त खिलाया।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "nathu",
+      "name": {
+        "en": "Nathu Ram Gurjar",
+        "hi": "नाथू राम गुर्जर"
+      },
+      "role": {
+        "en": "THE FODDER SELLER",
+        "hi": "चारा बेचने वाला"
+      },
+      "hook": {
+        "en": "fed nine all season and was paid for four",
+        "hi": "पूरा मौसम नौ खिलाए, पैसे चार के मिले"
+      },
+      "confession": {
+        "en": "Untied the ninth at three in the morning from the far side of the peg, walked it forty rows, paid a barber one hundred and fifty rupees to clip a new pattern across the near shoulder, and put it into a commission agent’s line under his own name as seller — for thirty-eight thousand of fodder he had carried since Ashadh.",
+        "hi": "रात तीन बजे खूँटे की दूसरी तरफ़ से नौवें को खोला, चालीस क़तार पैदल ले गया, डेढ़ सौ रुपए देकर नाई से बाएँ कंधे के आर-पार नई कटाई करवाई, और अपने ही नाम से बेचने वाला लिखवाकर दलाल की डोर में खड़ा कर दिया — आषाढ़ से ढो रहे अड़तीस हज़ार के चारे के लिए।"
+      }
+    },
+    {
+      "id": "daulat",
+      "name": {
+        "en": "Daulat Ram",
+        "hi": "दौलत राम"
+      },
+      "role": {
+        "en": "THE COMMISSION AGENT",
+        "hi": "दलाल"
+      },
+      "hook": {
+        "en": "the animal was found in his line",
+        "hi": "जानवर उसी की डोर में मिला"
+      },
+      "alibi": {
+        "en": "He takes animals in on a seller’s name and books every one of them, and his two percent on this one went to the mela office the same evening. A man selling a stolen camel does not file a receipt that names the seller.",
+        "hi": "वह जानवर बेचने वाले के नाम पर लेता है और हर एक को बही में चढ़ाता है, और इसकी दो फ़ीसदी उसी शाम मेला दफ़्तर पहुँच गई थी। चोरी का ऊँट बेचने वाला ऐसी रसीद दाख़िल नहीं करता जिस पर बेचने वाले का नाम लिखा हो।"
+      }
+    },
+    {
+      "id": "khetaram",
+      "name": {
+        "en": "Kheta Ram",
+        "hi": "खेता राम"
+      },
+      "role": {
+        "en": "THE CLIPPER",
+        "hi": "कटाई वाला"
+      },
+      "hook": {
+        "en": "his shears took the hair off the brand",
+        "hi": "दाग़ के ऊपर के बाल उसी की कैंची ने उतारे"
+      },
+      "alibi": {
+        "en": "He clips forty animals a fair, writes every one in a pattern book anybody may read, and takes his hundred and fifty in front of the line. He was shown a shoulder and asked for leaves and diamonds, and he does not read hides.",
+        "hi": "एक मेले में वह चालीस जानवर छाँटता है, हर एक को उस बही में लिखता है जिसे कोई भी पढ़ सकता है, और अपने डेढ़ सौ पूरी क़तार के सामने लेता है। उसे एक कंधा दिखाकर पत्ते और चौकड़ियाँ माँगी गईं — और खाल पढ़ना उसका काम नहीं है।"
+      }
+    },
+    {
+      "id": "sawai",
+      "name": {
+        "en": "Sawai Singh",
+        "hi": "सवाई सिंह"
+      },
+      "role": {
+        "en": "THE NIGHT LINE-WATCHMAN",
+        "hi": "रात का डोर पहरेदार"
+      },
+      "hook": {
+        "en": "wrote nine twice on the night it went",
+        "hi": "जिस रात गया, उसी रात दो बार नौ लिखा"
+      },
+      "alibi": {
+        "en": "He walks eleven rows an hour with a lantern and counts from the head of each. Nine ropes standing to nine pegs is nine animals from there, and he wrote what the row showed him.",
+        "hi": "वह लालटेन लेकर घंटे में ग्यारह क़तारें चलता है और हर एक के सिरे से गिनता है। वहाँ से नौ खूँटों पर तनी नौ रस्सियाँ नौ जानवर ही होती हैं, और क़तार ने जो दिखाया उसने वही लिखा।"
+      }
+    }
+  ],
+  "culpritId": "nathu",
+  "interrogations": [
+    {
+      "suspectId": "nathu",
+      "setting": {
+        "en": "The fodder line at eleven, bundles stacked to the shoulder, a slate on a nail with four rows’ names still owing.",
+        "hi": "ग्यारह बजे की चारा क़तार, कंधे तक चिने हुए पूले, और खूँटी पर टँगी वह स्लेट जिस पर चार क़तारों के नाम अब भी बाक़ी हैं।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How many does row fourteen owe you for?",
+            "hi": "चौदहवीं क़तार पर आपके कितने बाक़ी हैं?"
+          },
+          "answer": {
+            "en": "“Ask the ground book and it will tell you eight. Ask my slate and it will tell you nine. One of those two has been eating my kadbi.”",
+            "hi": "“ज़मीन बही से पूछिए तो वह आठ बताएगी। मेरी स्लेट से पूछिए तो नौ। इन दोनों में से एक मेरी कड़बी खाता आया है।”"
+          },
+          "note": {
+            "en": "He has been carrying the ninth animal on his own slate all season. Nobody else on this ground was.",
+            "hi": "पूरे मौसम नौवाँ जानवर उसकी अपनी स्लेट पर चढ़ा रहा। इस मैदान पर और किसी की बही में वह था ही नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Thirty-eight thousand, and nothing paid since Bhadra.",
+            "hi": "अड़तीस हज़ार, और भादों के बाद एक पैसा नहीं।"
+          },
+          "answer": {
+            "en": "“Thirty-eight thousand since Ashadh. I fed her nine animals all season and she paid me for four. You tell me which of the nine I fed for nothing.”",
+            "hi": "“आषाढ़ से अड़तीस हज़ार। मैंने पूरे मौसम उसके नौ जानवर खिलाए और उसने चार के पैसे दिए। अब आप ही बता दीजिए कि उन नौ में से कौन-सा मैंने मुफ़्त खिलाया।”"
+          },
+          "needsClueId": "debtbook",
+          "lockedHint": {
+            "en": "Pin the kadbi account. He will keep the whole thing at the level of a grievance until his own last line is in front of him.",
+            "hi": "कड़बी का खाता टाँगो। जब तक उसकी अपनी आख़िरी पंक्ति उसके सामने न आ जाए, वह पूरी बात शिकायत के स्तर पर ही रखेगा।"
+          },
+          "unlocksClueId": "saidowed",
+          "note": {
+            "en": "He has just answered the question nobody asked: which one of the nine. He picked one four days ago.",
+            "hi": "उसने वह जवाब दे दिया जो पूछा ही नहीं गया था — नौ में से कौन-सा। चार दिन पहले वह एक चुन चुका है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "That knot was tied from the far side of the peg.",
+            "hi": "वह गाँठ खूँटे की दूसरी तरफ़ से लगी है।"
+          },
+          "answer": {
+            "en": "“That is how a man ties a cart. I have tied carts for thirty years and I have never herded anything in my life.”",
+            "hi": "“गाड़ी ऐसे ही बाँधी जाती है। तीस साल से गाड़ियाँ बाँध रहा हूँ, और ज़िंदगी में कभी कुछ चराया नहीं।”"
+          },
+          "needsClueId": "knot",
+          "lockedHint": {
+            "en": "Pin the knot. He can argue with a debt; he cannot argue with the way his own hands tie.",
+            "hi": "गाँठ टाँगो। क़र्ज़ पर वह बहस कर सकता है; अपने ही हाथों के बाँधने के तरीक़े पर नहीं कर सकता।"
+          },
+          "note": {
+            "en": "He is right, and it is the worst thing he could have said. A herder’s knot came off that peg and a carter’s knot went back on it.",
+            "hi": "बात उसकी सही है, और उससे बुरी बात वह कह ही नहीं सकता था। उस खूँटे से चरवाहे की गाँठ उतरी और गाड़ी वाले की गाँठ चढ़ गई।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "daulat",
+      "setting": {
+        "en": "The agent’s tent between the lines, a folding table, and twelve rope ends laid out on it in the order of his book.",
+        "hi": "डोरों के बीच दलाल का तंबू, एक तिपाई मेज़, और उस पर उसकी बही के क्रम में सजे बारह रस्सी के सिरे।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who brought you the dun male?",
+            "hi": "भूरा नर आपके पास कौन लाया?"
+          },
+          "answer": {
+            "en": "“The fodder man, on Wednesday night, with a rope and a name. I do not ask a seller for his grandfather. I ask him for a name and I write it.”",
+            "hi": "“चारे वाला, बुधवार रात, रस्सी और एक नाम लेकर। मैं बेचने वाले से उसका दादा नहीं पूछता। मैं नाम पूछता हूँ और लिख लेता हूँ।”"
+          },
+          "note": {
+            "en": "He wrote the name down, which is the whole of his defence and most of ours.",
+            "hi": "उसने नाम लिख लिया — यही उसकी पूरी सफ़ाई है, और हमारे काम की ज़्यादातर चीज़ भी।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Your two percent is filed and the sale book has no lot for it.",
+            "hi": "आपकी दो फ़ीसदी दाख़िल है, और नीलामी बही में उसका कोई लॉट नहीं है।"
+          },
+          "answer": {
+            "en": "“Then the sale book is short a line, madam, and my receipt is the only paper in this fair that says the animal was ever sold at all.”",
+            "hi": "“तो मैडम, नीलामी बही में एक पंक्ति कम है — और इस पूरे मेले में मेरी रसीद अकेला काग़ज़ है जो कहता है कि जानवर कभी बिका भी था।”"
+          },
+          "note": {
+            "en": "He is not wrong, and he does not yet know how large a sentence that is.",
+            "hi": "वह ग़लत नहीं है — और उसे अभी अंदाज़ा नहीं कि यह वाक्य कितना बड़ा है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "debtbook",
+      "correction": {
+        "en": "The agent earned one thousand three hundred and forty rupees and the barber earned one hundred and fifty. One man on this ground had carried a whole season of fodder for nine animals and been paid for four.",
+        "hi": "दलाल ने तेरह सौ चालीस कमाए और नाई ने डेढ़ सौ। इस मैदान पर एक ही आदमी ऐसा था जिसने पूरे मौसम नौ जानवरों का चारा ढोया और पैसे चार के पाए।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "knot",
+      "correction": {
+        "en": "Nothing was cut and nothing bolted, so the ninth was untied by hand and led away at a walk. The knot that went back on the peg was tied from the far side by a man who ties cart shafts, not halters.",
+        "hi": "न कुछ काटा गया, न कुछ भागा — यानी नौवें को हाथ से खोला गया और चलाकर ले जाया गया। खूँटे पर जो गाँठ वापस लगी, वह दूसरी तरफ़ से उस आदमी ने लगाई जो नकेल नहीं, गाड़ी का जुआ बाँधता है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "clip",
+      "correction": {
+        "en": "The animal never left this ground. It was walked forty rows and given a new pattern four days ago, shorn straight across the near shoulder — which is the only part of a camel that nobody clips to make it look better.",
+        "hi": "जानवर इस मैदान से कहीं गया ही नहीं। उसे चालीस क़तार चलाकर ले जाया गया और चार दिन पहले नई कटाई दे दी गई, सीधे बाएँ कंधे के आर-पार छाँटकर — ऊँट का वही एक हिस्सा है जिसे सुंदर दिखाने के लिए कोई नहीं छाँटता।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "clip",
+    "toClueId": "brand",
+    "text": {
+      "en": "Nobody clips a shoulder to make an animal handsome. A shoulder is clipped to take something off it, and hair is the only thing on a camel that grows back.",
+      "hi": "जानवर को सुंदर बनाने के लिए कंधा कोई नहीं छाँटता। कंधा तब छाँटा जाता है जब उस पर से कुछ हटाना हो — और ऊँट पर वापस उग आने वाली चीज़ सिर्फ़ बाल हैं।"
+    }
+  },
+  "bankedClue": {
+    "en": "A breeder’s string of nine that the ground book has carried as eight since the fair opened",
+    "hi": "एक पालक की नौ की डोर, जिसे ज़मीन बही मेला खुलने के दिन से आठ लिखती आई है"
+  }
+}

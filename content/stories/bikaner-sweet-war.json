@@ -1,0 +1,206 @@
+{
+  "id": "bikaner-sweet-war",
+  "schema": 1,
+  "region": "rajasthan",
+  "city": "bikaner",
+  "number": 6,
+  "unlockStars": 60,
+  "title": {
+    "en": "The Bikaner Sweet War",
+    "hi": "बीकानेर की मिठाई की लड़ाई"
+  },
+  "blurb": {
+    "en": "5 cases · two sweetshops across one lane, a landlord who owns both frontages, and a fire in the wrong shop",
+    "hi": "5 केस · एक गली, आमने-सामने दो मिठाई की दुकानें, दोनों फ़्रंट का एक ही मकान मालिक — और आग ग़लत दुकान में"
+  },
+  "cases": [
+    "bikaner-tray-four",
+    "bikaner-the-wrong-shop",
+    "bikaner-the-second-meter",
+    "bikaner-twelve-thousand-litres",
+    "bikaner-fourteen-money-orders"
+  ],
+  "finale": {
+    "mastermindId": "bhanwar",
+    "reveal": {
+      "en": "Bhanwar Lal Chhangani?",
+      "hi": "भँवर लाल छंगाणी?"
+    },
+    "threads": [
+      {
+        "caseNumber": 1,
+        "pointsAt": "nemi",
+        "text": {
+          "en": "A written complaint on the shop opposite’s letterhead, stamped and signed, two days before the officer came",
+          "hi": "सामने की दुकान के लेटरहेड पर लिखी शिकायत — मुहर और दस्तख़त के साथ, अधिकारी के आने से दो दिन पहले की"
+        },
+        "short": {
+          "en": "the complaint, stamped",
+          "hi": "शिकायत, मुहर लगी"
+        },
+        "pending": {
+          "en": "Tray Four will turn up the first thread",
+          "hi": "थाल चार पहला सिरा निकालेगा"
+        },
+        "misread": {
+          "en": "It is on his letterhead, under his shop’s rubber stamp, and it sits at serial two hundred and fourteen of the inward register — and one man in this lane gains a fortnight of Shravan if that licence goes down. Hang the thread there, and then ask why a man who cannot write his own bill in English filed four typed paragraphs of the Act, and who has been holding the stamp he reported lost in Jyeshtha.",
+          "hi": "यह उसी के लेटरहेड पर है, उसी की दुकान की मुहर के नीचे, और आवक पंजी के दो सौ चौदह नंबर पर दर्ज है — और उस लाइसेंस के गिरने से सावन का पखवाड़ा इस गली में एक ही आदमी को मिलता है। सिरा वहीं टाँगो — और फिर पूछो कि जो आदमी अपना बिल अंग्रेज़ी में नहीं लिख सकता, उसने अधिनियम के चार टाइप किए पैराग्राफ़ कैसे लगाए, और जो मुहर उसने जेठ में खोई बताई थी, वह अब तक किसके पास है।"
+        }
+      },
+      {
+        "caseNumber": 2,
+        "pointsAt": "damodar",
+        "text": {
+          "en": "Eleven sealed tins of the old shop’s kerosene in the loft above the fire, carried up in the nephew’s own hand",
+          "hi": "आग के ऊपर के कमरे में पुरानी दुकान के मिट्टी के तेल के ग्यारह सीलबंद टिन — भतीजे के अपने हाथों ऊपर पहुँचाए हुए"
+        },
+        "short": {
+          "en": "eleven tins, upstairs",
+          "hi": "ग्यारह टिन, ऊपर"
+        },
+        "pending": {
+          "en": "The Wrong Shop holds the second thread",
+          "hi": "ग़लत दुकान में दूसरा सिरा है"
+        },
+        "misread": {
+          "en": "The tins are his uncle’s, the store slips are in his writing, and he carried them up a shared stair into the room over a shop that burned nine days before Diwali. All of that is true and he has admitted every word of it. Now ask who let a boy of twenty-four have that particular room at eleven hundred a month in cash with no receipt, four weeks before the shop underneath it caught fire.",
+          "hi": "टिन उसके चाचा के हैं, भंडार की पर्चियाँ उसी की लिखाई में हैं, और वह उन्हें साझा ज़ीने से चढ़ाकर उस दुकान के ऊपर के कमरे में रखता आया, जो दिवाली से नौ दिन पहले जल गई। यह सब सच है और उसने एक-एक शब्द मान लिया है। अब पूछो कि चौबीस साल के लड़के को वही कमरा ग्यारह सौ महीने में, नक़द, बिना रसीद किसने दिया — दुकान के नीचे आग लगने से चार हफ़्ते पहले।"
+        }
+      },
+      {
+        "caseNumber": 3,
+        "pointsAt": "kishan",
+        "text": {
+          "en": "A hundred-rupee stamp paper for a sublet agreement, bought at the vendor’s counter in the halwai’s own name",
+          "hi": "उपकिरायेदारी के इकरारनामे का सौ रुपये का स्टाम्प पेपर — विक्रेता की खिड़की से हलवाई के अपने नाम पर ख़रीदा हुआ"
+        },
+        "short": {
+          "en": "the stamp paper, his name",
+          "hi": "स्टाम्प पेपर, उसका नाम"
+        },
+        "pending": {
+          "en": "The Second Meter will say whose name bought the stamp paper",
+          "hi": "दूसरा मीटर बताएगा कि स्टाम्प पेपर किसके नाम पर बिका"
+        },
+        "misread": {
+          "en": "The vendor’s register writes out the purpose and writes out the purchaser, and the purchaser is Kishan Lal Agarwal. A tenant who sublets loses this shop, so a stamp paper bought in his own name for that one agreement is either his signature or his ruin — and it is his ruin. Ask who else in this lane keeps forty years of rent receipts with that signature at the bottom of every one.",
+          "hi": "विक्रेता की पंजी में प्रयोजन भी लिखा है और ख़रीदार भी — और ख़रीदार किशन लाल अग्रवाल है। जो किरायेदार उपकिराये पर देता है, वह यह दुकान खो देता है; तो उसी एक इकरारनामे के लिए उसके ही नाम पर ख़रीदा स्टाम्प पेपर या तो उसके दस्तख़त हैं, या उसकी तबाही — और यह उसकी तबाही है। पूछो कि इस गली में और किसके पास चालीस साल की किराया रसीदें हैं, जिनमें से हर एक के नीचे वही दस्तख़त है।"
+        }
+      },
+      {
+        "caseNumber": 4,
+        "pointsAt": "bhanwar",
+        "text": {
+          "en": "A municipal water connection cut for arrears eleven months ago, in the landlord’s name, on two rents that include water",
+          "hi": "ग्यारह महीने पहले बकाया पर कटा नगर निगम का पानी का कनेक्शन — मकान मालिक के नाम, और दोनों किराये पानी समेत हैं"
+        },
+        "short": {
+          "en": "the water, cut off",
+          "hi": "पानी, कटा हुआ"
+        },
+        "pending": {
+          "en": "Twelve Thousand Litres holds the fourth thread",
+          "hi": "बारह हज़ार लीटर में चौथा सिरा है"
+        },
+        "misread": {
+          "en": "A man upstairs filled a cistern because six people were living on two buckets a day, and that much is answered and as forgiven as anything here gets. What is not answered is why a building inside Kote Gate has had no municipal water since Magh of last year, on an arrears of nine thousand rupees, under an owner who takes water charges inside both rents and gives a receipt for neither.",
+          "hi": "ऊपर के आदमी ने टाँका भरा क्योंकि छह लोग दिन की दो बाल्टी पर जी रहे थे — इतना जवाब पा चुका है, और इस किस्से में जितनी माफ़ी मिलती है, उतनी मिल चुकी है। जवाब यह नहीं मिला कि कोट गेट के भीतर की एक इमारत में पिछले माघ से नगर निगम का पानी क्यों नहीं है — नौ हज़ार के बकाया पर — उस मालिक के नीचे, जो दोनों किरायों में पानी का पैसा शामिल रखता है और रसीद किसी को नहीं देता।"
+        }
+      },
+      {
+        "caseNumber": 5,
+        "pointsAt": "bhanwar",
+        "text": {
+          "en": "An advance received against an agreement to sell both frontages, possession free of tenants by Chaitra",
+          "hi": "दोनों फ़्रंट बेचने के इकरारनामे पर लिया गया बयाना — क़ब्ज़ा चैत तक, किरायेदारों से ख़ाली"
+        },
+        "short": {
+          "en": "possession by Chaitra",
+          "hi": "क़ब्ज़ा चैत तक"
+        },
+        "pending": {
+          "en": "Fourteen Money Orders holds the last thread",
+          "hi": "चौदह मनीऑर्डर में आख़िरी सिरा है"
+        },
+        "misread": {
+          "en": "The munim stole fourteen months of one shop’s rent and thirty-one properties’ worth besides, and he will answer for every rupee. Underneath his theft is a receipt in his own cash book: eleven lakh taken as advance from a hotel company against both frontages of this lane, refundable with interest if the two shops are still standing in them at Chaitra. Everything that has happened in this lane for one year turns out to be worth eleven lakh to one man.",
+          "hi": "मुनीम ने एक दुकान के चौदह महीने का किराया चुराया और इकतीस जायदादों का उससे ऊपर — और वह हर रुपये का जवाब देगा। उसकी चोरी के नीचे उसकी ही रोकड़ बही में एक रसीद पड़ी है: एक होटल कंपनी से इस गली के दोनों फ़्रंट के इकरारनामे पर ग्यारह लाख बयाना — चैत तक दोनों दुकानें उनमें खड़ी रहें तो ब्याज समेत वापस। इस गली में एक साल में जो कुछ हुआ, वह सब एक आदमी के लिए ग्यारह लाख का निकलता है।"
+        }
+      }
+    ],
+    "suspects": [
+      {
+        "id": "bhanwar",
+        "name": {
+          "en": "Bhanwar Lal Chhangani",
+          "hi": "भँवर लाल छंगाणी"
+        },
+        "role": {
+          "en": "THE LANE’S LANDLORD",
+          "hi": "गली का मकान मालिक"
+        },
+        "dossier": {
+          "en": "owns both frontages of this lane and has owned them since 1979 · two eviction suits filed and two dismissed, because both tenancies are older than 1962 and sit under the 1950 Act · takes water charges inside both rents and has written no receipt to either shop since 1997",
+          "hi": "इस गली के दोनों फ़्रंट उसी के हैं, 1979 से · दो बेदख़ली के दावे लगाए और दोनों ख़ारिज हुए, क्योंकि दोनों किरायेदारियाँ 1962 से पुरानी हैं और 1950 के अधिनियम के नीचे आती हैं · दोनों किरायों में पानी का पैसा शामिल रखता है और 1997 से किसी दुकान को रसीद नहीं लिखी"
+        }
+      },
+      {
+        "id": "kishan",
+        "name": {
+          "en": "Kishan Lal Agarwal",
+          "hi": "किशन लाल अग्रवाल"
+        },
+        "role": {
+          "en": "THE OLD HALWAI",
+          "hi": "पुराना हलवाई"
+        },
+        "dossier": {
+          "en": "third generation on the east frontage, thirty-one rupees a month since 1961 · lost eleven days of Shravan to a suspended licence and the whole sahalag to rasgullas that would not hold · sends his rent by money order because nobody will give him a receipt",
+          "hi": "पूरब के फ़्रंट पर तीसरी पीढ़ी, 1961 से इकतीस रुपये महीना · सावन के ग्यारह दिन निलंबित लाइसेंस में गए और पूरा सहालग उन रसगुल्लों में, जो बैठते ही नहीं थे · किराया मनीऑर्डर से भेजता है, क्योंकि रसीद कोई देता नहीं"
+        },
+        "cleared": {
+          "en": "Two of the five things done in this lane were done in his name and neither was done by his hand — a stamp paper bought at a vendor’s counter, and fourteen months of default whose money a post office paid out over its own counter. He is the only man here who has lost money in every month of this year.",
+          "hi": "इस गली की पाँच में से दो बातें उसके नाम से हुईं और उनमें से एक भी उसके हाथ से नहीं — विक्रेता की खिड़की से ख़रीदा एक स्टाम्प पेपर, और चौदह महीने का वह बकाया जिसका पैसा डाकघर ने अपनी ही खिड़की से गिनकर दिया। इस साल के हर महीने में जिसका पैसा गया है, वह यहाँ अकेला वही है।"
+        }
+      },
+      {
+        "id": "nemi",
+        "name": {
+          "en": "Nemi Chand Godara",
+          "hi": "नेमी चंद गोदारा"
+        },
+        "role": {
+          "en": "THE SHOP OPPOSITE",
+          "hi": "सामने की दुकान"
+        },
+        "dossier": {
+          "en": "came in from Nokha eleven years ago and put a frying karahi where a cloth shop used to be · forty-four rupees a month on a 1958 tenancy he married into · lost a counter, eleven cartons of Diwali boxes and every account book he had to a fire in his own front room",
+          "hi": "ग्यारह साल पहले नोखा से आया और जहाँ कपड़े की दुकान थी वहाँ तलने की कड़ाही रख दी · 1958 की किरायेदारी, जो शादी के साथ मिली — चौवालीस रुपये महीना · अपनी ही अगली दुकान की आग में गल्ला, दिवाली के डिब्बों के ग्यारह कार्टन और अपनी सारी बहियाँ गँवाईं"
+        },
+        "cleared": {
+          "en": "The complaint that shut the shop opposite is on his letterhead and he cannot read a line of it. The fire this whole lane called his revenge was lit inside his own almirah, with his own ghee, by the man who counted his money. He has been fought from both sides of one lane for a year and has paid for the privilege.",
+          "hi": "सामने की दुकान बंद करा देने वाली शिकायत उसी के लेटरहेड पर है, और उसमें से एक पंक्ति भी वह पढ़ नहीं सकता। जिस आग को पूरी गली उसका बदला कहती रही, वह उसकी ही अलमारी में, उसके ही घी से, उसका पैसा गिनने वाले आदमी ने लगाई। एक ही गली के दोनों तरफ़ से साल भर उसी से लड़ा गया है, और क़ीमत भी उसी ने भरी है।"
+        }
+      },
+      {
+        "id": "damodar",
+        "name": {
+          "en": "Damodar Agarwal",
+          "hi": "दामोदर अग्रवाल"
+        },
+        "role": {
+          "en": "THE HALWAI’S NEPHEW",
+          "hi": "हलवाई का भतीजा"
+        },
+        "dossier": {
+          "en": "works his uncle’s night bhatti and holds the back store’s key · signs for two hundred litres of kerosene a month and burns sixty · carried eleven tins up the shared stair into a room over the lane that is not his uncle’s to lend",
+          "hi": "चाचा की रात की भट्टी सँभालता है और पिछले भंडार की चाबी उसी के पास है · महीने के दो सौ लीटर मिट्टी के तेल पर दस्तख़त करता है और जलाता साठ है · ग्यारह टिन साझा ज़ीने से चढ़ाकर गली के ऊपर उस कमरे में रखे, जो उसके चाचा का देने लायक़ नहीं है"
+        },
+        "cleared": {
+          "en": "He was selling his uncle’s permitted kerosene to the dhabas on the Jaipur road at nine rupees a litre and keeping the tins where his uncle does not climb, and for three weeks he let a whole lane think he was an arsonist rather than say so. He is a thief of a hundred and forty litres a month. He is not the man who rented him that room, in cash, four weeks before the shop under it burned.",
+          "hi": "वह अपने चाचा का परमिट वाला मिट्टी का तेल जयपुर रोड के ढाबों को नौ रुपये लीटर बेचता था और टिन वहाँ रखता था जहाँ चाचा चढ़ते नहीं — और तीन हफ़्ते उसने पूरी गली को यह मानने दिया कि वह आग लगाने वाला है, बजाय यह कहने के। वह महीने के एक सौ चालीस लीटर का चोर है। वह आदमी वह नहीं है, जिसने उसे वह कमरा नक़द किराये पर दिया — उसके नीचे की दुकान जलने से चार हफ़्ते पहले।"
+        }
+      }
+    ]
+  }
+}

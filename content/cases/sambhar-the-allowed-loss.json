@@ -1,0 +1,618 @@
+{
+  "id": "sambhar-the-allowed-loss",
+  "schema": 1,
+  "city": "sambhar",
+  "genre": "fraud",
+  "difficulty": "devious",
+  "ambience": "TrainClatter",
+  "story": {
+    "id": "sambhar-salt-and-silence",
+    "caseNumber": 6
+  },
+  "title": {
+    "en": "The Allowed Loss",
+    "hi": "मंज़ूर नुक़सान"
+  },
+  "place": {
+    "en": "The eastern stacking yard · Bhado 2, 7:00 AM",
+    "hi": "पूरब का स्टैकिंग यार्ड · भादो 2, सुबह 7:00"
+  },
+  "brief": {
+    "en": "The eastern yard took in eleven thousand four hundred tonnes of salt this season and despatched six thousand five hundred and twenty, and the closing survey of Ashadh 3 put its eleven heaps at four thousand four hundred and forty-three tonnes. That leaves four hundred and thirty-seven tonnes standing nowhere, which is three point eight three per cent, and the works allows four. It has allowed four for six seasons, and for six seasons the eastern yard has come in under the ceiling and never once far under it. A loss is a thing that happens to a man; this one has been arriving on budget since before the flood year.",
+    "hi": "इस सीज़न पूरब के यार्ड में ग्यारह हज़ार चार सौ टन नमक आया और छह हज़ार पाँच सौ बीस बाहर गया, और आषाढ़ 3 के आख़िरी सर्वे ने उसके ग्यारह ढेरों को चार हज़ार चार सौ तैंतालीस टन बताया। इससे चार सौ सैंतीस टन कहीं का नहीं रहता — यानी तीन दशमलव आठ तीन फ़ीसदी — और वर्क्स चार की छूट देता है। छह सीज़न से यही चार की छूट है, और छहों सीज़न पूरब का यार्ड उस सीमा से नीचे आया है, पर एक बार भी बहुत नीचे नहीं। नुक़सान वह होता है जो आदमी पर बीतता है; यह वाला बाढ़ वाले साल से पहले से बजट के हिसाब से आ रहा है।"
+  },
+  "photoCaption": {
+    "en": "heap seven, thirty-one days out of the pan, crusted over",
+    "hi": "ढेर सात — क्यारी से निकले इकतीस दिन, ऊपर से पपड़ी जमी"
+  },
+  "iraNote": {
+    "en": "“The most dangerous number in any book in this country is the one that is allowed. Everything else somebody checks. Nobody has ever audited a permission.”",
+    "hi": "“इस देश की किसी भी बही का सबसे ख़तरनाक अंक वह है जिसकी इजाज़त है। बाक़ी सब कोई न कोई जाँचता है। इजाज़त की जाँच आज तक किसी ने नहीं की।”"
+  },
+  "clues": [
+    {
+      "id": "survey",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE CLOSING SURVEY, ASHADH 3",
+        "hi": "आख़िरी सर्वे, आषाढ़ 3"
+      },
+      "text": {
+        "en": "Eleven heaps, measured by tape and dumpy level, four thousand three hundred and fifty-six cubic metres in all. The conversion line reads: factor 1.02, tonnes 4,443. The volume is worked out on the sheet in full, corner by corner, in a clear hand. The factor is one entry, on one line, and it is not repeated anywhere else on the page.",
+        "hi": "ग्यारह ढेर, फ़ीते और डम्पी लेवल से नापे गए — कुल चार हज़ार तीन सौ छप्पन घन मीटर। बदलने वाली पंक्ति कहती है: गुणक 1.02, टन 4,443। घनफल पूरी शीट पर कोने-दर-कोने, साफ़ लिखाई में निकाला हुआ है। गुणक एक ही प्रविष्टि है, एक ही पंक्ति में, और पूरे पन्ने पर वह कहीं दोबारा नहीं आता।"
+      }
+    },
+    {
+      "id": "manual",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "TWO FACTORS ON ONE PAGE",
+        "hi": "एक ही पन्ने पर दो गुणक"
+      },
+      "text": {
+        "en": "The works' measurement manual, page sixty-one, gives two bulk densities for common salt in a heap. Stacked and weathered, over one metre in height: one point one two. Freshly harvested and undrained: one point oh two. The eastern heaps were closed to fresh salt on Jyeshtha 2 and stood thirty-one days in the sun before anybody put a tape on them.",
+        "hi": "वर्क्स की माप नियमावली, पन्ना इकसठ, ढेर में पड़े साधारण नमक के दो घनत्व देती है। जमा हुआ और खुले में पड़ा, एक मीटर से ऊँचा: एक दशमलव एक दो। ताज़ा निकाला और बिना निथरा: एक दशमलव शून्य दो। पूरब के ढेरों में ताज़ा नमक डालना जेठ 2 को बंद हो गया था, और फ़ीता लगने से पहले वे इकतीस दिन धूप में खड़े रहे।"
+      }
+    },
+    {
+      "id": "western",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE WESTERN YARD USED 1.12",
+        "hi": "पश्चिम के यार्ड ने 1.12 लिया"
+      },
+      "text": {
+        "en": "The western yard was surveyed in the same week by a different clerk, on heaps of the same salt closed on the same day, out of the same manual. Every sheet of his for six seasons carries one point one two, and so does every sheet of the man who did the work before him. There is no note anywhere in the works explaining why one yard is different.",
+        "hi": "पश्चिम के यार्ड का सर्वे उसी हफ़्ते दूसरे बाबू ने किया — उसी नमक के उन्हीं दिनों बंद हुए ढेरों पर, उसी नियमावली से। उसकी छह सीज़न की हर शीट पर एक दशमलव एक दो है, और उससे पहले जो आदमी यह काम करता था, उसकी हर शीट पर भी। वर्क्स में कहीं ऐसी कोई टिप्पणी नहीं है जो बताए कि एक यार्ड अलग क्यों है।"
+      }
+    },
+    {
+      "id": "drum",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "A CUBIC METRE, WEIGHED",
+        "hi": "एक घन मीटर, तौलकर"
+      },
+      "text": {
+        "en": "A marked steel drum of exactly one cubic metre, filled from three depths of heap seven and struck level, weighed on the works' own platform in front of four men: one thousand one hundred and eighteen kilos, and one thousand one hundred and twenty-one on the second filling. Salt does not read one point oh two after a month in a Rajasthan Jyeshtha. It never has.",
+        "hi": "ठीक एक घन मीटर का निशान लगा स्टील का ड्रम, ढेर सात की तीन गहराइयों से भरकर ऊपर से बराबर किया गया, और चार आदमियों के सामने वर्क्स के अपने प्लेटफ़ॉर्म पर तौला गया: एक हज़ार एक सौ अठारह किलो — और दूसरी भराई पर एक हज़ार एक सौ इक्कीस। राजस्थान के जेठ में महीना भर पड़ा नमक एक दशमलव शून्य दो नहीं पढ़ता। कभी नहीं पढ़ा।"
+      }
+    },
+    {
+      "id": "sixyears",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "SIX YEARS AT THE CEILING",
+        "hi": "छह साल, हर बार सीमा पर"
+      },
+      "text": {
+        "en": "The eastern yard's written-off loss as a percentage, six seasons running: three point eight three, three point nine one, three point eight eight, three point nine six, three point nine oh, three point eight three. The ceiling is four. Over the same six seasons the western yard has written off between four-tenths and one point nine, and in one year it closed with a surplus of eleven tonnes.",
+        "hi": "पूरब के यार्ड का बट्टे खाते डाला गया नुक़सान, फ़ीसदी में, लगातार छह सीज़न: तीन दशमलव आठ तीन, तीन दशमलव नौ एक, तीन दशमलव आठ आठ, तीन दशमलव नौ छह, तीन दशमलव नौ शून्य, तीन दशमलव आठ तीन। सीमा चार है। इन्हीं छह सीज़नों में पश्चिम के यार्ड ने चार-दसवें से एक दशमलव नौ के बीच बट्टा डाला है, और एक साल तो वह ग्यारह टन के फ़ायदे पर बंद हुआ।"
+      }
+    },
+    {
+      "id": "certificates",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "SIX CERTIFICATES, ONE SIGNATURE",
+        "hi": "छह प्रमाणपत्र, एक ही दस्तख़त"
+      },
+      "text": {
+        "en": "A loss certificate closes each season and each one carries three signatures: the measurement clerk who surveyed, the assistant manager who accepted, and the man in whose custody the salt stood between the pan and the platform. That third signature is Mahaveer Prasad Choudhary's on all six, and on the two before he held the contract it is somebody else's and the figures are under one per cent.",
+        "hi": "हर सीज़न एक नुक़सान प्रमाणपत्र पर बंद होता है और हर प्रमाणपत्र पर तीन दस्तख़त होते हैं: सर्वे करने वाला माप बाबू, मंज़ूर करने वाला सहायक प्रबंधक, और वह आदमी जिसकी हिफ़ाज़त में नमक क्यारी से प्लेटफ़ॉर्म तक रहा। तीसरा दस्तख़त छहों पर महावीर प्रसाद चौधरी का है — और उससे पहले के दो पर, जब ठेका उसके पास नहीं था, किसी और का है और आँकड़े एक फ़ीसदी से नीचे हैं।"
+      }
+    },
+    {
+      "id": "sweepings",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "GATE PASSES FOR SWEEPINGS",
+        "hi": "बुहारन के गेट पास"
+      },
+      "text": {
+        "en": "Sixty-one gate passes this season for yard sweepings, own use, not for sale — a category the standing order exempts from weighment because it is meant to cover a handcart of grit. Every one of the sixty-one is a laden lorry, every one is RJ 19 GA 4471 or RJ 19 GA 4802, and every one went out between four and five in the morning. At a lorry's normal load that is a hundred and seventy-five tonnes of yard sweepings.",
+        "hi": "इस सीज़न इकसठ गेट पास — यार्ड की बुहारन, अपने इस्तेमाल के लिए, बिक्री के लिए नहीं — यानी वह श्रेणी, जिसे स्थायी आदेश तौल से छूट देता है, क्योंकि उसका मतलब एक ठेला भर कंकड़ होता है। उन इकसठ में से हर एक लदी हुई लॉरी है, हर एक या तो RJ 19 GA 4471 है या RJ 19 GA 4802, और हर एक सुबह चार से पाँच के बीच निकली। लॉरी के आम लदान के हिसाब से यह एक सौ पचहत्तर टन यार्ड की बुहारन है।"
+      }
+    },
+    {
+      "id": "arith",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE FOUR HUNDRED AND THIRTY-SEVEN",
+        "hi": "वे चार सौ सैंतीस"
+      },
+      "text": {
+        "en": "Two hundred and sixty-two tonnes crossed the kanta this season on two lorries that were reading light, and a hundred and seventy-five tonnes crossed the gate on sixty-one passes that crossed no kanta at all. Two hundred and sixty-two and a hundred and seventy-five is four hundred and thirty-seven. The written-off loss for the season is four hundred and thirty-seven.",
+        "hi": "इस सीज़न दो सौ बासठ टन उन दो लॉरियों पर काँटा पार करके गया जो कम तौल रही थीं, और एक सौ पचहत्तर टन उन इकसठ पासों पर गेट से निकला जो काँटे पर गए ही नहीं। दो सौ बासठ और एक सौ पचहत्तर मिलाकर चार सौ सैंतीस होते हैं। सीज़न का बट्टे खाते डाला गया नुक़सान चार सौ सैंतीस है।"
+      }
+    },
+    {
+      "id": "payments6",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "EIGHT THOUSAND EVERY ASHADH",
+        "hi": "हर आषाढ़ आठ हज़ार"
+      },
+      "text": {
+        "en": "Eight thousand rupees in cash into the measurement clerk's account in the first week of Ashadh, in each of six years, never in any other month. The first of the six is dated nine days after he was moved from the western yard to the eastern one, a transfer he did not apply for and which raised his pay by nothing.",
+        "hi": "छहों साल आषाढ़ के पहले हफ़्ते में माप बाबू के खाते में आठ हज़ार रुपये नक़द — और किसी दूसरे महीने में कभी नहीं। इन छह में से पहली जमा उस तबादले के नौ दिन बाद की है, जिसमें उसे पश्चिम के यार्ड से पूरब के यार्ड भेजा गया — तबादला जो उसने माँगा नहीं था और जिससे उसकी तनख़्वाह में एक रुपया नहीं बढ़ा।"
+      }
+    },
+    {
+      "id": "rain",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "SALT GOES OFF A HEAP IN RAIN",
+        "hi": "बारिश में ढेर से नमक जाता है"
+      },
+      "text": {
+        "en": "The yard's answer to every shortage for six years has been the Ashadh rain, and it is true that a heap loses to rain.",
+        "hi": "छह साल से यार्ड हर कमी का जवाब आषाढ़ की बारिश देता आया है, और यह सच है कि ढेर बारिश में कुछ खोता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the western heaps stood under the same sky in the same six Ashadhs and lost one point nine per cent in the worst of them, and the survey is taken before the rains break",
+        "hi": "ख़ारिज — पश्चिम के ढेर उन्हीं छह आषाढ़ों में उसी आसमान के नीचे खड़े थे और सबसे बुरे साल में भी एक दशमलव नौ फ़ीसदी खोया, और सर्वे तो बारिश शुरू होने से पहले होता है"
+      }
+    },
+    {
+      "id": "theft",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "HEADLOADS OVER THE FENCE",
+        "hi": "बाड़ के ऊपर से सिर पर"
+      },
+      "text": {
+        "en": "Moti Ram has watched the eastern fence line for nine years and says salt walks out of every yard in India on somebody's head.",
+        "hi": "मोती राम नौ साल से पूरब की बाड़ पर नज़र रखता है और कहता है कि हिंदुस्तान के हर यार्ड से नमक किसी न किसी के सिर पर चलकर बाहर जाता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the night register logs eleven headloads caught in six seasons and estimates the lot at four tonnes; a hundred and seventy-five tonnes does not leave a yard on a head",
+        "hi": "ख़ारिज — रात की पंजी छह सीज़न में पकड़े गए ग्यारह सिर-लदान दिखाती है और उन सबका अंदाज़ा चार टन है; एक सौ पचहत्तर टन किसी के सिर पर यार्ड से बाहर नहीं जाता"
+      }
+    },
+    {
+      "id": "tape",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE TAPE AND THE OLD LEVEL",
+        "hi": "फ़ीता और पुराना लेवल"
+      },
+      "text": {
+        "en": "The eastern survey party works with a linen tape that has been in use eleven years and a level that has not been collimated since the flood year.",
+        "hi": "पूरब की सर्वे पार्टी ग्यारह साल पुराने कपड़े के फ़ीते और उस लेवल से काम करती है, जिसका समायोजन बाढ़ वाले साल के बाद नहीं हुआ।"
+      },
+      "dismissNote": {
+        "en": "ruled out — heap seven was re-measured with a new steel tape and came within nine cubic metres of the sheet; the volume on that page is right and it is the line under the volume that is wrong",
+        "hi": "ख़ारिज — ढेर सात नए स्टील के फ़ीते से दोबारा नापा गया और शीट से नौ घन मीटर के भीतर आया; उस पन्ने का घनफल सही है, और ग़लत घनफल के नीचे वाली पंक्ति है"
+      }
+    },
+    {
+      "id": "impurity",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE EASTERN SALT IS DIRTIER",
+        "hi": "पूरब का नमक ज़्यादा मैला है"
+      },
+      "text": {
+        "en": "The eastern kyars sit on a heavier bed and the analyst's insolubles for the eastern heaps run above the western, which the yard offers as the reason its salt weighs differently.",
+        "hi": "पूरब की क्यारियाँ भारी तल पर बैठी हैं और विश्लेषक के यहाँ पूरब के ढेरों का अघुलनशील अंश पश्चिम से ज़्यादा आता है — यार्ड इसी को अपने नमक के अलग तुलने की वजह बताता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — grit and clay in a heap raise its density, they do not lower it, so the eastern salt should carry a factor above the western and not a tenth below it",
+        "hi": "ख़ारिज — ढेर में कंकड़ और मिट्टी घनत्व बढ़ाते हैं, घटाते नहीं — इसलिए पूरब के नमक का गुणक पश्चिम से ऊपर होना चाहिए, दसवें हिस्से भर नीचे नहीं"
+      }
+    },
+    {
+      "id": "clerkdebt",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE CLERK'S BROTHER'S SHOP",
+        "hi": "बाबू के भाई की दुकान"
+      },
+      "text": {
+        "en": "The measurement clerk's brother lost a cloth shop at Nawa and the family has been paying that debt off ever since, which the yard treats as the explanation for everything.",
+        "hi": "माप बाबू के भाई की नावाँ में कपड़े की दुकान डूब गई थी और घर तब से वह क़र्ज़ भर रहा है — यार्ड हर बात की व्याख्या यही मानकर चलता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the shop failed two years ago in Magh, and the eastern write-off had already come in at the ceiling four seasons before that",
+        "hi": "ख़ारिज — दुकान दो साल पहले माघ में डूबी थी, और पूरब का बट्टा उससे चार सीज़न पहले ही सीमा पर आ चुका था"
+      }
+    },
+    {
+      "id": "manager",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE MANAGER SIGNS THE WRITE-OFF",
+        "hi": "बट्टे पर प्रबंधक के दस्तख़त"
+      },
+      "text": {
+        "en": "Sohan Lal Jat has accepted the eastern loss certificate for four of the six seasons and has never once sent one back.",
+        "hi": "सोहन लाल जाट ने छह में से चार सीज़न के पूरब वाले नुक़सान प्रमाणपत्र मंज़ूर किए हैं और एक बार भी कोई वापस नहीं भेजा।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he accepts a tonnage against a ceiling, and the sheet that reaches his desk shows cubic metres and tonnes and no factor at all; there is no column on it for the number that does the work",
+        "hi": "ख़ारिज — वह सीमा के मुक़ाबले टन मंज़ूर करता है, और उसकी मेज़ तक पहुँचने वाली शीट पर घन मीटर और टन होते हैं, गुणक होता ही नहीं; जो अंक सारा काम करता है, उसका उस पर कोई ख़ाना नहीं है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidfactor",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE MEASUREMENT CLERK",
+        "hi": "बयान · माप बाबू"
+      },
+      "text": {
+        "en": "“Both numbers are in the book, sahib, on the same page, four lines apart. I have used one of them for six years and in six years not one human being has asked me which. The sheet that goes up shows the cubic metres and it shows the tonnes. It does not show the factor. There is no column on it for the factor, and I did not design the sheet.”",
+        "hi": "“दोनों अंक किताब में हैं, साहब — एक ही पन्ने पर, चार पंक्तियों के फ़ासले पर। छह साल से मैं उनमें से एक इस्तेमाल कर रहा हूँ और छह साल में एक इंसान ने नहीं पूछा कि कौन-सा। जो शीट ऊपर जाती है उस पर घन मीटर हैं और टन हैं। गुणक नहीं है। उस पर गुणक का ख़ाना ही नहीं है — और वह शीट मैंने नहीं बनाई।”"
+      }
+    },
+    {
+      "id": "saidpasses",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE GATE",
+        "hi": "बयान · गेट"
+      },
+      "text": {
+        "en": "“Sweepings do not go over the kanta. It is in the standing order and it was in it before I came — a handcart of grit is not weighed, and a gate pass says so in one line. Sixty-one of them this season, two lorries, four o'clock in the morning, one signature on each, and the signature is mine because there is nobody else at that gate at four in the morning.”",
+        "hi": "“बुहारन काँटे पर नहीं जाती। यह स्थायी आदेश में है और मेरे आने से पहले से है — एक ठेला कंकड़ तौला नहीं जाता, और गेट पास पर एक पंक्ति में यही लिखा होता है। इस सीज़न इकसठ पास, दो लॉरियाँ, सुबह चार बजे, हर एक पर एक दस्तख़त — और दस्तख़त मेरा है, क्योंकि सुबह चार बजे उस गेट पर और कोई होता ही नहीं।”"
+      }
+    },
+    {
+      "id": "saidwestern",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE WESTERN YARD",
+        "hi": "बयान · पश्चिम का यार्ड"
+      },
+      "text": {
+        "en": "“One point one two, for a heap that has stood a month. It is the only number I have written in nineteen years and the only one the man before me wrote. If the eastern side has been putting down one point oh two on heaps of the same age, then either their salt is not salt, or somebody needed eastern heaps to come out small.”",
+        "hi": "“महीना भर खड़े ढेर के लिए एक दशमलव एक दो। उन्नीस साल में मैंने यही एक अंक लिखा है और मुझसे पहले वाले ने भी यही। अगर पूरब वाले उतनी ही उम्र के ढेरों पर एक दशमलव शून्य दो लिखते आ रहे हैं, तो या तो उनका नमक नमक नहीं है — या किसी को पूरब के ढेर छोटे चाहिए थे।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "vedprakash",
+      "name": {
+        "en": "Ved Prakash Mathur",
+        "hi": "वेद प्रकाश माथुर"
+      },
+      "role": {
+        "en": "THE MEASUREMENT CLERK",
+        "hi": "माप बाबू"
+      },
+      "hook": {
+        "en": "wrote the factor on all six surveys",
+        "hi": "छहों सर्वे पर गुणक उसी ने लिखा"
+      },
+      "confession": {
+        "en": "Has written one point oh two on every eastern survey for six seasons, on heaps a month out of the pan, out of a manual that gives that figure for salt still wet from a kyar. Eight thousand rupees in cash every Ashadh, first paid nine days after a transfer he never asked for. Says he never touched a grain of salt and never took a tonne out of a yard, which is true — he only ever moved a decimal, and it moved four hundred and thirty-six tonnes a year for somebody else.",
+        "hi": "छह सीज़न से पूरब के हर सर्वे पर एक दशमलव शून्य दो लिखता आया है — उन ढेरों पर जो महीना भर क्यारी से बाहर पड़े थे, और उस नियमावली में से जो यह अंक क्यारी से अभी निकले गीले नमक के लिए देती है। हर आषाढ़ आठ हज़ार रुपये नक़द, और पहली बार उस तबादले के नौ दिन बाद जो उसने कभी माँगा नहीं था। कहता है कि उसने नमक का एक दाना नहीं छुआ और यार्ड से एक टन नहीं निकाला — और यह सच है: उसने सिर्फ़ एक दशमलव सरकाया, और वह हर साल किसी और के लिए चार सौ छत्तीस टन सरका देता था।"
+      }
+    },
+    {
+      "id": "harinarayan",
+      "name": {
+        "en": "Hari Narayan Vyas",
+        "hi": "हरि नारायण व्यास"
+      },
+      "role": {
+        "en": "THE WESTERN YARD SURVEYOR",
+        "hi": "पश्चिम यार्ड का सर्वेयर"
+      },
+      "hook": {
+        "en": "nineteen years of one point one two",
+        "hi": "उन्नीस साल से एक दशमलव एक दो"
+      },
+      "alibi": {
+        "en": "His yard's write-off has run between four-tenths of a per cent and one point nine for six seasons and closed one of them in surplus, which is what a yard does when nobody is taking anything out of it. He has never set foot in the eastern survey party, was never offered the eastern yard, and did not know until this week that the works had two figures for the same salt.",
+        "hi": "छह सीज़न से उसके यार्ड का बट्टा चार-दसवें फ़ीसदी और एक दशमलव नौ के बीच रहा है और एक साल तो वह फ़ायदे पर बंद हुआ — जब यार्ड से कोई कुछ नहीं निकाल रहा होता, तब यही होता है। पूरब की सर्वे पार्टी में उसने कभी पैर नहीं रखा, पूरब का यार्ड उसे कभी नहीं दिया गया, और इस हफ़्ते से पहले उसे यह मालूम ही नहीं था कि वर्क्स के पास एक ही नमक के दो अंक हैं।"
+      }
+    },
+    {
+      "id": "sohanlal",
+      "name": {
+        "en": "Sohan Lal Jat",
+        "hi": "सोहन लाल जाट"
+      },
+      "role": {
+        "en": "THE ASSISTANT MANAGER",
+        "hi": "सहायक प्रबंधक"
+      },
+      "hook": {
+        "en": "accepted four of the six certificates",
+        "hi": "छह में से चार प्रमाणपत्र उसी ने मंज़ूर किए"
+      },
+      "alibi": {
+        "en": "He accepts a tonnage against a ceiling and the sheet that reaches him has cubic metres, tonnes and a signature on it and no factor anywhere. He asked for a physical check of the eastern heaps in writing three seasons ago and was told the survey party was short of a level; the note is on the file, unanswered, with his own initials against it.",
+        "hi": "वह सीमा के मुक़ाबले टन मंज़ूर करता है, और उस तक पहुँचने वाली शीट पर घन मीटर हैं, टन हैं और दस्तख़त हैं — गुणक कहीं नहीं। तीन सीज़न पहले उसने लिखकर पूरब के ढेरों की भौतिक जाँच माँगी थी और जवाब मिला कि सर्वे पार्टी के पास लेवल नहीं है; वह टिप्पणी फ़ाइल में पड़ी है, बिना जवाब के, और उस पर उसी के आद्याक्षर हैं।"
+      }
+    },
+    {
+      "id": "bhoop",
+      "name": {
+        "en": "Bhoop Singh Shekhawat",
+        "hi": "भूप सिंह शेखावत"
+      },
+      "role": {
+        "en": "THE SECURITY SUPERVISOR",
+        "hi": "सुरक्षा पर्यवेक्षक"
+      },
+      "hook": {
+        "en": "signed sixty-one sweepings passes",
+        "hi": "बुहारन के इकसठ पास उसी ने काटे"
+      },
+      "alibi": {
+        "en": "He signed sixty-one passes in a category the standing order exempts from weighment, at four in the morning, and he wrote the lorry number on every single one of them rather than leaving the column blank. A man hiding a hundred and seventy-five tonnes does not write down which two lorries it left on, sixty-one times, in a bound book he knows is kept for seven years.",
+        "hi": "उसने इकसठ पास उस श्रेणी में काटे जिसे स्थायी आदेश तौल से छूट देता है — सुबह चार बजे — और हर एक पर लॉरी का नंबर लिखा, ख़ाना ख़ाली नहीं छोड़ा। जो आदमी एक सौ पचहत्तर टन छिपा रहा हो, वह इकसठ बार यह नहीं लिखता कि वह किन दो लॉरियों पर गया — वह भी उस बँधी किताब में, जिसके बारे में वह जानता है कि सात साल रखी जाएगी।"
+      }
+    },
+    {
+      "id": "motiram",
+      "name": {
+        "en": "Moti Ram",
+        "hi": "मोती राम"
+      },
+      "role": {
+        "en": "THE YARD WATCHMAN",
+        "hi": "यार्ड का चौकीदार"
+      },
+      "hook": {
+        "en": "nine years on the eastern fence line",
+        "hi": "नौ साल से पूरब की बाड़ पर"
+      },
+      "alibi": {
+        "en": "He has caught eleven headloads in six seasons and entered every one of them in the night register, which is eleven more than anybody else in this works has caught. He is on the fence at night and the lorries go at four in the morning through a gate he does not keep, on passes he has never been shown.",
+        "hi": "छह सीज़न में उसने ग्यारह सिर-लदान पकड़े और हर एक को रात की पंजी में चढ़ाया — यानी इस वर्क्स में किसी और से ग्यारह ज़्यादा। रात को वह बाड़ पर होता है, और लॉरियाँ सुबह चार बजे उस गेट से जाती हैं जो उसके ज़िम्मे नहीं है, उन पासों पर जो उसे कभी दिखाए नहीं गए।"
+      }
+    },
+    {
+      "id": "mahaveer",
+      "name": {
+        "en": "Mahaveer Prasad Choudhary",
+        "hi": "महावीर प्रसाद चौधरी"
+      },
+      "role": {
+        "en": "THE LABOUR CONTRACTOR",
+        "hi": "श्रम ठेकेदार"
+      },
+      "hook": {
+        "en": "the salt stood in his custody all six years",
+        "hi": "छहों साल नमक उसी की हिफ़ाज़त में रहा"
+      },
+      "alibi": {
+        "en": "He signs the loss certificate as the man in whose custody the salt stood, which is a signature the contract obliges him to give and which he cannot refuse. He does not survey, does not hold the manual, has never been issued a copy of it, and says a contractor who could choose the works' own conversion factors would be running the works.",
+        "hi": "वह नुक़सान प्रमाणपत्र पर उस आदमी के तौर पर दस्तख़त करता है जिसकी हिफ़ाज़त में नमक रहा — यह दस्तख़त ठेका उससे कराता है और वह मना नहीं कर सकता। वह न सर्वे करता है, न नियमावली उसके पास है, न उसकी कोई प्रति उसे कभी दी गई — और उसका कहना है कि जो ठेकेदार वर्क्स के अपने गुणक चुन सकता हो, वह ठेकेदार नहीं, वर्क्स चला रहा होता।"
+      }
+    }
+  ],
+  "culpritId": "vedprakash",
+  "interrogations": [
+    {
+      "suspectId": "harinarayan",
+      "setting": {
+        "en": "The western yard's survey hut, nineteen years of sheets in cloth bundles and a steel tape hung on a nail.",
+        "hi": "पश्चिम यार्ड की सर्वे झोंपड़ी, कपड़े की गठरियों में उन्नीस साल की शीटें, और खूँटी पर टँगा स्टील का फ़ीता।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What factor does a month-old heap take?",
+            "hi": "महीना भर पुराने ढेर पर कौन-सा गुणक लगता है?"
+          },
+          "answer": {
+            "en": "“One point one two, for a heap that has stood a month. It is the only number I have written in nineteen years and the only one the man before me wrote. If the eastern side has been putting down one point oh two on heaps of the same age, then either their salt is not salt, or somebody needed eastern heaps to come out small.”",
+            "hi": "“महीना भर खड़े ढेर के लिए एक दशमलव एक दो। उन्नीस साल में मैंने यही एक अंक लिखा है और मुझसे पहले वाले ने भी यही। अगर पूरब वाले उतनी ही उम्र के ढेरों पर एक दशमलव शून्य दो लिखते आ रहे हैं, तो या तो उनका नमक नमक नहीं है — या किसी को पूरब के ढेर छोटे चाहिए थे।”"
+          },
+          "needsClueId": "western",
+          "lockedHint": {
+            "en": "Pull his six seasons of sheets before you ask him anything. A man will not compare himself to a yard he has never been shown.",
+            "hi": "उससे कुछ पूछने से पहले उसकी छह सीज़न की शीटें निकालिए। जो यार्ड उसने कभी देखा ही नहीं, उससे वह अपनी तुलना नहीं करेगा।"
+          },
+          "unlocksClueId": "saidwestern",
+          "note": {
+            "en": "Two yards, one manual, one salt, one week apart, and a tenth of a point between them. That tenth is the whole case.",
+            "hi": "दो यार्ड, एक नियमावली, एक ही नमक, एक हफ़्ते के फ़ासले पर — और बीच में दसवाँ हिस्सा भर का फ़र्क़। वही दसवाँ हिस्सा पूरा केस है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "sohanlal",
+      "setting": {
+        "en": "The production office, six loss certificates laid out along the table in the order of their seasons.",
+        "hi": "उत्पादन दफ़्तर, मेज़ पर सीज़न के क्रम से सजे छह नुक़सान प्रमाणपत्र।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Six seasons and never once over the ceiling.",
+            "hi": "छह सीज़न, और एक बार भी सीमा से ऊपर नहीं।"
+          },
+          "answer": {
+            "en": "“I read it as discipline for four years. It is the thing I am most ashamed of, and I will say so to anybody who asks. A figure that is always just under a limit is not discipline; it is somebody working to the limit, and I had a note on the file asking for a physical check three seasons ago.”",
+            "hi": "“चार साल तक मैंने इसे अनुशासन समझा। यही मेरी सबसे बड़ी शर्म है और जो पूछेगा उससे यही कहूँगा। जो अंक हमेशा किसी हद से ज़रा-सा नीचे रहे, वह अनुशासन नहीं है — वह कोई हद के हिसाब से काम कर रहा है। तीन सीज़न पहले मेरी फ़ाइल पर भौतिक जाँच माँगने वाली टिप्पणी पड़ी है।”"
+          },
+          "needsClueId": "sixyears",
+          "lockedHint": {
+            "en": "Put the six percentages in a row first. One of them means nothing; six of them in a line mean somebody had a target.",
+            "hi": "पहले छहों फ़ीसदी एक क़तार में रखिए। एक का कोई मतलब नहीं; क़तार में छह का मतलब है कि किसी के पास लक्ष्य था।"
+          },
+          "note": {
+            "en": "His note was answered with the survey party's want of a level, and the survey party's want of a level is the man who signs the survey.",
+            "hi": "उसकी टिप्पणी का जवाब यह दिया गया कि सर्वे पार्टी के पास लेवल नहीं है — और सर्वे पार्टी के पास लेवल न होना यानी वही आदमी, जो सर्वे पर दस्तख़त करता है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bhoop",
+      "setting": {
+        "en": "The gate office before dawn, a pad of gate passes on the desk and a lorry idling outside with its lights on.",
+        "hi": "पौ फटने से पहले का गेट दफ़्तर, मेज़ पर गेट पास की गड्डी, और बाहर बत्तियाँ जलाए खड़ी चलती हुई लॉरी।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Sixty-one loads of sweepings on two lorries.",
+            "hi": "दो लॉरियों पर बुहारन के इकसठ लदान।"
+          },
+          "answer": {
+            "en": "“Sweepings do not go over the kanta. It is in the standing order and it was in it before I came — a handcart of grit is not weighed, and a gate pass says so in one line. Sixty-one of them this season, two lorries, four o'clock in the morning, one signature on each, and the signature is mine because there is nobody else at that gate at four in the morning.”",
+            "hi": "“बुहारन काँटे पर नहीं जाती। यह स्थायी आदेश में है और मेरे आने से पहले से है — एक ठेला कंकड़ तौला नहीं जाता, और गेट पास पर एक पंक्ति में यही लिखा होता है। इस सीज़न इकसठ पास, दो लॉरियाँ, सुबह चार बजे, हर एक पर एक दस्तख़त — और दस्तख़त मेरा है, क्योंकि सुबह चार बजे उस गेट पर और कोई होता ही नहीं।”"
+          },
+          "needsClueId": "sweepings",
+          "lockedHint": {
+            "en": "Count the passes before you go to the gate. He will describe a rule until somebody shows him what has been carried out under it.",
+            "hi": "गेट पर जाने से पहले पास गिन लीजिए। जब तक कोई उसे यह न दिखाए कि उस नियम के नीचे बाहर क्या-क्या गया है, वह नियम ही बताता रहेगा।"
+          },
+          "unlocksClueId": "saidpasses",
+          "note": {
+            "en": "The exemption is real, the standing order is real, and a hundred and seventy-five tonnes of grit does not exist in a yard that sweeps four.",
+            "hi": "छूट सच है, स्थायी आदेश सच है — और जिस यार्ड में चार टन बुहारन निकलती है, वहाँ एक सौ पचहत्तर टन कंकड़ होता ही नहीं।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "vedprakash",
+      "setting": {
+        "en": "The eastern survey hut at seven, the manual open on the table at page sixty-one and six seasons of sheets in a tin.",
+        "hi": "सात बजे पूरब की सर्वे झोंपड़ी, मेज़ पर पन्ना इकसठ पर खुली नियमावली, और टीन में छह सीज़न की शीटें।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "One point oh two, on a heap a month out of the pan.",
+            "hi": "क्यारी से निकले महीना भर पुराने ढेर पर एक दशमलव शून्य दो।"
+          },
+          "answer": {
+            "en": "“Both numbers are in the book, sahib, on the same page, four lines apart. I have used one of them for six years and in six years not one human being has asked me which. The sheet that goes up shows the cubic metres and it shows the tonnes. It does not show the factor. There is no column on it for the factor, and I did not design the sheet.”",
+            "hi": "“दोनों अंक किताब में हैं, साहब — एक ही पन्ने पर, चार पंक्तियों के फ़ासले पर। छह साल से मैं उनमें से एक इस्तेमाल कर रहा हूँ और छह साल में एक इंसान ने नहीं पूछा कि कौन-सा। जो शीट ऊपर जाती है उस पर घन मीटर हैं और टन हैं। गुणक नहीं है। उस पर गुणक का ख़ाना ही नहीं है — और वह शीट मैंने नहीं बनाई।”"
+          },
+          "needsClueId": "manual",
+          "lockedHint": {
+            "en": "Read page sixty-one yourself before you sit down. He is going to be right about the book, and being right about the book is his whole defence.",
+            "hi": "बैठने से पहले पन्ना इकसठ ख़ुद पढ़ लीजिए। किताब के बारे में वह सही निकलेगा — और किताब के बारे में सही होना ही उसका पूरा बचाव है।"
+          },
+          "unlocksClueId": "saidfactor",
+          "note": {
+            "en": "He did not falsify a figure. He chose between two true ones, in a place where nobody is ever told a choice was made.",
+            "hi": "उसने कोई अंक झूठा नहीं लिखा। उसने दो सच्चे अंकों में से एक चुना — वहाँ, जहाँ किसी को यह बताया ही नहीं जाता कि कोई चुनाव हुआ है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "We weighed a cubic metre of heap seven this morning.",
+            "hi": "आज सुबह हमने ढेर सात का एक घन मीटर तौला है।"
+          },
+          "answer": {
+            "en": "“Then you have weighed the top of a heap in Bhado after two nights of dew. Take it from a pan in Chaitra and you will get my number, and I have been surveying heaps here since before the drum you used was made.”",
+            "hi": "“तो आपने भादो में, दो रातों की ओस के बाद, ढेर का ऊपरी हिस्सा तौला है। चैत में क्यारी से लीजिए, मेरा ही अंक आएगा — और जिस ड्रम से आपने तौला, उसके बनने से पहले से मैं यहाँ ढेर नाप रहा हूँ।”"
+          },
+          "needsClueId": "drum",
+          "lockedHint": {
+            "en": "Fill the drum from three depths, not one, and strike it level in front of witnesses. He will argue with a sample and he cannot argue with a method.",
+            "hi": "ड्रम एक नहीं, तीन गहराइयों से भरिए और गवाहों के सामने ऊपर से बराबर कीजिए। नमूने से वह बहस कर लेगा, तरीक़े से नहीं कर सकता।"
+          },
+          "note": {
+            "en": "It was filled from three depths, struck level, and weighed twice. And the survey he is defending was taken in Ashadh, not in Chaitra.",
+            "hi": "वह तीन गहराइयों से भरा गया, ऊपर से बराबर किया गया और दो बार तौला गया। और जिस सर्वे का वह बचाव कर रहा है, वह आषाढ़ में हुआ था, चैत में नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eight thousand rupees, six Ashadhs, always the first week.",
+            "hi": "आठ हज़ार रुपये, छह आषाढ़, और हर बार पहले हफ़्ते।"
+          },
+          "answer": {
+            "en": "“My wife's brother sends it for the children's fees. He sends it in Ashadh because that is when a school asks. You will find that in half the houses of this district and you will not find it in any of their bank statements, because half this district is paid in cash.”",
+            "hi": "“मेरी पत्नी का भाई बच्चों की फ़ीस के लिए भेजता है। आषाढ़ में इसलिए भेजता है कि स्कूल तभी माँगता है। इस ज़िले के आधे घरों में यही मिलेगा, और उनके बैंक स्टेटमेंट में कुछ नहीं मिलेगा — क्योंकि इस ज़िले का आधा हिस्सा नक़द में पाता है।”"
+          },
+          "needsClueId": "payments6",
+          "lockedHint": {
+            "en": "Get the six deposits and the date of his transfer before you ask. One deposit is a brother-in-law; six with a transfer nine days ahead of the first is an appointment.",
+            "hi": "पूछने से पहले छहों जमाएँ और उसके तबादले की तारीख़ ले लीजिए। एक जमा साला है; और पहली जमा से नौ दिन पहले हुए तबादले के साथ छह जमाएँ नियुक्ति हैं।"
+          },
+          "note": {
+            "en": "The wife's brother has been in Bhopal on a pension of nine thousand for eleven years. The first deposit is nine days after a transfer nobody applied for.",
+            "hi": "पत्नी का भाई ग्यारह साल से भोपाल में नौ हज़ार की पेंशन पर है। पहली जमा उस तबादले के नौ दिन बाद की है, जिसके लिए किसी ने अर्ज़ी नहीं दी थी।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who moved you from the western yard to this one?",
+            "hi": "पश्चिम के यार्ड से यहाँ आपको भेजा किसने?"
+          },
+          "answer": {
+            "en": "“An office order. Signed by a manager who has retired, on a recommendation the file does not carry, in a year when this works could not fill four posts. I did not want to come. Sahib, in six years nobody has ever asked me that question either.”",
+            "hi": "“एक दफ़्तरी आदेश। दस्तख़त उस प्रबंधक के, जो सेवानिवृत्त हो चुका, और जिस सिफ़ारिश पर हुआ वह फ़ाइल में है ही नहीं — उस साल, जब इस वर्क्स के चार पद ख़ाली पड़े थे। मैं आना नहीं चाहता था। साहब, छह साल में यह सवाल भी मुझसे किसी ने नहीं पूछा।”"
+          },
+          "note": {
+            "en": "A transfer nobody applied for, a recommendation that is not on the file, and a first cash deposit nine days later. Somebody chose the man who would choose the number.",
+            "hi": "वह तबादला जिसकी अर्ज़ी किसी ने नहीं दी, वह सिफ़ारिश जो फ़ाइल में है ही नहीं, और नौ दिन बाद की पहली नक़द जमा। जो आदमी अंक चुनेगा, वह आदमी किसी ने चुना है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "payments6",
+      "correction": {
+        "en": "The western surveyor has written the same figure for nineteen years and the manager put a demand for a physical check on the file himself. One man received eight thousand rupees in cash in the first week of Ashadh in each of six years and in no other month of any of them, the first of them nine days after a transfer to this yard that he never applied for.",
+        "hi": "पश्चिम के सर्वेयर ने उन्नीस साल से एक ही अंक लिखा है, और प्रबंधक ने भौतिक जाँच की माँग ख़ुद फ़ाइल पर चढ़ाई। एक ही आदमी को छहों साल आषाढ़ के पहले हफ़्ते में आठ हज़ार रुपये नक़द मिले — और उन छहों में से किसी साल किसी दूसरे महीने में नहीं — और पहली रक़म इस यार्ड में उस तबादले के नौ दिन बाद की है, जिसकी अर्ज़ी उसने कभी नहीं दी।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidfactor",
+      "correction": {
+        "en": "The volume on that sheet is measured in front of a party and can be checked with a tape by anybody. The factor is one entry, on one line, chosen by one man, and it does not appear on the sheet that goes up to be signed. Six years of a four-hundred-tonne theft rests on a number the only man who could see it was the only man who wrote it.",
+        "hi": "उस शीट का घनफल पूरी पार्टी के सामने नापा जाता है और कोई भी फ़ीता लेकर जाँच सकता है। गुणक एक ही प्रविष्टि है, एक ही पंक्ति में, एक ही आदमी की चुनी हुई — और जो शीट दस्तख़त के लिए ऊपर जाती है, उस पर वह होता ही नहीं। छह साल की चार सौ टन सालाना चोरी उसी एक अंक पर टिकी है, जिसे देख सकने वाला अकेला आदमी वही था जिसने उसे लिखा।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidpasses",
+      "correction": {
+        "en": "The salt did not have to be hidden, because most of it never entered a book to be hidden from. A hundred and seventy-five tonnes crossed a gate at four in the morning as sweepings, own use, not for sale — a category the standing order exempts from weighment because it was written to cover a handcart of grit. Then a decimal in a survey hut made the yard small enough for the hole to be a permitted loss.",
+        "hi": "नमक छिपाना नहीं पड़ा, क्योंकि उसका ज़्यादातर हिस्सा किसी बही में चढ़ा ही नहीं कि छिपाना पड़ता। एक सौ पचहत्तर टन सुबह चार बजे गेट से निकला — यार्ड की बुहारन, अपने इस्तेमाल के लिए, बिक्री के लिए नहीं — यानी वह श्रेणी जिसे स्थायी आदेश तौल से छूट देता है, और जो लिखी ही एक ठेला कंकड़ के लिए गई थी। इसके बाद सर्वे झोंपड़ी के एक दशमलव ने यार्ड को इतना छोटा कर दिया कि वह गड्ढा मंज़ूर नुक़सान बन गया।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "survey",
+    "toClueId": "manual",
+    "text": {
+      "en": "The volume on that sheet is honest — go and check it if you like, it will hold. Look at the one line under it instead, and then open the book that line came out of.",
+      "hi": "उस शीट का घनफल ईमानदार है — चाहें तो जाँच लीजिए, वह टिकेगा। इसके बजाय उसके नीचे की एक पंक्ति देखिए, और फिर वह किताब खोलिए जिसमें से वह पंक्ति आई है।"
+    }
+  },
+  "bankedClue": {
+    "en": "Six seasons of loss certificates, each signed by the harvesting contractor, each landing inside a tenth of a per cent of the ceiling the works allows",
+    "hi": "छह सीज़न के नुक़सान प्रमाणपत्र — हर एक पर कटाई ठेकेदार के दस्तख़त, और हर एक वर्क्स की तय अधिकतम सीमा से दसवें हिस्से के भीतर"
+  }
+}

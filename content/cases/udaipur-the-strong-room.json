@@ -1,0 +1,553 @@
+{
+  "id": "udaipur-the-strong-room",
+  "schema": 1,
+  "city": "udaipur",
+  "genre": "blackmail",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "udaipur-lake-palace-season",
+    "caseNumber": 5
+  },
+  "title": {
+    "en": "The Strong-Room",
+    "hi": "तिजोरी का कमरा"
+  },
+  "place": {
+    "en": "Mor Bagh island · the strong-room lobby · Saturday, 8:15 AM",
+    "hi": "मोर बाग़ टापू · तिजोरी वाला लॉबी · शनिवार, 8:15 AM"
+  },
+  "brief": {
+    "en": "Two signatures go into the strong-room register every night of the season: the guard’s and the banquet manager’s. This season the manager’s column is blank on six of them, and every one of those six is a night the room held gift jewellery. He is not lazy and he is not missing. Somebody has had something on him since Kartik, and for the last three demands they stopped asking him for money.",
+    "hi": "सहालग की हर रात तिजोरी की बही में दो दस्तख़त होते हैं: चौकीदार के और बैंक्वेट मैनेजर के। इस सहालग छह रातों में मैनेजर वाला ख़ाना कोरा है, और वे छहों वही रातें हैं जब कमरे में नेग के गहने रखे थे। न वह आलसी है, न ग़ायब। कार्तिक से किसी के हाथ में उसकी कोई कमज़ोरी है — और आख़िरी तीन बार उन्होंने पैसा माँगना बंद कर दिया।"
+  },
+  "photoCaption": {
+    "en": "the register, six blank nights",
+    "hi": "बही, छह कोरी रातें"
+  },
+  "iraNote": {
+    "en": "“When a blackmailer stops asking for money and starts asking for nights, he has stopped working for himself.”",
+    "hi": "“जब कोई ब्लैकमेलर पैसा माँगना छोड़कर रातें माँगने लगे, तो वह अपने लिए काम करना छोड़ चुका होता है।”"
+  },
+  "clues": [
+    {
+      "id": "nightreg",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE STRONG-ROOM NIGHT REGISTER",
+        "hi": "तिजोरी की रात-बही"
+      },
+      "text": {
+        "en": "Two signatures a night, every night of the season. Six nights carry the guard’s alone, and the six are not consecutive.",
+        "hi": "सहालग की हर रात दो दस्तख़त। छह रातों में सिर्फ़ चौकीदार के हैं — और वे छह लगातार नहीं हैं।"
+      }
+    },
+    {
+      "id": "sixnights",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "WHICH SIX NIGHTS",
+        "hi": "कौन सी छह रातें"
+      },
+      "text": {
+        "en": "The 14th, the 18th, the 22nd, the 26th, the night of the sangeet and the night before the vidaai. Every one a night the room held gift jewellery — and the six are marked on the running sheet Suhani Rathore issues each week.",
+        "hi": "14, 18, 22, 26, सहालग की रात और विदाई से पिछली रात। हर एक वही रात जब कमरे में नेग के गहने रखे थे — और छहों उसी साप्ताहिक शीट पर निशान लगी हैं जो सुहानी राठौड़ हर हफ़्ते जारी करती है।"
+      }
+    },
+    {
+      "id": "personnel",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE PERSONNEL FILE",
+        "hi": "कार्मिक फ़ाइल"
+      },
+      "text": {
+        "en": "A hotel-management diploma in the manager’s brother’s file, countersigned “verified” by the manager himself in 2019. The institute that issued it shut in 2016.",
+        "hi": "मैनेजर के भाई की फ़ाइल में होटल मैनेजमेंट का डिप्लोमा, जिस पर 2019 में ख़ुद मैनेजर ने “सत्यापित” लिखकर दस्तख़त किए। जिस संस्थान ने वह जारी किया, वह 2016 में बंद हो चुका था।"
+      }
+    },
+    {
+      "id": "photocopy",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE COPY",
+        "hi": "लैब पर्ची · फ़ोटोकॉपी"
+      },
+      "text": {
+        "en": "A photocopy of that one page, off the records-room machine, on the toner cartridge that was fitted in Magh. Nobody outside that room can make that mark.",
+        "hi": "उसी एक पन्ने की फ़ोटोकॉपी, रिकॉर्ड कमरे की मशीन से, और उसी टोनर से जो माघ में लगा था। उस कमरे के बाहर वह निशान कोई नहीं बना सकता।"
+      }
+    },
+    {
+      "id": "threethousand",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THREE THOUSAND A MONTH",
+        "hi": "महीने के तीन हज़ार"
+      },
+      "text": {
+        "en": "Drawn in cash by the manager on the first of every month since Kartik, out of an account that had never once been touched between salary days.",
+        "hi": "कार्तिक से हर महीने की पहली तारीख़ को मैनेजर द्वारा नक़द निकाले गए — उस खाते से, जिसे तनख़्वाह के दिनों के बीच कभी छुआ ही नहीं गया था।"
+      }
+    },
+    {
+      "id": "tenthousand",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "TEN THOUSAND, THE OTHER WAY",
+        "hi": "दस हज़ार, दूसरी तरफ़"
+      },
+      "text": {
+        "en": "Into the records clerk’s account in Kartik — a cash deposit made at a branch behind Hathipole, the day before the first demand.",
+        "hi": "कार्तिक में रिकॉर्ड बाबू के खाते में — हाथीपोल के पीछे वाली शाखा में नक़द जमा, और पहली माँग से ठीक एक दिन पहले।"
+      }
+    },
+    {
+      "id": "demand",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHAT WAS ACTUALLY ASKED FOR",
+        "hi": "माँगा दरअसल क्या गया"
+      },
+      "text": {
+        "en": "The first three demands were money. The last three were not: they were nights. “Be off the floor by eleven,” with a date each time.",
+        "hi": "पहली तीन माँगें पैसे की थीं। आख़िरी तीन पैसे की नहीं थीं — वे रातें थीं। “ग्यारह बजे तक मंज़िल से हट जाना,” और हर बार साथ में एक तारीख़।"
+      }
+    },
+    {
+      "id": "guardsign",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE GUARD’S SIGNATURE",
+        "hi": "चौकीदार के दस्तख़त"
+      },
+      "text": {
+        "en": "Anwar Khan signed all six of those nights on his own.",
+        "hi": "उन छहों रातों पर अनवर ख़ान ने अकेले दस्तख़त किए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — signing alone is exactly what he is instructed to do when the second man does not come, and he reported it to the front office twice in writing",
+        "hi": "ख़ारिज — दूसरा आदमी न आए तो अकेले दस्तख़त करना ही उसका नियम है, और उसने दो बार लिखकर फ़्रंट ऑफ़िस को बताया भी"
+      }
+    },
+    {
+      "id": "masterkey",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE HOUSEKEEPING BUNCH",
+        "hi": "हाउसकीपिंग का गुच्छा"
+      },
+      "text": {
+        "en": "Meena Rao’s bunch opens every door on that floor.",
+        "hi": "मीना राव का गुच्छा उस मंज़िल का हर दरवाज़ा खोलता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — every door on that floor except the strong room, which takes two keys turned together and neither of them has ever been on a housekeeping bunch",
+        "hi": "ख़ारिज — उस मंज़िल का हर दरवाज़ा, सिवाय तिजोरी के — जो एक साथ घुमाई गई दो चाबियों से खुलती है, और उनमें से कोई हाउसकीपिंग के गुच्छे में कभी नहीं रही"
+      }
+    },
+    {
+      "id": "audit",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE SEASON’S STOCK AUDIT",
+        "hi": "सहालग का स्टॉक ऑडिट"
+      },
+      "text": {
+        "en": "Nothing is missing from the strong room.",
+        "hi": "तिजोरी के कमरे से कुछ भी ग़ायब नहीं है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nothing missing from the room is not the same as nothing missing from the island, and it is exactly why nobody looked at this until now",
+        "hi": "ख़ारिज — कमरे से कुछ ग़ायब न होना और टापू से कुछ ग़ायब न होना एक बात नहीं है — और इसी वजह से अब तक किसी ने इधर देखा ही नहीं"
+      }
+    },
+    {
+      "id": "brother",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE BROTHER",
+        "hi": "भाई"
+      },
+      "text": {
+        "en": "The brother has run the hotel’s stores for six years without a complaint against him.",
+        "hi": "भाई छह साल से होटल का स्टोर सँभाल रहा है और उसके ख़िलाफ़ एक शिकायत नहीं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — true, and it is precisely why the paper in that file is worth three thousand a month to whoever holds a copy of it",
+        "hi": "ख़ारिज — सच है, और ठीक इसीलिए उस फ़ाइल का काग़ज़ उसकी कॉपी रखने वाले के लिए महीने के तीन हज़ार का है"
+      }
+    },
+    {
+      "id": "copier",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE RECORDS ROOM",
+        "hi": "फ़ोटो · रिकॉर्ड कमरा"
+      },
+      "text": {
+        "en": "The copier with its lid up at eleven at night.",
+        "hi": "रात ग्यारह बजे, ढक्कन खुला पड़ा कॉपियर।"
+      },
+      "dismissNote": {
+        "en": "ruled out — half the hotel uses that machine at every hour; it dates the copy, and the toner mark already told us that",
+        "hi": "ख़ारिज — आधा होटल हर वक़्त उसी मशीन से कॉपी करता है; इससे कॉपी की तारीख़ पता चलती है, और वह टोनर के निशान से पहले ही मिल चुकी थी"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidasked",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE MANAGER",
+        "hi": "बयान · बैंक्वेट मैनेजर"
+      },
+      "text": {
+        "en": "“Three thousand a month I could carry. Then it stopped being money and he started naming nights — and a man who wants nights instead of money is not spending it on himself.”",
+        "hi": "“महीने के तीन हज़ार मैं झेल लेता था। फिर बात पैसे की रही ही नहीं, वह रातों के नाम लेने लगा — और जो पैसे की जगह रातें माँगे, वह उन्हें अपने ऊपर ख़र्च नहीं कर रहा होता।”"
+      }
+    },
+    {
+      "id": "saidtold",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE RECORDS CLERK",
+        "hi": "बयान · रिकॉर्ड बाबू"
+      },
+      "text": {
+        "en": "“Ten thousand to ask for nights instead of money. I never met anybody — it came by telephone and it came in cash, and I did not ask, because ten thousand is ten thousand.”",
+        "hi": "“पैसे की जगह रातें माँगने के दस हज़ार। मैं किसी से मिला ही नहीं — फ़ोन पर बात हुई और पैसा नक़द आया, और मैंने पूछा नहीं, क्योंकि दस हज़ार दस हज़ार होते हैं।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "bansi",
+      "name": {
+        "en": "Bansi Lal",
+        "hi": "बंसी लाल"
+      },
+      "role": {
+        "en": "THE RECORDS CLERK",
+        "hi": "रिकॉर्ड बाबू"
+      },
+      "hook": {
+        "en": "every personnel file on this island passes his desk",
+        "hi": "इस टापू की हर कार्मिक फ़ाइल उसी की मेज़ से गुज़रती है"
+      },
+      "confession": {
+        "en": "Photocopied one page out of a personnel file he was paid to keep, took three thousand rupees a month off the manager for six months — and then, for ten thousand rupees from a voice on a telephone, stopped asking for money and started naming the six nights he wanted the man off the floor.",
+        "hi": "जिस कार्मिक फ़ाइल को सँभालने की उसे तनख़्वाह मिलती है, उसी का एक पन्ना फ़ोटोकॉपी किया, छह महीने मैनेजर से महीने के तीन हज़ार लिए — और फिर फ़ोन पर आई एक आवाज़ के दस हज़ार लेकर पैसा माँगना छोड़ दिया और उन छह रातों के नाम लेने लगा जिनमें वह आदमी मंज़िल से हटा रहे।"
+      }
+    },
+    {
+      "id": "vijay",
+      "name": {
+        "en": "Vijay Menaria",
+        "hi": "विजय मेनारिया"
+      },
+      "role": {
+        "en": "THE BANQUET MANAGER",
+        "hi": "बैंक्वेट मैनेजर"
+      },
+      "hook": {
+        "en": "the blank column is his",
+        "hi": "कोरा ख़ाना उसी का है"
+      },
+      "alibi": {
+        "en": "He is the one being squeezed, and he left the blanks in his own column where any audit would find them rather than forging six signatures, which would have taken him a minute.",
+        "hi": "दबाया वही जा रहा है — और उसने छह दस्तख़त बनाने के बजाय, जो एक मिनट का काम था, ख़ालीपन अपने ही ख़ाने में छोड़ा, जहाँ कोई भी जाँच उसे सबसे पहले पकड़ती।"
+      }
+    },
+    {
+      "id": "suhani",
+      "name": {
+        "en": "Suhani Rathore",
+        "hi": "सुहानी राठौड़"
+      },
+      "role": {
+        "en": "THE WEDDING PLANNER",
+        "hi": "वेडिंग प्लानर"
+      },
+      "hook": {
+        "en": "knew which nights the room held jewellery",
+        "hi": "किन रातों कमरे में गहने रहेंगे, उसे पता था"
+      },
+      "alibi": {
+        "en": "She has never been inside the records room and never spoken to the clerk in her life. Nothing in this file has her name on it, which is true of everything she touches.",
+        "hi": "वह न कभी रिकॉर्ड कमरे में गई और न ज़िंदगी में उस बाबू से बात की। इस फ़ाइल में कहीं उसका नाम नहीं — और उसके छुए हर काम के बारे में यही सच है।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "anwar",
+      "name": {
+        "en": "Anwar Khan",
+        "hi": "अनवर ख़ान"
+      },
+      "role": {
+        "en": "THE NIGHT GUARD",
+        "hi": "रात का चौकीदार"
+      },
+      "hook": {
+        "en": "holds the second of the two keys",
+        "hi": "दो में से दूसरी चाबी उसी के पास"
+      },
+      "alibi": {
+        "en": "He signed the six nights alone, which is what the rule tells him to do, and he wrote to the front office about it twice. A man in on this does not put it in the complaint book.",
+        "hi": "उसने छहों रातें अकेले दस्तख़त कीं — नियम यही कहता है — और दो बार लिखकर फ़्रंट ऑफ़िस को बताया भी। इसमें शामिल आदमी इसे शिकायत बही में नहीं लिखता।"
+      }
+    },
+    {
+      "id": "meena",
+      "name": {
+        "en": "Meena Rao",
+        "hi": "मीना राव"
+      },
+      "role": {
+        "en": "THE HOUSEKEEPING SUPERVISOR",
+        "hi": "हाउसकीपिंग सुपरवाइज़र"
+      },
+      "hook": {
+        "en": "her keys open the whole floor",
+        "hi": "उसकी चाबियाँ पूरी मंज़िल खोलती हैं"
+      },
+      "alibi": {
+        "en": "The whole floor except the one door that matters. The strong room takes two keys turned together and neither has ever hung on a housekeeping bunch.",
+        "hi": "पूरी मंज़िल, सिवाय उस एक दरवाज़े के जो मायने रखता है। तिजोरी एक साथ घुमाई गई दो चाबियों से खुलती है, और उनमें से कोई हाउसकीपिंग के गुच्छे में कभी टँगी ही नहीं।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "bansi",
+  "interrogations": [
+    {
+      "suspectId": "anwar",
+      "setting": {
+        "en": "The lobby outside the strong room, two keyways in one steel door, a stool and a flask.",
+        "hi": "तिजोरी के बाहर का लॉबी, एक ही लोहे के दरवाज़े में दो चाबी के छेद, एक स्टूल और एक फ़्लास्क।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You signed six nights on your own.",
+            "hi": "छह रातें आपने अकेले दस्तख़त कीं।"
+          },
+          "answer": {
+            "en": "“The rule says sign anyway and report it. I signed anyway and I reported it. Twice, in writing, and nobody came.”",
+            "hi": "“नियम कहता है — फिर भी दस्तख़त करो और सूचना दो। मैंने दस्तख़त किए और सूचना दी। दो बार, लिखकर, और कोई नहीं आया।”"
+          },
+          "note": {
+            "en": "He did everything right and it changed nothing, which is how most of these rooms work.",
+            "hi": "उसने सब ठीक किया और कुछ नहीं बदला — ऐसे ही कमरे ज़्यादातर चलते हैं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Can one key open that door?",
+            "hi": "क्या एक चाबी से वह दरवाज़ा खुल सकता है?"
+          },
+          "answer": {
+            "en": "“No. Two, turned together, and they are two arms apart. That is the whole design — one man cannot do it and two men have to agree.”",
+            "hi": "“नहीं। दो, एक साथ घुमाई हुईं, और वे दो बाँह की दूरी पर हैं। पूरी बनावट ही यही है — अकेला आदमी खोल नहीं सकता, और दो को राज़ी होना पड़ता है।”"
+          },
+          "note": {
+            "en": "So an empty column is not a way into the room. It is a way of having nobody in the lobby.",
+            "hi": "यानी कोरा ख़ाना कमरे में घुसने का रास्ता नहीं है। वह लॉबी को ख़ाली रखने का तरीक़ा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Did anybody come to this lobby on those nights?",
+            "hi": "उन रातों इस लॉबी में कोई आया?"
+          },
+          "answer": {
+            "en": "“The sangeet night the lights went and I went to the board with a torch. Eleven minutes. It is the only time in nine years I have left this stool.”",
+            "hi": "“सहालग वाली रात बत्ती गई और मैं टॉर्च लेकर बोर्ड तक गया। ग्यारह मिनट। नौ साल में यही एक बार मैंने यह स्टूल छोड़ा है।”"
+          },
+          "note": {
+            "en": "Eleven minutes, again. The blank column and the blackout are the same plan wearing two hats.",
+            "hi": "फिर वही ग्यारह मिनट। कोरा ख़ाना और अँधेरा — एक ही योजना के दो चेहरे।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "vijay",
+      "setting": {
+        "en": "The banquet office, an objection note about a generator pinned above the desk, the register open at the six.",
+        "hi": "बैंक्वेट दफ़्तर, मेज़ के ऊपर टँगा जनरेटर वाली आपत्ति का पर्चा, और उन छह रातों पर खुली बही।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Why is your column blank?",
+            "hi": "आपका ख़ाना कोरा क्यों है?"
+          },
+          "answer": {
+            "en": "“Because I was not on the floor. I could have signed from my office and nobody would ever have known. I did not, and here you are, which was the idea.”",
+            "hi": "“क्योंकि मैं मंज़िल पर था ही नहीं। दस्तख़त मैं अपने दफ़्तर से भी कर सकता था और किसी को पता तक न चलता। मैंने नहीं किए — और आप यहाँ हैं, यही मक़सद था।”"
+          },
+          "needsClueId": "nightreg",
+          "lockedHint": {
+            "en": "Pin the night register. He will not open this on his own; put his own empty column in front of him.",
+            "hi": "रात-बही टाँगो। वह ख़ुद यह बात नहीं छेड़ेगा; उसका अपना कोरा ख़ाना उसके सामने रखो।"
+          },
+          "note": {
+            "en": "He left a trail on purpose and waited for somebody to read it. Six months is a long time to wait.",
+            "hi": "उसने जान-बूझकर निशान छोड़े और इंतज़ार किया कि कोई पढ़े। छह महीने बहुत लंबा इंतज़ार है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Three thousand a month, in cash, since Kartik.",
+            "hi": "कार्तिक से हर महीने तीन हज़ार, नक़द।"
+          },
+          "answer": {
+            "en": "“Three thousand a month I could carry. Then it stopped being money and he started naming nights — and a man who wants nights instead of money is not spending it on himself.”",
+            "hi": "“महीने के तीन हज़ार मैं झेल लेता था। फिर बात पैसे की रही ही नहीं, वह रातों के नाम लेने लगा — और जो पैसे की जगह रातें माँगे, वह उन्हें अपने ऊपर ख़र्च नहीं कर रहा होता।”"
+          },
+          "needsClueId": "threethousand",
+          "lockedHint": {
+            "en": "Pin the withdrawals. He is protecting his brother, not himself, and he will not speak until the money is already on the table.",
+            "hi": "निकासी वाली प्रविष्टि टाँगो। वह अपने नहीं, अपने भाई के लिए चुप है — और जब तक पैसा मेज़ पर न आ जाए, वह बोलेगा नहीं।"
+          },
+          "unlocksClueId": "saidasked",
+          "note": {
+            "en": "He worked out what was really happening before we did, and paid for six more months rather than name his brother.",
+            "hi": "असल में क्या हो रहा है, यह उसने हमसे पहले समझ लिया था — और भाई का नाम लेने के बजाय छह महीने और चुकाए।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You could have forged six signatures in a minute.",
+            "hi": "छह दस्तख़त आप एक मिनट में बना सकते थे।"
+          },
+          "answer": {
+            "en": "“I countersign that register for a living. The day I sign for a night I was not there is the day the register stops meaning anything at all.”",
+            "hi": "“उस बही पर प्रतिहस्ताक्षर करना ही मेरी रोटी है। जिस दिन मैं उस रात के दस्तख़त कर दूँगा जब मैं था ही नहीं, उसी दिन उस बही का कोई मतलब नहीं रह जाएगा।”"
+          },
+          "note": {
+            "en": "Which is exactly why the blanks are there, and exactly why he is not the one we are looking for.",
+            "hi": "ख़ालीपन इसीलिए है — और वह आदमी इसीलिए नहीं है जिसे हम ढूँढ़ रहे हैं।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bansi",
+      "setting": {
+        "en": "The records room, files to the ceiling, a copier still warm at half past eight in the morning.",
+        "hi": "रिकॉर्ड कमरा, छत तक फ़ाइलें, और साढ़े आठ बजे सुबह भी गरम पड़ा कॉपियर।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who has been in the brother’s file?",
+            "hi": "भाई की फ़ाइल किसने देखी है?"
+          },
+          "answer": {
+            "en": "“Nobody. Files do not leave this room. That is the entire job and I have had it for fourteen years.”",
+            "hi": "“कोई नहीं। फ़ाइलें इस कमरे से बाहर नहीं जातीं। पूरा काम इतना ही है और चौदह साल से यही कर रहा हूँ।”"
+          },
+          "needsClueId": "photocopy",
+          "lockedHint": {
+            "en": "Pin the lab slip on the copy. Files not leaving the room is the point — a copy of one did.",
+            "hi": "फ़ोटोकॉपी की लैब पर्ची टाँगो। फ़ाइलों का बाहर न जाना ही असली बात है — पर एक की कॉपी बाहर गई।"
+          },
+          "note": {
+            "en": "The file never left. A page of it did, on the toner in this room’s own machine.",
+            "hi": "फ़ाइल कहीं नहीं गई। उसका एक पन्ना गया — इसी कमरे की मशीन के टोनर के साथ।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Ten thousand rupees in cash, the day before the first demand.",
+            "hi": "पहली माँग से एक दिन पहले, नक़द दस हज़ार।"
+          },
+          "answer": {
+            "en": "“Ten thousand to ask for nights instead of money. I never met anybody — it came by telephone and it came in cash, and I did not ask, because ten thousand is ten thousand.”",
+            "hi": "“पैसे की जगह रातें माँगने के दस हज़ार। मैं किसी से मिला ही नहीं — फ़ोन पर बात हुई और पैसा नक़द आया, और मैंने पूछा नहीं, क्योंकि दस हज़ार दस हज़ार होते हैं।”"
+          },
+          "needsClueId": "tenthousand",
+          "lockedHint": {
+            "en": "Pin the deposit. He will run the blackmail as his own idea all morning; the money coming *in* is what breaks that.",
+            "hi": "जमा वाली प्रविष्टि टाँगो। वह सुबह भर इसे अपनी ही योजना बताएगा; भीतर आया पैसा ही इसे तोड़ेगा।"
+          },
+          "unlocksClueId": "saidtold",
+          "note": {
+            "en": "He was blackmailing a man on somebody else’s instructions and never once asked why the nights mattered.",
+            "hi": "वह किसी और के कहने पर एक आदमी को ब्लैकमेल कर रहा था — और एक बार भी नहीं पूछा कि उन रातों में ऐसा क्या है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Why those six nights?",
+            "hi": "वही छह रातें क्यों?"
+          },
+          "answer": {
+            "en": "“I was given dates. I read out dates. I did not know what was in that room on any of them and I still do not want to.”",
+            "hi": "“मुझे तारीख़ें दी गईं। मैंने तारीख़ें पढ़ दीं। उन में से किसी रात उस कमरे में क्या था, मुझे न तब पता था, न अब जानना है।”"
+          },
+          "note": {
+            "en": "Somebody who knew which nights the room held jewellery chose all six — and it was not the man reading them out.",
+            "hi": "किन रातों कमरे में गहने रहेंगे, यह जानने वाले ने छहों चुनीं — और वह पढ़कर सुनाने वाला आदमी नहीं था।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "tenthousand",
+      "correction": {
+        "en": "The manager was paying, not collecting, and the guard reported the blanks himself. Ten thousand rupees arriving the day before the first demand is what turns a man with a photocopy into somebody else’s instrument.",
+        "hi": "मैनेजर दे रहा था, ले नहीं रहा था, और ख़ालीपन की सूचना ख़ुद चौकीदार ने दी। पहली माँग से एक दिन पहले आए दस हज़ार ही उस आदमी को, जिसके पास एक फ़ोटोकॉपी थी, किसी और का औज़ार बना देते हैं।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "photocopy",
+      "correction": {
+        "en": "Nobody got into the strong room and nobody needed to. The leverage came off one page in a file that never leaves the records room, printed on a toner cartridge only that room has.",
+        "hi": "तिजोरी में कोई नहीं घुसा और घुसने की ज़रूरत भी नहीं थी। दबाव उस एक पन्ने से आया जो रिकॉर्ड कमरे से कभी बाहर नहीं जाता — और छपा उसी टोनर से जो सिर्फ़ उसी कमरे में है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidtold",
+      "correction": {
+        "en": "There was no getaway because nothing was taken. Six nights the lobby simply had one man in it instead of two, and the man who arranged that had never seen the inside of the room he was emptying the corridor outside.",
+        "hi": "भागने का सवाल ही नहीं था, क्योंकि लिया कुछ गया ही नहीं। छह रातें लॉबी में दो की जगह एक आदमी रहा — और जिसने यह इंतज़ाम किया, उसने उस कमरे के भीतर कभी देखा तक नहीं था जिसके बाहर का गलियारा वह ख़ाली करा रहा था।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "nightreg",
+    "toClueId": "sixnights",
+    "text": {
+      "en": "Six blanks and they are not in a row, so this is not a man going off sick. Write the six dates out and ask what those six nights had in common that the other forty did not.",
+      "hi": "छह ख़ालीपन, और वे लगातार नहीं हैं — यानी यह बीमार पड़ने वाला मामला नहीं है। छहों तारीख़ें लिखो और पूछो कि उन छह रातों में ऐसा क्या था जो बाक़ी चालीस में नहीं था।"
+    }
+  },
+  "bankedClue": {
+    "en": "A strong-room night register with the countersign column blank for six nights",
+    "hi": "तिजोरी की रात-बही, जिसमें छह रातों का प्रतिहस्ताक्षर ख़ाना कोरा है"
+  }
+}

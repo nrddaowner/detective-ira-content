@@ -1,0 +1,510 @@
+{
+  "id": "jaisalmer-cement-in-the-mortar",
+  "schema": 1,
+  "city": "jaisalmer",
+  "genre": "sabotage",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jaisalmer-havelis",
+    "caseNumber": 4
+  },
+  "title": {
+    "en": "Cement in the Mortar",
+    "hi": "गारे में सीमेंट"
+  },
+  "place": {
+    "en": "The north face, scaffold level four · Ashwin 14, 9:30 AM",
+    "hi": "उत्तरी मुख, चौथा पाड़ स्तर · आश्विन 14, 9:30 AM"
+  },
+  "brief": {
+    "en": "Three hundred and eighty running metres of the north face were repointed between Shravan and Ashwin, and the specification for every metre of it is lime with surkhi, gur and methi. From course nine upward those joints do not dissolve in acid, they leave a grey skeleton standing. White salt is blooming on the stone above them after one monsoon and the lime-pointed courses below are bone dry. Cement in a sandstone wall is a wall that will be debris in ten years.",
+    "hi": "सावन और आश्विन के बीच उत्तरी मुख के तीन सौ अस्सी रनिंग मीटर की जुड़ाई फिर से भरी गई, और हर मीटर के लिए नुस्ख़ा एक ही है — सुरखी, गुड़ और मेथी वाला चूना। नौवें रद्दे से ऊपर वे जोड़ तेज़ाब में घुलते नहीं, वहाँ एक भूरा ढाँचा खड़ा रह जाता है। एक ही बरसात के बाद उनके ऊपर के पत्थर पर सफ़ेद नमक फूल रहा है, और नीचे के चूना भरे रद्दे पूरी तरह सूखे हैं। बलुआ पत्थर की दीवार में सीमेंट का मतलब है — वह दीवार दस साल में मलबा होगी।"
+  },
+  "photoCaption": {
+    "en": "course nine, where the joint changes",
+    "hi": "नौवाँ रद्दा, जहाँ जोड़ बदल जाता है"
+  },
+  "iraNote": {
+    "en": "“This is the only case I have ever opened where the victim will not be born for ten years. Everybody on the scaffold got paid, and the wall pays later.”",
+    "hi": "“यह मेरा पहला ऐसा केस है जिसका पीड़ित अभी दस साल तक पैदा भी नहीं होगा। पाड़ पर खड़े हर आदमी को पैसा मिल गया — और दीवार बाद में चुकाएगी।”"
+  },
+  "clues": [
+    {
+      "id": "acid",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE ACID TEST, NORTH FACE",
+        "hi": "तेज़ाब जाँच, उत्तरी मुख"
+      },
+      "text": {
+        "en": "Forty test points down three hundred and eighty metres. Up to course eight the joint fizzes and goes, which is lime; from course nine up it froths for a second and then a grey skeleton stands there, which is cement and can be nothing else.",
+        "hi": "तीन सौ अस्सी मीटर में चालीस जगह जाँच। आठवें रद्दे तक जोड़ बुलबुले छोड़कर ख़त्म हो जाता है — यानी चूना; नौवें से ऊपर वह एक पल झाग बनाता है और फिर वहाँ एक भूरा ढाँचा खड़ा रह जाता है — यानी सीमेंट, और कुछ और हो ही नहीं सकता।"
+      }
+    },
+    {
+      "id": "crack",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE HAIRLINE AT BOTH ARRISES",
+        "hi": "दोनों किनारों की बाल-दरार"
+      },
+      "text": {
+        "en": "Cement shrinks as it cures and pulls itself off the stone, so a cement joint carries a hair of a gap down both edges. Lime carbonates outward and grips, and every joint below course eight is welded to its stone with no line at all.",
+        "hi": "सीमेंट जमते-जमते सिकुड़ता है और पत्थर से अपने को छुड़ा लेता है, इसलिए सीमेंट के जोड़ के दोनों किनारों पर बाल भर का फ़ासला रह जाता है। चूना बाहर की तरफ़ पकता है और जकड़ लेता है, और आठवें रद्दे से नीचे का हर जोड़ अपने पत्थर से ऐसा जुड़ा है कि कोई लकीर ही नहीं दिखती।"
+      }
+    },
+    {
+      "id": "salts",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "WHAT IS ALREADY BLOOMING",
+        "hi": "जो अभी से फूल रहा है"
+      },
+      "text": {
+        "en": "White bloom across the stone faces above course nine, one monsoon old. A cement joint will not let a wall breathe, so the salt comes out through the stone instead of through the mortar — and the bloom stops dead at the top of course eight.",
+        "hi": "नौवें रद्दे के ऊपर के पत्थरों पर सफ़ेद फूलन, बस एक बरसात पुरानी। सीमेंट का जोड़ दीवार को साँस नहीं लेने देता, इसलिए नमक गारे से नहीं, पत्थर से बाहर निकलता है — और यह फूलन आठवें रद्दे के सिरे पर आकर ठीक वहीं रुक जाती है।"
+      }
+    },
+    {
+      "id": "limeissue",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "LIME AND SURKHI ISSUED",
+        "hi": "चूना और सुरखी, निर्गम"
+      },
+      "text": {
+        "en": "Rewat Singh Bhati issued enough lime and surkhi for one hundred and forty running metres of joint. Three hundred and eighty metres were struck and measured, and nobody on a scaffold has ever been asked to prove what is in the hawk.",
+        "hi": "रेवत सिंह भाटी ने एक सौ चालीस रनिंग मीटर जोड़ भर का चूना और सुरखी दिया। तीन सौ अस्सी मीटर भरे और नापे गए — और पाड़ पर किसी आदमी से आज तक यह साबित करने को नहीं कहा गया कि उसकी तख़्ती में क्या है।"
+      }
+    },
+    {
+      "id": "gur",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE GUR AND METHI INDENT",
+        "hi": "गुड़ और मेथी की मांग"
+      },
+      "text": {
+        "en": "Lime-surkhi mortar on this specification is soaked with jaggery and fenugreek, and the store’s indent for both stops on Shravan six. Pointing carried on to Ashwin twelve, and nobody asked for a gram of either in between.",
+        "hi": "इस नुस्ख़े का चूना-सुरखी गारा गुड़ और मेथी के पानी से गूँधा जाता है, और भंडार में दोनों की मांग सावन छह को बंद हो जाती है। जुड़ाई आश्विन बारह तक चली, और बीच में किसी ने इनमें से एक ग्राम नहीं माँगा।"
+      }
+    },
+    {
+      "id": "bags",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THIRTY-FOUR BAGS, GANDHI CHOWK",
+        "hi": "चौंतीस बोरे, गांधी चौक"
+      },
+      "text": {
+        "en": "A hardware shop’s credit book three lanes from the gate: thirty-four bags of ordinary Portland, taken away in ones and twos across six weeks, against the mistri’s own name and thumb. This site’s bill of quantities has no cement line anywhere in it.",
+        "hi": "गेट से तीन गली दूर एक हार्डवेयर दुकान की उधार बही: साधारण पोर्टलैंड के चौंतीस बोरे, छह हफ़्तों में एक-दो करके उठाए गए, और मिस्त्री के अपने नाम और अंगूठे पर। इस साइट की मात्रा-सूची में सीमेंट की कोई पंक्ति ही नहीं है।"
+      }
+    },
+    {
+      "id": "bayfourteen",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "BAY FOURTEEN’S JALI",
+        "hi": "बाय चौदह की जाली"
+      },
+      "text": {
+        "en": "New, and cut to the original’s measure to a sixteenth of an inch on all four sides — and cut out of Habur bed, with shells in it. Every original jali on this face is plain Jaisalmer bed, because a haveli is built of the hill it stands on.",
+        "hi": "नई, और चारों तरफ़ से असल की नाप के सोलहवें हिस्से तक सटीक — और तराशी हुई हाबूर परत से, जिसमें सीपियाँ हैं। इस मुख की हर असली जाली सादा जैसलमेर परत की है, क्योंकि हवेली उसी पहाड़ी की बनती है जिस पर वह खड़ी होती है।"
+      }
+    },
+    {
+      "id": "basantilime",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO SLAKES THE LIME",
+        "hi": "चूना कौन बुझाता है"
+      },
+      "text": {
+        "en": "Basanti Devi has slaked and screened every gram of lime that has gone up this scaffold since Chaitra.",
+        "hi": "चैत से इस पाड़ पर जो भी चूना गया है, उसका एक-एक ग्राम बसंती देवी ने बुझाया और छाना है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she slakes what the store issues and screens it to the written mesh; the mix is turned on the scaffold four floors above her tank, and she has never once been up there",
+        "hi": "ख़ारिज — भंडार जो देता है वही वह बुझाती है और लिखी हुई छन्नी से छानती है; गारा उसके हौज़ से चार मंज़िल ऊपर पाड़ पर गूँधा जाता है, और वह ऊपर एक बार भी नहीं गई"
+      }
+    },
+    {
+      "id": "tarasign",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO MEASURED THE METRES",
+        "hi": "मीटर किसने नापे"
+      },
+      "text": {
+        "en": "Tara Chand signed three hundred and eighty running metres of pointing into the measurement book and passed it for payment.",
+        "hi": "तारा चंद ने नाप-बही में जुड़ाई के तीन सौ अस्सी रनिंग मीटर दर्ज किए और भुगतान के लिए पास किए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a measurement book has a column for metres and no column for a mix, and he is the man who called for the acid test the morning he was shown the bloom",
+        "hi": "ख़ारिज — नाप-बही में मीटर का ख़ाना होता है, गारे का नहीं — और फूलन दिखाए जाने की सुबह तेज़ाब जाँच कराने वाला वही है"
+      }
+    },
+    {
+      "id": "bhojastone",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHOSE STONES SIT IN THOSE COURSES",
+        "hi": "उन रद्दों में पत्थर किसके"
+      },
+      "text": {
+        "en": "Bhoja Ram Silawat cut every replacement stone bedded above course nine, bay fourteen included.",
+        "hi": "नौवें रद्दे से ऊपर चिना हुआ हर प्रतिस्थापन पत्थर भोजा राम सिलावट ने तराशा है — बाय चौदह भी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a carver hands over a finished stone and never points around it; a cement joint destroys his own work faster than anybody else’s, and he has written twice asking why the gur indent stopped",
+        "hi": "ख़ारिज — सिलावट तैयार पत्थर सौंपता है और उसके चारों तरफ़ जुड़ाई नहीं भरता; सीमेंट का जोड़ सबसे पहले उसके ही काम को खाता है, और गुड़ की मांग बंद क्यों हुई यह उसने दो बार लिखकर पूछा है"
+      }
+    },
+    {
+      "id": "rewatstore",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE STORE’S OWN SHORTFALL",
+        "hi": "भंडार की अपनी कमी"
+      },
+      "text": {
+        "en": "Rewat Singh Bhati issued lime for one hundred and forty metres against three hundred and eighty measured.",
+        "hi": "रेवत सिंह भाटी ने एक सौ चालीस मीटर का चूना दिया, और नाप तीन सौ अस्सी मीटर की हुई।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the gap is in his own issue register in his own hand, and he stopped indenting gur because for nine weeks nobody came and asked him for any",
+        "hi": "ख़ारिज — यह अंतर उसकी ही निर्गम पंजी में, उसी के हाथ का लिखा है; और गुड़ की मांग उसने इसलिए बंद की कि नौ हफ़्ते तक कोई उससे गुड़ माँगने आया ही नहीं"
+      }
+    },
+    {
+      "id": "monsoonsalt",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THIS FORT HAS SALT ANYWAY",
+        "hi": "इस क़िले में नमक तो है ही"
+      },
+      "text": {
+        "en": "Jaisalmer stone carries its own salts, and every wall in this fort blooms somewhere.",
+        "hi": "जैसलमेर के पत्थर में अपना नमक होता है, और इस क़िले की हर दीवार कहीं न कहीं फूलती है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — true of the whole fort, and on this face the bloom begins at course nine and stops at course eight; salt does not read a specification but a joint does",
+        "hi": "ख़ारिज — यह पूरे क़िले का सच है, और इस मुख पर फूलन नौवें रद्दे से शुरू होकर आठवें पर रुक जाती है; नमक नुस्ख़ा नहीं पढ़ता, जोड़ पढ़ता है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidmetre",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE MORTAR MISTRI",
+        "hi": "बयान · गारे का मिस्त्री"
+      },
+      "text": {
+        "en": "“Lime with gur takes four days to take hold and a season has only so many days in it. I am paid the finished metre. Nobody has ever paid me for the four days a wall wants.”",
+        "hi": "“गुड़ वाला चूना पकड़ने में चार दिन लेता है और मौसम में दिन गिने-चुने होते हैं। मुझे तैयार मीटर का पैसा मिलता है। दीवार जो चार दिन माँगती है, उनका पैसा मुझे आज तक किसी ने नहीं दिया।”"
+      }
+    },
+    {
+      "id": "saidcolumn",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE SITE ENGINEER",
+        "hi": "बयान · साइट इंजीनियर"
+      },
+      "text": {
+        "en": "“I measure pointing in running metres because that is the unit the measurement book has. There is no column in a measurement book for what a mortar is made of, and there never has been on any site I have stood on.”",
+        "hi": "“मैं जुड़ाई रनिंग मीटर में नापता हूँ, क्योंकि नाप-बही की इकाई वही है। नाप-बही में यह लिखने का ख़ाना नहीं होता कि गारा किस चीज़ का बना है — और जिन साइटों पर मैं खड़ा हुआ हूँ, किसी पर कभी नहीं था।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "heera",
+      "name": {
+        "en": "Heera Lal",
+        "hi": "हीरा लाल"
+      },
+      "role": {
+        "en": "THE MORTAR MISTRI",
+        "hi": "गारे का मिस्त्री"
+      },
+      "hook": {
+        "en": "paid by the finished metre, and lime takes four days",
+        "hi": "पैसा तैयार मीटर का, और चूना चार दिन लेता है"
+      },
+      "confession": {
+        "en": "Turned ordinary Portland into the pointing mix from course nine upward for six weeks, on thirty-four bags carried in ones and twos from a Gandhi Chowk hardware shop against his own thumb, because lime with gur takes four days to hold and he is paid three hundred and forty rupees a finished metre.",
+        "hi": "छह हफ़्ते तक नौवें रद्दे से ऊपर की जुड़ाई के गारे में साधारण पोर्टलैंड मिलाया — गांधी चौक की हार्डवेयर दुकान से अपने ही अंगूठे पर, एक-दो करके उठाए गए चौंतीस बोरों का — क्योंकि गुड़ वाला चूना पकड़ने में चार दिन लेता है और उसे तैयार मीटर के तीन सौ चालीस रुपए मिलते हैं।"
+      }
+    },
+    {
+      "id": "tarachand",
+      "name": {
+        "en": "Tara Chand",
+        "hi": "तारा चंद"
+      },
+      "role": {
+        "en": "THE SITE ENGINEER",
+        "hi": "साइट इंजीनियर"
+      },
+      "hook": {
+        "en": "passed all three hundred and eighty metres for payment",
+        "hi": "तीनों सौ अस्सी मीटर भुगतान के लिए उसी ने पास किए"
+      },
+      "alibi": {
+        "en": "He measured metres, which is the only unit his book has, and he called for the acid test himself the morning the bloom was pointed out to him. He is also the man who wrote to the architect asking why a lime specification had stopped drawing lime.",
+        "hi": "उसने मीटर नापे — उसकी बही की इकाई वही है — और जिस सुबह उसे फूलन दिखाई गई, तेज़ाब जाँच उसी ने कराई। चूने के नुस्ख़े ने चूना उठाना क्यों बंद कर दिया, यह आर्किटेक्ट को लिखकर पूछने वाला भी वही है।"
+      }
+    },
+    {
+      "id": "basanti",
+      "name": {
+        "en": "Basanti Devi",
+        "hi": "बसंती देवी"
+      },
+      "role": {
+        "en": "THE LIME SLAKER",
+        "hi": "चूना बुझाने वाली"
+      },
+      "hook": {
+        "en": "every gram of lime on this site went through her tank",
+        "hi": "इस साइट का हर ग्राम चूना उसी के हौज़ से गुज़रा"
+      },
+      "alibi": {
+        "en": "She slakes what the store issues and screens it to the written mesh, at ground level, and has never been up the scaffold. The mix is turned four floors above her, and nobody has ever brought a hawk down for her to look at.",
+        "hi": "भंडार जो देता है वही वह ज़मीन पर बुझाती है और लिखी हुई छन्नी से छानती है, और पाड़ पर वह कभी चढ़ी ही नहीं। गारा उससे चार मंज़िल ऊपर गूँधा जाता है, और कोई तख़्ती नीचे लाकर उसे दिखाने वाला कभी नहीं आया।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "bhoja",
+      "name": {
+        "en": "Bhoja Ram Silawat",
+        "hi": "भोजा राम सिलावट"
+      },
+      "role": {
+        "en": "THE STONE CARVER",
+        "hi": "सिलावट"
+      },
+      "hook": {
+        "en": "his stones sit in every cemented course",
+        "hi": "सीमेंट वाले हर रद्दे में उसी के पत्थर"
+      },
+      "alibi": {
+        "en": "A carver hands over a finished stone and never points around it, and a cement joint eats his own work before it eats anybody else’s. He has written twice to ask why the gur indent stopped.",
+        "hi": "सिलावट तैयार पत्थर सौंपता है और उसके चारों तरफ़ जुड़ाई नहीं भरता, और सीमेंट का जोड़ सबसे पहले उसी के काम को खाता है। गुड़ की मांग बंद क्यों हुई, यह उसने दो बार लिखकर पूछा है।"
+      }
+    },
+    {
+      "id": "rewat",
+      "name": {
+        "en": "Rewat Singh Bhati",
+        "hi": "रेवत सिंह भाटी"
+      },
+      "role": {
+        "en": "THE SITE STOREKEEPER",
+        "hi": "साइट भंडारी"
+      },
+      "hook": {
+        "en": "issued lime for a third of what was pointed",
+        "hi": "जितना भरा गया, चूना उसका एक तिहाई दिया"
+      },
+      "alibi": {
+        "en": "The whole shortfall is in his own issue register in his own hand, subtractable by anybody who opens it. He stopped indenting gur because for nine weeks nobody came and asked him for any, which is the loudest thing in this file.",
+        "hi": "पूरी कमी उसकी ही निर्गम पंजी में, उसी के हाथ की लिखी है — जो भी खोलेगा घटा लेगा। गुड़ की मांग उसने इसलिए बंद की कि नौ हफ़्ते तक कोई माँगने ही नहीं आया — और इस फ़ाइल में सबसे ज़ोर से यही बात बोलती है।"
+      }
+    }
+  ],
+  "culpritId": "heera",
+  "interrogations": [
+    {
+      "suspectId": "tarachand",
+      "setting": {
+        "en": "The site office at ten, a measurement book open at Ashwin, and a beaker of dilute acid still on the sill.",
+        "hi": "दस बजे का साइट दफ़्तर, आश्विन के पन्ने पर खुली नाप-बही, और खिड़की की चौखट पर अब तक रखा पतले तेज़ाब का प्याला।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You passed three hundred and eighty metres of lime pointing that is not lime.",
+            "hi": "आपने चूने की जुड़ाई के तीन सौ अस्सी मीटर पास किए, जो चूना नहीं है।"
+          },
+          "answer": {
+            "en": "“I measure pointing in running metres because that is the unit the measurement book has. There is no column in a measurement book for what a mortar is made of, and there never has been on any site I have stood on.”",
+            "hi": "“मैं जुड़ाई रनिंग मीटर में नापता हूँ, क्योंकि नाप-बही की इकाई वही है। नाप-बही में यह लिखने का ख़ाना नहीं होता कि गारा किस चीज़ का बना है — और जिन साइटों पर मैं खड़ा हुआ हूँ, किसी पर कभी नहीं था।”"
+          },
+          "needsClueId": "acid",
+          "lockedHint": {
+            "en": "Pin the acid test. He will defend the measurement book until the forty test points are on the board beside it.",
+            "hi": "तेज़ाब जाँच टाँगो। जब तक चालीस जाँच बिंदु उसके साथ बोर्ड पर न आ जाएँ, वह नाप-बही की ही वकालत करेगा।"
+          },
+          "unlocksClueId": "saidcolumn",
+          "note": {
+            "en": "He is right about the book, and the book is a hundred and fifty years old, and that is not his fault either.",
+            "hi": "बही के बारे में वह सही है, और वह बही डेढ़ सौ साल पुरानी है — और यह भी उसका दोष नहीं है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "basanti",
+      "setting": {
+        "en": "The slaking tank in the outer court, three screens on a frame, and a fortnight of lime putty resting under wet sacking.",
+        "hi": "बाहरी आँगन का बुझाने वाला हौज़, चौखटे पर तीन छन्नियाँ, और गीली बोरियों के नीचे पखवाड़े भर आराम करता चूना।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How much lime went up this scaffold in Bhadra?",
+            "hi": "भादों में इस पाड़ पर कितना चूना गया?"
+          },
+          "answer": {
+            "en": "“Less every week. In Shravan they were shouting at me for putty and by Ashwin nobody came down at all. I thought the work had stopped. I could hear it had not stopped.”",
+            "hi": "“हर हफ़्ते कम। सावन में लोग मुझ पर चूने के लिए चिल्लाते थे और आश्विन तक कोई नीचे आया ही नहीं। मैंने सोचा काम बंद हो गया। और सुनाई देता था कि बंद नहीं हुआ।”"
+          },
+          "note": {
+            "en": "The lime stopped going up and the metres kept coming down. She heard the difference from the ground and had nobody to tell.",
+            "hi": "चूना ऊपर जाना बंद हो गया और मीटर नीचे आते रहे। यह फ़र्क़ उसने ज़मीन से सुन लिया, और कहने वाला कोई नहीं था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Did anybody ask you for gur or methi after Shravan?",
+            "hi": "सावन के बाद किसी ने आपसे गुड़ या मेथी माँगी?"
+          },
+          "answer": {
+            "en": "“Not once. Fourteen years I have soaked methi overnight for this trade, and this season the pot sat dry from Shravan six. A gang that does not want methi is not making my mortar.”",
+            "hi": "“एक बार भी नहीं। चौदह साल से इस काम के लिए मैं रात भर मेथी भिगोती आई हूँ, और इस मौसम में सावन छह से बरतन सूखा पड़ा रहा। जो टोली मेथी नहीं माँगती, वह मेरा गारा नहीं बना रही।”"
+          },
+          "needsClueId": "gur",
+          "lockedHint": {
+            "en": "Pin the gur and methi indent. Her fortnight of habit only becomes evidence beside the date the store stopped buying.",
+            "hi": "गुड़ और मेथी की मांग टाँगो। उसकी पखवाड़े भर की आदत सबूत तभी बनती है जब भंडार के ख़रीदना बंद करने की तारीख़ साथ हो।"
+          },
+          "note": {
+            "en": "Shravan six is the date on the store’s indent and the date her pot went dry. Two books that never speak to each other agree exactly.",
+            "hi": "सावन छह — भंडार की मांग की तारीख़ भी वही, और उसके बरतन के सूखने की तारीख़ भी वही। दो बहियाँ जो एक-दूसरे से कभी बात नहीं करतीं, ठीक-ठीक एक ही बात कह रही हैं।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "heera",
+      "setting": {
+        "en": "Scaffold level four at noon, a hawk and a pointing iron on the boards, and the joint he struck this morning already going grey.",
+        "hi": "दोपहर का चौथा पाड़ स्तर, पटरों पर पड़ी तख़्ती और जुड़ाई का लोहा, और आज सुबह भरा हुआ जोड़ अभी से भूरा पड़ता हुआ।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Lime for a hundred and forty metres, and you struck three hundred and eighty.",
+            "hi": "चूना एक सौ चालीस मीटर का, और आपने तीन सौ अस्सी भरे।"
+          },
+          "answer": {
+            "en": "“Lime with gur takes four days to take hold and a season has only so many days in it. I am paid the finished metre. Nobody has ever paid me for the four days a wall wants.”",
+            "hi": "“गुड़ वाला चूना पकड़ने में चार दिन लेता है और मौसम में दिन गिने-चुने होते हैं। मुझे तैयार मीटर का पैसा मिलता है। दीवार जो चार दिन माँगती है, उनका पैसा मुझे आज तक किसी ने नहीं दिया।”"
+          },
+          "needsClueId": "limeissue",
+          "lockedHint": {
+            "en": "Pin the lime issued. He will talk about the trade in general until his own two numbers are standing next to each other.",
+            "hi": "जो चूना दिया गया वह टाँगो। जब तक उसके अपने दो आँकड़े एक-दूसरे के बग़ल में खड़े न हो जाएँ, वह धंधे की आम बात करता रहेगा।"
+          },
+          "unlocksClueId": "saidmetre",
+          "note": {
+            "en": "He has just given us the motive, the method and the grievance in three sentences, and the grievance is real.",
+            "hi": "उसने तीन वाक्यों में इरादा, तरीक़ा और शिकायत — तीनों दे दिए, और शिकायत सच्ची है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Thirty-four bags of Portland on your own thumb.",
+            "hi": "आपके ही अंगूठे पर पोर्टलैंड के चौंतीस बोरे।"
+          },
+          "answer": {
+            "en": "“Every mistri in this town has a shop he takes a bag from. There is no cement in this contract, so nobody at that gate is looking for cement. I carried it in past the chowkidar under my arm, twice a week, for six weeks.”",
+            "hi": "“इस शहर के हर मिस्त्री की एक दुकान होती है जहाँ से वह बोरा उठा लेता है। इस ठेके में सीमेंट है ही नहीं, इसलिए उस गेट पर सीमेंट कोई ढूँढ़ ही नहीं रहा। मैं उसे बग़ल में दबाकर चौकीदार के सामने से लाता रहा — हफ़्ते में दो बार, छह हफ़्ते।”"
+          },
+          "needsClueId": "bags",
+          "lockedHint": {
+            "en": "Pin the credit book. He will not concede a bag he has not been shown a signature for.",
+            "hi": "उधार बही टाँगो। जिस बोरे के लिए उसे अपने दस्तख़त न दिखाए जाएँ, उसे वह मानेगा नहीं।"
+          },
+          "note": {
+            "en": "He is describing the whole opening: a site watches for what its papers mention, and its papers do not mention cement.",
+            "hi": "वह पूरी दरार बता रहा है: साइट उसी पर नज़र रखती है जिसका ज़िक्र उसके काग़ज़ों में है — और उसके काग़ज़ों में सीमेंट का ज़िक्र ही नहीं है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Bay fourteen’s jali is new, and it is Habur.",
+            "hi": "बाय चौदह की जाली नई है, और हाबूर की है।"
+          },
+          "answer": {
+            "en": "“I point around what is put in front of me. Ask the shed what bed it cut and ask the office what bed it wrote. I have never once been given a drawing.”",
+            "hi": "“मेरे सामने जो रख दिया जाए, मैं उसके चारों तरफ़ जुड़ाई भर देता हूँ। किस परत का तराशा, यह छप्पर से पूछिए; किस परत का लिखा, यह दफ़्तर से। मुझे नक़्शा आज तक एक बार भी नहीं दिया गया।”"
+          },
+          "note": {
+            "en": "He is right that it is not his question, and he has just told us whose two it is.",
+            "hi": "यह सही है कि यह सवाल उसका नहीं है — और उसने अभी बता दिया कि यह किन दो का है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "saidmetre",
+      "correction": {
+        "en": "The slaker is paid by the day and the engineer by the month, and neither gains a rupee from a fast joint. One man on this scaffold is paid three hundred and forty rupees for every finished metre, and lime with gur will not let him finish more than a third of them.",
+        "hi": "चूना बुझाने वाली को दिन का पैसा मिलता है और इंजीनियर को महीने का, और तेज़ भरे जोड़ से इनमें से किसी को एक रुपया नहीं मिलता। इस पाड़ पर एक ही आदमी है जिसे हर तैयार मीटर के तीन सौ चालीस रुपए मिलते हैं — और गुड़ वाला चूना उसे उनमें से एक तिहाई से ज़्यादा तैयार करने ही नहीं देता।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "limeissue",
+      "correction": {
+        "en": "Nothing had to be got past a lock. Lime for one hundred and forty metres was issued against three hundred and eighty struck, and on no site in this country has anybody ever been asked to prove what is in the hawk once the joint is finished.",
+        "hi": "यहाँ किसी ताले के आगे से कुछ निकालना ही नहीं था। चूना एक सौ चालीस मीटर का दिया गया और भरे गए तीन सौ अस्सी — और इस देश की किसी साइट पर जोड़ भर जाने के बाद यह साबित करने को आज तक किसी से नहीं कहा गया कि तख़्ती में क्या था।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "bags",
+      "correction": {
+        "en": "The cement did not have to be smuggled anywhere, because a site only watches for what its own papers mention. This contract has no cement line in it, so thirty-four bags walked in under one arm past a chowkidar, twice a week for six weeks, on a credit book three lanes away.",
+        "hi": "सीमेंट को कहीं छिपाकर लाने की ज़रूरत नहीं पड़ी, क्योंकि साइट सिर्फ़ उसी पर नज़र रखती है जिसका ज़िक्र उसके अपने काग़ज़ों में हो। इस ठेके में सीमेंट की कोई पंक्ति नहीं है — सो चौंतीस बोरे एक बग़ल में दबे, चौकीदार के सामने से, हफ़्ते में दो बार छह हफ़्ते तक भीतर आए — और उधार बही तीन गली दूर थी।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "salts",
+    "toClueId": "acid",
+    "text": {
+      "en": "The bloom begins at one course and stops at the one below it, which is not how weather behaves and is exactly how a specification behaves. Whatever changed at course nine is in the joint, so take the joint apart.",
+      "hi": "फूलन एक रद्दे से शुरू होकर उसके नीचे वाले पर रुक जाती है — मौसम ऐसा नहीं करता, नुस्ख़ा ठीक ऐसा ही करता है। नौवें रद्दे पर जो बदला वह जोड़ में है — तो जोड़ को खोलिए।"
+    }
+  },
+  "bankedClue": {
+    "en": "A replacement jali cut to the original’s measure to a sixteenth, out of a bed this haveli was never built from",
+    "hi": "एक प्रतिस्थापन जाली, असल की नाप के सोलहवें हिस्से तक सटीक — और उस परत की, जिससे यह हवेली कभी बनी ही नहीं"
+  }
+}

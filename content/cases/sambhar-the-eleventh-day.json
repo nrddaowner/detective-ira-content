@@ -1,0 +1,406 @@
+{
+  "id": "sambhar-the-eleventh-day",
+  "schema": 1,
+  "city": "sambhar",
+  "genre": "missing-person",
+  "difficulty": "quick",
+  "ambience": "MonsoonRain",
+  "story": {
+    "id": "sambhar-salt-and-silence",
+    "caseNumber": 2
+  },
+  "title": {
+    "en": "The Eleventh Day",
+    "hi": "ग्यारहवाँ दिन"
+  },
+  "place": {
+    "en": "Labour camp, kyar nine, eastern flat · Shravan 14, 4:00 PM",
+    "hi": "मज़दूर कैंप, क्यारी नौ, पूरब का मैदान · सावन 14, शाम 4:00"
+  },
+  "brief": {
+    "en": "Nanu Ram, son of Mangal Ram of Chhoti Khatu, came to the eastern kyars on Magh 4, and his gang's hazri says he stood in a pan every working day until the season closed on Ashadh 3. His mother has had no letter, no visit and no word from him since Magh — only five hundred rupees on the first Sunday of every month, carried by hand. She reported him missing at Phulera on Shravan 2, the first month the money did not come. One hundred and sixty-three days of a man's attendance were taken after the last time anybody in this camp saw his face.",
+    "hi": "नानू राम, पिता मंगल राम, गाँव छोटी खाटू — माघ 4 को पूरब की क्यारियों पर आया, और उसकी गैंग की हाज़िरी कहती है कि आषाढ़ 3 को सीज़न बंद होने तक वह हर काम के दिन क्यारी में खड़ा रहा। माघ के बाद उसकी माँ को न चिट्ठी मिली, न वह ख़ुद आया, न कोई ख़बर — बस हर महीने के पहले रविवार को हाथोंहाथ पहुँचे पाँच सौ रुपये। सावन 2 को, जिस पहले महीने पैसा नहीं आया, उसने फुलेरा में गुमशुदगी दर्ज कराई। इस कैंप में जिस दिन किसी ने आख़िरी बार उसका चेहरा देखा, उसके बाद एक सौ तिरसठ दिन की हाज़िरी और ली गई।"
+  },
+  "photoCaption": {
+    "en": "hut nineteen, four charpais and one bedroll nobody claims",
+    "hi": "झोंपड़ी उन्नीस — चार खाटें और एक बिस्तर, जिसका दावेदार कोई नहीं"
+  },
+  "iraNote": {
+    "en": "“A man can go missing in an afternoon. It takes five months of somebody's careful work to keep him from being looked for.”",
+    "hi": "“आदमी एक दोपहर में गुम हो सकता है। उसे ढूँढ़ा न जाए, इसके लिए किसी को पाँच महीने बड़ी मेहनत से काम करना पड़ता है।”"
+  },
+  "clues": [
+    {
+      "id": "hazri",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE GANG HAZRI, MAGH TO ASHADH",
+        "hi": "गैंग की हाज़िरी, माघ से आषाढ़"
+      },
+      "text": {
+        "en": "Serial one hundred and eighty-seven, Nanu Ram s/o Mangal Ram, Chhoti Khatu. Present on one hundred and seventy-four sheets between Magh 4 and Ashadh 3, absent on nine, no entry on the rest. Every sheet is written in one hand and marked at the foot with the thumb of Ratni Devi, jamadarni of the gang, who has never in four seasons read a line of what she marks.",
+        "hi": "क्रमांक एक सौ सत्तासी, नानू राम पुत्र मंगल राम, छोटी खाटू। माघ 4 से आषाढ़ 3 के बीच एक सौ चौहत्तर शीटों पर हाज़िर, नौ पर ग़ैरहाज़िर, बाक़ी पर कोई प्रविष्टि नहीं। हर शीट एक ही हाथ की लिखी है और नीचे गैंग की जमादारनी रतनी देवी का अंगूठा लगा है — जिसने चार सीज़न में एक बार भी यह नहीं पढ़ा कि वह किस पर निशान लगा रही है।"
+      }
+    },
+    {
+      "id": "stopped",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "EVERYTHING ELSE STOPS ON MAGH 15",
+        "hi": "बाक़ी सब माघ 15 को रुक जाता है"
+      },
+      "text": {
+        "en": "The camp grain shop issued to him eleven times and never again. The dispensary's fortnightly quinine roll has him twice and then a blank. He is in hut nineteen's list and his bedroll is still on the charpai, unopened since Magh. In Vaishakh his thumb receipted a pair of gumboots he did not take, in the run of sixty-three at the foot of the store's sheet.",
+        "hi": "कैंप की राशन दुकान ने उसे ग्यारह बार दिया और उसके बाद कभी नहीं। दवाख़ाने की पाक्षिक कुनैन सूची में वह दो बार है, फिर ख़ाली जगह। झोंपड़ी उन्नीस की सूची में उसका नाम है और उसका बिस्तर आज भी खाट पर पड़ा है — माघ के बाद खुला ही नहीं। वैशाख में उसके अंगूठे ने एक जोड़ी गमबूट की रसीद दी, जो उसने ली ही नहीं — भंडार की शीट के नीचे वाली तिरसठ की उसी पट्टी में।"
+      }
+    },
+    {
+      "id": "bus",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "FIVE HUNDRED, FIRST SUNDAY, BY HAND",
+        "hi": "पाँच सौ, पहला रविवार, हाथोंहाथ"
+      },
+      "text": {
+        "en": "The Kuchaman–Chhoti Khatu bus conductor carried a folded paper with five hundred rupees in it to Mangal Ram's house on the first Sunday of Phalgun, Chaitra, Vaishakh, Jyeshtha and Ashadh. It was handed to him at the Nawa stand by the same man each time. No money order was ever booked, and there is no receipt for any of it anywhere.",
+        "hi": "कुचामन–छोटी खाटू बस का कंडक्टर फाल्गुन, चैत, वैशाख, जेठ और आषाढ़ — हर महीने के पहले रविवार को एक मुड़ा हुआ काग़ज़, जिसमें पाँच सौ रुपये होते थे, मंगल राम के घर पहुँचाता रहा। हर बार वह उसे नावाँ स्टैंड पर एक ही आदमी ने थमाया। मनीऑर्डर कभी बुक नहीं हुआ, और इसमें से किसी की कोई रसीद कहीं नहीं है।"
+      }
+    },
+    {
+      "id": "wedding",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "A WEDDING PAID FOR IN CASH",
+        "hi": "नक़द चुकाई गई एक शादी"
+      },
+      "text": {
+        "en": "A tent house at Nawa was paid nineteen thousand and a goldsmith on the same street twenty-two thousand, all in cash, between Chaitra and Vaishakh, for the marriage of a hazri writer's daughter. The hazri writer is paid seven thousand six hundred a month and has two other daughters. Forty-one thousand rupees is the wage of one man on this muster for a hundred and sixty-three days.",
+        "hi": "नावाँ के एक टेंट हाउस को उन्नीस हज़ार और उसी गली के सुनार को बाईस हज़ार — सब नक़द, चैत और वैशाख के बीच, एक हाज़िरी लेखक की बेटी की शादी में। उस हाज़िरी लेखक की तनख़्वाह सात हज़ार छह सौ महीना है और उसकी दो बेटियाँ और हैं। इकतालीस हज़ार रुपये इस हाज़िरी के एक आदमी की एक सौ तिरसठ दिन की मज़दूरी है।"
+      }
+    },
+    {
+      "id": "kekri",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "A THUMB IN A KEKRI KILN'S BOOK",
+        "hi": "केकड़ी के भट्टे की बही में एक अंगूठा"
+      },
+      "text": {
+        "en": "A brick kiln on the Kekri road took on a moulder called Nanu Ram, son of Mangal Ram, village Chhoti Khatu, on Phalgun 2, against an advance of two thousand rupees and a thumb impression in the kiln's own book. He is there now, in a line of thirty men, and he has not written home because he owes five thousand rupees to a contractor at Sambhar and believes a letter would fetch him back.",
+        "hi": "केकड़ी रोड के एक ईंट भट्टे ने फाल्गुन 2 को नानू राम पुत्र मंगल राम, गाँव छोटी खाटू नाम के एक पथेरे को दो हज़ार पेशगी और भट्टे की अपनी बही में अंगूठे के निशान पर रख लिया। वह आज भी वहीं है, तीस आदमियों की क़तार में — और घर इसलिए नहीं लिखा कि साँभर में एक ठेकेदार का पाँच हज़ार उस पर चढ़ा है और उसे लगता है कि चिट्ठी उसे वापस खींच लेगी।"
+      }
+    },
+    {
+      "id": "advance",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE ROW ON THE NIGHT OF MAGH 15",
+        "hi": "माघ 15 की रात का झगड़ा"
+      },
+      "text": {
+        "en": "There was shouting outside hut nineteen that night about five thousand rupees of advance standing against his thumb in Mahaveer Prasad Choudhary's register.",
+        "hi": "उस रात झोंपड़ी उन्नीस के बाहर उन पाँच हज़ार की पेशगी को लेकर चीख़-पुकार हुई थी, जो महावीर प्रसाद चौधरी की बही में उसके अंगूठे पर चढ़ी है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the row is real, the debt is real, and neither of them explains why a man's attendance went on being taken for five months after he walked out of it",
+        "hi": "ख़ारिज — झगड़ा भी सच है और क़र्ज़ भी, पर दोनों में से कोई यह नहीं बताता कि उसके चले जाने के बाद पाँच महीने तक उसकी हाज़िरी क्यों ली जाती रही"
+      }
+    },
+    {
+      "id": "body",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE BODY FOUND NEAR GUDHA",
+        "hi": "गूढ़ा के पास मिली लाश"
+      },
+      "text": {
+        "en": "A man was taken out of the brine near the Gudha bund in Chaitra, and the camp has assumed since then that it was him.",
+        "hi": "चैत में गूढ़ा की बाँध के पास खारे पानी से एक आदमी निकाला गया था, और तब से कैंप यही मानकर चल रहा है कि वह वही था।"
+      },
+      "dismissNote": {
+        "en": "ruled out — that body was identified in Chaitra as a bangle-seller from Nagaur, the post-mortem is on the Phulera thana's file, and his own family took him away",
+        "hi": "ख़ारिज — वह लाश चैत में ही नागौर के एक चूड़ी बेचने वाले की पहचानी जा चुकी है, पोस्टमार्टम फुलेरा थाने की फ़ाइल में है, और उसे उसके अपने घरवाले ले गए"
+      }
+    },
+    {
+      "id": "namesake",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THREE MEN OF THE SAME NAME",
+        "hi": "एक ही नाम के तीन आदमी"
+      },
+      "text": {
+        "en": "There are three Nanu Rams on the eastern flat this season, and one of them is on kyar twenty-two right now.",
+        "hi": "इस सीज़न पूरब के मैदान पर तीन नानू राम हैं, और उनमें से एक इस वक़्त क्यारी बाईस पर है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the muster carries father's name and village against every serial, and only serial one hundred and eighty-seven is son of Mangal Ram of Chhoti Khatu",
+        "hi": "ख़ारिज — हाज़िरी में हर क्रमांक के सामने पिता का नाम और गाँव लिखा है, और मंगल राम, छोटी खाटू का बेटा सिर्फ़ क्रमांक एक सौ सत्तासी है"
+      }
+    },
+    {
+      "id": "leaving",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "MEN LEAVE EVERY SEASON",
+        "hi": "हर सीज़न आदमी छोड़कर जाते हैं"
+      },
+      "text": {
+        "en": "Nine men walked off the eastern kyars this season and Bheema Ram, who came from the same village on the same lorry, told the mate the next morning that Nanu had gone.",
+        "hi": "इस सीज़न पूरब की क्यारियों से नौ आदमी छोड़कर गए, और भीमा राम — जो उसी गाँव से उसी लॉरी में आया था — ने अगली सुबह मेट को बता भी दिया था कि नानू चला गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — men do walk, and when they do their hazri stops the next morning, because no jamadar has ever been paid for a hand that is not in a pan",
+        "hi": "ख़ारिज — आदमी छोड़कर जाते हैं, और जब जाते हैं तो अगली सुबह उनकी हाज़िरी रुक जाती है, क्योंकि क्यारी में न खड़े हाथ का पैसा आज तक किसी जमादार को नहीं मिला"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidnineabsent",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE JAMADARNI",
+        "hi": "बयान · जमादारनी"
+      },
+      "text": {
+        "en": "“Then he was in the pan. If forty-one are called and forty come, I say so and one name goes down absent, and I have said so nine times this season. I cannot say a man is absent from a sheet I cannot see.”",
+        "hi": "“तो वह क्यारी में रहा होगा। इकतालीस बुलाए जाएँ और चालीस आएँ तो मैं कह देती हूँ, और एक नाम ग़ैरहाज़िर लिख जाता है — इस सीज़न नौ बार कह चुकी हूँ। पर जो शीट मुझे दिखती ही नहीं, उसमें से किसी को ग़ैरहाज़िर मैं कैसे कहूँ।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ganpat",
+      "name": {
+        "en": "Ganpat Ram",
+        "hi": "गणपत राम"
+      },
+      "role": {
+        "en": "THE GANG'S HAZRI WRITER",
+        "hi": "गैंग का हाज़िरी लेखक"
+      },
+      "hook": {
+        "en": "every sheet is in his hand",
+        "hi": "हर शीट उसी की लिखाई में है"
+      },
+      "confession": {
+        "en": "Wrote Nanu Ram present for a hundred and sixty-three days after he walked, drew forty-three thousand six hundred and eighty-four rupees of his wages at the contractor's table a fortnight at a time, and sent five hundred of it home on the first Sunday of every month so that Chhoti Khatu would not send anybody to look. His daughter was married in Vaishakh. He says he meant to send the boy his money at the end of the season and that this is why he kept the sheets so carefully.",
+        "hi": "नानू राम के चले जाने के बाद एक सौ तिरसठ दिन उसे हाज़िर लिखा, ठेकेदार की मेज़ से पखवाड़े-पखवाड़े करके उसकी तैंतालीस हज़ार छह सौ चौरासी रुपये की मज़दूरी उठाई, और उसमें से हर महीने के पहले रविवार को पाँच सौ घर भिजवाता रहा — ताकि छोटी खाटू से कोई ढूँढ़ने न आए। वैशाख में उसकी बेटी की शादी थी। वह कहता है कि सीज़न के आख़िर में लड़के का पैसा उसे भेज देने का इरादा था, और शीटें उसने इसीलिए इतनी सँभालकर रखीं।"
+      }
+    },
+    {
+      "id": "ratni",
+      "name": {
+        "en": "Ratni Devi",
+        "hi": "रतनी देवी"
+      },
+      "role": {
+        "en": "THE GANG LEADER",
+        "hi": "जमादारनी"
+      },
+      "hook": {
+        "en": "her thumb is at the foot of every sheet",
+        "hi": "हर शीट के नीचे उसी का अंगूठा है"
+      },
+      "feminine": true,
+      "alibi": {
+        "en": "She marks what is put in front of her at the end of a fourteen-hour day and cannot read one word of it, which the works has known for four seasons and has written down nowhere. She was paid three hundred rupees a season for being jamadarni over forty-one hands, four of whom can read and none of whom was made jamadarni.",
+        "hi": "चौदह घंटे के दिन के आख़िर में जो उसके सामने रख दिया जाता है, वह उस पर निशान लगा देती है — और उसमें से एक शब्द वह पढ़ नहीं सकती। यह बात वर्क्स चार सीज़न से जानता है और कहीं लिखी नहीं है। इकतालीस हाथों की जमादारनी होने के उसे सीज़न के तीन सौ रुपये मिले, और उन इकतालीस में चार पढ़ना जानती हैं — जमादारनी उनमें से कोई नहीं बनाई गई।"
+      }
+    },
+    {
+      "id": "bheema",
+      "name": {
+        "en": "Bheema Ram",
+        "hi": "भीमा राम"
+      },
+      "role": {
+        "en": "THE MAN WHO CAME WITH HIM",
+        "hi": "जो उसके साथ आया था"
+      },
+      "hook": {
+        "en": "same village, same lorry, same hut",
+        "hi": "वही गाँव, वही लॉरी, वही झोंपड़ी"
+      },
+      "alibi": {
+        "en": "He reported it to the mate on the morning of Magh 16 and was told it had been written down. He sends his own money home by money order from the Nawa post office, has the receipts for every one of them, and cannot read a hazri sheet any more than the jamadarni can.",
+        "hi": "माघ 16 की सुबह उसने मेट को बता दिया था और उसे कहा गया कि लिख लिया है। अपना पैसा वह नावाँ डाकघर से मनीऑर्डर से भेजता है, हर एक की रसीद उसके पास है — और हाज़िरी की शीट वह भी उतनी ही नहीं पढ़ सकता जितनी जमादारनी।"
+      }
+    },
+    {
+      "id": "mahaveer",
+      "name": {
+        "en": "Mahaveer Prasad Choudhary",
+        "hi": "महावीर प्रसाद चौधरी"
+      },
+      "role": {
+        "en": "THE LABOUR CONTRACTOR",
+        "hi": "श्रम ठेकेदार"
+      },
+      "hook": {
+        "en": "the wages were drawn at his table",
+        "hi": "मज़दूरी उसी की मेज़ से उठी"
+      },
+      "alibi": {
+        "en": "He pays out against a hazri sheet and a thumb, which is what a labour contractor is for, and two hundred and fourteen packets go across that table every fortnight. He did not write one line of the sheet, he never saw Nanu Ram's face, and the five thousand of advance standing open against that thumb is his own money still out.",
+        "hi": "वह हाज़िरी शीट और अंगूठे के सामने पैसा देता है — श्रम ठेकेदार का काम ही यही है — और हर पखवाड़े दो सौ चौदह लिफ़ाफ़े उस मेज़ से गुज़रते हैं। शीट की एक पंक्ति उसने नहीं लिखी, नानू राम का चेहरा उसने कभी नहीं देखा, और उस अंगूठे पर खुली पड़ी पाँच हज़ार की पेशगी आज भी उसी का फँसा हुआ पैसा है।"
+      }
+    }
+  ],
+  "culpritId": "ganpat",
+  "interrogations": [
+    {
+      "suspectId": "ratni",
+      "setting": {
+        "en": "The bund above kyar nine at dusk, the season's water standing grey over the pans and forty-one women waiting further along it.",
+        "hi": "शाम के वक़्त क्यारी नौ के ऊपर की बाँध, क्यारियों पर ठहरा सीज़न का धूसर पानी, और उसी बाँध पर थोड़ी दूर खड़ी इकतालीस औरतें।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Your thumb is on a hundred and seventy-four sheets.",
+            "hi": "एक सौ चौहत्तर शीटों पर आपका अंगूठा है।"
+          },
+          "answer": {
+            "en": "“It is on every sheet of four seasons. He holds it out at the end of the day and I put it where his finger is. What is written above it has never been read to me and I have never been told I could ask.”",
+            "hi": "“चार सीज़न की हर शीट पर है। दिन ख़त्म होने पर वह काग़ज़ आगे कर देता है और जहाँ उसकी उँगली होती है, मैं वहीं लगा देती हूँ। ऊपर क्या लिखा है, वह मुझे कभी पढ़कर नहीं सुनाया गया — और यह भी किसी ने नहीं बताया कि मैं पूछ सकती हूँ।”"
+          },
+          "note": {
+            "en": "Four women in her own gang read and write. The gang was given to the one who does not.",
+            "hi": "उसकी अपनी गैंग की चार औरतें पढ़ना-लिखना जानती हैं। गैंग उसी को दी गई जो नहीं जानती।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Nanu Ram was on those sheets for five months.",
+            "hi": "नानू राम उन शीटों पर पाँच महीने रहा।"
+          },
+          "answer": {
+            "en": "“Then he was in the pan. If forty-one are called and forty come, I say so and one name goes down absent, and I have said so nine times this season. I cannot say a man is absent from a sheet I cannot see.”",
+            "hi": "“तो वह क्यारी में रहा होगा। इकतालीस बुलाए जाएँ और चालीस आएँ तो मैं कह देती हूँ, और एक नाम ग़ैरहाज़िर लिख जाता है — इस सीज़न नौ बार कह चुकी हूँ। पर जो शीट मुझे दिखती ही नहीं, उसमें से किसी को ग़ैरहाज़िर मैं कैसे कहूँ।”"
+          },
+          "needsClueId": "hazri",
+          "lockedHint": {
+            "en": "Take the hazri to the bund. She has nothing to answer until somebody reads her a sheet with her own mark on it.",
+            "hi": "हाज़िरी लेकर बाँध पर जाओ। जब तक कोई उसे उसके अपने निशान वाली शीट पढ़कर न सुनाए, उसके पास जवाब देने को कुछ है ही नहीं।"
+          },
+          "unlocksClueId": "saidnineabsent",
+          "note": {
+            "en": "Nine absences went down this season and every one of them is a woman of her own gang. Nanu Ram was never marked absent once.",
+            "hi": "इस सीज़न नौ ग़ैरहाज़िरियाँ दर्ज हुईं और हर एक उसकी अपनी गैंग की औरत की है। नानू राम एक बार भी ग़ैरहाज़िर नहीं लिखा गया।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ganpat",
+      "setting": {
+        "en": "The mate's room behind the camp store, a tin trunk of season sheets under the cot and a wedding photograph in a new frame on the shelf.",
+        "hi": "कैंप की दुकान के पीछे मेट का कमरा — खाट के नीचे सीज़न की शीटों वाला टीन का बक्सा और ताक़ पर नए फ़्रेम में शादी की तस्वीर।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Somebody handed five hundred rupees to a conductor every month.",
+            "hi": "हर महीने किसी ने कंडक्टर को पाँच सौ रुपये थमाए।"
+          },
+          "answer": {
+            "en": "“Half the camp sends money by the bus. It is cheaper than the post office and it gets there on the same day. You will not find one man on this lake who has not done it.”",
+            "hi": "“आधा कैंप बस से ही पैसा भेजता है। डाकघर से सस्ता पड़ता है और उसी दिन पहुँच जाता है। इस झील पर एक आदमी ऐसा नहीं मिलेगा जिसने यह न किया हो।”"
+          },
+          "needsClueId": "bus",
+          "lockedHint": {
+            "en": "Find out who stood at the Nawa stand first. He will talk about the whole camp until somebody puts one man on that platform.",
+            "hi": "पहले पता करो कि नावाँ स्टैंड पर खड़ा कौन था। जब तक कोई एक आदमी को उस प्लेटफ़ॉर्म पर खड़ा न कर दे, वह पूरे कैंप की बात करता रहेगा।"
+          },
+          "note": {
+            "en": "A man sending his own money sends it when he has it. This came on one Sunday a month for five months, like a rent.",
+            "hi": "अपना पैसा भेजने वाला तब भेजता है जब उसके पास होता है। यह पाँच महीने, महीने के एक ही रविवार को आया — किराए की तरह।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Forty-one thousand in cash between Chaitra and Vaishakh.",
+            "hi": "चैत और वैशाख के बीच इकतालीस हज़ार, नक़द।"
+          },
+          "answer": {
+            "en": "“I married a daughter. Tell me which father in this district has not borrowed for that. My brothers gave, my wife's people gave, the society gave — write to all of them.”",
+            "hi": "“मैंने बेटी ब्याही है। बता दीजिए, इस ज़िले का कौन-सा बाप इसके लिए उधार नहीं लेता। भाइयों ने दिया, ससुराल वालों ने दिया, समिति ने दिया — सबको लिख भेजिए।”"
+          },
+          "note": {
+            "en": "The society has no loan against him. His brothers have a field and no money on it. Forty-one thousand is a hundred and sixty-three days of a man at two hundred and sixty-eight rupees, to the rupee.",
+            "hi": "समिति में उसके नाम कोई क़र्ज़ नहीं है। भाइयों के पास खेत है, उस पर पैसा नहीं। इकतालीस हज़ार दो सौ अड़सठ रुपये रोज़ के हिसाब से एक आदमी के एक सौ तिरसठ दिन हैं — रुपये-रुपये तक।"
+          }
+        },
+        {
+          "ask": {
+            "en": "He is alive, and he is at a kiln outside Kekri.",
+            "hi": "वह ज़िंदा है, और केकड़ी के बाहर एक भट्टे पर है।"
+          },
+          "answer": {
+            "en": "“Then no harm has come to anybody, has it. He is earning there and his mother got her money here. I have kept every sheet of it in that trunk for five months, which is not what a man does when he is stealing.”",
+            "hi": "“तो किसी का कुछ बिगड़ा ही नहीं, है न। वहाँ वह कमा रहा है और यहाँ उसकी माँ को पैसा मिलता रहा। पाँच महीने की एक-एक शीट मैंने उसी बक्से में सँभालकर रखी है — चोरी करने वाला यह नहीं करता।”"
+          },
+          "needsClueId": "kekri",
+          "lockedHint": {
+            "en": "Find the man before you tell him you have. He has an answer for a dead boy and none at all for a live one.",
+            "hi": "यह कहने से पहले कि आपको वह मिल गया है, पहले उसे ढूँढ़ लीजिए। मरे हुए लड़के का जवाब उसके पास है, ज़िंदा लड़के का कोई नहीं।"
+          },
+          "note": {
+            "en": "He kept the sheets because they were his receipt. What he did not keep is one paper with Nanu Ram's name and his own on the same line.",
+            "hi": "शीटें उसने इसलिए रखीं कि वही उसकी रसीद थीं। जो उसने नहीं रखा, वह ऐसा एक भी काग़ज़ है जिस पर एक ही पंक्ति में नानू राम का नाम भी हो और उसका अपना भी।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "wedding",
+      "correction": {
+        "en": "The jamadarni was paid three hundred rupees for a season and the man from his village sends his own wage by money order with the receipts in a tin. One man on this camp put forty-one thousand rupees in cash across a tent house counter and a goldsmith's counter in eight weeks, on a wage of seven thousand six hundred a month.",
+        "hi": "जमादारनी को पूरे सीज़न के तीन सौ रुपये मिले, और उसके गाँव का आदमी अपनी मज़दूरी मनीऑर्डर से भेजता है और रसीदें टीन में रखता है। इस कैंप में एक ही आदमी ने आठ हफ़्तों में इकतालीस हज़ार रुपये नक़द टेंट हाउस और सुनार की खिड़की पर गिनाए — सात हज़ार छह सौ महीने की तनख़्वाह पर।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "hazri",
+      "correction": {
+        "en": "One hand writes the sheet and a thumb that cannot read it closes the sheet, and between the two there is nobody at all. Nine women of the same gang were marked absent this season. The one name that was never once absent belongs to the one man who was never once there.",
+        "hi": "शीट एक हाथ लिखता है और उसे बंद वह अंगूठा करता है जो उसे पढ़ नहीं सकता — और इन दोनों के बीच कोई है ही नहीं। इस सीज़न उसी गैंग की नौ औरतें ग़ैरहाज़िर लिखी गईं। जो एक नाम एक बार भी ग़ैरहाज़िर नहीं हुआ, वह उसी आदमी का है जो एक बार भी वहाँ नहीं था।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "bus",
+      "correction": {
+        "en": "Nobody hid a man. Somebody bought the five months in which nobody went looking, at a hundred rupees a week, on the first Sunday of every month, in a folded paper on a bus. A mother who is getting money does not go to a thana, and this one went the first month it stopped.",
+        "hi": "किसी ने आदमी को छिपाया नहीं। किसी ने वे पाँच महीने ख़रीद लिए जिनमें कोई ढूँढ़ने नहीं गया — हफ़्ते के सौ रुपये के हिसाब से, हर महीने के पहले रविवार को, बस में एक मुड़े हुए काग़ज़ में। जिस माँ को पैसा मिल रहा हो वह थाने नहीं जाती, और यह उसी महीने गई जिस महीने पैसा रुका।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "hazri",
+    "toClueId": "stopped",
+    "text": {
+      "en": "The hazri is the only paper in this camp that says he was here. Go and look at all the others — the grain shop, the dispensary, the bedroll, the boots.",
+      "hi": "इस कैंप में सिर्फ़ एक काग़ज़ कहता है कि वह यहाँ था — हाज़िरी। बाक़ी सब देख आइए: राशन दुकान, दवाख़ाना, बिस्तर, बूट।"
+    }
+  },
+  "bankedClue": {
+    "en": "A gang hazri that carried a man's name for a hundred and sixty-three days after he walked, marked at the foot by the gang leader",
+    "hi": "गैंग की वह हाज़िरी, जो एक आदमी के चले जाने के बाद भी एक सौ तिरसठ दिन उसका नाम ढोती रही — और नीचे जमादारनी का निशान लगा है"
+  }
+}

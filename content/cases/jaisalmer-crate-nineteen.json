@@ -1,0 +1,605 @@
+{
+  "id": "jaisalmer-crate-nineteen",
+  "schema": 1,
+  "city": "jaisalmer",
+  "genre": "smuggling",
+  "difficulty": "devious",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jaisalmer-havelis",
+    "caseNumber": 7
+  },
+  "title": {
+    "en": "Crate Nineteen",
+    "hi": "उन्नीसवाँ बक्सा"
+  },
+  "place": {
+    "en": "A packing yard, Jodhpur bypass · Kartik 8, 2:30 PM",
+    "hi": "एक पैकिंग यार्ड, जोधपुर बाईपास · कार्तिक 8, 2:30 PM"
+  },
+  "brief": {
+    "en": "A shipping bill at a Jodhpur exporter’s yard declares nineteen pieces of sandstone architectural reproductions for Antwerp, and the container left with eighteen and an intact seal. The nineteenth crate is standing in the yard under a four-day-old stencil reading garden furniture, painted over an arch repro nineteen. Inside it is a jali with a hand-forged iron cramp set in run lead across an old crack, which is how a stone was mended in this district before anybody now alive was born. The jali standing in bay nine of Kothari Haveli has no cramp, no crack, and shells in its stone.",
+    "hi": "जोधपुर के एक निर्यातक के यार्ड का शिपिंग बिल एंटवर्प के लिए बलुआ पत्थर की उन्नीस स्थापत्य प्रतिकृतियाँ घोषित करता है, और कंटेनर अठारह लेकर और सलामत सील के साथ निकल गया। उन्नीसवाँ बक्सा यार्ड में खड़ा है, चार दिन पुरानी ठप्पी के नीचे — ‘गार्डन फ़र्नीचर’, और उसके नीचे पुती हुई ‘आर्च रेप्रो 19’। उसके भीतर एक जाली है जिसकी पुरानी दरार पर हाथ से गढ़ी लोहे की पट्टी ढाले हुए सीसे में जमी है — इस ज़िले में पत्थर की मरम्मत ऐसे तब होती थी जब आज ज़िंदा कोई पैदा भी नहीं हुआ था। कोठारी हवेली की बाय नौ में खड़ी जाली पर न पट्टी है, न दरार, और उसके पत्थर में सीपियाँ हैं।"
+  },
+  "photoCaption": {
+    "en": "crate nineteen, stencil over stencil",
+    "hi": "उन्नीसवाँ बक्सा, ठप्पी पर ठप्पी"
+  },
+  "iraNote": {
+    "en": "“Eighteen of these are at sea and will not come back. We have this one only because somebody inside the theft decided to steal from the thief.”",
+    "hi": "“इनमें से अठारह समुद्र में हैं और अब लौटेंगे नहीं। यह एक हमारे पास सिर्फ़ इसलिए है कि चोरी के भीतर बैठे किसी ने चोर से चोरी करने का फ़ैसला कर लिया।”"
+  },
+  "clues": [
+    {
+      "id": "crate",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "CRATE NINETEEN",
+        "hi": "उन्नीसवाँ बक्सा"
+      },
+      "text": {
+        "en": "A stencil reading GARDEN FURNITURE 1 NO, laid over a coat of grey that is four days old, and under the grey the shadow of ARCH REPRO 19 in the yard’s own letters. Nothing else in this yard has been stencilled twice.",
+        "hi": "‘GARDEN FURNITURE 1 NO’ की ठप्पी, चार दिन पुराने भूरे रंग के ऊपर — और उस भूरे के नीचे यार्ड के अपने अक्षरों में ‘ARCH REPRO 19’ की परछाईं। इस यार्ड में और किसी चीज़ पर दो बार ठप्पी नहीं लगी है।"
+      }
+    },
+    {
+      "id": "cramp",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE IRON CRAMP",
+        "hi": "लोहे की पट्टी"
+      },
+      "text": {
+        "en": "A hand-forged iron cramp across an old crack in the jali’s lower rail, bedded in lead that was run in molten. Lead-set forged cramps are how this district mended stone until the nineteen-sixties, and nothing has been mended with anything but stainless and epoxy since.",
+        "hi": "जाली की निचली पट्टी की पुरानी दरार पर हाथ से गढ़ी लोहे की पट्टी, और उसके नीचे पिघलाकर भरा गया सीसा। इस ज़िले में पत्थर की मरम्मत साठ के दशक तक ढले सीसे में जमी गढ़ी पट्टियों से ही होती थी, और उसके बाद से मरम्मत सिर्फ़ स्टेनलेस और एपॉक्सी से हुई है।"
+      }
+    },
+    {
+      "id": "bed",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "TWO BEDS, TWO JALIS",
+        "hi": "दो परतें, दो जालियाँ"
+      },
+      "text": {
+        "en": "The crate’s jali is plain Jaisalmer bed, which is the hill this haveli stands on. The jali standing in bay nine is Habur, with shells in it, and Habur is nine kilometres from a house that was built out of its own ground.",
+        "hi": "बक्से की जाली सादा जैसलमेर परत की है — यानी उसी पहाड़ी की, जिस पर यह हवेली खड़ी है। बाय नौ में खड़ी जाली हाबूर की है, सीपियों वाली — और हाबूर उस घर से नौ किलोमीटर दूर है जो अपनी ही ज़मीन से बना था।"
+      }
+    },
+    {
+      "id": "pierce",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE PIERCINGS",
+        "hi": "छेदन"
+      },
+      "text": {
+        "en": "The crate’s holes taper and wander by up to a sixteenth, which is a bow drill and a hand that got tired. Bay nine’s run dead parallel to a thousandth, which is a jig, and a jig is a thing nobody in eighteen-hundred owned.",
+        "hi": "बक्से वाली जाली के छेद हल्के तिरछे होते जाते हैं और सोलहवें हिस्से तक इधर-उधर भटकते हैं — यानी कमानी वाली बरमी और थक जाने वाला हाथ। बाय नौ के छेद हज़ारवें हिस्से तक बिल्कुल समांतर हैं — यानी जिग, और जिग वह चीज़ है जो उन्नीसवीं सदी में किसी के पास थी ही नहीं।"
+      }
+    },
+    {
+      "id": "shipbill",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE SHIPPING BILL",
+        "hi": "शिपिंग बिल"
+      },
+      "text": {
+        "en": "Nineteen pieces, sandstone architectural reproductions, consignee a garden ornament wholesaler at Antwerp, filed and passed. The container was stuffed with eighteen and sealed, and the seal is intact and matches its number.",
+        "hi": "उन्नीस टुकड़े, बलुआ पत्थर की स्थापत्य प्रतिकृतियाँ, प्राप्तकर्ता एंटवर्प का एक गार्डन-सजावट थोक व्यापारी — दाख़िल और पास। कंटेनर में अठारह भरे गए और सील लगी, और सील सलामत है और उसका नंबर मिलता है।"
+      }
+    },
+    {
+      "id": "tally",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE YARD TALLY, ALTERED",
+        "hi": "यार्ड की तालिका, बदली हुई"
+      },
+      "text": {
+        "en": "The loading tally has been taken from nineteen to eighteen in a second ink and initialled by the munshi. The shipping bill was never touched, because the shipping bill is not in this yard — it goes forward to Kandla, and the two papers have never once been read side by side.",
+        "hi": "लदान तालिका में उन्नीस को दूसरी स्याही से अठारह किया गया है और मुंशी के छोटे हस्ताक्षर हैं। शिपिंग बिल को छुआ ही नहीं गया, क्योंकि शिपिंग बिल इस यार्ड में रहता ही नहीं — वह आगे कांडला जाता है, और ये दोनों काग़ज़ आज तक एक बार भी साथ रखकर नहीं पढ़े गए।"
+      }
+    },
+    {
+      "id": "advance",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "EIGHTY THOUSAND, DELHI",
+        "hi": "अस्सी हज़ार, दिल्ली"
+      },
+      "text": {
+        "en": "Eighty thousand rupees into the munshi’s brother’s account on Kartik four from an antiques dealer at Sundar Nagar, against a total of four lakh. A courier receipt in the yard office covers a packet of photographs sent to the same address on Ashwin twenty-nine.",
+        "hi": "कार्तिक चार को सुंदर नगर के एक प्राचीन-वस्तु व्यापारी से मुंशी के भाई के खाते में अस्सी हज़ार रुपए — कुल चार लाख में से। यार्ड दफ़्तर में एक कूरियर रसीद पड़ी है, जिसमें आश्विन उनतीस को उसी पते पर फ़ोटो का एक पैकेट भेजा गया है।"
+      }
+    },
+    {
+      "id": "lorries",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "HOW THE CRATES CAME",
+        "hi": "बक्से आए कैसे"
+      },
+      "text": {
+        "en": "All nineteen crates reached this yard across Bhadra and Ashwin on Mangi Lal Suthar’s own lorries, on site gate passes that call the contents site spoil. A gate pass has no column for what spoil is made of.",
+        "hi": "भादों और आश्विन में उन्नीसों बक्से मंगी लाल सुथार के अपने ट्रकों पर इस यार्ड तक आए — उन साइट गेट पासों पर, जो सामान को ‘साइट मलबा’ कहते हैं। गेट पास में यह लिखने का ख़ाना नहीं होता कि मलबा किस चीज़ का है।"
+      }
+    },
+    {
+      "id": "certificate",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "COMPLETION, NINETEEN PANELS",
+        "hi": "पूर्णता, उन्नीस पट्ट"
+      },
+      "text": {
+        "en": "A completion certificate for nineteen replacement panels, signed by the heritage architect on Kartik one. Rewat Singh Bhati’s store issued twenty-three new panels, and nineteen crates of what came out of those nineteen holes are on a shipping bill to Antwerp.",
+        "hi": "उन्नीस प्रतिस्थापन पट्टों का पूर्णता प्रमाण-पत्र, कार्तिक एक को हेरिटेज आर्किटेक्ट के हस्ताक्षर। रेवत सिंह भाटी के भंडार से तेईस नए पट्ट निकले, और उन उन्नीस ख़ाली हुई जगहों से जो निकला उसके उन्नीस बक्से एंटवर्प के शिपिंग बिल पर हैं।"
+      }
+    },
+    {
+      "id": "jeevrajbill",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO SIGNED FOR NINETEEN",
+        "hi": "उन्नीस पर दस्तख़त किसके"
+      },
+      "text": {
+        "en": "Jeevraj Jain signed the shipping bill for nineteen pieces before the container was stuffed.",
+        "hi": "कंटेनर भरे जाने से पहले जीवराज जैन ने उन्नीस टुकड़ों के शिपिंग बिल पर दस्तख़त किए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — every exporter on this bypass files before stuffing because the bill is what gets a box a slot; he is out one piece he has already paid for, and he opened his own yard and his own books to us unasked",
+        "hi": "ख़ारिज — इस बाईसपास का हर निर्यातक भरने से पहले बिल दाख़िल करता है, क्योंकि बिल ही बक्से को जगह दिलाता है; जिस एक टुकड़े का पैसा वह चुका चुका है वह उसे मिला नहीं — और अपना यार्ड और अपनी बहियाँ उसने बिना कहे हमारे सामने खोल दीं"
+      }
+    },
+    {
+      "id": "nazirseal",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE CONTAINER SEAL",
+        "hi": "कंटेनर की सील"
+      },
+      "text": {
+        "en": "The seal on the Antwerp container is intact and its number matches the stuffing report in every digit.",
+        "hi": "एंटवर्प कंटेनर की सील सलामत है और उसका नंबर स्टफ़िंग रिपोर्ट से हर अंक में मिलता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the seal is the one honest thing in the file and it is what proves eighteen; a seal counts nothing, it only says nobody opened the box afterwards",
+        "hi": "ख़ारिज — इस फ़ाइल की एक ईमानदार चीज़ वही सील है, और अठारह वही साबित करती है; सील कुछ गिनती नहीं, वह बस इतना कहती है कि बाद में बक्सा किसी ने खोला नहीं"
+      }
+    },
+    {
+      "id": "mangipasses",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE CONTRACTOR’S LORRIES",
+        "hi": "ठेकेदार के ट्रक"
+      },
+      "text": {
+        "en": "Mangi Lal Suthar’s lorries carried all nineteen crates two hundred and eighty kilometres to this yard.",
+        "hi": "मंगी लाल सुथार के ट्रक उन्नीसों बक्से दो सौ अस्सी किलोमीटर चलकर इस यार्ड तक लाए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he carried what the site’s gate passes called site spoil and filed every pass with the site the same evening; the word on a gate pass is written at the gate, not in a lorry",
+        "hi": "ख़ारिज — साइट के गेट पासों ने जिसे ‘साइट मलबा’ कहा वही उसने ढोया, और हर पास उसी शाम साइट में जमा किया; गेट पास का शब्द गेट पर लिखा जाता है, ट्रक में नहीं"
+      }
+    },
+    {
+      "id": "rewatissue",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "TWENTY-THREE PANELS ISSUED",
+        "hi": "तेईस पट्ट निर्गमित"
+      },
+      "text": {
+        "en": "Rewat Singh Bhati issued twenty-three new panels against a certificate for nineteen.",
+        "hi": "उन्नीस के प्रमाण-पत्र के सामने रेवत सिंह भाटी ने तेईस नए पट्ट दिए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nineteen went against written requisitions and four against verbal ones, and he wrote the word verbal in his own margin beside each of the four",
+        "hi": "ख़ारिज — उन्नीस लिखित मांगों पर गए और चार ज़बानी मांगों पर, और उन चारों के बग़ल में हाशिये पर उसने अपने हाथ से ‘ज़बानी’ लिखा है"
+      }
+    },
+    {
+      "id": "champastencil",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHOSE STENCIL AND PAINT",
+        "hi": "ठप्पी और रंग किसके"
+      },
+      "text": {
+        "en": "Champa Devi’s kit, Champa Devi’s grey, and Champa Devi’s hand on every crate that has ever left this yard.",
+        "hi": "चंपा देवी का सामान, चंपा देवी का भूरा रंग, और इस यार्ड से निकले हर बक्से पर चंपा देवी का ही हाथ।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she stencils to the tally and does not write the tally, and she is the one who said out loud that she had never in eleven years stencilled a crate twice",
+        "hi": "ख़ारिज — वह तालिका के हिसाब से ठप्पी लगाती है, तालिका लिखती नहीं — और यह ज़ोर से कहने वाली वही है कि ग्यारह साल में उसने किसी बक्से पर दो बार ठप्पी नहीं लगाई"
+      }
+    },
+    {
+      "id": "antwerp",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE ANTWERP CONSIGNEE",
+        "hi": "एंटवर्प का प्राप्तकर्ता"
+      },
+      "text": {
+        "en": "The buyer at the far end is a garden ornament wholesaler who has taken eleven consignments of reproductions off this yard in four years.",
+        "hi": "दूसरे सिरे का ख़रीदार एक गार्डन-सजावट थोक व्यापारी है, जिसने चार साल में इस यार्ड से प्रतिकृतियों की ग्यारह खेपें ली हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he buys reproductions and believes he is buying them; the offence is entirely in what was put into the boxes at this end, and eighteen of those boxes are already at sea",
+        "hi": "ख़ारिज — वह प्रतिकृतियाँ ख़रीदता है और यही समझकर ख़रीदता है; जुर्म पूरा-पूरा इस सिरे पर बक्सों में डाली गई चीज़ में है — और उन बक्सों में से अठारह अब समुद्र में हैं"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidtally",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE YARD MUNSHI",
+        "hi": "बयान · यार्ड मुंशी"
+      },
+      "text": {
+        "en": "“The tally is mine and the shipping bill is the agent’s. One of them lives in this yard and the other goes to Kandla. In nine years nobody has ever put those two papers on one table.”",
+        "hi": "“तालिका मेरी है और शिपिंग बिल एजेंट का। इनमें से एक इसी यार्ड में रहता है और दूसरा कांडला चला जाता है। नौ साल में इन दोनों काग़ज़ों को एक मेज़ पर रखने वाला कोई नहीं आया।”"
+      }
+    },
+    {
+      "id": "saidstencil",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE PACKING FOREWOMAN",
+        "hi": "बयान · पैकिंग जमादारनी"
+      },
+      "text": {
+        "en": "“I stencil what the tally says. If the tally says garden furniture, the crate says garden furniture. Eleven years in this yard and nobody has ever opened a crate after I closed it.”",
+        "hi": "“तालिका जो कहती है वही मैं ठप्पी से लिखती हूँ। तालिका गार्डन फ़र्नीचर कहे तो बक्सा गार्डन फ़र्नीचर कहेगा। इस यार्ड के ग्यारह साल में मेरे बंद किए बक्से को किसी ने कभी खोला नहीं।”"
+      }
+    },
+    {
+      "id": "saidsealed",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE STUFFING SUPERVISOR",
+        "hi": "बयान · स्टफ़िंग पर्यवेक्षक"
+      },
+      "text": {
+        "en": "“I count what goes into the box and then I put a seal on it. Eighteen went in. The bill is always written before the box is filled, because the bill is what gets the box its slot on the vessel.”",
+        "hi": "“मैं गिनता हूँ कि बक्से में क्या गया, और फिर सील लगाता हूँ। भीतर अठारह गए। बिल हमेशा बक्सा भरने से पहले लिखा जाता है, क्योंकि जहाज़ पर जगह बिल से ही मिलती है।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "sundar",
+      "name": {
+        "en": "Sundar Lal",
+        "hi": "सुंदर लाल"
+      },
+      "role": {
+        "en": "THE YARD MUNSHI",
+        "hi": "यार्ड मुंशी"
+      },
+      "hook": {
+        "en": "took the tally from nineteen to eighteen in his own ink",
+        "hi": "तालिका अपनी ही स्याही से उन्नीस से अठारह की"
+      },
+      "confession": {
+        "en": "Recognised the lead-set cramp for what it was, held crate nineteen back off the container, altered his own loading tally from nineteen to eighteen, had it stencilled garden furniture over the yard’s own lettering, and took eighty thousand of four lakh from a Sundar Nagar dealer into his brother’s account — stealing one original out of a consignment of nineteen from the men who had stolen all nineteen.",
+        "hi": "सीसे में जमी पट्टी को पहचान लिया कि वह क्या है, उन्नीसवाँ बक्सा कंटेनर में जाने से रोक लिया, अपनी ही लदान तालिका उन्नीस से अठारह कर दी, यार्ड के ही अक्षरों के ऊपर उस पर ‘गार्डन फ़र्नीचर’ की ठप्पी लगवाई, और सुंदर नगर के एक व्यापारी से चार लाख में से अस्सी हज़ार अपने भाई के खाते में ले लिए — यानी उन्नीस की खेप में से एक असली टुकड़ा उन्हीं लोगों से चुरा लिया जिन्होंने उन्नीसों चुराए थे।"
+      }
+    },
+    {
+      "id": "jeevraj",
+      "name": {
+        "en": "Jeevraj Jain",
+        "hi": "जीवराज जैन"
+      },
+      "role": {
+        "en": "THE EXPORTER",
+        "hi": "निर्यातक"
+      },
+      "hook": {
+        "en": "his yard, his bill, his container",
+        "hi": "यार्ड उसका, बिल उसका, कंटेनर उसका"
+      },
+      "alibi": {
+        "en": "He filed for nineteen before stuffing, as every exporter on this bypass does, and is out one piece he has already paid for. He opened his yard, his tally book and his bank to us before we asked, and he is the man the munshi robbed.",
+        "hi": "इस बाईपास के हर निर्यातक की तरह उसने भरने से पहले उन्नीस का बिल दाख़िल किया, और जिस एक टुकड़े का पैसा वह चुका चुका है वह उसे मिला नहीं। यार्ड, तालिका बही और बैंक — तीनों उसने हमारे माँगने से पहले खोल दिए, और मुंशी ने लूटा भी उसी को है।"
+      }
+    },
+    {
+      "id": "nazir",
+      "name": {
+        "en": "Nazir Ahmed",
+        "hi": "नज़ीर अहमद"
+      },
+      "role": {
+        "en": "THE STUFFING SUPERVISOR",
+        "hi": "स्टफ़िंग पर्यवेक्षक"
+      },
+      "hook": {
+        "en": "counted eighteen into the box and sealed it",
+        "hi": "बक्से में अठारह गिने और सील लगाई"
+      },
+      "alibi": {
+        "en": "He counted eighteen, wrote eighteen in the stuffing report and sealed against a number that matches. His eighteen against the bill’s nineteen is the whole discovery, and it is in his own handwriting.",
+        "hi": "उसने अठारह गिने, स्टफ़िंग रिपोर्ट में अठारह लिखे और उस नंबर पर सील लगाई जो मिलता है। बिल के उन्नीस के सामने उसका अठारह ही पूरी खोज है — और वह उसी के हाथ का लिखा है।"
+      }
+    },
+    {
+      "id": "champa",
+      "name": {
+        "en": "Champa Devi",
+        "hi": "चंपा देवी"
+      },
+      "role": {
+        "en": "THE PACKING FOREWOMAN",
+        "hi": "पैकिंग जमादारनी"
+      },
+      "hook": {
+        "en": "the second stencil is her paint and her hand",
+        "hi": "दूसरी ठप्पी उसी का रंग, उसी का हाथ"
+      },
+      "alibi": {
+        "en": "She stencils to the tally and has never written a tally in eleven years. She is also the one who said, unprompted, that she had never before been told to letter a crate twice.",
+        "hi": "वह तालिका के हिसाब से ठप्पी लगाती है और ग्यारह साल में उसने कोई तालिका लिखी ही नहीं। और यह बिना पूछे कहने वाली भी वही है कि किसी बक्से पर दो बार अक्षर लिखने को उससे पहले कभी नहीं कहा गया था।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "mangi",
+      "name": {
+        "en": "Mangi Lal Suthar",
+        "hi": "मंगी लाल सुथार"
+      },
+      "role": {
+        "en": "THE DEBRIS CONTRACTOR",
+        "hi": "मलबा ठेकेदार"
+      },
+      "hook": {
+        "en": "all nineteen crates came two hundred and eighty kilometres on his lorries",
+        "hi": "उन्नीसों बक्से उसी के ट्रकों पर दो सौ अस्सी किलोमीटर आए"
+      },
+      "alibi": {
+        "en": "He carried crates the site’s own gate passes called site spoil and filed every pass back with the site the same evening. The word on a gate pass is written at a gate by a gate writer, and he has never been given a crate list to check anything against.",
+        "hi": "उसने वे बक्से ढोए जिन्हें साइट के अपने गेट पासों ने ‘साइट मलबा’ कहा, और हर पास उसी शाम साइट में जमा किया। गेट पास का शब्द गेट पर गेट मुंशी लिखता है, और कुछ मिलाने के लिए उसे कोई बक्सा-सूची कभी दी ही नहीं गई।"
+      }
+    },
+    {
+      "id": "rewat",
+      "name": {
+        "en": "Rewat Singh Bhati",
+        "hi": "रेवत सिंह भाटी"
+      },
+      "role": {
+        "en": "THE SITE STOREKEEPER",
+        "hi": "साइट भंडारी"
+      },
+      "hook": {
+        "en": "issued twenty-three panels against a certificate for nineteen",
+        "hi": "उन्नीस के प्रमाण-पत्र पर तेईस पट्ट दिए"
+      },
+      "alibi": {
+        "en": "Nineteen went out against written requisitions and four against verbal ones, and beside each of those four he wrote the word verbal in his own margin. That margin is the only reason anybody can count to twenty-three at all.",
+        "hi": "उन्नीस लिखित मांगों पर गए और चार ज़बानी मांगों पर, और उन चारों के बग़ल में हाशिये पर उसने अपने हाथ से ‘ज़बानी’ लिखा। तेईस तक गिनना किसी के लिए मुमकिन है, तो सिर्फ़ उसी हाशिये की वजह से।"
+      }
+    }
+  ],
+  "culpritId": "sundar",
+  "interrogations": [
+    {
+      "suspectId": "nazir",
+      "setting": {
+        "en": "The stuffing bay, a stuffing report on a clipboard, and an empty pallet where a nineteenth crate should have stood.",
+        "hi": "स्टफ़िंग बे, तख़्ती पर स्टफ़िंग रिपोर्ट, और वह ख़ाली पैलेट जहाँ उन्नीसवाँ बक्सा खड़ा होना चाहिए था।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "The bill says nineteen and you sealed eighteen.",
+            "hi": "बिल उन्नीस कहता है और आपने अठारह पर सील लगाई।"
+          },
+          "answer": {
+            "en": "“I count what goes into the box and then I put a seal on it. Eighteen went in. The bill is always written before the box is filled, because the bill is what gets the box its slot on the vessel.”",
+            "hi": "“मैं गिनता हूँ कि बक्से में क्या गया, और फिर सील लगाता हूँ। भीतर अठारह गए। बिल हमेशा बक्सा भरने से पहले लिखा जाता है, क्योंकि जहाज़ पर जगह बिल से ही मिलती है।”"
+          },
+          "needsClueId": "shipbill",
+          "lockedHint": {
+            "en": "Pin the shipping bill. His eighteen is only a discrepancy once the nineteen it disagrees with is on the board.",
+            "hi": "शिपिंग बिल टाँगो। उसका अठारह विसंगति तभी बनता है जब वह उन्नीस बोर्ड पर हो जिससे वह टकरा रहा है।"
+          },
+          "unlocksClueId": "saidsealed",
+          "note": {
+            "en": "The bill is written before the box is filled, everywhere, always. That is not a loophole somebody found; it is how the trade breathes.",
+            "hi": "बक्सा भरने से पहले बिल लिखा जाता है — हर जगह, हमेशा। यह कोई छेद नहीं है जो किसी ने ढूँढ़ा; यही इस धंधे की साँस है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "champa",
+      "setting": {
+        "en": "The stencil bench, a tin of grey with a skin on it, and eleven years of cut zinc letters in a wooden tray.",
+        "hi": "ठप्पी वाली बेंच, ऊपर परत जमी भूरे रंग की डिब्बी, और लकड़ी की ट्रे में ग्यारह साल के कटे ज़िंक अक्षर।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You lettered this crate twice.",
+            "hi": "इस बक्से पर आपने दो बार अक्षर लिखे।"
+          },
+          "answer": {
+            "en": "“I stencil what the tally says. If the tally says garden furniture, the crate says garden furniture. Eleven years in this yard and nobody has ever opened a crate after I closed it.”",
+            "hi": "“तालिका जो कहती है वही मैं ठप्पी से लिखती हूँ। तालिका गार्डन फ़र्नीचर कहे तो बक्सा गार्डन फ़र्नीचर कहेगा। इस यार्ड के ग्यारह साल में मेरे बंद किए बक्से को किसी ने कभी खोला नहीं।”"
+          },
+          "needsClueId": "crate",
+          "lockedHint": {
+            "en": "Pin the crate. She will not talk about a second stencil she cannot see the first one under.",
+            "hi": "बक्सा टाँगो। जिस दूसरी ठप्पी के नीचे पहली उसे दिख न रही हो, उस पर वह बात नहीं करेगी।"
+          },
+          "unlocksClueId": "saidstencil",
+          "note": {
+            "en": "Nobody in eleven years has opened a crate she closed. Somebody worked that out, and it was not her.",
+            "hi": "ग्यारह साल में उसके बंद किए बक्से को किसी ने नहीं खोला। यह किसी ने समझ लिया — और वह वह नहीं थी।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "jeevraj",
+      "setting": {
+        "en": "The yard office, a tally book and a bank passbook squared on the table, both opened by him.",
+        "hi": "यार्ड का दफ़्तर, मेज़ पर सीधी रखी तालिका बही और बैंक पासबुक — दोनों उसी ने खोली हैं।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You paid for nineteen and shipped eighteen.",
+            "hi": "आपने उन्नीस के पैसे दिए और अठारह भेजे।"
+          },
+          "answer": {
+            "en": "“I paid for nineteen crates of reproductions at nine thousand each, which is my rate, and one of them is still standing in my yard with somebody else’s stencil on it. I am the only man on this bypass who has lost money this month.”",
+            "hi": "“मैंने प्रतिकृतियों के उन्नीस बक्सों के नौ-नौ हज़ार दिए — यह मेरा रेट है — और उनमें से एक अब भी मेरे यार्ड में किसी और की ठप्पी लिए खड़ा है। इस पूरे बाईपास पर इस महीने पैसा गँवाने वाला अकेला आदमी मैं हूँ।”"
+          },
+          "needsClueId": "tally",
+          "lockedHint": {
+            "en": "Pin the altered tally. He will not accept that a crate was held back until his own book shows him where it happened.",
+            "hi": "बदली हुई तालिका टाँगो। जब तक उसकी अपनी बही उसे यह न दिखा दे कि हुआ कहाँ, वह मानेगा नहीं कि कोई बक्सा रोका गया।"
+          },
+          "note": {
+            "en": "Nine thousand a crate for reproductions, and he believed that is what he was buying. He has been the cover the whole way along.",
+            "hi": "प्रतिकृतियों के नौ हज़ार प्रति बक्सा — और वह यही समझकर ख़रीद रहा था। शुरू से आख़िर तक ओट वही रहा है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "sundar",
+      "setting": {
+        "en": "The tally desk by the gate, a second ink bottle on the shelf, and crate nineteen visible through the doorway.",
+        "hi": "गेट के पास तालिका की मेज़, ताक़ पर दूसरी स्याही की शीशी, और दरवाज़े से दिखता उन्नीसवाँ बक्सा।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Nineteen became eighteen in your hand and in a second ink.",
+            "hi": "आपके हाथ से और दूसरी स्याही से उन्नीस अठारह हो गया।"
+          },
+          "answer": {
+            "en": "“Corrections happen. A crate cracks, a crate is short, a crate does not go. I write the correction and I put my initials on it, which is more than most yards on this road bother to do.”",
+            "hi": "“सुधार होते हैं। बक्सा चटक जाता है, बक्सा कम पड़ जाता है, बक्सा जाता ही नहीं। मैं सुधार लिखता हूँ और उस पर अपने हस्ताक्षर करता हूँ — इस सड़क के ज़्यादातर यार्ड इतना भी नहीं करते।”"
+          },
+          "needsClueId": "tally",
+          "lockedHint": {
+            "en": "Pin the altered tally. He is proud of initialling it, and the initials are what tie the correction to one hand.",
+            "hi": "बदली हुई तालिका टाँगो। हस्ताक्षर करने पर उसे गर्व है — और वही हस्ताक्षर उस सुधार को एक ही हाथ से बाँधते हैं।"
+          },
+          "unlocksClueId": "saidtally",
+          "note": {
+            "en": "He has explained why he was safe and not why he was right. Two papers, two towns, and nine years of nobody comparing them.",
+            "hi": "उसने यह बताया कि वह महफ़ूज़ क्यों था, यह नहीं कि वह सही क्यों था। दो काग़ज़, दो शहर — और नौ साल, जिसमें किसी ने उन्हें मिलाया नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "There is an iron cramp in lead in that jali.",
+            "hi": "उस जाली में सीसे में जमी लोहे की पट्टी है।"
+          },
+          "answer": {
+            "en": "“I have handled stone for nineteen years. Nobody has run lead into a cramp since my father’s time, and everybody in this trade knows what it means when you see one.”",
+            "hi": "“उन्नीस साल से पत्थर के बीच हूँ। मेरे बाप के ज़माने के बाद पट्टी में सीसा किसी ने नहीं ढाला, और इस धंधे का हर आदमी जानता है कि वह दिख जाए तो उसका क्या मतलब है।”"
+          },
+          "needsClueId": "cramp",
+          "lockedHint": {
+            "en": "Pin the cramp. He will not admit knowing what he was looking at until it is on the board where he can look at it again.",
+            "hi": "पट्टी टाँगो। जब तक वह बोर्ड पर न आ जाए और वह उसे फिर देख न सके, वह यह नहीं मानेगा कि उसे मालूम था कि वह क्या देख रहा है।"
+          },
+          "note": {
+            "en": "He has just told us he knew. Everybody in the trade knows, and that is why crate nineteen never went into the box.",
+            "hi": "उसने अभी मान लिया कि उसे पता था। इस धंधे में यह सबको पता है — और इसीलिए उन्नीसवाँ बक्सा कंटेनर में गया ही नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eighty thousand rupees, Kartik four, into your brother’s account.",
+            "hi": "कार्तिक चार, अस्सी हज़ार रुपए, आपके भाई के खाते में।"
+          },
+          "answer": {
+            "en": "“Four lakh for one piece. Eighteen went to Antwerp at nine thousand a crate and nobody in this yard will ever be asked about them. I took one, and I am the one you have.”",
+            "hi": "“एक टुकड़े के चार लाख। अठारह नौ-नौ हज़ार के बक्सों में एंटवर्प चले गए और इस यार्ड में उनके बारे में किसी से कभी कुछ नहीं पूछा जाएगा। मैंने एक लिया — और पकड़ में मैं ही हूँ।”"
+          },
+          "needsClueId": "advance",
+          "lockedHint": {
+            "en": "Pin the Delhi transfer. He will keep the figure vague until a date and an account number of his family’s are on the table.",
+            "hi": "दिल्ली वाला भुगतान टाँगो। जब तक मेज़ पर एक तारीख़ और उसके परिवार का खाता नंबर न आ जाए, वह रक़म गोल ही रखेगा।"
+          },
+          "note": {
+            "en": "He is not wrong about the eighteen, and it is the worst sentence in this file.",
+            "hi": "अठारह के बारे में वह ग़लत नहीं है — और इस पूरी फ़ाइल का सबसे बुरा वाक्य यही है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "advance",
+      "correction": {
+        "en": "The exporter is out a crate he had already paid nine thousand for and the stuffing supervisor sealed against his own honest count. One man had eighty thousand rupees of a four lakh private sale in his brother’s account, and a courier receipt for photographs sent to the buyer a week before.",
+        "hi": "निर्यातक के वे नौ हज़ार डूबे जो वह उस बक्से के दे चुका था, और स्टफ़िंग पर्यवेक्षक ने अपनी ही सच्ची गिनती पर सील लगाई। एक ही आदमी था जिसके भाई के खाते में चार लाख की निजी बिक्री के अस्सी हज़ार पड़े थे — और उससे एक हफ़्ता पहले ख़रीदार को फ़ोटो भेजने की कूरियर रसीद थी।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidtally",
+      "correction": {
+        "en": "Nothing had to be broken and nothing had to be forged. The loading tally lives in this yard and the shipping bill goes on to Kandla, and in nine years nobody has ever put the two on one table — so nineteen could become eighteen in one hand without touching a single official paper.",
+        "hi": "यहाँ न कुछ तोड़ना था, न कुछ जाली बनाना था। लदान तालिका इसी यार्ड में रहती है और शिपिंग बिल आगे कांडला चला जाता है, और नौ साल में उन्हें एक मेज़ पर रखने वाला कोई नहीं आया — सो किसी सरकारी काग़ज़ को छुए बिना, एक ही हाथ में उन्नीस अठारह हो गया।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidstencil",
+      "correction": {
+        "en": "The crate never had to leave. It was lettered garden furniture over the yard’s own arch repro nineteen and left standing in the open, because in eleven years nobody in this yard has ever opened a crate after the packing bench closed it.",
+        "hi": "बक्से को कहीं जाना ही नहीं था। यार्ड की अपनी ‘आर्च रेप्रो 19’ के ऊपर उस पर ‘गार्डन फ़र्नीचर’ लिख दिया गया और उसे खुले में खड़ा छोड़ दिया गया — क्योंकि ग्यारह साल में इस यार्ड में पैकिंग बेंच के बंद किए बक्से को किसी ने खोला ही नहीं।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "bed",
+    "toClueId": "cramp",
+    "text": {
+      "en": "Two jalis, one in a wall and one in a crate, and the stone already tells you which hill each came off. Now find the thing that only two hundred years can put into a stone, because a bed can be argued with and a repair cannot.",
+      "hi": "दो जालियाँ — एक दीवार में, एक बक्से में — और पत्थर पहले ही बता देता है कि कौन किस पहाड़ी की है। अब वह चीज़ ढूँढ़िए जो पत्थर में दो सौ साल के सिवा कोई नहीं डाल सकता, क्योंकि परत पर बहस हो सकती है और मरम्मत पर नहीं।"
+    }
+  },
+  "bankedClue": {
+    "en": "A completion certificate for nineteen replacement panels, over a store that issued twenty-three",
+    "hi": "उन्नीस प्रतिस्थापन पट्टों का पूर्णता प्रमाण-पत्र — और उस भंडार के ऊपर, जिसने तेईस दिए"
+  }
+}

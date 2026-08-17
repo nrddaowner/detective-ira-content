@@ -1,0 +1,665 @@
+{
+  "id": "bikaner-fourteen-money-orders",
+  "schema": 1,
+  "city": "bikaner",
+  "genre": "fraud",
+  "difficulty": "devious",
+  "ambience": "TrainClatter",
+  "story": {
+    "id": "bikaner-sweet-war",
+    "caseNumber": 5
+  },
+  "title": {
+    "en": "Fourteen Money Orders",
+    "hi": "चौदह मनीऑर्डर"
+  },
+  "place": {
+    "en": "Bikaner head post office, Station Road · Phalgun 24, 11:40 AM",
+    "hi": "बीकानेर प्रधान डाकघर, स्टेशन रोड · फागुन 24, 11:40 AM"
+  },
+  "brief": {
+    "en": "An eviction suit was filed in Phalgun pleading fourteen months of default, and default will unseat a tenancy older than 1962 as surely as subletting will. The halwai has sent his rent by money order every month since 1997 because no receipt has ever been given to him, and he keeps fourteen counterfoils in a polythene bag. The landlord’s rent book carries the word refused against all fourteen of those months. The head post office paid all fourteen at its own counter, on fourteen different days, and has refunded nothing to anybody.",
+    "hi": "फागुन में बेदख़ली का दावा लगा — चौदह महीने का बकाया — और बकाया 1962 से पुरानी किरायेदारी को उतनी ही पक्की तरह उखाड़ता है जितनी उपकिरायेदारी। हलवाई 1997 से हर महीने किराया मनीऑर्डर से भेजता है, क्योंकि रसीद उसे कभी नहीं दी गई, और चौदह रसीदें वह एक पॉलिथीन में रखता है। मकान मालिक की किराया बही में उन चौदहों महीनों के सामने ‘इनकार’ लिखा है। प्रधान डाकघर ने चौदहों की अदायगी अपनी ही खिड़की पर, चौदह अलग-अलग तारीख़ों को की — और किसी को कुछ लौटाया नहीं।"
+  },
+  "photoCaption": {
+    "en": "the payment list, fourteen lines marked",
+    "hi": "अदायगी सूची, चौदह पंक्तियाँ निशान लगी"
+  },
+  "iraNote": {
+    "en": "“A word in a book is not an event. For a refusal to exist somebody has to stand at a door and be turned away, and in this whole story nobody has ever stood at a door.”",
+    "hi": "“बही का एक शब्द घटना नहीं होता। ‘इनकार’ के होने के लिए किसी को दरवाज़े पर खड़ा होकर लौटाया जाना पड़ता है — और इस पूरे किस्से में कोई दरवाज़े पर खड़ा ही नहीं हुआ।”"
+  },
+  "clues": [
+    {
+      "id": "plaint",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE PLAINT, FOURTEEN MONTHS",
+        "hi": "दावा, चौदह महीने"
+      },
+      "text": {
+        "en": "Filed on Phalgun eleven: wilful default across the fourteen months ending with Magh, and not one other ground pleaded — no nuisance, no alteration, no bona fide need. The relief asked for is possession, and the arrears claimed come to four hundred and thirty-four rupees.",
+        "hi": "फागुन ग्यारह को दाख़िल: माघ पर ख़त्म होने वाले चौदह महीनों का जान-बूझकर बकाया — और कोई दूसरा आधार नहीं लिखा; न परेशानी, न तोड़फोड़, न अपनी ज़रूरत। माँगी गई राहत क़ब्ज़ा है, और दावा किया गया बकाया चार सौ चौंतीस रुपये बैठता है।"
+      }
+    },
+    {
+      "id": "counterfoils",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "FOURTEEN COUNTERFOILS",
+        "hi": "चौदह रसीदें"
+      },
+      "text": {
+        "en": "Thirty-one rupees a month and the commission stamped beside it, which Kishan Lal Agarwal has paid two hundred and eighty times since 1997. Every one of the fourteen carries the booking window’s own date stamp, so the money left this family and entered the Government of India on the day the coupon says it did.",
+        "hi": "महीने के इकतीस रुपये और उसके बग़ल में मुहर लगा कमीशन — जो किशन लाल अग्रवाल 1997 से दो सौ अस्सी बार भर चुके हैं। चौदहों पर बुकिंग खिड़की की अपनी तारीख़ की मुहर है, यानी पैसा इस परिवार से निकला और भारत सरकार में उसी दिन दाख़िल हुआ, जो दिन रसीद पर लिखा है।"
+      }
+    },
+    {
+      "id": "journal",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE MONEY ORDER JOURNAL",
+        "hi": "मनीऑर्डर की अदायगी सूची"
+      },
+      "text": {
+        "en": "The office’s own payment list carries all fourteen as paid at the counter, on fourteen different dates between the ninth and the twenty-sixth of their months. Each line has a rupee figure, a payee’s signature and the file number of a written authority, and all fourteen signatures are one hand.",
+        "hi": "दफ़्तर की अपनी अदायगी सूची चौदहों को खिड़की पर अदा बताती है — अपने-अपने महीने की नौ से छब्बीस के बीच चौदह अलग-अलग तारीख़ों को। हर पंक्ति में रक़म, पानेवाले के दस्तख़त और एक लिखित प्राधिकार की फ़ाइल संख्या है — और चौदहों दस्तख़त एक ही हाथ के हैं।"
+      }
+    },
+    {
+      "id": "authority",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE AUTHORITY OF 2011",
+        "hi": "2011 का प्राधिकार"
+      },
+      "text": {
+        "en": "On the office file since 2011, on the landlord’s letterhead: my munim Girdhari Lal Bissa may receive all money orders addressed to me. It has never been cancelled, and until it is, the counter is obliged to pay the man who holds it.",
+        "hi": "2011 से दफ़्तर की फ़ाइल में, मकान मालिक के लेटरहेड पर: मेरे नाम आने वाले सभी मनीऑर्डर मेरा मुनीम गिरधारी लाल बिस्सा प्राप्त कर सकता है। वह आज तक रद्द नहीं हुआ — और जब तक नहीं होता, खिड़की उसे रखने वाले आदमी को अदा करने के लिए बाध्य है।"
+      }
+    },
+    {
+      "id": "norefund",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "NOTHING WAS EVER REFUNDED",
+        "hi": "लौटाया कुछ भी नहीं गया"
+      },
+      "text": {
+        "en": "A money order that is refused comes back to the sender and the amount is repaid to him against a voucher, because the department cannot keep money it did not deliver. In eleven years there is no returned order and no refund voucher in this remitter’s name, in a district that raises four hundred of them a month.",
+        "hi": "जिस मनीऑर्डर से इनकार हो जाए, वह भेजने वाले के पास लौटता है और रक़म एक वाउचर पर उसे वापस दी जाती है — क्योंकि जो पहुँचाया नहीं, वह पैसा महकमा रख नहीं सकता। ग्यारह साल में इस भेजने वाले के नाम न कोई लौटा मनीऑर्डर है, न कोई वापसी वाउचर — उस ज़िले में, जो महीने के चार सौ वाउचर बनाता है।"
+      }
+    },
+    {
+      "id": "rentbook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "REFUSED, ON THE FIFTH",
+        "hi": "इनकार, पाँच तारीख़ को"
+      },
+      "text": {
+        "en": "The rent book’s fourteen entries all sit against the fifth of the month, one word each, refused. The post office paid on the eleventh, the twenty-second, the ninth, the nineteenth and ten other dates, none of them a fifth, so a book that is written on one date every month is describing something it never went and looked at.",
+        "hi": "किराया बही की चौदहों प्रविष्टियाँ महीने की पाँच तारीख़ के सामने बैठी हैं — हर एक में एक ही शब्द, ‘इनकार’। डाकघर ने ग्यारह, बाईस, नौ, उन्नीस और दस अन्य तारीख़ों को अदा किया — इनमें एक भी पाँच नहीं — यानी हर महीने एक ही तारीख़ को लिखी जाने वाली बही उस बात का ब्योरा दे रही है, जिसे उसने जाकर देखा ही नहीं।"
+      }
+    },
+    {
+      "id": "beatbook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE POSTMAN’S BEAT BOOK",
+        "hi": "डाकिये की बीट बही"
+      },
+      "text": {
+        "en": "A money order is carried to the address and paid at the door, and if it is refused there the postman endorses it and brings it back the same evening. Fourteen months of this beat’s books show no money order carried to Chhangani building at all, because every one of these fourteen was collected at the head office window instead.",
+        "hi": "मनीऑर्डर पते पर ले जाकर दरवाज़े पर अदा होता है, और वहाँ इनकार हो जाए तो डाकिया उस पर पृष्ठांकन करके उसी शाम वापस ले आता है। इस बीट की चौदह महीने की बहियाँ बताती हैं कि छंगाणी बिल्डिंग तक कोई मनीऑर्डर ले जाया ही नहीं गया — क्योंकि इन चौदहों को उसकी जगह प्रधान डाकघर की खिड़की से ले लिया गया।"
+      }
+    },
+    {
+      "id": "cashbook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE MUNIM’S CASH BOOK",
+        "hi": "मुनीम की रोकड़ बही"
+      },
+      "text": {
+        "en": "Thirty-one properties in one hand, collections and remittances, ruled and totalled every Thursday. Pasted inside the back cover is a receipt of eleven lakh taken as advance from a hotel company against an agreement to sell both frontages of this lane, possession to be given free of tenants by Chaitra, the advance returnable with interest if it is not.",
+        "hi": "एक ही हाथ में इकतीस जायदादें — वसूली और भेजाई, हर बृहस्पतिवार लकीर खींचकर जोड़ी हुई। पिछले पन्ने के भीतर चिपकी है एक रसीद: एक होटल कंपनी से ग्यारह लाख बयाना, इस गली के दोनों फ़्रंट बेचने के इकरारनामे पर — क़ब्ज़ा चैत तक किरायेदारों से ख़ाली देना है, और न दिया जाए तो बयाना ब्याज समेत वापस।"
+      }
+    },
+    {
+      "id": "tractor",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "AN INSTALMENT AT NOKHA",
+        "hi": "नोखा की एक क़िस्त"
+      },
+      "text": {
+        "en": "A tractor bought at Nokha on hire-purchase in his son’s name: eleven thousand a month, paid in cash at the branch on the second or third of every month for nineteen months. A munim of thirty-one properties is paid nine thousand a month and has been paid nine thousand a month since 2016.",
+        "hi": "नोखा में किश्तों पर, बेटे के नाम ख़रीदा एक ट्रैक्टर: महीने के ग्यारह हज़ार, उन्नीस महीने से हर महीने की दो या तीन तारीख़ को शाखा में नक़द जमा। इकतीस जायदादों के मुनीम को नौ हज़ार महीना मिलता है — और 2016 से नौ हज़ार ही मिलता आया है।"
+      }
+    },
+    {
+      "id": "posted",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO CARRIES IT TO THE WINDOW",
+        "hi": "खिड़की तक कौन ले जाता है"
+      },
+      "text": {
+        "en": "Vinod Agarwal has walked his father’s money order to the booking window on the first of every month for nine years.",
+        "hi": "विनोद अग्रवाल नौ साल से हर महीने की पहली को अपने पिता का मनीऑर्डर बुकिंग खिड़की तक ले जाते आए हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the booking window stamps his coupon before he leaves it, and booking and payment are two different windows with two different clerks and two different books",
+        "hi": "ख़ारिज — बुकिंग खिड़की उसके निकलने से पहले उसकी रसीद पर मुहर लगा देती है, और बुकिंग और अदायगी दो अलग खिड़कियाँ हैं — दो अलग बाबू, दो अलग बहियाँ"
+      }
+    },
+    {
+      "id": "beatchange",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE BEAT CHANGED TWICE",
+        "hi": "बीट दो बार बदली"
+      },
+      "text": {
+        "en": "This beat has had three postmen in fourteen months, one of them for only the six weeks of Ashwin and Kartik.",
+        "hi": "चौदह महीनों में इस बीट पर तीन डाकिये रहे — एक तो सिर्फ़ आसोज-कातिक के छह हफ़्ते।"
+      },
+      "dismissNote": {
+        "en": "ruled out — all fourteen were paid at the counter regardless of who held the beat, which is exactly why the beat does not appear in this case at all",
+        "hi": "ख़ारिज — बीट किसके पास थी, इससे बेपरवाह चौदहों की अदायगी खिड़की पर हुई — और इसीलिए इस केस में बीट कहीं आती ही नहीं"
+      }
+    },
+    {
+      "id": "arrears",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE SHOP’S OTHER ARREARS",
+        "hi": "दुकान के दूसरे बकाया"
+      },
+      "text": {
+        "en": "The shop is four thousand one hundred behind on electricity and its licence renewal has been lying unpaid since the suspension.",
+        "hi": "दुकान पर बिजली का चार हज़ार एक सौ बाक़ी है और निलंबन के बाद से उसका लाइसेंस नवीनीकरण भी बिना भरा पड़ा है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the plaint pleads rent and only rent, and a tenancy is not forfeited by owing a discom or a licensing office",
+        "hi": "ख़ारिज — दावे में किराया है और सिर्फ़ किराया, और बिजली महकमे या लाइसेंस दफ़्तर का बाक़ी होने से किरायेदारी नहीं जाती"
+      }
+    },
+    {
+      "id": "deposit",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE DEPOSIT NOBODY MENTIONED",
+        "hi": "वह जमा, जिसका ज़िक्र किसी ने नहीं किया"
+      },
+      "text": {
+        "en": "A tenant whose rent is refused may deposit it with the court and the default dies there, which is what the halwai’s son found out in Chaitra from a stranger in a queue.",
+        "hi": "जिस किरायेदार का किराया लौटा दिया जाए, वह उसे अदालत में जमा कर सकता है और बकाया वहीं ख़त्म हो जाता है — यह हलवाई के बेटे को चैत में एक क़तार में खड़े अजनबी से पता चला।"
+      },
+      "dismissNote": {
+        "en": "ruled out — it is the answer to the suit and not to the case; fourteen orders were paid to somebody, and knowing what could have been done instead does not say who took them",
+        "hi": "ख़ारिज — यह दावे का जवाब है, केस का नहीं; चौदह मनीऑर्डर किसी को अदा हुए हैं, और ‘क्या किया जा सकता था’ जानने से यह पता नहीं चलता कि लिए किसने"
+      }
+    },
+    {
+      "id": "fee",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE LAWYER’S ENGAGEMENT",
+        "hi": "वकील की नियुक्ति"
+      },
+      "text": {
+        "en": "The firm is on a fee that rises if possession is delivered, and the engagement letter is signed by the landlord.",
+        "hi": "फ़र्म की फ़ीस क़ब्ज़ा मिलने पर बढ़ती है, और नियुक्ति पत्र पर दस्तख़त मकान मालिक के हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a clerk drafts a plaint from the instructions and the book he is handed, and Om Prakash was handed a rent book and told it was a rent book",
+        "hi": "ख़ारिज — बाबू दावा उन हिदायतों और उस बही से बनाता है जो उसे थमाई जाती है, और ओम प्रकाश को एक किराया बही थमाकर कहा गया कि यह किराया बही है"
+      }
+    },
+    {
+      "id": "othertenant",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ANOTHER TENANT, ALSO REFUSED",
+        "hi": "एक और किरायेदार, वहाँ भी इनकार"
+      },
+      "text": {
+        "en": "A tenant of one of the same landlord’s shops at Rani Bazaar shows nine months of refused in the same book, and he pays in cash at his own door.",
+        "hi": "उसी मकान मालिक की रानी बाज़ार की एक दुकान के किरायेदार के सामने भी उसी बही में नौ महीने ‘इनकार’ लिखा है — और वह किराया अपने ही दरवाज़े पर नक़द देता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out for this case — a different tenancy in a suit nobody has filed, which goes in its own file; what it does not do is answer who took these fourteen",
+        "hi": "इस केस के लिए ख़ारिज — दूसरी किरायेदारी, और वह दावा किसी ने लगाया ही नहीं; वह अपनी फ़ाइल में जाएगा। वह यह नहीं बताता कि ये चौदह किसने लिए"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidtractor",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE MUNIM",
+        "hi": "बयान · मुनीम"
+      },
+      "text": {
+        "en": "“Eleven thousand a month at the Nokha branch, in my son’s name, on a salary of nine that has not moved since 2016. Thirty-one properties I count for sahib. Ask him what he thinks a man does with the difference.”",
+        "hi": "“नोखा शाखा में महीने के ग्यारह हज़ार, बेटे के नाम — और तनख़्वाह नौ हज़ार, जो 2016 से हिली नहीं। इकतीस जायदादें मैं साहब के लिए गिनता हूँ। उन्हीं से पूछिए कि उनके हिसाब से आदमी उस फ़र्क़ का क्या करता है।”"
+      }
+    },
+    {
+      "id": "saidrefused",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE ONE WORD",
+        "hi": "बयान · वह एक शब्द"
+      },
+      "text": {
+        "en": "“I have written that word in that book for nineteen years and I write it on the fifth because the fifth is when I sit with the book. Nobody has ever asked me to write what happened. There is no column in that book for what happened.”",
+        "hi": "“उस बही में वह शब्द मैं उन्नीस साल से लिखता हूँ, और पाँच तारीख़ को लिखता हूँ क्योंकि बही लेकर बैठता पाँच को हूँ। मुझसे किसी ने कभी नहीं कहा कि जो हुआ वह लिखो। उस बही में ‘जो हुआ’ का ख़ाना ही नहीं है।”"
+      }
+    },
+    {
+      "id": "saidcounter",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE COUNTER CLERK",
+        "hi": "बयान · खिड़की का बाबू"
+      },
+      "text": {
+        "en": "“The authority has been on our file since 2011 and nobody has withdrawn it. When a written authority is on the file I pay the man who holds it and I take his signature in the journal. That is the rule and not a favour, and it is the reason the journal can tell you exactly who I paid.”",
+        "hi": "“प्राधिकार 2011 से हमारी फ़ाइल में है और किसी ने वापस नहीं लिया। जब लिखित प्राधिकार फ़ाइल में हो, तो मैं उसे रखने वाले को अदा करता हूँ और अदायगी सूची में उसके दस्तख़त लेता हूँ। यह नियम है, कोई मेहरबानी नहीं — और इसी वजह से सूची आपको ठीक-ठीक बता सकती है कि मैंने किसे दिया।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "girdhari",
+      "name": {
+        "en": "Girdhari Lal Bissa",
+        "hi": "गिरधारी लाल बिस्सा"
+      },
+      "role": {
+        "en": "THE LANDLORD’S MUNIM",
+        "hi": "मकान मालिक का मुनीम"
+      },
+      "hook": {
+        "en": "the authority on the office file is his",
+        "hi": "दफ़्तर की फ़ाइल का प्राधिकार उसी का है"
+      },
+      "confession": {
+        "en": "Collected all fourteen at the head office window against the 2011 authority and his own signature, kept every rupee of them, and wrote the word refused in his employer’s rent book on the fifth of each month as he has written it for nineteen years. Fourteen months of this shop comes to four hundred and thirty-four rupees; fourteen months of thirty-one properties comes to four lakh eleven thousand, and a tractor at Nokha costs eleven thousand a month on a salary of nine.",
+        "hi": "2011 के प्राधिकार और अपने दस्तख़त पर चौदहों को प्रधान डाकघर की खिड़की से लिया, उनका एक-एक रुपया रखा, और अपने मालिक की किराया बही में हर महीने की पाँच तारीख़ को ‘इनकार’ लिख दिया — जैसे उन्नीस साल से लिखता आया है। इस दुकान के चौदह महीने चार सौ चौंतीस रुपये बनते हैं; इकतीस जायदादों के चौदह महीने चार लाख ग्यारह हज़ार — और नोखा का ट्रैक्टर नौ हज़ार की तनख़्वाह पर ग्यारह हज़ार महीना माँगता है।"
+      }
+    },
+    {
+      "id": "sampat",
+      "name": {
+        "en": "Sampat Lal",
+        "hi": "संपत लाल"
+      },
+      "role": {
+        "en": "THE COUNTER CLERK",
+        "hi": "खिड़की का बाबू"
+      },
+      "hook": {
+        "en": "paid all fourteen at his window",
+        "hi": "चौदहों की अदायगी उसी की खिड़की से"
+      },
+      "alibi": {
+        "en": "He paid against a written authority that has been on the file since 2011 and took a signature in the journal every single time, which is why this case can be proved at all. A clerk who wanted to hide a payment does not enter it, sign it and keep it on a shelf for fourteen months.",
+        "hi": "उसने 2011 से फ़ाइल में पड़े लिखित प्राधिकार पर अदायगी की और हर बार अदायगी सूची में दस्तख़त लिए — और इसी वजह से यह केस साबित हो पाता है। जो बाबू अदायगी छिपाना चाहे, वह उसे दर्ज नहीं करता, उस पर दस्तख़त नहीं लेता और चौदह महीने ताक़ पर नहीं रखता।"
+      }
+    },
+    {
+      "id": "moolchand",
+      "name": {
+        "en": "Mool Chand",
+        "hi": "मूल चंद"
+      },
+      "role": {
+        "en": "THE POSTMAN ON THIS BEAT",
+        "hi": "इस बीट का डाकिया"
+      },
+      "hook": {
+        "en": "the door these orders never reached",
+        "hi": "वह दरवाज़ा, जहाँ ये मनीऑर्डर पहुँचे ही नहीं"
+      },
+      "alibi": {
+        "en": "Not one of the fourteen was ever put on his beat, because a money order collected at the counter never leaves the office. His book for those fourteen months is complete, initialled by the sub-postmaster every week, and has no entry for Chhangani building to be wrong about.",
+        "hi": "चौदह में से एक भी उसकी बीट पर नहीं आया, क्योंकि खिड़की से लिया गया मनीऑर्डर दफ़्तर से बाहर ही नहीं निकलता। उन चौदह महीनों की उसकी बही पूरी है, हर हफ़्ते उप-डाकपाल के हस्ताक्षर से जँची हुई — और उसमें छंगाणी बिल्डिंग की कोई प्रविष्टि ही नहीं, जो ग़लत हो सकती।"
+      }
+    },
+    {
+      "id": "omprakash",
+      "name": {
+        "en": "Om Prakash",
+        "hi": "ओम प्रकाश"
+      },
+      "role": {
+        "en": "THE LAWYER’S CLERK",
+        "hi": "वकील का बाबू"
+      },
+      "hook": {
+        "en": "drafted the plaint off the rent book",
+        "hi": "दावा किराया बही से उसी ने बनाया"
+      },
+      "alibi": {
+        "en": "He drafted from the book he was handed and the instructions he was given, and he pleaded the fourteen months exactly as the book showed them. He is also the man who wrote in his own file note that a refusal ought to be supported by returned orders, and was told the client did not have any.",
+        "hi": "उसने वही बही और वही हिदायतें लेकर दावा बनाया जो उसे थमाई गईं, और चौदह महीने ठीक वैसे ही लिखे जैसे बही में थे। और अपनी फ़ाइल में यह टिप्पणी भी उसी ने लिखी थी कि इनकार के साथ लौटे मनीऑर्डर लगने चाहिए — जवाब मिला कि मुवक्किल के पास कोई नहीं है।"
+      }
+    },
+    {
+      "id": "vinod",
+      "name": {
+        "en": "Vinod Agarwal",
+        "hi": "विनोद अग्रवाल"
+      },
+      "role": {
+        "en": "THE HALWAI’S SON",
+        "hi": "हलवाई का बेटा"
+      },
+      "hook": {
+        "en": "books the money order every month",
+        "hi": "हर महीने मनीऑर्डर वही बुक कराता है"
+      },
+      "alibi": {
+        "en": "He books at one window and the payment happens at another, months later, before a different clerk and in a different book. He has kept every counterfoil in a polythene bag for nine years, which is not the habit of a man arranging a default.",
+        "hi": "वह एक खिड़की पर बुक कराता है और अदायगी दूसरी खिड़की पर, महीनों बाद, दूसरे बाबू के सामने और दूसरी बही में होती है। नौ साल की हर रसीद उसने पॉलिथीन में रखी है — बकाया गढ़वाने वाले आदमी की यह आदत नहीं होती।"
+      }
+    },
+    {
+      "id": "kishan",
+      "name": {
+        "en": "Kishan Lal Agarwal",
+        "hi": "किशन लाल अग्रवाल"
+      },
+      "role": {
+        "en": "THE OLD HALWAI",
+        "hi": "पुराना हलवाई"
+      },
+      "hook": {
+        "en": "the counterfoils are in his hand",
+        "hi": "रसीदें उसी के हाथ में हैं"
+      },
+      "alibi": {
+        "en": "The coupons are not his word against anybody’s; each one carries the booking window’s date stamp and its serial stands in the office’s own booking book. He is defending a shop worth crores against a claim of four hundred and thirty-four rupees, which is the whole reason this suit was worth filing.",
+        "hi": "ये रसीदें किसी के ख़िलाफ़ उसका बयान नहीं हैं; हर एक पर बुकिंग खिड़की की तारीख़ की मुहर है और उसका क्रमांक दफ़्तर की अपनी बुकिंग बही में दर्ज है। वह करोड़ों की दुकान को चार सौ चौंतीस रुपये के दावे से बचा रहा है — और यही पूरी वजह है कि यह दावा लगाने लायक़ था।"
+      }
+    }
+  ],
+  "culpritId": "girdhari",
+  "interrogations": [
+    {
+      "suspectId": "sampat",
+      "setting": {
+        "en": "Window four at half eleven, a journal open on the ledge and a queue that does not stop for anybody.",
+        "hi": "साढ़े ग्यारह बजे चौथी खिड़की, चौकी पर खुली अदायगी सूची और वह क़तार, जो किसी के लिए नहीं रुकती।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Fourteen orders addressed to one man, paid to another.",
+            "hi": "एक आदमी के नाम के चौदह मनीऑर्डर, अदा किसी दूसरे को।"
+          },
+          "answer": {
+            "en": "“The authority has been on our file since 2011 and nobody has withdrawn it. When a written authority is on the file I pay the man who holds it and I take his signature in the journal. That is the rule and not a favour, and it is the reason the journal can tell you exactly who I paid.”",
+            "hi": "“प्राधिकार 2011 से हमारी फ़ाइल में है और किसी ने वापस नहीं लिया। जब लिखित प्राधिकार फ़ाइल में हो, तो मैं उसे रखने वाले को अदा करता हूँ और अदायगी सूची में उसके दस्तख़त लेता हूँ। यह नियम है, कोई मेहरबानी नहीं — और इसी वजह से सूची आपको ठीक-ठीक बता सकती है कि मैंने किसे दिया।”"
+          },
+          "needsClueId": "journal",
+          "lockedHint": {
+            "en": "Pin the payment list. He will not discuss fourteen payments over a counter until the fourteen lines are on the board.",
+            "hi": "अदायगी सूची टाँगो। जब तक वे चौदह पंक्तियाँ बोर्ड पर न आएँ, वह खिड़की से हुई चौदह अदायगियों की बात नहीं करेगा।"
+          },
+          "unlocksClueId": "saidcounter",
+          "note": {
+            "en": "The counter did its job so completely that it has kept fourteen signatures of a man who says he was refused.",
+            "hi": "खिड़की ने अपना काम इतनी पूरी तरह किया कि उसने उस आदमी के चौदह दस्तख़त सँभाल रखे हैं, जो कहता है कि इनकार हुआ था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "What happens to a money order that is genuinely refused?",
+            "hi": "जिस मनीऑर्डर से सचमुच इनकार हो जाए, उसका क्या होता है?"
+          },
+          "answer": {
+            "en": "“It comes back to me, I endorse it, the amount goes back to the sender on a voucher and the sender signs for it. Four hundred a month in this district. There is no way to refuse one quietly.”",
+            "hi": "“वह मेरे पास लौटता है, मैं पृष्ठांकन करता हूँ, रक़म एक वाउचर पर भेजने वाले को वापस जाती है और वह उस पर दस्तख़त करता है। इस ज़िले में महीने के चार सौ। चुपचाप इनकार करने का कोई रास्ता ही नहीं है।”"
+          },
+          "note": {
+            "en": "So a refusal leaves two papers behind it. This lane’s fourteen refusals have left none.",
+            "hi": "यानी इनकार अपने पीछे दो काग़ज़ छोड़ता है। इस गली के चौदह इनकारों ने एक भी नहीं छोड़ा।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "moolchand",
+      "setting": {
+        "en": "The delivery hall at one, beat books in a rack and a bag of registered post being weighed.",
+        "hi": "एक बजे का वितरण कक्ष, रैक में बीट बहियाँ और तराज़ू पर रजिस्ट्री डाक का थैला।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Fourteen months of this beat and not one order to that building.",
+            "hi": "इस बीट के चौदह महीने, और उस इमारत तक एक भी मनीऑर्डर नहीं।"
+          },
+          "answer": {
+            "en": "“Because they never came to the bag. A counter payment is finished inside the office before I take my rounds. If a money order comes to me I carry it, and if it is refused at the door I bring it back and write why.”",
+            "hi": "“क्योंकि वे थैले में ही नहीं आए। खिड़की की अदायगी मेरे चक्कर पर निकलने से पहले दफ़्तर के भीतर ही ख़त्म हो जाती है। मनीऑर्डर मेरे पास आए तो मैं ले जाता हूँ, और दरवाज़े पर इनकार हो जाए तो वापस लाकर वजह लिखता हूँ।”"
+          },
+          "needsClueId": "beatbook",
+          "lockedHint": {
+            "en": "Pin the beat book. He is not going to prove a negative about a building nobody has named to him yet.",
+            "hi": "बीट बही टाँगो। जिस इमारत का नाम उसे अभी बताया ही नहीं गया, उसके बारे में वह ‘नहीं हुआ’ साबित करने नहीं बैठेगा।"
+          },
+          "note": {
+            "en": "The refusal was written in a rent book fourteen times and offered at a door not once.",
+            "hi": "इनकार किराया बही में चौदह बार लिखा गया और दरवाज़े पर एक बार भी पेश नहीं हुआ।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Has anybody at that building ever asked you about rent?",
+            "hi": "उस इमारत में किसी ने आपसे कभी किराये के बारे में पूछा?"
+          },
+          "answer": {
+            "en": "“The old halwai stops me every Diwali to ask whether his order was paid. I have told him four years running that I do not carry it, and he still asks, because there is nobody else to ask.”",
+            "hi": "“बूढ़े हलवाई हर दिवाली मुझे रोककर पूछते हैं कि उनका मनीऑर्डर अदा हुआ या नहीं। चार साल से मैं कहता आया हूँ कि मैं वह ले जाता ही नहीं — और वे फिर पूछते हैं, क्योंकि पूछने के लिए कोई और है ही नहीं।”"
+          },
+          "note": {
+            "en": "He has been asking the one man in the department who could not have known, for four years.",
+            "hi": "चार साल से वे महकमे के उसी एक आदमी से पूछ रहे हैं, जिसे पता हो ही नहीं सकता था।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "omprakash",
+      "setting": {
+        "en": "A chamber behind the court road, the plaint in a green file and a rent book weighted open with a brass paperweight.",
+        "hi": "कचहरी रोड के पीछे एक चैंबर, हरी फ़ाइल में दावा और पीतल के वज़न से खुली दबाई गई किराया बही।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You pleaded fourteen months on the strength of one word.",
+            "hi": "आपने एक शब्द के भरोसे चौदह महीने का दावा लिखा।"
+          },
+          "answer": {
+            "en": "“I pleaded what the rent book showed and I noted in the file that a refusal should be proved by returned orders. I was told the client had none. I am a clerk; I do not go to post offices to check my own client.”",
+            "hi": "“मैंने वही लिखा जो किराया बही में था, और फ़ाइल में टिप्पणी दी कि इनकार लौटे मनीऑर्डरों से साबित होना चाहिए। जवाब मिला कि मुवक्किल के पास कोई नहीं है। मैं बाबू हूँ; अपने ही मुवक्किल को जाँचने डाकघर नहीं जाता।”"
+          },
+          "needsClueId": "norefund",
+          "lockedHint": {
+            "en": "Pin the absence of any refund. His own file note only becomes evidence once the missing vouchers are on the board.",
+            "hi": "वापसी का कहीं न होना टाँगो। उसकी अपनी फ़ाइल टिप्पणी सबूत तभी बनती है, जब ग़ायब वाउचर बोर्ड पर आएँ।"
+          },
+          "note": {
+            "en": "He asked the right question inside his own file and was answered with a book instead of a paper.",
+            "hi": "उसने अपनी ही फ़ाइल में ठीक सवाल पूछा — और जवाब में काग़ज़ की जगह एक बही मिली।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Four hundred and thirty-four rupees, for a shop like that.",
+            "hi": "उस जैसी दुकान के लिए, चार सौ चौंतीस रुपये।"
+          },
+          "answer": {
+            "en": "“That is the law, not our idea. Default is default whether it is four hundred rupees or four lakh, and it is the only door left open in an old tenancy.”",
+            "hi": "“यह क़ानून है, हमारा ख़याल नहीं। बकाया चार सौ का हो या चार लाख का, बकाया ही रहता है — और पुरानी किरायेदारी में अब यही एक दरवाज़ा खुला बचा है।”"
+          },
+          "note": {
+            "en": "Which is why somebody needed fourteen small months rather than one large fraud.",
+            "hi": "इसीलिए किसी को एक बड़ी ठगी की जगह चौदह छोटे महीने चाहिए थे।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "girdhari",
+      "setting": {
+        "en": "A first-floor room off Rani Bazaar, thirty-one property files on a shelf and a tin trunk under the takht.",
+        "hi": "रानी बाज़ार से लगे पहली मंज़िल का कमरा, ताक़ पर इकतीस जायदादों की फ़ाइलें और तख़्त के नीचे टीन का बक्सा।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "The authority on the post office file is yours.",
+            "hi": "डाकघर की फ़ाइल का प्राधिकार आपका है।"
+          },
+          "answer": {
+            "en": "“Since 2011, and sahib signed it himself. I have collected his money orders for fourteen years — the pension of a dead uncle, the rent of thirty-one shops, all of it comes to me.”",
+            "hi": "“2011 से, और साहब ने ख़ुद दस्तख़त किए थे। चौदह साल से उनके मनीऑर्डर मैं लेता आया हूँ — मरे हुए चाचा की पेंशन, इकतीस दुकानों का किराया, सब मेरे पास ही आता है।”"
+          },
+          "needsClueId": "authority",
+          "lockedHint": {
+            "en": "Pin the 2011 authority. Without it he will simply say the post office is confused about a name.",
+            "hi": "2011 का प्राधिकार टाँगो। उसके बिना वह बस यही कहेगा कि डाकघर नाम में उलझ गया है।"
+          },
+          "note": {
+            "en": "He is not denying the collection. Nothing in this case turns on whether he collected them.",
+            "hi": "वसूली से वह मुकर नहीं रहा। इस केस की कोई बात इस पर टिकी ही नहीं है कि उसने लिए या नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eleven thousand a month at Nokha on a salary of nine.",
+            "hi": "नौ हज़ार की तनख़्वाह पर नोखा में ग्यारह हज़ार महीना।"
+          },
+          "answer": {
+            "en": "“Eleven thousand a month at the Nokha branch, in my son’s name, on a salary of nine that has not moved since 2016. Thirty-one properties I count for sahib. Ask him what he thinks a man does with the difference.”",
+            "hi": "“नोखा शाखा में महीने के ग्यारह हज़ार, बेटे के नाम — और तनख़्वाह नौ हज़ार, जो 2016 से हिली नहीं। इकतीस जायदादें मैं साहब के लिए गिनता हूँ। उन्हीं से पूछिए कि उनके हिसाब से आदमी उस फ़र्क़ का क्या करता है।”"
+          },
+          "needsClueId": "tractor",
+          "lockedHint": {
+            "en": "Pin the instalment. He will not say a word about money until the arithmetic of his own house is on the board.",
+            "hi": "क़िस्त टाँगो। जब तक उसके अपने घर का हिसाब बोर्ड पर न आए, वह पैसे पर एक शब्द नहीं बोलेगा।"
+          },
+          "unlocksClueId": "saidtractor",
+          "note": {
+            "en": "Nineteen months of eleven thousand paid in cash on the second or third, out of nine thousand paid on the first.",
+            "hi": "उन्नीस महीने, हर महीने की दो या तीन तारीख़ को नक़द ग्यारह हज़ार — और पहली को मिले नौ हज़ार में से।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You wrote refused on the fifth, fourteen times.",
+            "hi": "आपने चौदह बार, पाँच तारीख़ को ‘इनकार’ लिखा।"
+          },
+          "answer": {
+            "en": "“I have written that word in that book for nineteen years and I write it on the fifth because the fifth is when I sit with the book. Nobody has ever asked me to write what happened. There is no column in that book for what happened.”",
+            "hi": "“उस बही में वह शब्द मैं उन्नीस साल से लिखता हूँ, और पाँच तारीख़ को लिखता हूँ क्योंकि बही लेकर बैठता पाँच को हूँ। मुझसे किसी ने कभी नहीं कहा कि जो हुआ वह लिखो। उस बही में ‘जो हुआ’ का ख़ाना ही नहीं है।”"
+          },
+          "needsClueId": "rentbook",
+          "lockedHint": {
+            "en": "Pin the fourteen entries on the fifth. The dates are the case, and he will not be drawn on a word until the dates are up.",
+            "hi": "पाँच तारीख़ की चौदह प्रविष्टियाँ टाँगो। तारीख़ें ही केस हैं — और जब तक तारीख़ें ऊपर न आएँ, वह उस शब्द पर नहीं बोलेगा।"
+          },
+          "unlocksClueId": "saidrefused",
+          "note": {
+            "en": "A book written on the fifth of every month cannot describe fourteen events that happened on fourteen other days.",
+            "hi": "हर महीने की पाँच तारीख़ को लिखी बही उन चौदह घटनाओं का ब्योरा नहीं दे सकती, जो चौदह दूसरी तारीख़ों को हुईं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "There is a receipt for eleven lakh pasted inside your cash book.",
+            "hi": "आपकी रोकड़ बही के भीतर ग्यारह लाख की एक रसीद चिपकी है।"
+          },
+          "answer": {
+            "en": "“Sahib’s papers live where sahib tells them to live. I paste, I total, I carry the trunk. Read the clause about Chaitra and then ask me again whether the rent of this shop was ever the point.”",
+            "hi": "“साहब के काग़ज़ वहीं रहते हैं जहाँ साहब कहते हैं। मैं चिपकाता हूँ, जोड़ता हूँ, बक्सा ढोता हूँ। चैत वाली शर्त पढ़िए — और फिर मुझसे दोबारा पूछिए कि इस दुकान का किराया कभी असल बात था भी या नहीं।”"
+          },
+          "needsClueId": "cashbook",
+          "lockedHint": {
+            "en": "Pin the cash book. He will not open the back cover of a book that is not on the board.",
+            "hi": "रोकड़ बही टाँगो। जो बही बोर्ड पर नहीं है, उसका पिछला पन्ना वह नहीं खोलेगा।"
+          },
+          "note": {
+            "en": "Four hundred and thirty-four rupees of default, and eleven lakh sitting on a clause that needs this shop empty by Chaitra.",
+            "hi": "चार सौ चौंतीस रुपये का बकाया — और उस शर्त पर बैठे ग्यारह लाख, जिसे चैत तक यह दुकान ख़ाली चाहिए।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "saidtractor",
+      "correction": {
+        "en": "The counter clerk paid against a rule and wrote it all down, the postman never had them in his bag, and the lawyer’s clerk asked for the returned orders in writing. One man has been paying eleven thousand rupees a month at Nokha for nineteen months out of a salary of nine, and he collects the rents of thirty-one properties in cash.",
+        "hi": "खिड़की के बाबू ने नियम पर अदायगी की और सब लिख दिया, डाकिये के थैले में वे कभी आए ही नहीं, और वकील के बाबू ने लौटे मनीऑर्डर लिखकर माँगे। एक ही आदमी उन्नीस महीने से नौ हज़ार की तनख़्वाह में से नोखा में ग्यारह हज़ार महीना जमा कर रहा है — और इकतीस जायदादों का किराया नक़द वही वसूलता है।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "journal",
+      "correction": {
+        "en": "Nobody had to intercept anything, because a written authority does the intercepting for you. All fourteen were paid over window four on fourteen different days against one authority and one signature, and that signature is on the office’s own list where it has been sitting for fourteen months.",
+        "hi": "किसी को कुछ बीच में रोकना नहीं पड़ा, क्योंकि लिखित प्राधिकार यह काम आपके लिए कर देता है। चौदहों अदायगियाँ चौथी खिड़की से चौदह अलग-अलग दिन, एक प्राधिकार और एक दस्तख़त पर हुईं — और वह दस्तख़त दफ़्तर की अपनी सूची में है, जहाँ वह चौदह महीने से पड़ा हुआ है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidrefused",
+      "correction": {
+        "en": "He was never going to be caught taking money; he was going to be thanked for keeping a book. One word on the fifth of every month turned fourteen payments into fourteen refusals, in the only record anybody in this lane was ever going to be shown — and that word is written by the man who took the money.",
+        "hi": "पैसा लेते हुए वह पकड़ा जाने वाला नहीं था; बही रखने के लिए उसकी तारीफ़ होने वाली थी। हर महीने की पाँच तारीख़ को लिखा एक शब्द चौदह अदायगियों को चौदह इनकार बना देता है — उस एक ही रिकॉर्ड में, जो इस गली में किसी को दिखाया ही जाने वाला था — और वह शब्द लिखने वाला हाथ उसी का है, जिसने पैसा लिया।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "rentbook",
+    "toClueId": "journal",
+    "text": {
+      "en": "One side of this has a book with a word in it and the other has a department that cannot lose four hundred and thirty-four rupees without a voucher. Go to the side that has to write everything down.",
+      "hi": "इस मामले की एक तरफ़ एक बही है जिसमें एक शब्द लिखा है, और दूसरी तरफ़ वह महकमा है जो चार सौ चौंतीस रुपये भी वाउचर के बिना खो नहीं सकता। उस तरफ़ जाइए, जिसे सब कुछ लिखना पड़ता है।"
+    }
+  },
+  "bankedClue": {
+    "en": "An advance received against an agreement to sell both frontages, possession free of tenants by Chaitra",
+    "hi": "दोनों फ़्रंट बेचने के इकरारनामे पर लिया गया बयाना — क़ब्ज़ा चैत तक, किरायेदारों से ख़ाली"
+  }
+}

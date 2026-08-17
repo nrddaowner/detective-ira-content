@@ -1,0 +1,523 @@
+{
+  "id": "pushkar-tag-eleven-forty",
+  "schema": 1,
+  "city": "pushkar",
+  "genre": "fraud",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "pushkar-camel-fair-books",
+    "caseNumber": 4
+  },
+  "title": {
+    "en": "Tag Eleven Forty",
+    "hi": "टैग ग्यारह चालीस"
+  },
+  "place": {
+    "en": "The mela dispensary · the carcass pit road · Saturday, 11:00 AM",
+    "hi": "मेला पशु चिकित्सालय · मुर्दा गड्ढे की सड़क · शनिवार, 11:00 AM"
+  },
+  "brief": {
+    "en": "A camel insured for one lakh twenty thousand died on the ground on Friday night, and the claim was filed at twenty minutes to six the next morning. The post-mortem describes an animal with its molars worn to the gum and a hollow above the eye. The policy proposal, taken in Chaitra, describes a six-year-old male with his corner incisors just through and an ankush brand on the off shoulder. Both papers carry ear tag eleven forty.",
+    "hi": "एक लाख बीस हज़ार का बीमा कराया हुआ एक ऊँट शुक्रवार रात मैदान पर मर गया, और अगली सुबह पौने छह बजे दावा दाख़िल हो गया। पोस्टमार्टम में जिस जानवर का ज़िक्र है उसकी दाढ़ें मसूड़े तक घिसी हैं और आँख के ऊपर गड्ढा पड़ चुका है। चैत में लिया गया बीमा प्रस्ताव छह साल के उस नर का है जिसके कोने के दाँत अभी-अभी निकले हैं और जिसके दाहिने कंधे पर अंकुश का दाग़ है। दोनों काग़ज़ों पर कान का टैग ग्यारह चालीस लिखा है।"
+  },
+  "photoCaption": {
+    "en": "the pit road, Saturday morning",
+    "hi": "शनिवार सुबह, गड्ढे वाली सड़क"
+  },
+  "iraNote": {
+    "en": "“A tag is a thing you hang on an ear. A mouth is a thing an animal is born with. When the two disagree, only one of them has ever been moved.”",
+    "hi": "“टैग वह चीज़ है जो कान में टाँगी जाती है। मुँह वह चीज़ है जो जानवर साथ लेकर पैदा होता है। जब दोनों अलग-अलग बोलें, तो हिलाया हमेशा एक ही गया होता है।”"
+  },
+  "clues": [
+    {
+      "id": "pm",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "POST-MORTEM · THE MOUTH",
+        "hi": "पोस्टमार्टम · मुँह"
+      },
+      "text": {
+        "en": "Molars worn flat to the gum line and the pads of the feet split with age. Eighteen years at the least, and the animal had been off good fodder for two seasons.",
+        "hi": "दाढ़ें मसूड़े तक चपटी घिसी हुईं और पैरों के गद्दे उम्र से फटे हुए। कम से कम अठारह साल, और दो मौसम से जानवर को ठीक चारा मिला ही नहीं था।"
+      }
+    },
+    {
+      "id": "proposal",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE PROPOSAL, CHAITRA",
+        "hi": "बीमा प्रस्ताव, चैत"
+      },
+      "text": {
+        "en": "Sum insured one lakh twenty thousand on a six-year-old male, corner incisors just through, ankush brand on the off shoulder, tagged at the ear in the field agent’s presence. A six-year-old dun male sells at this fair for seventy-five to eighty thousand.",
+        "hi": "बीमित रक़म एक लाख बीस हज़ार — छह साल का नर, कोने के दाँत अभी निकले हुए, दाहिने कंधे पर अंकुश का दाग़, और कान में टैग फ़ील्ड एजेंट के सामने लगाया गया। छह साल का भूरा नर इस मेले में पचहत्तर से अस्सी हज़ार में बिकता है।"
+      }
+    },
+    {
+      "id": "ear",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE EAR, TWICE PIERCED",
+        "hi": "कान, दो बार छिदा"
+      },
+      "text": {
+        "en": "Two holes in the near ear of the dead animal. One is healed over and years old; the other was made within the day and has not begun to close, and tag eleven forty is hanging in the new one.",
+        "hi": "मरे हुए जानवर के बाएँ कान में दो छेद हैं। एक भरा हुआ और सालों पुराना; दूसरा उसी दिन का बना, जो अभी बंद होना शुरू भी नहीं हुआ — और टैग ग्यारह चालीस उसी नए छेद में लटका है।"
+      }
+    },
+    {
+      "id": "noshoulder",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE OFF SHOULDER",
+        "hi": "दाहिना कंधा"
+      },
+      "text": {
+        "en": "The dead animal carries no brand at all. Not an ankush, not a trishul, not a healed scar under the hair anywhere on either shoulder — an unbranded camel of eighteen years is a camel nobody ever thought worth marking.",
+        "hi": "मरे हुए जानवर पर कोई दाग़ है ही नहीं। न अंकुश, न त्रिशूल, और किसी भी कंधे पर बालों के नीचे भरा हुआ निशान तक नहीं — अठारह साल का बेदाग़ ऊँट वह जानवर है जिसे किसी ने कभी निशान लगाने लायक़ ही नहीं समझा।"
+      }
+    },
+    {
+      "id": "sale",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "NAGAUR LINE · A LIVE ANIMAL",
+        "hi": "नागौर की डोर · ज़िंदा जानवर"
+      },
+      "text": {
+        "en": "Roshan Ali bought a six-year-old dun male with an ankush brand on the off shoulder at three o’clock on Friday for seventy-eight thousand, seller Sohan Nath, two witnesses, money paid in front of them. The animal is standing in his line this morning with an unhealed hole in its near ear and nothing in it.",
+        "hi": "रोशन अली ने शुक्रवार तीन बजे दाहिने कंधे पर अंकुश के दाग़ वाला छह साल का भूरा नर अठहत्तर हज़ार में ख़रीदा — बेचने वाला सोहन नाथ, दो गवाह, पैसा उन्हीं के सामने। आज सुबह वह जानवर उसकी डोर में खड़ा है, बाएँ कान में बिना भरा एक छेद लिए, और उसमें कुछ भी नहीं।"
+      }
+    },
+    {
+      "id": "lotentry",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE SALE BOOK’S OWN LINE",
+        "hi": "नीलामी बही की अपनी पंक्ति"
+      },
+      "text": {
+        "en": "The neelami bahi carries that same lot as sold on Wednesday for one lakh two thousand to a buyer whose address is a village in Nagaur that the post office returns. The entry is in the auction clerk’s hand, and it is dated two days before the animal left the line at all.",
+        "hi": "नीलामी बही में वही लॉट बुधवार को एक लाख दो हज़ार में बिका हुआ लिखा है — ख़रीदार का पता नागौर का ऐसा गाँव है जिसे डाकघर लौटा देता है। प्रविष्टि नीलामी मुंशी के हाथ की है, और उस पर वह तारीख़ है जो जानवर के डोर से निकलने से पूरे दो दिन पहले की है।"
+      }
+    },
+    {
+      "id": "claim",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE CLAIM, FILED AT 5:40 AM",
+        "hi": "दावा, सुबह 5:40 पर दाख़िल"
+      },
+      "text": {
+        "en": "Handed in at the dispensary window at twenty minutes to six, naming the cause of death as impaction colic. The post-mortem that found impaction colic was performed at ten past eight.",
+        "hi": "पौने छह बजे चिकित्सालय की खिड़की पर जमा, और मौत की वजह में लिखा है अफ़ारा। जिस पोस्टमार्टम में अफ़ारा निकला, वह सवा आठ बजे हुआ।"
+      }
+    },
+    {
+      "id": "hukamslip",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE DISPOSAL SLIP",
+        "hi": "निस्तारण पर्ची"
+      },
+      "text": {
+        "en": "Hukam Singh carted the body to the pit at a quarter past nine and his slip is timed and numbered in his own book.",
+        "hi": "हुकम सिंह सवा नौ बजे शव को गड्ढे तक ले गया, और उसकी पर्ची उसकी अपनी बही में समय और नंबर सहित दर्ज है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he carts what the dispensary releases and his book matches the pit register to the minute; a man in this can move a body, not a tag",
+        "hi": "ख़ारिज — चिकित्सालय जो छोड़ता है वही वह ढोता है, और उसकी बही गड्ढे की बही से मिनट-दर-मिनट मिलती है; इस काम में आदमी शव हिला सकता है, टैग नहीं"
+      }
+    },
+    {
+      "id": "vetpm",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO WROTE THE POST-MORTEM",
+        "hi": "पोस्टमार्टम किसने लिखा"
+      },
+      "text": {
+        "en": "Dr. Onkar Vyas performed it at ten past eight and wrote the mouth, the feet and the clean shoulder into it himself.",
+        "hi": "डॉ. ओंकार व्यास ने सवा आठ बजे यह किया और मुँह, पैर और साफ़ कंधा — तीनों उसी ने अपने हाथ से लिखे।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the two facts that break this claim are both in his own report, in his own hand; nobody writes the paper that sinks his own fraud",
+        "hi": "ख़ारिज — जो दो बातें इस दावे को तोड़ती हैं, वे दोनों उसी की रिपोर्ट में, उसी के हाथ से लिखी हैं; अपनी ही ठगी डुबोने वाला काग़ज़ कोई नहीं लिखता"
+      }
+    },
+    {
+      "id": "roshanpaid",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE BUYER’S RECEIPT",
+        "hi": "ख़रीदार की रसीद"
+      },
+      "text": {
+        "en": "Seventy-eight thousand, two witnesses, thumbprints of both, and a bank withdrawal at Nagaur on Thursday to match.",
+        "hi": "अठहत्तर हज़ार, दो गवाह, दोनों के अंगूठे — और उससे मिलती हुई गुरुवार को नागौर में बैंक से निकासी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he paid the market price in front of witnesses and walked the animal back to the dispensary himself when we sent for it",
+        "hi": "ख़ारिज — उसने गवाहों के सामने बाज़ार भाव चुकाया, और जब हमने बुलवाया तो जानवर ख़ुद चलाकर चिकित्सालय तक ले आया"
+      }
+    },
+    {
+      "id": "colic",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "FOUR DOWN THIS WEEK",
+        "hi": "इस हफ़्ते चार गिरे"
+      },
+      "text": {
+        "en": "Impaction colic has killed four camels on this ground since the fair opened, all of them on dry stalk and cold nights.",
+        "hi": "मेला खुलने के बाद से इस मैदान पर अफ़ारे ने चार ऊँट मारे हैं — सब सूखी कड़बी और ठंडी रातों पर।"
+      },
+      "dismissNote": {
+        "en": "ruled out — colic is real and common here, and it is not the question; three of the four were not insured, and none of the other three grew a second hole in its ear",
+        "hi": "ख़ारिज — अफ़ारा यहाँ सच भी है और आम भी, और सवाल वह है ही नहीं; उन चार में से तीन का बीमा था ही नहीं, और बाक़ी तीन में से किसी के कान में दूसरा छेद नहीं उगा"
+      }
+    },
+    {
+      "id": "neighbour",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE QUARREL OVER SIX FEET",
+        "hi": "छह फ़ीट का झगड़ा"
+      },
+      "text": {
+        "en": "A neighbouring breeder had a shouting quarrel with Sohan Nath on Thursday over six feet of tethering ground.",
+        "hi": "गुरुवार को खूँटा गाड़ने की छह फ़ीट ज़मीन पर एक पड़ोसी पालक का सोहन नाथ से ज़ोरदार झगड़ा हुआ था।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he stood in the Brahma temple queue from ten at night to four in the morning with four hundred people, and killing a neighbour’s camel is not how anybody wins six feet",
+        "hi": "ख़ारिज — रात दस से सुबह चार तक वह चार सौ लोगों के साथ ब्रह्मा मंदिर की क़तार में खड़ा था, और पड़ोसी का ऊँट मारकर छह फ़ीट ज़मीन कोई नहीं जीतता"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidtag",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE FIELD AGENT",
+        "hi": "बयान · फ़ील्ड एजेंट"
+      },
+      "text": {
+        "en": "“I tag at the ear and I photograph the tag. I do not photograph the animal. In nine years of this district nobody has ever asked me to.”",
+        "hi": "“मैं कान में टैग लगाता हूँ और टैग की फ़ोटो खींचता हूँ। जानवर की फ़ोटो नहीं खींचता। इस ज़िले के नौ साल में आज तक किसी ने मुझसे यह कहा ही नहीं।”"
+      }
+    },
+    {
+      "id": "saidsold",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE OWNER",
+        "hi": "बयान · मालिक"
+      },
+      "text": {
+        "en": "“I sold a camel on Friday and a camel of mine died on Friday night. Both are true. You have not put one paper in front of me that says they are the same animal.”",
+        "hi": "“शुक्रवार को मैंने एक ऊँट बेचा और शुक्रवार रात मेरा एक ऊँट मरा। दोनों सच हैं। आपने मेरे सामने एक भी काग़ज़ ऐसा नहीं रखा जो कहे कि दोनों एक ही जानवर हैं।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "sohan",
+      "name": {
+        "en": "Sohan Nath",
+        "hi": "सोहन नाथ"
+      },
+      "role": {
+        "en": "THE OWNER",
+        "hi": "मालिक"
+      },
+      "hook": {
+        "en": "sold one camel on Friday and lost one on Friday night",
+        "hi": "शुक्रवार को एक ऊँट बेचा, शुक्रवार रात एक खोया"
+      },
+      "confession": {
+        "en": "Sold the insured six-year-old to a Nagaur dealer on Friday afternoon for seventy-eight thousand, cut tag eleven forty out of its ear at the line, punched it into the ear of an eighteen-year-old dry animal that went down with colic that night, and had the claim for one lakh twenty thousand at the dispensary window before the post-mortem was begun.",
+        "hi": "शुक्रवार दोपहर बीमा कराया हुआ छह साल का जानवर नागौर के व्यापारी को अठहत्तर हज़ार में बेचा, डोर पर ही उसके कान से टैग ग्यारह चालीस काटा, उसे उसी रात अफ़ारे से गिरे अठारह साल के बूढ़े जानवर के कान में ठोका, और पोस्टमार्टम शुरू होने से पहले ही एक लाख बीस हज़ार का दावा चिकित्सालय की खिड़की पर पहुँचा दिया।"
+      }
+    },
+    {
+      "id": "onkar",
+      "name": {
+        "en": "Dr. Onkar Vyas",
+        "hi": "डॉ. ओंकार व्यास"
+      },
+      "role": {
+        "en": "THE VETERINARY OFFICER",
+        "hi": "पशु चिकित्सा अधिकारी"
+      },
+      "hook": {
+        "en": "the post-mortem is his and so is every certificate at this fair",
+        "hi": "पोस्टमार्टम उसी का, और इस मेले का हर प्रमाण-पत्र भी"
+      },
+      "alibi": {
+        "en": "He wrote the worn molars and the clean shoulder into his own report, which are the two lines that break the claim. A man running this fraud does not hand us the paper that ends it.",
+        "hi": "घिसी दाढ़ें और साफ़ कंधा — दावे को तोड़ने वाली दोनों पंक्तियाँ उसने अपनी ही रिपोर्ट में लिखीं। यह ठगी चलाने वाला हमें वही काग़ज़ नहीं थमाता जो उसे ख़त्म कर दे।"
+      }
+    },
+    {
+      "id": "jamna",
+      "name": {
+        "en": "Jamna Lal",
+        "hi": "जमना लाल"
+      },
+      "role": {
+        "en": "THE INSURANCE FIELD AGENT",
+        "hi": "बीमा फ़ील्ड एजेंट"
+      },
+      "hook": {
+        "en": "tagged the ear in Chaitra and wrote the proposal",
+        "hi": "चैत में कान में टैग उसी ने लगाया, प्रस्ताव भी उसी ने लिखा"
+      },
+      "alibi": {
+        "en": "He was at Kishangarh on Friday and Saturday on a buffalo scheme, with four proposals and four dates to show for it. His commission on a claim is nothing; his commission on a live policy is a year of renewals.",
+        "hi": "शुक्रवार और शनिवार वह किशनगढ़ में भैंस योजना पर था, और उसके पास चार प्रस्ताव और चार तारीख़ें हैं। दावे पर उसका कमीशन कुछ नहीं बनता; ज़िंदा पॉलिसी पर उसका कमीशन साल भर के नवीनीकरण हैं।"
+      }
+    },
+    {
+      "id": "hukam",
+      "name": {
+        "en": "Hukam Singh",
+        "hi": "हुकम सिंह"
+      },
+      "role": {
+        "en": "THE CARCASS CONTRACTOR",
+        "hi": "मुर्दा उठाने का ठेकेदार"
+      },
+      "hook": {
+        "en": "the body passed through his hands and nobody else’s",
+        "hi": "शव सिर्फ़ उसी के हाथों से गुज़रा"
+      },
+      "alibi": {
+        "en": "He lifted the body at a quarter past nine, after the post-mortem, and his book agrees with the pit register to the minute. The ear was already pierced twice when the dispensary released it.",
+        "hi": "उसने शव सवा नौ बजे उठाया, पोस्टमार्टम के बाद, और उसकी बही गड्ढे की बही से मिनट-दर-मिनट मिलती है। चिकित्सालय ने जब शव छोड़ा, तब कान दो बार छिद चुका था।"
+      }
+    },
+    {
+      "id": "roshan",
+      "name": {
+        "en": "Roshan Ali",
+        "hi": "रोशन अली"
+      },
+      "role": {
+        "en": "THE NAGAUR DEALER",
+        "hi": "नागौर का व्यापारी"
+      },
+      "hook": {
+        "en": "the insured animal is standing alive in his line",
+        "hi": "बीमा कराया हुआ जानवर ज़िंदा उसी की डोर में खड़ा है"
+      },
+      "alibi": {
+        "en": "He paid seventy-eight thousand in front of two witnesses against a bank withdrawal at Nagaur, and brought the animal in himself the moment we sent for it. A man in on a claim does not keep the proof of it standing in a public line.",
+        "hi": "उसने दो गवाहों के सामने नागौर की बैंक निकासी से अठहत्तर हज़ार चुकाए, और हमारे बुलाते ही जानवर ख़ुद लेकर आया। दावे में शामिल आदमी उसका सबूत सबकी नज़र वाली डोर में खड़ा नहीं रखता।"
+      }
+    }
+  ],
+  "culpritId": "sohan",
+  "interrogations": [
+    {
+      "suspectId": "jamna",
+      "setting": {
+        "en": "The insurance company’s folding table outside the dispensary, a box of blank tags and a punch beside the register.",
+        "hi": "चिकित्सालय के बाहर बीमा कंपनी की तिपाई मेज़, बही के बग़ल में कोरे टैगों की डिब्बी और छेदने का पंच।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How do you know the animal on a policy is the animal on the ground?",
+            "hi": "आपको कैसे पता चलता है कि पॉलिसी वाला जानवर वही है जो मैदान पर खड़ा है?"
+          },
+          "answer": {
+            "en": "“By the tag. That is what the tag is for. Ninety thousand animals in this district and one number each — it works until the day somebody moves a number.”",
+            "hi": "“टैग से। टैग इसीलिए तो है। इस ज़िले में नब्बे हज़ार जानवर और हर एक का एक नंबर — यह चलता रहता है, उस दिन तक जब कोई नंबर हिला दे।”"
+          },
+          "note": {
+            "en": "He has described the whole crime as the ordinary working of his own system, and he is right.",
+            "hi": "उसने पूरा अपराध अपनी ही व्यवस्था के आम कामकाज की तरह बताया है — और वह ग़लत नहीं है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "There are two holes in that ear and one of them is a day old.",
+            "hi": "उस कान में दो छेद हैं और उनमें से एक बस एक दिन पुराना है।"
+          },
+          "answer": {
+            "en": "“I tag at the ear and I photograph the tag. I do not photograph the animal. In nine years of this district nobody has ever asked me to.”",
+            "hi": "“मैं कान में टैग लगाता हूँ और टैग की फ़ोटो खींचता हूँ। जानवर की फ़ोटो नहीं खींचता। इस ज़िले के नौ साल में आज तक किसी ने मुझसे यह कहा ही नहीं।”"
+          },
+          "needsClueId": "ear",
+          "lockedHint": {
+            "en": "Pin the ear. He will go on defending the system until the second hole in it is in front of him.",
+            "hi": "कान टाँगो। जब तक उस व्यवस्था का दूसरा छेद उसके सामने न आ जाए, वह उसी की वकालत करता रहेगा।"
+          },
+          "unlocksClueId": "saidtag",
+          "note": {
+            "en": "The file has a photograph of a tag and no photograph of a camel. That is the opening, and it has been open for nine years.",
+            "hi": "फ़ाइल में टैग की फ़ोटो है और ऊँट की एक भी नहीं। यही वह दरार है — और नौ साल से खुली पड़ी है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "One lakh twenty on an animal that sells for eighty.",
+            "hi": "अस्सी में बिकने वाले जानवर पर एक लाख बीस।"
+          },
+          "answer": {
+            "en": "“Sum insured is what the owner declares and what he pays premium on. I do not value camels, madam. I sell paper.”",
+            "hi": "“बीमित रक़म वही होती है जो मालिक ख़ुद बताता है और जिस पर वह प्रीमियम भरता है। मैं ऊँट की क़ीमत नहीं लगाता, मैडम। मैं काग़ज़ बेचता हूँ।”"
+          },
+          "needsClueId": "proposal",
+          "lockedHint": {
+            "en": "Pin the proposal. The gap between a sum insured and a market price is only a gap once both numbers are on the board.",
+            "hi": "प्रस्ताव टाँगो। बीमित रक़म और बाज़ार भाव का फ़र्क़ तभी फ़र्क़ बनता है जब दोनों आँकड़े बोर्ड पर हों।"
+          },
+          "note": {
+            "en": "Forty thousand rupees of daylight between the paper and the animal, declared by one man in Chaitra.",
+            "hi": "काग़ज़ और जानवर के बीच चालीस हज़ार का खुला उजाला — और चैत में यह रक़म एक ही आदमी ने बताई थी।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "roshan",
+      "setting": {
+        "en": "The Nagaur line at noon, a dun male chewing at the peg, and an unhealed hole in its near ear with nothing hanging in it.",
+        "hi": "दोपहर की नागौर डोर, खूँटे पर जुगाली करता एक भूरा नर, और उसके बाएँ कान में बिना भरा एक छेद — जिसमें कुछ लटका नहीं है।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Was there a tag in that ear when you bought him?",
+            "hi": "जब आपने ख़रीदा था, तब उस कान में टैग था?"
+          },
+          "answer": {
+            "en": "“There was a hole and there was blood on the hair below it. I asked. He said the tag had torn out in the night and he would get another. Nobody buys an animal for its ear.”",
+            "hi": "“छेद था और नीचे के बालों पर ख़ून लगा था। मैंने पूछा भी। उसने कहा रात में टैग फट गया, दूसरा लगवा लेगा। जानवर कोई उसके कान के लिए नहीं ख़रीदता।”"
+          },
+          "note": {
+            "en": "The tag did not tear out. It was cut out, at three in the afternoon, in front of the man buying the animal.",
+            "hi": "टैग फटा नहीं था। वह दोपहर तीन बजे काटा गया था — उसी आदमी के सामने जो जानवर ख़रीद रहा था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The sale book says this lot went on Wednesday, for one lakh two.",
+            "hi": "नीलामी बही कहती है कि यह लॉट बुधवार को एक लाख दो हज़ार में गया।"
+          },
+          "answer": {
+            "en": "“Then somebody sold him twice, and I am the one standing here with the animal. Wednesday I was in Nagaur at my daughter’s school.”",
+            "hi": "“तो किसी ने उसे दो बार बेचा, और जानवर लेकर यहाँ खड़ा मैं हूँ। बुधवार को मैं नागौर में अपनी बेटी के स्कूल में था।”"
+          },
+          "needsClueId": "lotentry",
+          "lockedHint": {
+            "en": "Pin the sale book’s line. He cannot answer a second sale he has not been shown, and it is the second sale that matters later.",
+            "hi": "नीलामी बही की पंक्ति टाँगो। जो दूसरी बिक्री उसे दिखाई ही नहीं गई, उसका जवाब वह दे नहीं सकता — और आगे चलकर वही दूसरी बिक्री मायने रखेगी।"
+          },
+          "note": {
+            "en": "Two sales of one animal, two days apart, and only one of them has a buyer anybody can find.",
+            "hi": "एक जानवर की दो बिक्रियाँ, दो दिन के फ़ासले पर — और उनमें से सिर्फ़ एक का ख़रीदार किसी को मिलता है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "sohan",
+      "setting": {
+        "en": "His own line at one o’clock, eight pegs, seven animals, and a folded claim form in the pocket of his kurta.",
+        "hi": "एक बजे उसकी अपनी डोर, आठ खूँटे, सात जानवर, और कुर्ते की जेब में मुड़ा हुआ दावा फ़ॉर्म।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "The claim names impaction colic at twenty to six. The post-mortem found it at ten past eight.",
+            "hi": "दावे में पौने छह बजे अफ़ारा लिखा है। पोस्टमार्टम में वह सवा आठ बजे निकला।"
+          },
+          "answer": {
+            "en": "“I have sat with camels for thirty years. When one goes down with its belly drum-tight, I do not need a doctor to give it a name.”",
+            "hi": "“तीस साल से ऊँटों के साथ बैठा हूँ। जब कोई पेट ढोल जैसा तानकर गिरता है, तो उसे नाम देने के लिए मुझे डॉक्टर की ज़रूरत नहीं पड़ती।”"
+          },
+          "note": {
+            "en": "It is a good answer and it is true, and it also explains why the claim was ready before the body was.",
+            "hi": "जवाब अच्छा है और सच भी — और यही यह भी समझा देता है कि दावा शव से पहले तैयार क्यों था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You sold a six-year-old with an ankush brand on Friday afternoon.",
+            "hi": "शुक्रवार दोपहर आपने अंकुश के दाग़ वाला छह साल का जानवर बेचा।"
+          },
+          "answer": {
+            "en": "“I sold a camel on Friday and a camel of mine died on Friday night. Both are true. You have not put one paper in front of me that says they are the same animal.”",
+            "hi": "“शुक्रवार को मैंने एक ऊँट बेचा और शुक्रवार रात मेरा एक ऊँट मरा। दोनों सच हैं। आपने मेरे सामने एक भी काग़ज़ ऐसा नहीं रखा जो कहे कि दोनों एक ही जानवर हैं।”"
+          },
+          "needsClueId": "sale",
+          "lockedHint": {
+            "en": "Pin the Nagaur sale. He is asking to be shown the two animals in one place, and this is the paper that puts them there.",
+            "hi": "नागौर वाली बिक्री टाँगो। वह चाहता है कि दोनों जानवर एक जगह दिखा दिए जाएँ — और यही वह काग़ज़ है जो उन्हें एक जगह ले आता है।"
+          },
+          "unlocksClueId": "saidsold",
+          "note": {
+            "en": "He is right that no paper says it. A mouth says it, and a shoulder says it, and neither of those is paper.",
+            "hi": "यह सही है कि कोई काग़ज़ यह नहीं कहता। यह एक मुँह कहता है और एक कंधा कहता है — और इनमें से कोई काग़ज़ नहीं है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "proposal",
+      "correction": {
+        "en": "The agent earns nothing on a claim and the dealer paid the market price in front of witnesses. One man declared a sum insured forty thousand above what the animal could ever fetch, and then collected both the sum and the price.",
+        "hi": "एजेंट को दावे पर कुछ नहीं मिलता और व्यापारी ने गवाहों के सामने बाज़ार भाव चुकाया। एक ही आदमी ने बीमित रक़म उस जानवर की सबसे ऊँची क़ीमत से भी चालीस हज़ार ऊपर लिखवाई — और फिर रक़म भी वसूली और क़ीमत भी।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidtag",
+      "correction": {
+        "en": "Nothing about this needed a locked room or a dark night. The insurer’s whole proof of identity is a numbered tag photographed on its own, with no photograph of the animal wearing it — so the identity was never in the camel, it was hanging off it.",
+        "hi": "इसके लिए न किसी बंद कमरे की ज़रूरत थी, न अँधेरी रात की। बीमा कंपनी की पहचान का पूरा सबूत अकेले टैग की एक फ़ोटो है, और उस जानवर की कोई फ़ोटो नहीं जिसने वह पहना था — यानी पहचान ऊँट के भीतर थी ही नहीं, वह उससे लटकी हुई थी।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "sale",
+      "correction": {
+        "en": "The insured animal did not die and did not run. It walked into a Nagaur dealer’s line on Friday afternoon for seventy-eight thousand, with the hole in its ear still wet, while its number went into the ear of an eighteen-year-old that was going to die anyway.",
+        "hi": "बीमा कराया हुआ जानवर न मरा, न भागा। शुक्रवार दोपहर वह अठहत्तर हज़ार में नागौर के व्यापारी की डोर में जा खड़ा हुआ, कान का छेद अब भी गीला — और उसका नंबर उस अठारह साल के जानवर के कान में चला गया जिसे वैसे भी मरना था।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "pm",
+    "toClueId": "ear",
+    "text": {
+      "en": "A mouth eighteen years old cannot be made six by anybody. So stop arguing with the mouth and look at the only part of that animal a man could have changed in a minute.",
+      "hi": "अठारह साल के मुँह को कोई छह साल का नहीं बना सकता। तो मुँह से बहस छोड़िए और उस जानवर के उस अकेले हिस्से को देखिए जिसे कोई आदमी एक मिनट में बदल सकता था।"
+    }
+  },
+  "bankedClue": {
+    "en": "A sale entry in the auction clerk’s own hand, dated two days before the animal it names left the line",
+    "hi": "नीलामी मुंशी के अपने हाथ की एक बिक्री प्रविष्टि, जिस पर वह तारीख़ है जो उसमें लिखे जानवर के डोर छोड़ने से दो दिन पहले की है"
+  }
+}

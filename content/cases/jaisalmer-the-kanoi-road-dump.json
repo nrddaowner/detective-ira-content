@@ -1,0 +1,500 @@
+{
+  "id": "jaisalmer-the-kanoi-road-dump",
+  "schema": 1,
+  "city": "jaisalmer",
+  "genre": "smuggling",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jaisalmer-havelis",
+    "caseNumber": 3
+  },
+  "title": {
+    "en": "The Kanoi Road Dump",
+    "hi": "कनोई रोड का मलबा-घाट"
+  },
+  "place": {
+    "en": "The Kanoi road dump, and a yard behind it · Ashwin 9, 3:00 PM",
+    "hi": "कनोई रोड का मलबा-घाट, और उसके पीछे का यार्ड · आश्विन 9, 3:00 PM"
+  },
+  "brief": {
+    "en": "Twenty-two debris challans left this site in Ashwin and the municipal dump on the Kanoi road counted fourteen lorries at its gate. That dump has no weighbridge, so nobody there has ever weighed what a lorry brings in or looked at what it leaves with. The one lorry that carried all twenty-two has run thirty-four kilometres on eleven of the trips, to a tip that is nine kilometres and back. There are shell-bearing Habur chips lying in its bed, and this haveli is not built of Habur.",
+    "hi": "आश्विन में इस साइट से बाईस मलबा चालान निकले और कनोई रोड के नगरपालिका मलबा-घाट ने अपने गेट पर चौदह ट्रक गिने। उस घाट पर कोई काँटा नहीं है, इसलिए वहाँ किसी ने आज तक न यह तौला कि ट्रक क्या लाया और न यह देखा कि वह क्या लेकर लौटा। जिस एक ट्रक ने बाईसों ढोए, उसने ग्यारह फेरों में चौंतीस-चौंतीस किलोमीटर चलाए हैं — उस घाट के लिए, जो आने-जाने का नौ किलोमीटर है। उसके पिछले हिस्से में सीप वाले हाबूर के टुकड़े पड़े हैं, और यह हवेली हाबूर की बनी ही नहीं है।"
+  },
+  "photoCaption": {
+    "en": "the tip road, four hundred metres on",
+    "hi": "घाट की सड़क, चार सौ मीटर आगे"
+  },
+  "iraNote": {
+    "en": "“Everybody watches what a lorry carries out of a site. A lorry that goes out full and comes back empty is the cheapest thing in India, and nobody has ever once asked it what it came back with.”",
+    "hi": "“सब देखते हैं कि ट्रक साइट से क्या लेकर निकला। जो ट्रक भरा जाए और ख़ाली लौटे, वह हिंदुस्तान की सबसे सस्ती चीज़ है — और उससे यह किसी ने कभी नहीं पूछा कि लौटते वक़्त वह क्या लेकर आया।”"
+  },
+  "clues": [
+    {
+      "id": "counts",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "TWENTY-TWO OUT, FOURTEEN IN",
+        "hi": "बाईस निकले, चौदह पहुँचे"
+      },
+      "text": {
+        "en": "Twenty-two challans in the site’s book against fourteen lorries in the dump’s gate register, which Bhairu Lal writes at the boom. Neither book is wrong; they are counting two different things eight lorries apart.",
+        "hi": "साइट की बही में बाईस चालान, और घाट की गेट पंजी में चौदह ट्रक — जो भैरू लाल बूम पर लिखता है। दोनों बहियों में कुछ ग़लत नहीं है; वे दो अलग चीज़ें गिन रही हैं, और उनके बीच आठ ट्रक का फ़ासला है।"
+      }
+    },
+    {
+      "id": "odometer",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE LORRY’S OWN READING",
+        "hi": "ट्रक का अपना पाठ"
+      },
+      "text": {
+        "en": "Site to dump and back is nine kilometres. Eleven of the twenty-two trips put thirty-four on the odometer, and the extra twenty-five is exactly the loop out past the tip and back by the Kanoi track.",
+        "hi": "साइट से घाट और वापस नौ किलोमीटर है। बाईस में से ग्यारह फेरों ने मीटर पर चौंतीस चढ़ाए, और बचा हुआ पच्चीस ठीक वही चक्कर है जो घाट से आगे निकलकर कनोई के कच्चे रास्ते से लौटता है।"
+      }
+    },
+    {
+      "id": "chips",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHAT IS IN THE LORRY BED",
+        "hi": "ट्रक के पिछले हिस्से में क्या है"
+      },
+      "text": {
+        "en": "Chips of Habur bed, shells and all, wedged along the tailboard seam. Haveli debris is plain Jaisalmer bed with two hundred years of lime mortar stuck to it, and there is not one gram of lime in these.",
+        "hi": "पिछले तख़्ते की सिलवट में फँसे हाबूर परत के टुकड़े — सीपियों समेत। हवेली का मलबा सादा जैसलमेर परत होता है, जिस पर दो सौ साल का चूना चिपका रहता है — और इनमें चूना एक ग्राम भी नहीं है।"
+      }
+    },
+    {
+      "id": "pit",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE PIT PAST THE TIP",
+        "hi": "घाट से आगे की खदान"
+      },
+      "text": {
+        "en": "An unleased working four hundred metres off the dump road: four men, a hired compressor, no lease board, and lorry tracks with a nine-tonner’s wheelbase turned in the same place eleven times.",
+        "hi": "घाट की सड़क से चार सौ मीटर हटकर बिना पट्टे की एक खदान: चार आदमी, किराए का कंप्रेसर, कोई पट्टा-बोर्ड नहीं — और नौ टन वाले ट्रक के पहियों के निशान, एक ही जगह ग्यारह बार मुड़े हुए।"
+      }
+    },
+    {
+      "id": "rawanna",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE MINERAL TRANSIT PASSES",
+        "hi": "खनिज रवन्ना"
+      },
+      "text": {
+        "en": "Karna Ram’s yard on the bypass is holding sixty-one tonnes of Habur and can produce rawannas for twenty-two of them. Stone without a rawanna has no origin, and stone with no origin cannot be shown to have come out of a pit that has no lease.",
+        "hi": "बाईपास पर करना राम के यार्ड में इकसठ टन हाबूर पड़ा है और रवन्ना वह बाईस टन का दिखा सकता है। जिस पत्थर का रवन्ना न हो उसका कोई मूल नहीं होता, और जिसका मूल न हो उसके बारे में यह साबित नहीं किया जा सकता कि वह बिना पट्टे की खदान से निकला है।"
+      }
+    },
+    {
+      "id": "crates",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "SIX CRATES ON NO LIST",
+        "hi": "छह बक्से, किसी सूची में नहीं"
+      },
+      "text": {
+        "en": "The contractor’s own lorry lists carry sixteen crate numbers for Ashwin and the site’s challans carry twenty-two. The six that are on neither list reached no tip on this road, and the dump has never seen a crate it did not enter.",
+        "hi": "ठेकेदार की अपनी ट्रक सूचियों में आश्विन के सोलह बक्सा नंबर हैं और साइट के चालानों में बाईस। जो छह किसी भी सूची में नहीं हैं, वे इस सड़क के किसी घाट तक पहुँचे ही नहीं — और घाट ने आज तक कोई बक्सा ऐसा नहीं देखा जो उसने दर्ज न किया हो।"
+      }
+    },
+    {
+      "id": "paid",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHAT THE YARD PAID",
+        "hi": "यार्ड ने क्या दिया"
+      },
+      "text": {
+        "en": "Twenty-four hundred a tonne, cash, eleven times, in the driver’s own trip book under a column headed ‘extra’. The same stone with a rawanna moves at six thousand a tonne on the same bypass.",
+        "hi": "चौबीस सौ रुपए प्रति टन, नक़द, ग्यारह बार — ड्राइवर की अपनी फेरा-बही में ‘ऊपरी’ शीर्षक वाले ख़ाने में। वही पत्थर रवन्ना के साथ उसी बाईपास पर छह हज़ार प्रति टन चलता है।"
+      }
+    },
+    {
+      "id": "bhairugate",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE DUMP’S GATE REGISTER",
+        "hi": "घाट की गेट पंजी"
+      },
+      "text": {
+        "en": "Bhairu Lal counted fourteen lorries at the boom in Ashwin and wrote the challan number each driver read out to him.",
+        "hi": "भैरू लाल ने आश्विन में बूम पर चौदह ट्रक गिने और हर ड्राइवर ने जो चालान नंबर बोला, वही लिख लिया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he counts lorries and writes numbers, and his fourteen is the only count in this file that nobody has had a reason to touch",
+        "hi": "ख़ारिज — वह ट्रक गिनता है और नंबर लिखता है, और उसका चौदह इस फ़ाइल की अकेली गिनती है जिसे छूने की किसी को कोई वजह नहीं थी"
+      }
+    },
+    {
+      "id": "laxman",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE CLEANER WHO RODE EVERY TRIP",
+        "hi": "हर फेरे का क्लीनर"
+      },
+      "text": {
+        "en": "Laxman Bhati sat in that cab for all twenty-two runs and got down at the pit each of the eleven times.",
+        "hi": "लक्ष्मण भाटी बाईसों फेरों में उसी केबिन में बैठा था और ग्यारह बार खदान पर उतरा भी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nineteen years old, two hundred and fifty rupees a day, does not drive and cannot read a rawanna; he told us where the pit was the first time anybody asked him",
+        "hi": "ख़ारिज — उन्नीस साल का, दिन के ढाई सौ रुपए, गाड़ी चलाता नहीं और रवन्ना पढ़ नहीं सकता; खदान कहाँ है यह उसने पहली ही बार पूछने पर बता दिया"
+      }
+    },
+    {
+      "id": "mangilist",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE CONTRACTOR’S LORRY LISTS",
+        "hi": "ठेकेदार की ट्रक सूचियाँ"
+      },
+      "text": {
+        "en": "Mangi Lal Suthar files a lorry list with the site every evening and his Ashwin lists are six crates short of the site’s challans.",
+        "hi": "मंगी लाल सुथार हर शाम साइट में एक ट्रक सूची जमा करता है, और उसकी आश्विन की सूचियाँ साइट के चालानों से छह बक्से कम हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the shortfall is in his own filed papers and he is the one who wrote to the site about it in Ashwin; a man hiding six crates does not put the gap in writing twice",
+        "hi": "ख़ारिज — कमी उसके ही जमा किए काग़ज़ों में है और आश्विन में साइट को इसकी लिखत भी उसी ने दी; छह बक्से छिपाने वाला उस अंतर को दो बार लिखकर नहीं देता"
+      }
+    },
+    {
+      "id": "monsoonroad",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE ROAD WAS CUT FOR FOUR DAYS",
+        "hi": "चार दिन सड़क कटी रही"
+      },
+      "text": {
+        "en": "Water took out the dump road between Bhadra twenty-six and Bhadra twenty-nine.",
+        "hi": "भादों छब्बीस से भादों उनतीस तक पानी घाट की सड़क बहा गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — those four days are in the site’s own stoppage register and not one challan was written on any of them",
+        "hi": "ख़ारिज — वे चार दिन साइट की अपनी बंदी पंजी में दर्ज हैं और उनमें से किसी दिन एक भी चालान नहीं लिखा गया"
+      }
+    },
+    {
+      "id": "noweighbridge",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE DUMP HAS NO WEIGHBRIDGE",
+        "hi": "घाट पर काँटा नहीं है"
+      },
+      "text": {
+        "en": "Nothing tipped on the Kanoi road has ever been weighed, in or out, since the dump opened in 2009.",
+        "hi": "2009 में घाट खुलने के बाद से कनोई रोड पर गिराई गई कोई चीज़ न आते वक़्त तौली गई, न जाते वक़्त।"
+      },
+      "dismissNote": {
+        "en": "ruled out — it is exactly why this worked and it is a machine that was never bought, not a man who did anything; a missing weighbridge cannot be charged",
+        "hi": "ख़ारिज — यही वजह है कि यह चल गया, पर यह वह मशीन है जो कभी ख़रीदी ही नहीं गई, कोई आदमी नहीं जिसने कुछ किया हो; न ख़रीदे गए काँटे पर आरोप नहीं लगता"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidempty",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DRIVER",
+        "hi": "बयान · ड्राइवर"
+      },
+      "text": {
+        "en": "“A lorry going back empty is a lorry losing money, and every driver on this road knows it. Nobody at that gate has ever weighed what goes in. Nobody anywhere has ever looked at what comes out.”",
+        "hi": "“ख़ाली लौटता ट्रक घाटे में चलता ट्रक है, और इस सड़क का हर ड्राइवर यह जानता है। उस गेट पर आज तक किसी ने यह नहीं तौला कि भीतर क्या गया। और यह किसी ने कहीं नहीं देखा कि बाहर क्या आया।”"
+      }
+    },
+    {
+      "id": "saidrawanna",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE YARD OWNER",
+        "hi": "बयान · यार्ड मालिक"
+      },
+      "text": {
+        "en": "“I buy by the tonne and I ask for a rawanna. If a man brings thirty tonnes and paper for eleven, I take the thirty and I file the eleven. Show me one yard on this bypass that does otherwise.”",
+        "hi": "“मैं टन के हिसाब से ख़रीदता हूँ और रवन्ना माँगता हूँ। कोई तीस टन और ग्यारह का काग़ज़ लाए तो तीस मैं ले लेता हूँ और ग्यारह दाख़िल कर देता हूँ। इस बाईपास पर एक यार्ड दिखा दीजिए जो इससे अलग करता हो।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "himmat",
+      "name": {
+        "en": "Himmat Singh",
+        "hi": "हिम्मत सिंह"
+      },
+      "role": {
+        "en": "THE LORRY DRIVER",
+        "hi": "ट्रक ड्राइवर"
+      },
+      "hook": {
+        "en": "carried all twenty-two loads and ran eleven of them long",
+        "hi": "बाईसों ढोए, और ग्यारह लंबे चलाए"
+      },
+      "confession": {
+        "en": "Tipped part of eleven debris loads short of the gate so the lorry was at the pit sooner, filled the empty bed with Habur out of an unleased working four hundred metres past the tip, and sold it into a bypass yard at twenty-four hundred a tonne with no rawanna behind a single stone of it.",
+        "hi": "ग्यारह मलबा फेरों का कुछ हिस्सा गेट से पहले ही गिरा दिया ताकि ट्रक खदान पर जल्दी पहुँचे, ख़ाली हुए पिछले हिस्से को घाट से चार सौ मीटर आगे की बिना पट्टे वाली खदान के हाबूर से भरा, और बाईपास के एक यार्ड में चौबीस सौ रुपए प्रति टन बेच दिया — और उसमें से एक पत्थर के पीछे भी रवन्ना नहीं था।"
+      }
+    },
+    {
+      "id": "mangi",
+      "name": {
+        "en": "Mangi Lal Suthar",
+        "hi": "मंगी लाल सुथार"
+      },
+      "role": {
+        "en": "THE DEBRIS CONTRACTOR",
+        "hi": "मलबा ठेकेदार"
+      },
+      "hook": {
+        "en": "his contract, his lorry, his lists",
+        "hi": "ठेका उसका, ट्रक उसका, सूचियाँ उसकी"
+      },
+      "alibi": {
+        "en": "His filed lists are six crates short of the site’s challans and he wrote to the site about the gap himself in Ashwin. He is paid by the crate and a load tipped short of the gate costs him money rather than making him any.",
+        "hi": "उसकी जमा सूचियाँ साइट के चालानों से छह बक्से कम हैं, और उस अंतर की लिखत आश्विन में उसी ने साइट को दी। उसे बक्से के हिसाब से पैसा मिलता है, और गेट से पहले गिराया गया फेरा उसे कमाकर नहीं देता, उलटे ख़र्च कराता है।"
+      }
+    },
+    {
+      "id": "karna",
+      "name": {
+        "en": "Karna Ram",
+        "hi": "करना राम"
+      },
+      "role": {
+        "en": "THE STONE YARD OWNER",
+        "hi": "पत्थर यार्ड का मालिक"
+      },
+      "hook": {
+        "en": "sixty-one tonnes of Habur, rawannas for twenty-two",
+        "hi": "इकसठ टन हाबूर, रवन्ना बाईस का"
+      },
+      "alibi": {
+        "en": "He bought at the yard gate from a driver who came to him and never once went out to a pit. Buying without asking hard enough is the offence he will answer for; it is not the offence of digging a hill that belongs to the state.",
+        "hi": "उसने यार्ड के गेट पर उसी ड्राइवर से ख़रीदा जो उसके पास आया, और किसी खदान तक वह एक बार भी नहीं गया। ठीक से न पूछकर ख़रीदना वह जुर्म है जिसका जवाब उसे देना है; सरकार की पहाड़ी खोदने का जुर्म वह नहीं है।"
+      }
+    },
+    {
+      "id": "bhairu",
+      "name": {
+        "en": "Bhairu Lal",
+        "hi": "भैरू लाल"
+      },
+      "role": {
+        "en": "THE DUMP GATE CLERK",
+        "hi": "घाट का गेट बाबू"
+      },
+      "hook": {
+        "en": "the fourteen at the boom is his count",
+        "hi": "बूम पर के चौदह उसी की गिनती हैं"
+      },
+      "alibi": {
+        "en": "He has no weighbridge, no scale and no instruction to open a tailboard, and he wrote down fourteen when the site’s book said twenty-two. His register is the reason anybody knows there is a case at all.",
+        "hi": "उसके पास न काँटा है, न तराज़ू, न पिछला तख़्ता खोलने का कोई आदेश — और जब साइट की बही बाईस कह रही थी, उसने चौदह लिखा। यह केस है ही, यह किसी को उसकी पंजी से मालूम हुआ।"
+      }
+    },
+    {
+      "id": "laxman",
+      "name": {
+        "en": "Laxman Bhati",
+        "hi": "लक्ष्मण भाटी"
+      },
+      "role": {
+        "en": "THE LORRY CLEANER",
+        "hi": "ट्रक क्लीनर"
+      },
+      "hook": {
+        "en": "got down at the pit all eleven times",
+        "hi": "ग्यारहों बार खदान पर उतरा"
+      },
+      "alibi": {
+        "en": "Nineteen years old, two hundred and fifty rupees a day, does not drive and has never seen a rawanna. He drew us the turning off the dump road the first time anybody asked.",
+        "hi": "उन्नीस साल का, दिन के ढाई सौ रुपए, गाड़ी चलाता नहीं और रवन्ना उसने कभी देखा ही नहीं। घाट की सड़क से मुड़ने की जगह उसने पहली ही बार पूछने पर बनाकर दिखा दी।"
+      }
+    }
+  ],
+  "culpritId": "himmat",
+  "interrogations": [
+    {
+      "suspectId": "mangi",
+      "setting": {
+        "en": "The contractor’s yard by the Amar Sagar gate, four crates stacked and a clipboard of lorry lists on a nail.",
+        "hi": "अमर सागर गेट के पास ठेकेदार का अहाता, चिने हुए चार बक्से और खूँटी पर टँगी ट्रक सूचियों की तख़्ती।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Your lists are six crates short of the site’s.",
+            "hi": "आपकी सूचियाँ साइट की सूचियों से छह बक्से कम हैं।"
+          },
+          "answer": {
+            "en": "“Six short, and I said so in Ashwin, in writing, to the engineer. I am paid by the crate. Six crates I did not carry is six crates I was not paid for.”",
+            "hi": "“छह कम, और यह मैंने आश्विन में लिखकर इंजीनियर साहब को कह दिया था। मुझे बक्से का पैसा मिलता है। जो छह मैंने ढोए नहीं, उनका पैसा मुझे मिला भी नहीं।”"
+          },
+          "needsClueId": "crates",
+          "lockedHint": {
+            "en": "Pin the six crates. He will talk about his contract all afternoon and about a specific gap only once it is on the board.",
+            "hi": "छह बक्से टाँगो। अपने ठेके पर वह दोपहर भर बोल सकता है; किसी ख़ास अंतर पर तभी बोलेगा जब वह बोर्ड पर आ जाए।"
+          },
+          "note": {
+            "en": "Six crates he was not paid for, and he is the one who put the number in writing. That is a man reporting a theft, twice.",
+            "hi": "छह बक्से जिनका पैसा उसे मिला नहीं, और आँकड़ा लिखकर देने वाला भी वही। यह वह आदमी है जो चोरी की ख़बर कर रहा है — दो बार।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "himmat",
+      "setting": {
+        "en": "The lorry at the bypass, tailboard down, a trip book in the door pocket and Habur grit along every seam of the bed.",
+        "hi": "बाईपास पर खड़ा ट्रक, गिरा हुआ पिछला तख़्ता, दरवाज़े की जेब में फेरा-बही और पिछले हिस्से की हर सिलवट में हाबूर की किरकिरी।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Twenty-two challans and fourteen lorries at the gate.",
+            "hi": "बाईस चालान, और गेट पर चौदह ट्रक।"
+          },
+          "answer": {
+            "en": "“Then eight went in behind another lorry’s number, or eight did not go in. I do not write that register and I do not lift that boom.”",
+            "hi": "“तो आठ किसी और ट्रक के नंबर के पीछे भीतर गए, या आठ भीतर गए ही नहीं। वह पंजी मैं लिखता नहीं और वह बूम मैं उठाता नहीं।”"
+          },
+          "needsClueId": "counts",
+          "lockedHint": {
+            "en": "Pin the two counts. He answers a number with a number; give him both of them at once.",
+            "hi": "दोनों गिनतियाँ टाँगो। आँकड़े का जवाब वह आँकड़े से देता है — दोनों एक साथ उसके सामने रखो।"
+          },
+          "note": {
+            "en": "He has just offered us two explanations and both of them need eight loads to have gone somewhere.",
+            "hi": "उसने अभी हमें दो सफ़ाइयाँ थमा दीं, और दोनों में आठ फेरों को कहीं जाना ज़रूरी है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Nine kilometres and back, and eleven trips at thirty-four.",
+            "hi": "नौ किलोमीटर आना-जाना, और ग्यारह फेरे चौंतीस के।"
+          },
+          "answer": {
+            "en": "“A lorry going back empty is a lorry losing money, and every driver on this road knows it. Nobody at that gate has ever weighed what goes in. Nobody anywhere has ever looked at what comes out.”",
+            "hi": "“ख़ाली लौटता ट्रक घाटे में चलता ट्रक है, और इस सड़क का हर ड्राइवर यह जानता है। उस गेट पर आज तक किसी ने यह नहीं तौला कि भीतर क्या गया। और यह किसी ने कहीं नहीं देखा कि बाहर क्या आया।”"
+          },
+          "needsClueId": "odometer",
+          "lockedHint": {
+            "en": "Pin the odometer. He can argue with a register; he cannot argue with twenty-five kilometres his own lorry admits to.",
+            "hi": "मीटर का पाठ टाँगो। पंजी से वह बहस कर सकता है; अपने ही ट्रक के माने हुए पच्चीस किलोमीटर से नहीं कर सकता।"
+          },
+          "unlocksClueId": "saidempty",
+          "note": {
+            "en": "He has explained the whole business as arithmetic, and it is arithmetic. The stone he balanced it with came out of a hill that belongs to the state.",
+            "hi": "उसने पूरे धंधे को हिसाब बताकर समझा दिया — और वह हिसाब ही है। पर जिस पत्थर से उसने हिसाब बराबर किया, वह सरकार की पहाड़ी से निकला है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Twenty-four hundred a tonne, eleven times, under ‘extra’.",
+            "hi": "चौबीस सौ प्रति टन, ग्यारह बार, ‘ऊपरी’ के नीचे।"
+          },
+          "answer": {
+            "en": "“Extra is what a driver eats on. My rate for this contract is nine hundred a trip and diesel is on me. Go and try feeding four people on nine hundred a trip.”",
+            "hi": "“‘ऊपरी’ से ही ड्राइवर का पेट चलता है। इस ठेके में मेरा रेट फेरे के नौ सौ है और डीज़ल मेरा। जाइए, फेरे के नौ सौ में चार लोगों का पेट भरकर दिखाइए।”"
+          },
+          "needsClueId": "paid",
+          "lockedHint": {
+            "en": "Pin what the yard paid. The ‘extra’ column means nothing until the rate beside it does.",
+            "hi": "यार्ड ने जो दिया वह टाँगो। ‘ऊपरी’ का ख़ाना तब तक कुछ नहीं कहता जब तक उसके साथ का रेट कुछ न कहे।"
+          },
+          "note": {
+            "en": "Twenty-four hundred for stone that moves at six thousand with a paper. He was underpaid twice over and he still knew what he was doing.",
+            "hi": "उस पत्थर के चौबीस सौ, जो काग़ज़ के साथ छह हज़ार में चलता है। उसे दोहरा कम मिला — और फिर भी वह जानता था कि वह क्या कर रहा है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "karna",
+      "setting": {
+        "en": "The bypass yard at five, Habur stacked three courses high, and a rawanna file with twenty-two slips in it.",
+        "hi": "पाँच बजे का बाईपास यार्ड, तीन रद्दे ऊँचा चिना हुआ हाबूर, और बाईस पर्चियों वाली रवन्ना फ़ाइल।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Sixty-one tonnes in the yard, paper for twenty-two.",
+            "hi": "यार्ड में इकसठ टन, काग़ज़ बाईस का।"
+          },
+          "answer": {
+            "en": "“I buy by the tonne and I ask for a rawanna. If a man brings thirty tonnes and paper for eleven, I take the thirty and I file the eleven. Show me one yard on this bypass that does otherwise.”",
+            "hi": "“मैं टन के हिसाब से ख़रीदता हूँ और रवन्ना माँगता हूँ। कोई तीस टन और ग्यारह का काग़ज़ लाए तो तीस मैं ले लेता हूँ और ग्यारह दाख़िल कर देता हूँ। इस बाईपास पर एक यार्ड दिखा दीजिए जो इससे अलग करता हो।”"
+          },
+          "needsClueId": "rawanna",
+          "lockedHint": {
+            "en": "Pin the transit passes. Thirty-nine tonnes with no origin is only a fact once the file has been counted against the stack.",
+            "hi": "रवन्ना टाँगो। बिना मूल के उनतालीस टन तभी तथ्य बनते हैं जब फ़ाइल को ढेर के सामने गिना जाए।"
+          },
+          "unlocksClueId": "saidrawanna",
+          "note": {
+            "en": "He is describing an entire trade’s habit as his defence, and he is not lying about the trade.",
+            "hi": "वह पूरे धंधे की आदत को अपनी सफ़ाई बना रहा है — और धंधे के बारे में वह झूठ नहीं बोल रहा।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "paid",
+      "correction": {
+        "en": "The contractor is paid by the crate and lost money on every short load, and the gate clerk earns a salary with no scale to sell. One man had eleven cash entries at twenty-four hundred a tonne in a column of his own headed ‘extra’, on a contract that pays him nine hundred a trip with diesel on him.",
+        "hi": "ठेकेदार को बक्से का पैसा मिलता है और हर अधूरे फेरे पर उसका घाटा हुआ, और गेट बाबू तनख़्वाह पाता है और उसके पास बेचने के लिए तराज़ू ही नहीं। एक ही आदमी था जिसके अपने ‘ऊपरी’ ख़ाने में चौबीस सौ प्रति टन की ग्यारह नक़द प्रविष्टियाँ थीं — उस ठेके पर, जो उसे फेरे के नौ सौ देता है और डीज़ल उसके सिर।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidempty",
+      "correction": {
+        "en": "Nothing here needed a lock picked or a guard bought. Everybody on this road watches what a lorry takes out of a site and nobody has ever once asked a debris lorry what it came back with — the dump does not weigh, and no gate anywhere looks at an empty bed.",
+        "hi": "यहाँ न कोई ताला तोड़ना था, न कोई पहरेदार ख़रीदना। इस सड़क पर सब यह देखते हैं कि ट्रक साइट से क्या लेकर निकला, और मलबा ट्रक से यह किसी ने कभी नहीं पूछा कि लौटते वक़्त वह क्या लाया — घाट तौलता नहीं, और ख़ाली पिछले हिस्से को कोई गेट देखता नहीं।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "odometer",
+      "correction": {
+        "en": "Eleven pit runs did not have to be hidden anywhere, because they were hidden inside twenty-two dump runs. The tip is nine kilometres and back and eleven of those trips read thirty-four, which is the loop out past the tip and home by the Kanoi track.",
+        "hi": "ग्यारह खदान फेरों को कहीं छिपाने की ज़रूरत नहीं पड़ी, क्योंकि वे बाईस घाट फेरों के भीतर ही छिपे थे। घाट आने-जाने का नौ किलोमीटर है और उन फेरों में से ग्यारह चौंतीस पढ़ते हैं — यानी घाट से आगे निकलकर कनोई के कच्चे रास्ते से घर लौटने वाला चक्कर।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "counts",
+    "toClueId": "odometer",
+    "text": {
+      "en": "Two honest books eight lorries apart means eight lorries did something the books do not have a column for. A lorry cannot lie about a register, but it cannot help telling you how far it went.",
+      "hi": "दो सच्ची बहियाँ और उनके बीच आठ ट्रक का फ़ासला — यानी आठ ट्रकों ने कुछ ऐसा किया जिसका बहियों में ख़ाना ही नहीं है। ट्रक पंजी के बारे में झूठ नहीं बोल सकता, पर यह बताने से बच भी नहीं सकता कि वह कितना चला।"
+    }
+  },
+  "bankedClue": {
+    "en": "Six crates of debris on no lorry list of the contractor’s own, that reached no tip on this road",
+    "hi": "छह मलबा बक्से, जो ठेकेदार की अपनी किसी ट्रक सूची में नहीं हैं और इस सड़क के किसी घाट तक पहुँचे भी नहीं"
+  }
+}

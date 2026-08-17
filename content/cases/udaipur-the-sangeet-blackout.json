@@ -1,0 +1,553 @@
+{
+  "id": "udaipur-the-sangeet-blackout",
+  "schema": 1,
+  "city": "udaipur",
+  "genre": "sabotage",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "udaipur-lake-palace-season",
+    "caseNumber": 4
+  },
+  "title": {
+    "en": "The Sangeet Blackout",
+    "hi": "सहालग का अँधेरा"
+  },
+  "place": {
+    "en": "Mor Bagh island · the east wing · Friday, 9:42 PM",
+    "hi": "मोर बाग़ टापू · पूर्वी विंग · शुक्रवार, 9:42 PM"
+  },
+  "brief": {
+    "en": "The east-wing phase went out at forty-two minutes past nine and came back at fifty-three. For those eleven minutes the strong-room lobby was dark, and so was the camera that watches it, because on this island the camera has always run off the wing it watches. The breaker was not faulty. Somebody put twenty-one kilowatts through a phase built for twelve, and they had four days to arrange it.",
+    "hi": "पूर्वी विंग की लाइन नौ बजकर बयालीस मिनट पर गई और तिरपन पर लौटी। उन ग्यारह मिनटों में तिजोरी वाला लॉबी अँधेरे में था, और उसे देखने वाला कैमरा भी — क्योंकि इस टापू पर कैमरा हमेशा उसी विंग की लाइन से चलता आया है जिसे वह देखता है। ब्रेकर ख़राब नहीं था। बारह किलोवाट के लिए बनी लाइन पर किसी ने इक्कीस डाले, और इसका इंतज़ाम करने को उसके पास चार दिन थे।"
+  },
+  "photoCaption": {
+    "en": "the east wing, nine forty-two",
+    "hi": "पूर्वी विंग, नौ बजकर बयालीस"
+  },
+  "iraNote": {
+    "en": "“Nobody cut a wire. They simply asked a wire to carry more than it was built for, four days in advance, in writing.”",
+    "hi": "“किसी ने तार नहीं काटा। बस तार से वह उठवाया गया जो उसके बस का नहीं था — चार दिन पहले, और लिखकर।”"
+  },
+  "clues": [
+    {
+      "id": "bookingsheet",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE BOOKING SHEET, AMENDED",
+        "hi": "बुकिंग शीट, संशोधित"
+      },
+      "text": {
+        "en": "Line 9: the 62 kVA genset moved off the kitchen phase and onto the east wing on the 14th. Struck through, rewritten one line up, and initialled S.R.",
+        "hi": "पंक्ति 9: 62 kVA का जनरेटर 14 तारीख़ को रसोई की लाइन से हटाकर पूर्वी विंग पर। काटकर, एक लाइन ऊपर दोबारा लिखा हुआ, और नीचे दस्तख़त — एस.आर."
+      }
+    },
+    {
+      "id": "phase",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHAT THE EAST WING FEEDS",
+        "hi": "पूर्वी विंग किन्हें बिजली देता है"
+      },
+      "text": {
+        "en": "Four things and no others: two corridors, the linen store, and the strong-room lobby — lights and camera both.",
+        "hi": "सिर्फ़ चार चीज़ें: दो गलियारे, कपड़ों का स्टोर, और तिजोरी वाला लॉबी — रोशनी और कैमरा, दोनों।"
+      }
+    },
+    {
+      "id": "load",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LOAD SHEET · THE SANGEET",
+        "hi": "लोड शीट · सहालग की रात"
+      },
+      "text": {
+        "en": "The east-wing phase is rated for 12 kW. On the night of the sangeet it was carrying 21 when it let go.",
+        "hi": "पूर्वी विंग की लाइन 12 kW के लिए है। सहालग की रात जब वह बैठी, तब उस पर 21 चढ़े हुए थे।"
+      }
+    },
+    {
+      "id": "garland",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "FOUR HUNDRED METRES OF LIGHTS",
+        "hi": "चार सौ मीटर की लड़ियाँ"
+      },
+      "text": {
+        "en": "The mandap’s fairy-light runs were spurred off the east-wing corridor points. Every wedding before this one took them off the kitchen board, which is what the kitchen board is for.",
+        "hi": "मंडप की लड़ियाँ पूर्वी विंग के गलियारे वाले पॉइंट से जोड़ी गईं। इससे पहले की हर शादी में वे रसोई वाले बोर्ड से ली जाती थीं — रसोई का बोर्ड इसी के लिए है।"
+      }
+    },
+    {
+      "id": "eleven",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "ELEVEN MINUTES",
+        "hi": "ग्यारह मिनट"
+      },
+      "text": {
+        "en": "Out at 9:42, back at 9:53. The sangeet was at its loudest and two hundred people were watching a dance floor at the other end of the island.",
+        "hi": "9:42 पर गई, 9:53 पर आई। सहालग अपने सबसे तेज़ शोर पर था और दो सौ लोग टापू के दूसरे छोर पर नाच देख रहे थे।"
+      }
+    },
+    {
+      "id": "fivethousand",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "CASH TO THE ELECTRICIAN",
+        "hi": "बिजली वाले को नक़द"
+      },
+      "text": {
+        "en": "₹5,000 on the 15th, outside the decor contract, entered in nobody’s book and paid by nobody who will admit to it.",
+        "hi": "15 तारीख़ को ₹5,000 — सजावट के ठेके से बाहर, किसी बही में दर्ज नहीं, और देने वाला कोई मानने को तैयार नहीं।"
+      }
+    },
+    {
+      "id": "mcb",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE BREAKER",
+        "hi": "लैब पर्ची · ब्रेकर"
+      },
+      "text": {
+        "en": "Sound, correctly rated and correctly set. It did exactly what a breaker does when somebody puts twenty-one kilowatts through twelve.",
+        "hi": "दुरुस्त, सही रेटिंग का और सही सेट किया हुआ। बारह पर इक्कीस किलोवाट डालने पर ब्रेकर जो करता है, उसने ठीक वही किया।"
+      }
+    },
+    {
+      "id": "rain",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE SHOWER AT NINE",
+        "hi": "नौ बजे की बौछार"
+      },
+      "text": {
+        "en": "It rained for six minutes at nine o’clock.",
+        "hi": "नौ बजे छह मिनट बारिश हुई।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the trip is at 9:42, thirty-six minutes after it stopped, and every run on this island is under canopy",
+        "hi": "ख़ारिज — लाइन 9:42 पर गई, यानी बारिश थमने के छत्तीस मिनट बाद, और इस टापू की हर तार शामियाने के नीचे है"
+      }
+    },
+    {
+      "id": "fuel",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE OPERATOR’S LOG",
+        "hi": "ऑपरेटर की बही"
+      },
+      "text": {
+        "en": "Devendra Salvi logged the genset topped up at 9:15.",
+        "hi": "देवेंद्र साल्वी ने 9:15 पर जनरेटर में तेल भरा लिखा है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the tank was three-quarters full at midnight, and a genset that runs dry does not take one phase down and leave the other two singing",
+        "hi": "ख़ारिज — आधी रात टंकी तीन-चौथाई भरी थी, और तेल ख़त्म होने पर जनरेटर एक लाइन गिराकर बाक़ी दो चलती नहीं छोड़ता"
+      }
+    },
+    {
+      "id": "oldfault",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "LAST SEASON’S FAULT",
+        "hi": "पिछले सहालग की ख़राबी"
+      },
+      "text": {
+        "en": "The east wing tripped twice last season.",
+        "hi": "पिछले सहालग पूर्वी विंग दो बार बैठा था।"
+      },
+      "dismissNote": {
+        "en": "ruled out — both times the hotel’s log carries a fault, a repair and a bill; this time the breaker is sound and the load is not",
+        "hi": "ख़ारिज — दोनों बार होटल की बही में ख़राबी, मरम्मत और बिल दर्ज है; इस बार ब्रेकर दुरुस्त है और लोड नहीं"
+      }
+    },
+    {
+      "id": "ladder",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE MANDAP",
+        "hi": "फ़ोटो · मंडप"
+      },
+      "text": {
+        "en": "Shalu Jain on a ladder at the corridor points that afternoon.",
+        "hi": "उसी दोपहर, गलियारे के पॉइंट के पास सीढ़ी पर शालू जैन।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she was tying marigold, not wiring; the spur was already live when she went up, and she is the one who asked why it was warm",
+        "hi": "ख़ारिज — वे गेंदा बाँध रही थीं, तार नहीं जोड़ रही थीं; वे चढ़ीं तब स्पर पहले से चालू था, और यह भी उन्होंने ही पूछा कि गरम क्यों है"
+      }
+    },
+    {
+      "id": "camera",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE CORRIDOR CAMERA",
+        "hi": "गलियारे का कैमरा"
+      },
+      "text": {
+        "en": "The camera covering the strong-room lobby went dark with the lights. Vijay Menaria had put that exact risk in writing on the 15th.",
+        "hi": "तिजोरी वाले लॉबी का कैमरा भी रोशनी के साथ ही बुझ गया। ठीक इसी ख़तरे को विजय मेनारिया ने 15 तारीख़ को लिखकर दर्ज कराया था।"
+      },
+      "dismissNote": {
+        "en": "ruled out for this — it is what the trip did, not who did the trip; every camera in this wing has run off this wing since 1994",
+        "hi": "इस केस में ख़ारिज — यह बताता है कि लाइन जाने से क्या हुआ, यह नहीं कि गिराई किसने; 1994 से इस विंग का हर कैमरा इसी विंग से चलता आया है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidspur",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE ELECTRICIAN",
+        "hi": "बयान · बिजली वाला"
+      },
+      "text": {
+        "en": "“Five thousand to take the mandap run off the east-wing points instead of the kitchen board. I was told it would balance the load. It is the exact opposite of balancing the load, and I knew that while I was doing it.”",
+        "hi": "“पाँच हज़ार — मंडप की लड़ियाँ रसोई के बोर्ड की जगह पूर्वी विंग के पॉइंट से लेने के। मुझसे कहा गया कि इससे लोड बराबर हो जाएगा। यह लोड बराबर करने का ठीक उल्टा है, और करते वक़्त यह मुझे मालूम था।”"
+      }
+    },
+    {
+      "id": "saidmoved",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE OPERATOR",
+        "hi": "बयान · ऑपरेटर"
+      },
+      "text": {
+        "en": "“The genset went onto that phase on the 14th and I did not move it. I do not move gensets. I run them where the sheet puts them, and the sheet is not mine.”",
+        "hi": "“जनरेटर 14 तारीख़ को उस लाइन पर गया और मैंने उसे नहीं हटाया। जनरेटर हटाना मेरा काम नहीं। शीट जहाँ रखती है वहीं चलाता हूँ — और शीट मेरी नहीं है।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "naresh",
+      "name": {
+        "en": "Naresh Lohar",
+        "hi": "नरेश लोहार"
+      },
+      "role": {
+        "en": "THE DECOR ELECTRICIAN",
+        "hi": "सजावट का बिजली वाला"
+      },
+      "hook": {
+        "en": "every light on this island is on his spur",
+        "hi": "इस टापू की हर रोशनी उसी की तार से"
+      },
+      "confession": {
+        "en": "Took five thousand rupees to spur four hundred metres of mandap lighting off the east-wing corridor points instead of the kitchen board, knowing it would put twenty-one kilowatts through a phase rated for twelve, and knowing what that phase feeds.",
+        "hi": "पाँच हज़ार लेकर मंडप की चार सौ मीटर लड़ियाँ रसोई के बोर्ड की जगह पूर्वी विंग के गलियारे वाले पॉइंट से जोड़ीं — यह जानते हुए कि बारह की लाइन पर इक्कीस चढ़ जाएँगे, और यह भी जानते हुए कि वह लाइन किन्हें बिजली देती है।"
+      }
+    },
+    {
+      "id": "suhani",
+      "name": {
+        "en": "Suhani Rathore",
+        "hi": "सुहानी राठौड़"
+      },
+      "role": {
+        "en": "THE WEDDING PLANNER",
+        "hi": "वेडिंग प्लानर"
+      },
+      "hook": {
+        "en": "the booking sheet is hers and the amendment is initialled",
+        "hi": "बुकिंग शीट उसी की और संशोधन पर दस्तख़त"
+      },
+      "alibi": {
+        "en": "Moving a genset between phases is a line on a sheet and it is a thing she does forty times a season. She did not hold a screwdriver, she was on the dance floor at 9:42, and two hundred people can say so.",
+        "hi": "जनरेटर को एक लाइन से दूसरी पर करना शीट की एक पंक्ति है, और वह यह सहालग में चालीस बार करती है। पेचकस उसने नहीं पकड़ा, 9:42 पर वह नाच वाले फ़र्श पर थी, और दो सौ लोग यह कह सकते हैं।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "devendra",
+      "name": {
+        "en": "Devendra Salvi",
+        "hi": "देवेंद्र साल्वी"
+      },
+      "role": {
+        "en": "THE GENSET OPERATOR",
+        "hi": "जनरेटर ऑपरेटर"
+      },
+      "hook": {
+        "en": "sat with the machine all night",
+        "hi": "पूरी रात मशीन के पास बैठा रहा"
+      },
+      "alibi": {
+        "en": "He runs a genset where the sheet puts it and the sheet is not his to write. He also restarted the wing in eleven minutes, which is a good time, not a guilty one.",
+        "hi": "शीट जहाँ रखे वहीं वह जनरेटर चलाता है, और शीट लिखना उसका काम नहीं। और विंग उसने ग्यारह मिनट में चालू भी कर दी — यह अच्छा समय है, गुनहगार का नहीं।"
+      }
+    },
+    {
+      "id": "vijay",
+      "name": {
+        "en": "Vijay Menaria",
+        "hi": "विजय मेनारिया"
+      },
+      "role": {
+        "en": "THE BANQUET MANAGER",
+        "hi": "बैंक्वेट मैनेजर"
+      },
+      "hook": {
+        "en": "the strong-room lobby is his floor",
+        "hi": "तिजोरी वाला लॉबी उसी की मंज़िल है"
+      },
+      "alibi": {
+        "en": "He objected to the genset move in writing on the 15th and the note is in the hotel’s own file. A man arranging a blackout does not put his objection to it on paper four days early.",
+        "hi": "जनरेटर हटाने पर उसने 15 तारीख़ को लिखकर आपत्ति की थी और वह पर्चा होटल की अपनी फ़ाइल में है। अँधेरे का इंतज़ाम करने वाला आदमी चार दिन पहले उसी पर अपनी आपत्ति काग़ज़ पर नहीं लिखता।"
+      }
+    },
+    {
+      "id": "shalu",
+      "name": {
+        "en": "Shalu Jain",
+        "hi": "शालू जैन"
+      },
+      "role": {
+        "en": "THE DECOR SUPERVISOR",
+        "hi": "सजावट सुपरवाइज़र"
+      },
+      "hook": {
+        "en": "hung the mandap that afternoon",
+        "hi": "उसी दोपहर मंडप उन्होंने सजाया"
+      },
+      "alibi": {
+        "en": "Marigold, not wiring. The spur was live before she went up the ladder, and she is the one who asked out loud why a corridor point was warm.",
+        "hi": "गेंदा, तार नहीं। वे सीढ़ी पर चढ़ीं उससे पहले स्पर चालू था, और गलियारे का पॉइंट गरम क्यों है — यह भी उन्होंने ही खुलकर पूछा था।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "naresh",
+  "interrogations": [
+    {
+      "suspectId": "devendra",
+      "setting": {
+        "en": "The genset yard behind the linen store, the machine ticking as it cools, a logbook on a milk crate.",
+        "hi": "कपड़ों के स्टोर के पीछे जनरेटर का अहाता, ठंडी होती ठक-ठक करती मशीन, और दूध के क्रेट पर रखी बही।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What went out at 9:42?",
+            "hi": "9:42 पर क्या गया?"
+          },
+          "answer": {
+            "en": "“One phase. The other two never blinked, and the band did not miss a beat. That is not a machine failing, madam. That is a machine doing its job.”",
+            "hi": "“एक लाइन। बाक़ी दो पलक तक नहीं झपकीं और बैंड की एक ताल नहीं छूटी। यह मशीन का बिगड़ना नहीं है, मैडम। यह मशीन का काम करना है।”"
+          },
+          "note": {
+            "en": "One phase of three. Whatever this was, it was aimed.",
+            "hi": "तीन में से एक लाइन। जो भी हुआ, निशाना लगाकर हुआ।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who put your genset on the east wing?",
+            "hi": "आपका जनरेटर पूर्वी विंग पर किसने डाला?"
+          },
+          "answer": {
+            "en": "“The genset went onto that phase on the 14th and I did not move it. I do not move gensets. I run them where the sheet puts them, and the sheet is not mine.”",
+            "hi": "“जनरेटर 14 तारीख़ को उस लाइन पर गया और मैंने उसे नहीं हटाया। जनरेटर हटाना मेरा काम नहीं। शीट जहाँ रखती है वहीं चलाता हूँ — और शीट मेरी नहीं है।”"
+          },
+          "needsClueId": "bookingsheet",
+          "lockedHint": {
+            "en": "Pin the booking sheet. He will not name a line he has not been shown, and the amendment is what he is pointing at.",
+            "hi": "बुकिंग शीट टाँगो। जो पंक्ति उसे दिखाई न जाए, उसका नाम वह नहीं लेगा — और इशारा वह उसी संशोधन की तरफ़ कर रहा है।"
+          },
+          "unlocksClueId": "saidmoved",
+          "note": {
+            "en": "Struck through and rewritten one line up, four days out. That is not a scheduling change, that is a decision.",
+            "hi": "काटकर एक लाइन ऊपर दोबारा लिखा हुआ, चार दिन पहले। यह कार्यक्रम बदलना नहीं, फ़ैसला लेना है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Twenty-one kilowatts on a twelve kilowatt phase.",
+            "hi": "बारह किलोवाट की लाइन पर इक्कीस।"
+          },
+          "answer": {
+            "en": "“Then somebody hung a wedding on a corridor. Corridors are for corridors. The kitchen board is where you take a mandap from and every man on this island knows it.”",
+            "hi": "“तो किसी ने पूरी शादी गलियारे पर टाँग दी। गलियारा गलियारे के लिए होता है। मंडप रसोई के बोर्ड से लिया जाता है, और यह इस टापू का हर आदमी जानता है।”"
+          },
+          "note": {
+            "en": "Every man on this island knows it. Which narrows this to somebody who did it anyway.",
+            "hi": "इस टापू का हर आदमी जानता है। यानी दायरा उस पर सिमटता है जिसने जानते हुए भी किया।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "suhani",
+      "setting": {
+        "en": "The planner’s desk on the island, the booking sheet flat between them, nothing else on it.",
+        "hi": "टापू पर प्लानर की मेज़, बीच में सपाट रखी बुकिंग शीट, और मेज़ पर और कुछ नहीं।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You moved the generator onto the east wing.",
+            "hi": "जनरेटर आपने पूर्वी विंग पर डाला।"
+          },
+          "answer": {
+            "en": "“I move gensets forty times a season. The kitchen phase had the tandoors and the cold room on it and a kitchen that browns out at a wedding is a wedding nobody eats at.”",
+            "hi": "“सहालग में मैं चालीस बार जनरेटर इधर-उधर करती हूँ। रसोई की लाइन पर तंदूर और कोल्ड रूम थे, और शादी में रसोई बैठ जाए तो शादी में कोई खाता नहीं।”"
+          },
+          "needsClueId": "phase",
+          "lockedHint": {
+            "en": "Pin what the east wing feeds. She has an answer about the kitchen; ask her about the other end of the wire.",
+            "hi": "पूर्वी विंग किन्हें बिजली देता है, वह टाँगो। रसोई का जवाब उसके पास है; उससे तार के दूसरे सिरे की बात करो।"
+          },
+          "note": {
+            "en": "A perfectly good reason to move it off the kitchen. Not one word about where she moved it to.",
+            "hi": "रसोई से हटाने की बिल्कुल ठीक वजह। पर हटाकर रखा कहाँ — इस पर एक शब्द नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The banquet manager objected in writing.",
+            "hi": "बैंक्वेट मैनेजर ने लिखकर आपत्ति की थी।"
+          },
+          "answer": {
+            "en": "“He objects in writing to everything. It is how he has kept that job for eleven years, and I would do the same.”",
+            "hi": "“वह हर बात पर लिखकर आपत्ति करता है। ग्यारह साल से नौकरी उसने ऐसे ही बचाई है, और मैं भी यही करती।”"
+          },
+          "note": {
+            "en": "She did not overrule him. She simply did it and let his note sit in a file, which is the same thing done more quietly.",
+            "hi": "उसने उसकी आपत्ति ख़ारिज नहीं की। बस कर दिया और उसका पर्चा फ़ाइल में पड़ा रहने दिया — वही बात, बस चुपचाप।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who told the electrician to use the corridor points?",
+            "hi": "बिजली वाले से गलियारे के पॉइंट इस्तेमाल करने को किसने कहा?"
+          },
+          "answer": {
+            "en": "“Ask the electrician. I book machines and rooms. I have never in my life told a man which socket to use.”",
+            "hi": "“बिजली वाले से पूछिए। मैं मशीनें और कमरे बुक करती हूँ। ज़िंदगी में कभी किसी को यह नहीं बताया कि कौन सा सॉकेट लगाना है।”"
+          },
+          "note": {
+            "en": "True, and it does not need to be false. A booking sheet decided which sockets were even carrying a generator.",
+            "hi": "सच है, और इसे झूठ होने की ज़रूरत भी नहीं। कौन से सॉकेट पर जनरेटर आएगा, यह तो बुकिंग शीट ने ही तय कर दिया था।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "naresh",
+      "setting": {
+        "en": "Under the mandap at midday, the runs coiled at his feet, four hundred metres of dead bulbs.",
+        "hi": "दोपहर के मंडप के नीचे, पैरों में लिपटी लड़ियाँ, और चार सौ मीटर बुझे हुए बल्ब।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Where do you normally take a mandap run from?",
+            "hi": "मंडप की लड़ियाँ आम तौर पर कहाँ से लेते हैं?"
+          },
+          "answer": {
+            "en": "“Kitchen board. Always the kitchen board. It is the only board on this island built to be leaned on.”",
+            "hi": "“रसोई का बोर्ड। हमेशा रसोई का बोर्ड। इस टापू पर बोझ उठाने के लिए बना अकेला बोर्ड वही है।”"
+          },
+          "note": {
+            "en": "He answers before he thinks about which night we are asking about.",
+            "hi": "यह पूछे बिना कि हम किस रात की बात कर रहे हैं, वह जवाब दे देता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "This time you took it off the corridor.",
+            "hi": "इस बार आपने गलियारे से ली।"
+          },
+          "answer": {
+            "en": "“The corridor was nearer. Four hundred metres of cable costs money and I am paid by the job.”",
+            "hi": "“गलियारा पास पड़ता था। चार सौ मीटर तार में पैसा लगता है और मुझे काम का ठेका मिलता है।”"
+          },
+          "needsClueId": "garland",
+          "lockedHint": {
+            "en": "Pin the light runs. He is arguing distance; show him that every wedding before this one ran the longer cable anyway.",
+            "hi": "लड़ियों वाली बात टाँगो। वह दूरी की दलील दे रहा है; उसे दिखाओ कि इससे पहले की हर शादी में लंबा तार ही खींचा गया।"
+          },
+          "note": {
+            "en": "Eleven weddings on this island took the long way round. He is the first man who found the corridor nearer.",
+            "hi": "इस टापू की ग्यारह शादियों में लंबा रास्ता ही लिया गया। गलियारा पास पड़ने वाला वह पहला आदमी है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Five thousand rupees, on the 15th, in nobody’s book.",
+            "hi": "15 तारीख़ को पाँच हज़ार, और किसी बही में दर्ज नहीं।"
+          },
+          "answer": {
+            "en": "“Five thousand to take the mandap run off the east-wing points instead of the kitchen board. I was told it would balance the load. It is the exact opposite of balancing the load, and I knew that while I was doing it.”",
+            "hi": "“पाँच हज़ार — मंडप की लड़ियाँ रसोई के बोर्ड की जगह पूर्वी विंग के पॉइंट से लेने के। मुझसे कहा गया कि इससे लोड बराबर हो जाएगा। यह लोड बराबर करने का ठीक उल्टा है, और करते वक़्त यह मुझे मालूम था।”"
+          },
+          "needsClueId": "fivethousand",
+          "lockedHint": {
+            "en": "Pin the cash. He will keep it a question of cable lengths until the payment is on the table.",
+            "hi": "नक़द वाली प्रविष्टि टाँगो। जब तक भुगतान मेज़ पर न आए, वह इसे तार की लंबाई का मामला बनाए रखेगा।"
+          },
+          "unlocksClueId": "saidspur",
+          "note": {
+            "en": "He knew. He says so plainly, and he still cannot say out loud whose hand the five thousand came out of.",
+            "hi": "उसे मालूम था। यह वह साफ़ कहता है — और फिर भी यह नहीं कह पाता कि पाँच हज़ार किसके हाथ से आए।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "fivethousand",
+      "correction": {
+        "en": "The operator earns the same wage whichever phase the machine sits on and the supervisor was tying marigold. Five thousand rupees off the contract, on the 15th, in nobody’s book, is a price paid for one specific piece of bad wiring.",
+        "hi": "मशीन किसी भी लाइन पर हो, ऑपरेटर की मज़दूरी वही रहती है, और सुपरवाइज़र गेंदा बाँध रही थीं। 15 तारीख़ को ठेके से बाहर, किसी बही में दर्ज न हुए पाँच हज़ार — यह एक ख़ास ग़लत जोड़ की क़ीमत है।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "garland",
+      "correction": {
+        "en": "A booking sheet can put a generator on a phase, but it cannot put twenty-one kilowatts through it. Only the man holding the spur decides which points four hundred metres of lighting hangs off — and eleven weddings before this one, he chose the kitchen board.",
+        "hi": "बुकिंग शीट जनरेटर को किसी लाइन पर रख सकती है, पर उस पर इक्कीस किलोवाट नहीं चढ़ा सकती। चार सौ मीटर की लड़ियाँ किन पॉइंट से लटकेंगी, यह वही तय करता है जिसके हाथ में स्पर है — और इससे पहले की ग्यारह शादियों में उसने रसोई का बोर्ड चुना था।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidspur",
+      "correction": {
+        "en": "Nobody had to be anywhere near the strong room. A phase built for twelve was quietly asked to carry twenty-one, and it went out on its own at the loudest minute of the night, taking the only camera that watches that lobby with it.",
+        "hi": "तिजोरी के आसपास किसी को होने की ज़रूरत ही नहीं थी। बारह के लिए बनी लाइन से चुपचाप इक्कीस उठवाए गए, और वह रात के सबसे शोर भरे मिनट में अपने आप बैठ गई — और अपने साथ उस लॉबी का इकलौता कैमरा भी ले गई।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "eleven",
+    "toClueId": "phase",
+    "text": {
+      "en": "Eleven minutes of dark is not the crime, it is the window. Find out what else was on that circuit — a phase is a list of rooms, and somebody read the list before you did.",
+      "hi": "ग्यारह मिनट का अँधेरा जुर्म नहीं, मौक़ा है। पता करो कि उस लाइन पर और क्या था — लाइन दरअसल कमरों की एक सूची होती है, और वह सूची तुमसे पहले कोई पढ़ चुका है।"
+    }
+  },
+  "bankedClue": {
+    "en": "A generator moved onto the strong-room phase four days before the sangeet",
+    "hi": "सहालग से चार दिन पहले जनरेटर उसी फ़ेज़ पर, जिस पर तिजोरी वाला गलियारा है"
+  }
+}

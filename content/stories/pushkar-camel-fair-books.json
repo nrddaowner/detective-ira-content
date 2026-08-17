@@ -1,0 +1,207 @@
+{
+  "id": "pushkar-camel-fair-books",
+  "schema": 1,
+  "region": "rajasthan",
+  "city": "pushkar",
+  "number": 4,
+  "unlockStars": 30,
+  "title": {
+    "en": "The Camel Fair Books",
+    "hi": "ऊँट मेले की बहियाँ"
+  },
+  "blurb": {
+    "en": "5 cases · the same camel sold three times in one fair, and one animal on the ground for all three",
+    "hi": "5 केस · एक ही मेले में एक ही ऊँट तीन बार बिका, और मैदान पर तीनों के लिए जानवर एक ही"
+  },
+  "cases": [
+    "pushkar-the-ninth-camel",
+    "pushkar-nine-ropes",
+    "pushkar-the-line-fee",
+    "pushkar-tag-eleven-forty",
+    "pushkar-one-permit"
+  ],
+  "finale": {
+    "mastermindId": "kesari",
+    "reveal": {
+      "en": "Kesari Lal Tak?",
+      "hi": "केसरी लाल टाक?"
+    },
+    "threads": [
+      {
+        "caseNumber": 1,
+        "pointsAt": "onkar",
+        "text": {
+          "en": "A health certificate that names an animal by its teeth and its brand, and never once by its lot",
+          "hi": "एक स्वास्थ्य प्रमाण-पत्र, जो जानवर को उसके दाँतों और दाग़ से पहचानता है — उसके लॉट से एक बार भी नहीं"
+        },
+        "short": {
+          "en": "the health certificate",
+          "hi": "स्वास्थ्य प्रमाण-पत्र"
+        },
+        "pending": {
+          "en": "The Ninth Camel will turn up the first thread",
+          "hi": "नौवाँ ऊँट पहला सिरा निकालेगा"
+        },
+        "misread": {
+          "en": "The examination was real, the mouth was read correctly and the hand is his own — a certificate from this tent has never yet described an animal that was not standing in front of it. Hang the thread on the veterinary officer, because the form is his form and the book is his book, and then ask who wanted a form with no lot number on it.",
+          "hi": "जाँच सच्ची हुई, मुँह ठीक पढ़ा गया और लिखावट उसकी अपनी है — इस तंबू के किसी प्रमाण-पत्र ने आज तक ऐसे जानवर का ज़िक्र नहीं किया जो सामने खड़ा न हो। सिरा पशु चिकित्सा अधिकारी पर टाँगो, क्योंकि फ़ॉर्म उसका है और बही उसकी है — और फिर पूछो कि बिना लॉट नंबर वाला फ़ॉर्म किसे चाहिए था।"
+        }
+      },
+      {
+        "caseNumber": 2,
+        "pointsAt": "phool",
+        "text": {
+          "en": "A breeder’s string of nine that the ground book has carried as eight since the fair opened",
+          "hi": "एक पालक की नौ की डोर, जिसे ज़मीन बही मेला खुलने के दिन से आठ लिखती आई है"
+        },
+        "short": {
+          "en": "nine on the ground, eight in the book",
+          "hi": "ज़मीन पर नौ, बही में आठ"
+        },
+        "pending": {
+          "en": "Nine Ropes holds the second thread",
+          "hi": "नौ रस्सियों में दूसरा सिरा है"
+        },
+        "misread": {
+          "en": "Nine animals on the ground and a fee paid on eight looks exactly like a breeder saving two hundred rupees, and forty years of her family's counts sit on the earlier pages of that same book, every one of them right. The thread belongs on the breeder because the string is hers — put it there, and then ask whose pen fills that column.",
+          "hi": "ज़मीन पर नौ जानवर और शुल्क आठ का — यह ठीक वैसा ही दिखता है जैसे किसी पालक ने दो सौ रुपए बचा लिए हों; और उसी बही के पिछले पन्नों पर उसके परिवार की चालीस साल की गिनतियाँ पड़ी हैं, हर एक सही। सिरा पालक पर ही टँगेगा, क्योंकि डोर उसकी है — टाँगो, और फिर पूछो कि वह ख़ाना किसकी क़लम भरती है।"
+        }
+      },
+      {
+        "caseNumber": 3,
+        "pointsAt": "mohar",
+        "text": {
+          "en": "Forty-one strings marked paid in the ground book, against a receipt book the committee closed in Chaitra",
+          "hi": "ज़मीन बही में इकतालीस डोरें ‘चुकता’ लिखी गईं — उस रसीद बही के नंबरों पर, जिसे समिति चैत में बंद कर चुकी थी"
+        },
+        "short": {
+          "en": "forty-one marked clear",
+          "hi": "इकतालीस ‘चुकता’"
+        },
+        "pending": {
+          "en": "The Line Fee will say whose hand marked them",
+          "hi": "लाइन की उगाही बताएगी कि निशान किसके हाथ ने लगाए"
+        },
+        "misread": {
+          "en": "He marked what forty-one breeders held out to him and every receipt they held out was genuine committee paper; in nine years nobody has ever given the gate a list of which books are closed. The marks are his, in his column, so the thread hangs where his name is — and then you ask who knew which book was still walking around.",
+          "hi": "इकतालीस पालकों ने जो उसके सामने बढ़ाया उसने वही लिखा, और उनकी हर रसीद समिति का असली काग़ज़ थी; नौ साल में गेट को यह सूची किसी ने दी ही नहीं कि कौन-सी बहियाँ बंद हो चुकी हैं। निशान उसके हैं, उसी के ख़ाने में — इसलिए सिरा वहीं टँगेगा जहाँ उसका नाम है। और फिर पूछो कि यह किसे पता था कि कौन-सी बही अब भी घूम रही है।"
+        }
+      },
+      {
+        "caseNumber": 4,
+        "pointsAt": "kesari",
+        "text": {
+          "en": "A sale entry in the auction clerk’s own hand, dated two days before the animal it names left the line",
+          "hi": "नीलामी मुंशी के अपने हाथ की एक बिक्री प्रविष्टि, जिस पर वह तारीख़ है जो उसमें लिखे जानवर के डोर छोड़ने से दो दिन पहले की है"
+        },
+        "short": {
+          "en": "the sale two days early",
+          "hi": "दो दिन पहले की बिक्री"
+        },
+        "pending": {
+          "en": "Tag Eleven Forty holds the fourth thread",
+          "hi": "टैग ग्यारह चालीस में चौथा सिरा है"
+        },
+        "misread": {
+          "en": "A tag can be cut out of an ear and a buyer can be invented, but nobody outside the auction tent can write a line into the neelami bahi and date it. This entry sold an animal on Wednesday that was still tied to its peg on Friday, and there is one hand in this fair that writes in that book.",
+          "hi": "टैग कान से काटा जा सकता है और ख़रीदार गढ़ा जा सकता है — पर नीलामी तंबू के बाहर से कोई नीलामी बही में पंक्ति लिखकर उस पर तारीख़ नहीं डाल सकता। इस प्रविष्टि ने बुधवार को वह जानवर बेच दिया जो शुक्रवार तक अपने खूँटे से बँधा था — और इस मेले में उस बही में लिखने वाला हाथ एक ही है।"
+        }
+      },
+      {
+        "caseNumber": 5,
+        "pointsAt": "kesari",
+        "text": {
+          "en": "An exit slip whose lot the sale book shows sold twice, on two days, to two buyers",
+          "hi": "एक निर्गम पर्ची, जिसका लॉट नीलामी बही दो बार बिका दिखाती है — दो दिन, दो ख़रीदार"
+        },
+        "short": {
+          "en": "one lot, two buyers",
+          "hi": "एक लॉट, दो ख़रीदार"
+        },
+        "pending": {
+          "en": "One Permit, Three Trucks holds the last thread",
+          "hi": "एक परमिट, तीन ट्रक में आख़िरी सिरा है"
+        },
+        "misread": {
+          "en": "A transport agent can move twelve head on a paper for four, and a gate can read a number three times, and neither of them can put two buyers against one lot two days apart. Every pair of those entries is in the same hand, and the earlier buyer of every pair is a name and a village the post office sends back.",
+          "hi": "ट्रांसपोर्ट एजेंट चार के काग़ज़ पर बारह जानवर निकाल सकता है, और गेट एक नंबर तीन बार पढ़ सकता है — पर इन दोनों में से कोई एक ही लॉट पर दो दिन के फ़ासले से दो ख़रीदार नहीं चढ़ा सकता। उन प्रविष्टियों की हर जोड़ी एक ही हाथ की है, और हर जोड़ी का पहला ख़रीदार वह नाम और वह गाँव है जिसे डाकघर लौटा देता है।"
+        }
+      }
+    ],
+    "suspects": [
+      {
+        "id": "kesari",
+        "name": {
+          "en": "Kesari Lal Tak",
+          "hi": "केसरी लाल टाक"
+        },
+        "role": {
+          "en": "THE AUCTION CLERK",
+          "hi": "नीलामी मुंशी"
+        },
+        "dossier": {
+          "en": "calls every lot on this ground and writes the neelami bahi himself · nine fairs, no complaint on record · the only hand in Pushkar that can date a sale",
+          "hi": "इस मैदान का हर लॉट वही बोलता है और नीलामी बही वही लिखता है · नौ मेले, रिकॉर्ड पर एक भी शिकायत नहीं · पुष्कर में बिक्री पर तारीख़ डालने वाला हाथ अकेला उसी का है"
+        }
+      },
+      {
+        "id": "onkar",
+        "name": {
+          "en": "Dr. Onkar Vyas",
+          "hi": "डॉ. ओंकार व्यास"
+        },
+        "role": {
+          "en": "THE VETERINARY OFFICER",
+          "hi": "पशु चिकित्सा अधिकारी"
+        },
+        "dossier": {
+          "en": "eleven fairs at the same tent · reads a mouth better than anybody in the district · his certificates give teeth, brand and age, and have never carried a lot number",
+          "hi": "उसी तंबू पर ग्यारह मेले · मुँह पढ़ने में पूरे ज़िले में उसका जोड़ नहीं · उसके प्रमाण-पत्रों में दाँत, दाग़ और उम्र होती है — लॉट नंबर कभी नहीं होता"
+        },
+        "cleared": {
+          "en": "Every certificate he ever wrote describes an animal that was standing in front of him. That is exactly what made them worth stealing: an honest description of a real camel fits any file you care to put it in, and he was never given a column to write the lot in.",
+          "hi": "उसने जो भी प्रमाण-पत्र लिखा, उसमें वही जानवर है जो उसके सामने खड़ा था। चोरी के लायक़ उन्हें इसी बात ने बनाया: सच्चे जानवर का सच्चा ब्योरा उस हर फ़ाइल में फ़िट हो जाता है जिसमें आप उसे रख दें — और लॉट लिखने का ख़ाना उसे कभी दिया ही नहीं गया।"
+        }
+      },
+      {
+        "id": "mohar",
+        "name": {
+          "en": "Mohar Singh Rawat",
+          "hi": "मोहर सिंह रावत"
+        },
+        "role": {
+          "en": "THE GATE WRITER",
+          "hi": "गेट का मुंशी"
+        },
+        "dossier": {
+          "en": "nine years at the boom · counts what walks past him and writes it down · has never in nine years been told which receipt books are closed",
+          "hi": "नौ साल से बूम पर · जो सामने से गुज़रे उसे गिनता है और लिख देता है · नौ साल में उसे कभी नहीं बताया गया कि कौन-सी रसीद बहियाँ बंद हो चुकी हैं"
+        },
+        "cleared": {
+          "en": "He counted eight at a boom two hundred feet short of the ramp, and marked forty-one rows clear off genuine committee receipts, and wrote three honest counterfoils for one permit — and he put every one of them in his own book, in order, where anybody would find them. That is not what hiding looks like.",
+          "hi": "रैंप से दो सौ फ़ीट पीछे खड़े बूम पर उसने आठ गिने, असली समिति रसीदों पर इकतालीस क़तारें ‘चुकता’ लिखीं, और एक ही परमिट पर तीन सच्चे प्रतिपर्ण काटे — और यह सब उसने अपनी ही बही में, क्रम से रखा, जहाँ किसी को भी मिल जाता। छिपाना ऐसा नहीं दिखता।"
+        }
+      },
+      {
+        "id": "phool",
+        "name": {
+          "en": "Phool Bai Raika",
+          "hi": "फूल बाई रायका"
+        },
+        "role": {
+          "en": "THE BREEDER",
+          "hi": "ऊँट पालक"
+        },
+        "dossier": {
+          "en": "brings nine off the Merta road every Kartik · counts by walking the pegs, never the animals · burns a trishul on everything her family breeds",
+          "hi": "हर कार्तिक मेड़ता की सड़क से नौ लेकर आती है · गिनती खूँटे चलकर करती है, जानवर गिनकर कभी नहीं · अपने परिवार के हर जानवर पर त्रिशूल का दाग़ लगाती है"
+        },
+        "cleared": {
+          "en": "Her string is short by one animal and her fee has been taken on eight all week, which means she paid for less than she brought and lost more than she saved. She is the person on this ground who counted right and was written down wrong.",
+          "hi": "उसकी डोर एक जानवर कम है और पूरा हफ़्ता उसका शुल्क आठ पर ही लिया गया — यानी जो लाई उससे कम का चुकाया, और जो बचाया उससे ज़्यादा गँवाया। इस मैदान पर वही है जिसने गिनती सही की और जिसे लिखा ग़लत गया।"
+        },
+        "feminine": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "id": "bikaner-tray-four",
+  "schema": 1,
+  "city": "bikaner",
+  "genre": "sabotage",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "bikaner-sweet-war",
+    "caseNumber": 1
+  },
+  "title": {
+    "en": "Tray Four",
+    "hi": "थाल चार"
+  },
+  "place": {
+    "en": "Kishan Lal Mishthan Bhandar, Halwaiyon ki Gali · Shravan 27, 11:00 AM",
+    "hi": "किशन लाल मिष्ठान भंडार, हलवाइयों की गली · सावन 27, 11:00 AM"
+  },
+  "brief": {
+    "en": "A licensed halwai’s khoya was sampled on Shravan nine and the Food Analyst has found maize starch in it, and eleven days of the season went out with the licence. Kishan Lal Agarwal has made his own khoya on these premises since 1961 and buys none from anybody. Forty litres of buffalo milk came in that morning, which is eight kilos of khoya at best, and nine kilos and seven hundred grams were standing on the counter when the officer walked in. Somebody carried the difference through that door.",
+    "hi": "एक लाइसेंसी हलवाई का खोया सावन नौ को नमूने में लिया गया और खाद्य विश्लेषक ने उसमें मक्के का स्टार्च पाया — और लाइसेंस के साथ सीज़न के ग्यारह दिन भी चले गए। किशन लाल अग्रवाल 1961 से अपना खोया इसी दुकान में बनाते हैं और किसी से ख़रीदते नहीं। उस सुबह चालीस लीटर भैंस का दूध आया, जिससे बहुत हुआ तो आठ किलो खोया बनता है — और अधिकारी के भीतर आते वक़्त गल्ले पर नौ किलो सात सौ ग्राम रखा था। फ़र्क़ को कोई उसी दरवाज़े से भीतर लाया है।"
+  },
+  "photoCaption": {
+    "en": "the second shelf, where the parat stood",
+    "hi": "दूसरा ख़ाना, जहाँ परात रखी थी"
+  },
+  "iraNote": {
+    "en": "“A sealed sample is the most honest thing in this country and the least curious. It will tell you what was in the packet and never once ask what was in the room.”",
+    "hi": "“सीलबंद नमूना इस देश की सबसे ईमानदार चीज़ है और सबसे कम जिज्ञासु। वह बता देगा कि पुड़िया में क्या था, और एक बार भी नहीं पूछेगा कि कमरे में क्या था।”"
+  },
+  "clues": [
+    {
+      "id": "report",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE FOOD ANALYST’S REPORT",
+        "hi": "खाद्य विश्लेषक की रिपोर्ट"
+      },
+      "text": {
+        "en": "Sample of Shravan nine, khoya, found substandard: maize starch present, milk fat below standard. The Designated Officer suspended the licence for eleven days on the strength of it, which took the shop through Rakhi and out the other side.",
+        "hi": "सावन नौ का नमूना, खोया — अवमानक पाया गया: मक्के का स्टार्च मौजूद, दूध की चिकनाई मानक से नीचे। इसी के बल पर नामित अधिकारी ने ग्यारह दिन के लिए लाइसेंस निलंबित किया, और उसमें राखी समेत दुकान का पूरा हफ़्ता निकल गया।"
+      }
+    },
+    {
+      "id": "formsix",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "FORM VI, WHAT WAS DRAWN",
+        "hi": "फ़ॉर्म VI, लिया क्या गया"
+      },
+      "text": {
+        "en": "The officer’s own notice records what he took: khoya, about five hundred grams, lifted from a steel parat standing open on the counter’s second shelf, divided into four parts and sealed in the halwai’s presence at nine-twenty. He wrote steel because it was steel.",
+        "hi": "अधिकारी का अपना नोटिस लिखता है कि उसने क्या लिया: खोया, लगभग पाँच सौ ग्राम, गल्ले के दूसरे ख़ाने में खुली रखी एक स्टील की परात से — हलवाई के सामने चार भागों में बाँटकर नौ बजकर बीस पर सील किया गया। उसने ‘स्टील’ लिखा, क्योंकि वह स्टील थी।"
+      }
+    },
+    {
+      "id": "brass",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "EVERY TRAY IN THIS SHOP IS BRASS",
+        "hi": "इस दुकान की हर परात पीतल की है"
+      },
+      "text": {
+        "en": "Thirty-one parats hang on this back wall and every one of them is kalai-ed brass with a number punched into the rim, because the shop has bought its vessels from the same thathera family since 1948. There is not one piece of steel in the kitchen and there never has been.",
+        "hi": "इस पिछली दीवार पर इकतीस परातें टँगी हैं और हर एक क़लई वाली पीतल की है, किनारे पर ठुका हुआ नंबर लिए — क्योंकि दुकान अपने बरतन 1948 से उसी ठठेरे के घर से लेती आई है। रसोई में स्टील का एक टुकड़ा नहीं है, और कभी था भी नहीं।"
+      }
+    },
+    {
+      "id": "milk",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE MILK BOOK, SHRAVAN 9",
+        "hi": "दूध की बही, सावन 9"
+      },
+      "text": {
+        "en": "Peera Ram brought forty litres at half five, as he has every morning for nine years, and it is signed for in both books. Five litres of this milk makes a kilo of khoya on a good bhatti, so the day could not hold more than eight kilos of it. Counter sales, the tray on the second shelf and the pan together came to nine kilos and seven hundred grams.",
+        "hi": "पीरा राम साढ़े पाँच बजे चालीस लीटर लाया, जैसे नौ साल से हर सुबह लाता है, और दोनों बहियों में दस्तख़त हैं। अच्छी भट्टी पर इस दूध के पाँच लीटर से एक किलो खोया बनता है, यानी उस दिन में आठ किलो से ज़्यादा हो ही नहीं सकता था। गल्ले की बिक्री, दूसरे ख़ाने की परात और कड़ाही — तीनों मिलाकर नौ किलो सात सौ ग्राम निकले।"
+      }
+    },
+    {
+      "id": "cart",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE CYCLE-CART AT SIX-FORTY",
+        "hi": "छह चालीस की रेहड़ी"
+      },
+      "text": {
+        "en": "The tea stall at the lane’s mouth remembers a cycle-cart standing there from twenty past six to a quarter past seven with a cloth over it, which is an hour a cart has no reason to stand in a lane with no wholesale in it. The shutter of this shop goes up at half six, and one man carries the key that puts it up.",
+        "hi": "गली के मुँह की चाय की थड़ी को याद है कि सवा छह से सवा सात तक वहाँ एक रेहड़ी खड़ी रही, ऊपर कपड़ा डाले हुए — और जिस गली में थोक का काम नहीं है, वहाँ रेहड़ी के खड़े रहने का एक घंटा कोई वजह नहीं रखता। इस दुकान का शटर साढ़े छह बजे उठता है, और उसे उठाने वाली चाबी एक ही आदमी के पास है।"
+      }
+    },
+    {
+      "id": "emi",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "AN INSTALMENT OF EIGHTEEN FIFTY",
+        "hi": "अठारह सौ पचास की क़िस्त"
+      },
+      "text": {
+        "en": "A motorcycle bought in Chaitra on a finance company’s paper: eighteen hundred and fifty a month for thirty-six months, two instalments already late by the middle of Shravan. The shop pays its counter boy six thousand a month and his mother is at the government hospital on Wednesdays.",
+        "hi": "चैत में एक फ़ाइनेंस कंपनी के काग़ज़ पर ख़रीदी मोटरसाइकिल: छत्तीस महीने की अठारह सौ पचास की क़िस्त, और सावन के बीच तक दो क़िस्तें पहले ही लेट। दुकान अपने गल्ले के लड़के को छह हज़ार महीना देती है, और उसकी माँ बुधवार को सरकारी अस्पताल जाती है।"
+      }
+    },
+    {
+      "id": "complaint",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE COMPLAINT AT SERIAL 214",
+        "hi": "आवक 214 की शिकायत"
+      },
+      "text": {
+        "en": "The officer did not come on a round. He came on a written complaint entered at serial two hundred and fourteen on Shravan seven, typed, four paragraphs, quoting the section and the penalty — on the letterhead of Nokha Sweet House, under its rubber stamp, signed by Nemi Chand Godara.",
+        "hi": "अधिकारी गश्त पर नहीं आया था। वह सावन सात को आवक दो सौ चौदह पर दर्ज एक लिखी शिकायत पर आया — टाइप की हुई, चार पैराग्राफ़, धारा और जुर्माने का हवाला देती हुई — नोखा स्वीट हाउस के लेटरहेड पर, उसकी मुहर के नीचे, नेमी चंद गोदारा के दस्तख़त से।"
+      }
+    },
+    {
+      "id": "carrier",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO CARRIED THE SEALED PARTS",
+        "hi": "सीलबंद भाग कौन ले गया"
+      },
+      "text": {
+        "en": "Jethmal, the office attendant, took one part to the Food Analyst at Bikaner and three to the Designated Officer’s almirah the same afternoon.",
+        "hi": "दफ़्तर का चपरासी जेठमल उसी दोपहर एक भाग बीकानेर में खाद्य विश्लेषक तक और तीन भाग नामित अधिकारी की अलमारी तक ले गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — all four seals reached their shelves whole, the seal impression on each matches the officer’s own die, and the lab logged its packet nineteen hours after it was cut",
+        "hi": "ख़ारिज — चारों सीलें साबुत अपनी जगह पहुँचीं, हर एक पर मुहर का निशान अधिकारी की अपनी डाई का है, और प्रयोगशाला ने अपनी पुड़िया कटने के उन्नीस घंटे भीतर दर्ज कर ली"
+      }
+    },
+    {
+      "id": "peera",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE MILK AT THE DOOR",
+        "hi": "दरवाज़े पर का दूध"
+      },
+      "text": {
+        "en": "Peera Ram’s forty litres was lactometered at the door as it is every morning and entered at six point one percent fat.",
+        "hi": "पीरा राम के चालीस लीटर की जाँच रोज़ की तरह दरवाज़े पर लैक्टोमीटर से हुई और छह दशमलव एक प्रतिशत चिकनाई दर्ज की गई।"
+      },
+      "dismissNote": {
+        "en": "ruled out — starch does not come out of a buffalo, and milk that is thinned shows in the lactometer before it shows in a laboratory",
+        "hi": "ख़ारिज — स्टार्च भैंस से नहीं निकलता, और पानी मिला दूध प्रयोगशाला से पहले लैक्टोमीटर में पकड़ में आ जाता है"
+      }
+    },
+    {
+      "id": "nephew",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE OTHER KEY",
+        "hi": "दूसरी चाबी"
+      },
+      "text": {
+        "en": "The shop’s second key is with the halwai’s nephew, who works the night bhatti and has the run of the kitchen till dawn.",
+        "hi": "दुकान की दूसरी चाबी हलवाई के भतीजे के पास है, जो रात की भट्टी सँभालता है और भोर तक रसोई उसी की होती है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he banks the bhatti and goes home at five, and the shutter was already up and the counter already laid when the cart came at twenty past six",
+        "hi": "ख़ारिज — भट्टी दबाकर वह पाँच बजे घर चला जाता है, और सवा छह पर रेहड़ी आई तब शटर उठा हुआ और गल्ला सजा हुआ था"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidsteel",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE OFFICER",
+        "hi": "बयान · अधिकारी"
+      },
+      "text": {
+        "en": "“I lift from what is open on the counter, not from what is hanging on a wall. It was a steel parat, on the second shelf, and no, I did not ask whose it was. In eleven years nobody has ever asked me to write down whose vessel a sample came out of.”",
+        "hi": "“मैं जो गल्ले पर खुला रखा होता है उसमें से लेता हूँ, दीवार पर टँगे बरतन से नहीं। वह स्टील की परात थी, दूसरे ख़ाने में — और नहीं, मैंने यह नहीं पूछा कि वह किसकी है। ग्यारह साल में मुझसे किसी ने नहीं कहा कि नमूना किस बरतन से निकला, वह भी लिखो।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "bansi",
+      "name": {
+        "en": "Bansi Lal",
+        "hi": "बंसी लाल"
+      },
+      "role": {
+        "en": "THE COUNTER BOY",
+        "hi": "गल्ले का लड़का"
+      },
+      "hook": {
+        "en": "puts up the shutter at half six",
+        "hi": "साढ़े छह बजे शटर वही उठाता है"
+      },
+      "confession": {
+        "en": "Took three thousand rupees in the last week of Ashadh from a man who came to the tea stall twice, put a steel parat of bought khoya on the second shelf at a quarter to seven on Shravan nine, and sent it back out on the same cart at ten past. He was told it would be one bad report and one fine, and that nineteen-year-olds are not asked to sign anything.",
+        "hi": "आषाढ़ के आख़िरी हफ़्ते में चाय की थड़ी पर दो बार आए एक आदमी से तीन हज़ार रुपये लिए, सावन नौ को पौने सात बजे ख़रीदे खोये की स्टील परात दूसरे ख़ाने में रखी, और सवा सात बजे उसी रेहड़ी पर वापस भेज दी। उससे कहा गया था कि बात एक ख़राब रिपोर्ट और एक जुर्माने की है, और उन्नीस साल के लड़कों से कोई काग़ज़ पर दस्तख़त नहीं कराता।"
+      }
+    },
+    {
+      "id": "devendra",
+      "name": {
+        "en": "Devendra Singh Rathore",
+        "hi": "देवेंद्र सिंह राठौड़"
+      },
+      "role": {
+        "en": "THE FOOD SAFETY OFFICER",
+        "hi": "खाद्य सुरक्षा अधिकारी"
+      },
+      "hook": {
+        "en": "drew the sample and sealed it in four",
+        "hi": "नमूना उसी ने लिया और चार भागों में सील किया"
+      },
+      "alibi": {
+        "en": "He drew in the halwai’s presence, divided into four, sealed with his own die, wrote the vessel down and sent a part to the Food Analyst the same afternoon. Every step of it is in Form VI in his hand, including the one word that breaks this case, and he had no reason on earth to write that word.",
+        "hi": "उसने हलवाई के सामने नमूना लिया, चार भागों में बाँटा, अपनी डाई से सील किया, बरतन का ज़िक्र लिखा और उसी दोपहर एक भाग खाद्य विश्लेषक को भेज दिया। हर क़दम उसके हाथ के फ़ॉर्म VI में है — वह एक शब्द भी, जो इस केस को तोड़ता है — और वह शब्द लिखने की उसे दुनिया में कोई वजह नहीं थी।"
+      }
+    },
+    {
+      "id": "peera",
+      "name": {
+        "en": "Peera Ram",
+        "hi": "पीरा राम"
+      },
+      "role": {
+        "en": "THE MILK CONTRACTOR",
+        "hi": "दूध का ठेकेदार"
+      },
+      "hook": {
+        "en": "forty litres at half five, nine years running",
+        "hi": "साढ़े पाँच बजे चालीस लीटर, नौ साल से"
+      },
+      "alibi": {
+        "en": "His milk is tested at the door in front of him every morning and was entered at six point one percent that day. He is gone by six and paid by the litre, and no quantity of anything he could add to a can would put maize starch inside a khoya that had not been made yet.",
+        "hi": "उसका दूध हर सुबह उसके सामने दरवाज़े पर जाँचा जाता है और उस दिन छह दशमलव एक प्रतिशत दर्ज हुआ। छह बजे तक वह जा चुका होता है और पैसा उसे लीटर का मिलता है — और कैन में वह जो कुछ भी मिला दे, उससे उस खोये में मक्के का स्टार्च नहीं आ सकता जो अभी बना ही नहीं था।"
+      }
+    },
+    {
+      "id": "nemi",
+      "name": {
+        "en": "Nemi Chand Godara",
+        "hi": "नेमी चंद गोदारा"
+      },
+      "role": {
+        "en": "THE SHOP OPPOSITE",
+        "hi": "सामने की दुकान"
+      },
+      "hook": {
+        "en": "the complaint carries his stamp",
+        "hi": "शिकायत पर उसकी मुहर है"
+      },
+      "alibi": {
+        "en": "The complaint is typed in the language of the Act and he signs his own bills in Hindi with a thumb beside the signature. He reported his rubber stamp missing to nobody but his own son in Jyeshtha, and eleven days of a shut shop opposite cost him nothing he could not have had by frying more.",
+        "hi": "शिकायत अधिनियम की भाषा में टाइप है, और अपने बिल पर वह हिंदी में दस्तख़त के साथ अंगूठा भी लगाता है। जेठ में अपनी मुहर के ग़ायब होने की बात उसने अपने बेटे के सिवा किसी को नहीं बताई — और सामने की दुकान के ग्यारह दिन बंद रहने से उसे ऐसा कुछ नहीं मिला जो ज़्यादा तलकर न मिल जाता।"
+      }
+    }
+  ],
+  "culpritId": "bansi",
+  "interrogations": [
+    {
+      "suspectId": "devendra",
+      "setting": {
+        "en": "The Designated Officer’s office at eleven, three sealed parts in an almirah and Form VI books stacked by year.",
+        "hi": "ग्यारह बजे नामित अधिकारी का दफ़्तर, अलमारी में तीन सीलबंद भाग और साल के हिसाब से चिने फ़ॉर्म VI के बंडल।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You came on a complaint, not a round.",
+            "hi": "आप गश्त पर नहीं, शिकायत पर आए थे।"
+          },
+          "answer": {
+            "en": "“Two hundred and fourteen of the inward register. It came typed, which most of them do not, and it named the section. When a complaint names the section I go the same week.”",
+            "hi": "“आवक पंजी का दो सौ चौदह। टाइप होकर आई थी — ज़्यादातर नहीं आतीं — और उसमें धारा का नाम था। जिस शिकायत में धारा लिखी हो, उस पर मैं उसी हफ़्ते जाता हूँ।”"
+          },
+          "note": {
+            "en": "Somebody wanted him in this shop in the second week of Shravan and knew which words bring him.",
+            "hi": "कोई चाहता था कि वह सावन के दूसरे हफ़्ते इसी दुकान में हो — और उसे पता था कि किन शब्दों से वह आता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You wrote steel. Nothing in this kitchen is steel.",
+            "hi": "आपने ‘स्टील’ लिखा। इस रसोई में स्टील का कुछ नहीं है।"
+          },
+          "answer": {
+            "en": "“I lift from what is open on the counter, not from what is hanging on a wall. It was a steel parat, on the second shelf, and no, I did not ask whose it was. In eleven years nobody has ever asked me to write down whose vessel a sample came out of.”",
+            "hi": "“मैं जो गल्ले पर खुला रखा होता है उसमें से लेता हूँ, दीवार पर टँगे बरतन से नहीं। वह स्टील की परात थी, दूसरे ख़ाने में — और नहीं, मैंने यह नहीं पूछा कि वह किसकी है। ग्यारह साल में मुझसे किसी ने नहीं कहा कि नमूना किस बरतन से निकला, वह भी लिखो।”"
+          },
+          "needsClueId": "brass",
+          "lockedHint": {
+            "en": "Pin the thirty-one brass parats. He will not see anything wrong with his own form until somebody shows him the wall it contradicts.",
+            "hi": "पीतल की इकतीस परातें टाँगो। जब तक कोई उसे वह दीवार न दिखाए जिससे उसका फ़ॉर्म टकराता है, उसे अपने फ़ॉर्म में कुछ ग़लत नहीं दिखेगा।"
+          },
+          "unlocksClueId": "saidsteel",
+          "note": {
+            "en": "He is an honest witness to the one thing that matters: the vessel the starch came out of was not this shop’s vessel.",
+            "hi": "जो एक बात मायने रखती है, उसका वह ईमानदार गवाह है: स्टार्च जिस बरतन से निकला, वह इस दुकान का बरतन नहीं था।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bansi",
+      "setting": {
+        "en": "The lane at closing, the shutter half down, a new motorcycle standing under the tea stall’s bulb.",
+        "hi": "बंद होने के वक़्त की गली, आधा गिरा शटर, और चाय की थड़ी के बल्ब के नीचे खड़ी नई मोटरसाइकिल।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "A cart stood in this lane for an hour that morning.",
+            "hi": "उस सुबह एक रेहड़ी इस गली में घंटा भर खड़ी रही।"
+          },
+          "answer": {
+            "en": "“Carts stand. It is a lane, not a platform.”",
+            "hi": "“रेहड़ियाँ खड़ी होती हैं। यह गली है, प्लेटफ़ॉर्म नहीं।”"
+          },
+          "needsClueId": "cart",
+          "lockedHint": {
+            "en": "Pin the cycle-cart first. He will shrug at an hour he has not been told anybody counted.",
+            "hi": "पहले रेहड़ी टाँगो। जिस घंटे को किसी ने गिना है, यह जाने बिना वह कंधे उछालकर निकल जाएगा।"
+          },
+          "note": {
+            "en": "He answers for the cart before anybody has told him which morning is being talked about.",
+            "hi": "किसी ने यह बताया भी नहीं कि बात किस सुबह की है, और वह रेहड़ी का जवाब दे रहा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eighteen fifty a month on six thousand.",
+            "hi": "छह हज़ार पर अठारह सौ पचास महीना।"
+          },
+          "answer": {
+            "en": "“My father managed on nine hundred and I am not my father. Ask the finance company how many boys in this bazaar are two instalments behind.”",
+            "hi": "“मेरे बापू नौ सौ में चला लेते थे और मैं मेरा बापू नहीं हूँ। फ़ाइनेंस कंपनी से पूछ लो, इस बाज़ार के कितने लड़के दो क़िस्त पीछे हैं।”"
+          },
+          "needsClueId": "emi",
+          "lockedHint": {
+            "en": "Pin the instalment. Three thousand rupees is a small sum until you know what it was three thousand short of.",
+            "hi": "क़िस्त टाँगो। तीन हज़ार छोटी रक़म है — जब तक यह पता न हो कि वह किस चीज़ में तीन हज़ार कम पड़ रहे थे।"
+          },
+          "note": {
+            "en": "Two instalments late in the middle of Shravan, and both cleared in cash on Shravan eleven.",
+            "hi": "सावन के बीच दो क़िस्तें लेट, और दोनों सावन ग्यारह को नक़द जमा।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Where was the parat by the time the shop opened?",
+            "hi": "दुकान खुलने तक वह परात कहाँ थी?"
+          },
+          "answer": {
+            "en": "“There is no steel parat in this shop, sahib. Everybody keeps saying that like it helps you.”",
+            "hi": "“इस दुकान में स्टील की परात है ही नहीं, साहब। सब यही कहे जा रहे हैं, जैसे उससे आपको कुछ मिल जाएगा।”"
+          },
+          "note": {
+            "en": "He is right, and that is the whole case. It was here for thirty-five minutes and one of those minutes had a government officer standing in it.",
+            "hi": "वह सही है, और पूरा केस यही है। वह पैंतीस मिनट यहाँ रही — और उन्हीं में से एक मिनट में एक सरकारी अधिकारी यहाँ खड़ा था।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "emi",
+      "correction": {
+        "en": "The milkman is paid by the litre and the officer wrote the sentence that clears the shop. One person on this counter was two instalments behind on a motorcycle in the middle of Shravan and had both of them paid in cash on the eleventh, out of a wage of six thousand a month.",
+        "hi": "दूध वाले को लीटर का पैसा मिलता है और अधिकारी ने वही पंक्ति लिखी जो दुकान को बचाती है। इस गल्ले पर एक ही आदमी सावन के बीच मोटरसाइकिल की दो क़िस्तें पीछे था — और छह हज़ार महीने की तनख़्वाह में से वे दोनों ग्यारह तारीख़ को नक़द जमा हुईं।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "cart",
+      "correction": {
+        "en": "Nothing had to be cooked and nothing had to be adulterated; two and a half kilos of somebody else’s khoya had to be standing on the second shelf at nine-twenty. It came into this lane on a covered cart at twenty past six and went out on it at ten past seven, and the shutter in between was opened by one key.",
+        "hi": "कुछ पकाना नहीं था और कुछ मिलाना नहीं था; नौ बजकर बीस पर दूसरे ख़ाने में किसी और का ढाई किलो खोया रखा होना था। वह ढके हुए रेहड़े पर सवा छह बजे इस गली में आया और सवा सात बजे उसी पर चला गया — और बीच का शटर एक ही चाबी ने खोला।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "formsix",
+      "correction": {
+        "en": "By the time the report came back the vessel had been gone for eighteen days, and a sealed sample cannot be argued with — that is the whole point of sealing it. The only trace the tray left in this world is one word in a government officer’s own handwriting, and nobody was ever meant to read it twice.",
+        "hi": "रिपोर्ट आने तक वह बरतन अठारह दिन से जा चुका था, और सीलबंद नमूने से बहस नहीं होती — सील करने का मतलब ही यही है। उस परात का इस दुनिया में एकमात्र निशान एक सरकारी अधिकारी के अपने हाथ का लिखा एक शब्द है, और उसे दोबारा पढ़ा जाना कभी तय ही नहीं था।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "report",
+    "toClueId": "milk",
+    "text": {
+      "en": "Stop arguing with the laboratory. It is telling the truth about the packet, so go and ask the shop how much khoya it was able to make that day.",
+      "hi": "प्रयोगशाला से बहस छोड़िए। पुड़िया के बारे में वह सच कह रही है — जाकर दुकान से पूछिए कि उस दिन वह कितना खोया बना ही सकती थी।"
+    }
+  },
+  "bankedClue": {
+    "en": "A written complaint on the shop opposite’s letterhead, stamped and signed, two days before the officer came",
+    "hi": "सामने की दुकान के लेटरहेड पर लिखी शिकायत — मुहर और दस्तख़त के साथ, अधिकारी के आने से दो दिन पहले की"
+  }
+}

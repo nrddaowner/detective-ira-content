@@ -1,0 +1,529 @@
+{
+  "id": "bikaner-twelve-thousand-litres",
+  "schema": 1,
+  "city": "bikaner",
+  "genre": "sabotage",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "bikaner-sweet-war",
+    "caseNumber": 4
+  },
+  "title": {
+    "en": "Twelve Thousand Litres",
+    "hi": "बारह हज़ार लीटर"
+  },
+  "place": {
+    "en": "Kishan Lal Mishthan Bhandar, the chowk tanka · Magh 16, 9:30 AM",
+    "hi": "किशन लाल मिष्ठान भंडार, चौक का टाँका · माघ 16, 9:30 AM"
+  },
+  "brief": {
+    "en": "A hundred and forty sahalag orders were handed back in eleven days because this shop’s rasgullas would not hold their shape, and a halwai of forty years cannot tell anybody why. His water comes out of a tanka under the chowk that has held rainwater since 1911, and it is dipped on the first of every month into a book his father started in 1966. Kartik reads eleven feet four inches and Magh reads eleven feet eight, which has not happened once in sixty years of Magh. The dissolved solids in it have gone from three hundred and forty milligrams a litre to two thousand one hundred and forty.",
+    "hi": "ग्यारह दिन में सहालग के एक सौ चालीस ऑर्डर वापस लौटा दिए गए, क्योंकि इस दुकान के रसगुल्ले बैठते ही नहीं थे — और चालीस साल का हलवाई किसी को वजह नहीं बता सकता। उसका पानी चौक के नीचे उस टाँके से आता है, जिसमें 1911 से बरसात का पानी रहता है, और जिसकी गहराई हर महीने की पहली को उस बही में नापी जाती है जो उसके पिता ने 1966 में शुरू की थी। कार्तिक में ग्यारह फ़ुट चार इंच लिखा है और माघ में ग्यारह फ़ुट आठ — साठ साल के माघ में एक बार भी ऐसा नहीं हुआ। उसमें घुले ठोस तीन सौ चालीस मिलीग्राम प्रति लीटर से दो हज़ार एक सौ चालीस हो गए हैं।"
+  },
+  "photoCaption": {
+    "en": "the dipstick, and the mark it left",
+    "hi": "नापने की लाठी, और उसका निशान"
+  },
+  "iraNote": {
+    "en": "“You cannot take water out of a tanka without the level falling. Whoever spoiled this one had to raise it first, and a rise is the loudest thing a cistern knows how to do.”",
+    "hi": "“टाँके से पानी निकालोगे तो सतह गिरेगी ही। जिसने इसे बिगाड़ा, उसे पहले इसे बढ़ाना पड़ा — और सतह का बढ़ना ही वह सबसे ऊँची आवाज़ है, जो कोई टाँका निकाल सकता है।”"
+  },
+  "clues": [
+    {
+      "id": "broke",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "ELEVEN DAYS OF BROKEN CHHENA",
+        "hi": "ग्यारह दिन का टूटा छेना"
+      },
+      "text": {
+        "en": "The chhena came out grainy and short and the balls opened in the syrup on eleven mornings running, with the same milk, the same hand and the same bhatti. Chhena is set by water as much as by milk, and salts in the water take the softness out of it before a halwai has touched anything.",
+        "hi": "छेना दानेदार और कम बँधा निकला और गोले लगातार ग्यारह सुबह चाशनी में खुल गए — वही दूध, वही हाथ, वही भट्टी। छेना जितना दूध से बैठता है, उतना पानी से भी — और पानी के नमक उसका मुलायमपन हलवाई के कुछ छूने से पहले ही खींच लेते हैं।"
+      }
+    },
+    {
+      "id": "tds",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE TANKA’S WATER, TESTED",
+        "hi": "टाँके का पानी, जाँचा हुआ"
+      },
+      "text": {
+        "en": "Three hundred and forty milligrams a litre in Chaitra and two thousand one hundred and forty in Magh, with the chlorides and the fluoride up along with them. That profile is not the municipal line and it is not rain; it is the borewell water off the Nagneechi side that every private tanker in this city sells by the trip.",
+        "hi": "चैत में तीन सौ चालीस मिलीग्राम प्रति लीटर और माघ में दो हज़ार एक सौ चालीस — और उनके साथ क्लोराइड और फ़्लोराइड भी ऊपर। यह न नगर निगम की लाइन का पानी है, न बरसात का; यह नागणेची की तरफ़ के बोरवेल का पानी है, जो इस शहर का हर प्राइवेट टैंकर ट्रिप के हिसाब से बेचता है।"
+      }
+    },
+    {
+      "id": "dipbook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE DIPSTICK BOOK SINCE 1966",
+        "hi": "1966 से नाप की बही"
+      },
+      "text": {
+        "en": "One line a month, sixty years of it, the same lathi with the same iron shoe on the end. Kartik one, eleven feet four; Magh one, eleven feet eight. In sixty years the Magh figure has always been the lower of the two, because nothing puts water into this tanka between them except rain that does not fall in Pausha.",
+        "hi": "महीने में एक पंक्ति, साठ साल की — वही लाठी, सिरे पर वही लोहे का खोल। कार्तिक एक: ग्यारह फ़ुट चार; माघ एक: ग्यारह फ़ुट आठ। साठ साल में माघ का आँकड़ा हमेशा इन दोनों में नीचे रहा है, क्योंकि इनके बीच इस टाँके में पानी कुछ नहीं डालता — सिवा उस बरसात के, जो पूस में होती नहीं।"
+      }
+    },
+    {
+      "id": "mouth",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE FILLING MOUTH",
+        "hi": "भरने का मुँह"
+      },
+      "text": {
+        "en": "Water goes into this tanka at one place only: an iron-lidded mouth in the floor of the building’s stair-head, two steps above the shop’s own door and inside a stair the shop has no business in. The rust ring around the lid is broken all the way round, there is fresh scoring where it was levered, and a dried water track runs eleven feet from the mouth to the street door.",
+        "hi": "इस टाँके में पानी एक ही जगह से जाता है: इमारत के ज़ीने के सिरे के फ़र्श में लोहे के ढक्कन वाला मुँह — दुकान के अपने दरवाज़े से दो सीढ़ी ऊपर, और उस ज़ीने के भीतर, जिसमें दुकान का कोई काम नहीं। ढक्कन के चारों तरफ़ जंग की रिंग टूटी हुई है, उठाने के ताज़ा निशान हैं, और मुँह से गली के दरवाज़े तक ग्यारह फ़ुट लंबी सूखी पानी की लकीर है।"
+      }
+    },
+    {
+      "id": "trip",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE TANKER’S TRIP SHEET",
+        "hi": "टैंकर की ट्रिप शीट"
+      },
+      "text": {
+        "en": "One trip, twelve thousand litres, eleven at night on Magh two, filled at the Nagneechi-side borewell and emptied at Chhangani building, Halwaiyon ki Gali. Fourteen hundred rupees, cash, written against the building’s own standing order number and not against any man’s name.",
+        "hi": "एक ट्रिप, बारह हज़ार लीटर, माघ दो की रात ग्यारह बजे — नागणेची की तरफ़ के बोरवेल से भरा और छंगाणी बिल्डिंग, हलवाइयों की गली में ख़ाली किया। चौदह सौ रुपये, नक़द — और इमारत के अपने स्टैंडिंग ऑर्डर नंबर पर दर्ज, किसी आदमी के नाम पर नहीं।"
+      }
+    },
+    {
+      "id": "water",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE CONNECTION, CUT",
+        "hi": "कनेक्शन, कटा हुआ"
+      },
+      "text": {
+        "en": "The building’s municipal water connection was cut in Phalgun of last year for arrears of nine thousand rupees, and it stands in the landlord’s name because a tenanted building’s connection cannot stand in anybody else’s. Both rents in this lane include water. Neither shop has had a receipt for anything since 1997.",
+        "hi": "इमारत का नगर निगम का पानी का कनेक्शन पिछले फागुन में नौ हज़ार रुपये के बकाया पर काट दिया गया, और वह मकान मालिक के नाम है — क्योंकि किरायेदारी वाली इमारत का कनेक्शन किसी और के नाम हो ही नहीं सकता। इस गली के दोनों किरायों में पानी शामिल है। और 1997 से किसी दुकान को किसी चीज़ की रसीद नहीं मिली।"
+      }
+    },
+    {
+      "id": "padlock",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "TWO BUCKETS A DAY",
+        "hi": "दिन की दो बाल्टी"
+      },
+      "text": {
+        "en": "The brass valve on the tanka’s hand pump has carried a padlock since Jyeshtha, and the two rooms upstairs are given two buckets a day off it because the shop’s season needs everything else. Eleven written requests went from those rooms to the landlord’s munim between Jyeshtha and Pausha, and the copies are kept in a school exercise book.",
+        "hi": "जेठ से टाँके के हैंडपंप की पीतल की टोंटी पर ताला पड़ा है, और ऊपर के दो कमरों को उसमें से दिन की दो बाल्टी मिलती हैं — क्योंकि बाक़ी सब दुकान के सीज़न को चाहिए। जेठ से पूस के बीच उन कमरों से मकान मालिक के मुनीम तक ग्यारह लिखी अर्ज़ियाँ गईं, और उनकी नक़लें एक स्कूल की कॉपी में रखी हैं।"
+      }
+    },
+    {
+      "id": "nemitanker",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE SHOP OPPOSITE BUYS WATER",
+        "hi": "सामने की दुकान पानी ख़रीदती है"
+      },
+      "text": {
+        "en": "Nemi Chand Godara has bought three tankers a month for eleven years, because his own tanka was filled in with rubble long before he came.",
+        "hi": "नेमी चंद गोदारा ग्यारह साल से महीने के तीन टैंकर ख़रीदता है, क्योंकि उसका अपना टाँका उसके आने से बहुत पहले मलबे से भर दिया गया था।"
+      },
+      "dismissNote": {
+        "en": "ruled out — his water goes into a plastic tank inside his own shop through a two-inch inlet, and all three of his Magh trips are daylight, on his own order number, from the municipal filling point",
+        "hi": "ख़ारिज — उसका पानी दो इंच के इनलेट से उसकी ही दुकान के भीतर रखी प्लास्टिक की टंकी में जाता है, और उसके माघ के तीनों ट्रिप दिन के हैं, उसके अपने ऑर्डर नंबर पर, नगर निगम के भरने के पॉइंट से"
+      }
+    },
+    {
+      "id": "rain",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "A POOR MONSOON",
+        "hi": "कमज़ोर बरसात"
+      },
+      "text": {
+        "en": "The season gave ninety-two millimetres in all, less than half of what this tanka is built to take.",
+        "hi": "पूरे मौसम में बानवे मिलीमीटर गिरा — इस टाँके की समाई के आधे से भी कम।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a poor monsoon makes a tanka fall, and the argument in this case is with a tanka that rose",
+        "hi": "ख़ारिज — कमज़ोर बरसात से टाँका गिरता है, और इस केस की बहस उस टाँके से है जो बढ़ गया"
+      }
+    },
+    {
+      "id": "rope",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE WATER-CARRIER’S ROPE",
+        "hi": "पनिहारी की रस्सी"
+      },
+      "text": {
+        "en": "Sugna Devi draws from this tanka for four households and has the only rope and bucket that go down it.",
+        "hi": "सुगना देवी चार घरों के लिए इस टाँके से पानी भरती हैं, और उसमें उतरने वाली अकेली रस्सी और बाल्टी उन्हीं की है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she takes water out, and twelve thousand litres is six hundred buckets going the other way, up a stair, in one night",
+        "hi": "ख़ारिज — वे पानी निकालती हैं, और बारह हज़ार लीटर का मतलब है एक रात में छह सौ बाल्टी उल्टी दिशा में, ज़ीना चढ़कर"
+      }
+    },
+    {
+      "id": "channel",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE OLD RAIN CHANNEL",
+        "hi": "पुरानी बरसाती नाली"
+      },
+      "text": {
+        "en": "The roof channel that feeds the tanka in a good year is choked with two seasons of pigeon nest and nobody has cleared it since the shop’s licence trouble began.",
+        "hi": "अच्छे साल में टाँके को भरने वाली छत की नाली दो मौसम के कबूतरों के घोंसलों से भरी है, और दुकान के लाइसेंस के झमेले के बाद से उसे किसी ने साफ़ नहीं किया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a choked channel keeps water out of a tanka; it has never yet put four inches into one",
+        "hi": "ख़ारिज — भरी हुई नाली टाँके में पानी आने से रोकती है; उसने आज तक किसी टाँके में चार इंच डाले नहीं"
+      }
+    },
+    {
+      "id": "nephewkey",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO HOLDS THE PADLOCK KEY",
+        "hi": "ताले की चाबी किसके पास"
+      },
+      "text": {
+        "en": "The padlock on the hand pump is opened twice a day by Damodar Agarwal, who decides which bucket goes up the stair and which goes to the bhatti.",
+        "hi": "हैंडपंप का ताला दिन में दो बार दामोदर अग्रवाल खोलता है, और वही तय करता है कि कौन बाल्टी ज़ीने पर जाएगी और कौन भट्टी पर।"
+      },
+      "dismissNote": {
+        "en": "ruled out — that key opens a valve that takes water out, and on the night of Magh two he was at the bhatti with two mazdoors from ten until five",
+        "hi": "ख़ारिज — वह चाबी उस टोंटी को खोलती है जो पानी बाहर निकालती है, और माघ दो की रात वह दस से पाँच तक दो मज़दूरों के साथ भट्टी पर था"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidbuckets",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE TENANT UPSTAIRS",
+        "hi": "बयान · ऊपर का किरायेदार"
+      },
+      "text": {
+        "en": "“Six of us in two rooms, two buckets a day since Jyeshtha, and my daughter’s school shirt washed once a week. I wrote to munimji eleven times and kept every copy. Water is in my rent, sahib. It is written in my rent.”",
+        "hi": "“दो कमरों में हम छह, जेठ से दिन की दो बाल्टी, और बेटी की स्कूल शर्ट हफ़्ते में एक बार धुली। मैंने मुनीमजी को ग्यारह बार लिखा और हर नक़ल रखी। पानी मेरे किराये में है, साहब। मेरे किराये में लिखा हुआ है।”"
+      }
+    },
+    {
+      "id": "saidhose",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE TANKER DRIVER",
+        "hi": "बयान · टैंकर ड्राइवर"
+      },
+      "text": {
+        "en": "“I put the hose where the man paying points. I have emptied into that mouth eleven times in two years and every one of those times the sheet said building, so I have never once known whose water I was pouring.”",
+        "hi": "“पैसा देने वाला जहाँ इशारा करता है, पाइप मैं वहीं डालता हूँ। दो साल में उस मुँह में ग्यारह बार ख़ाली किया है और हर बार शीट पर ‘बिल्डिंग’ लिखा था — तो मुझे एक बार भी नहीं पता चला कि मैं किसका पानी डाल रहा हूँ।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "bheru",
+      "name": {
+        "en": "Bheru Lal",
+        "hi": "भेरू लाल"
+      },
+      "role": {
+        "en": "THE TENANT UPSTAIRS",
+        "hi": "ऊपर का किरायेदार"
+      },
+      "hook": {
+        "en": "six people on two buckets a day",
+        "hi": "दिन की दो बाल्टी पर छह लोग"
+      },
+      "confession": {
+        "en": "Telephoned a tanker at nine on the night of Magh two, had the driver run his hose into the mouth in the stair-head at eleven, and paid fourteen hundred rupees in cash he had put aside for his son’s fees. He knew what eight months of two buckets a day had done to his house and he did not know what borewell water does to chhena, and he had asked the munim eleven times in writing before he asked anybody for a hose.",
+        "hi": "माघ दो की रात नौ बजे टैंकर को फ़ोन किया, ग्यारह बजे ड्राइवर से पाइप ज़ीने के सिरे वाले मुँह में डलवाया, और चौदह सौ रुपये नक़द दिए — जो उसने बेटे की फ़ीस के लिए रखे थे। उसे यह पता था कि आठ महीने की दो बाल्टी ने उसके घर का क्या किया है, और यह नहीं पता था कि बोरवेल का पानी छेने का क्या करता है — और पाइप किसी से माँगने से पहले उसने मुनीम को ग्यारह बार लिखकर माँगा था।"
+      }
+    },
+    {
+      "id": "roop",
+      "name": {
+        "en": "Roop Singh",
+        "hi": "रूप सिंह"
+      },
+      "role": {
+        "en": "THE TANKER DRIVER",
+        "hi": "टैंकर ड्राइवर"
+      },
+      "hook": {
+        "en": "twelve thousand litres at eleven at night",
+        "hi": "रात ग्यारह बजे बारह हज़ार लीटर"
+      },
+      "alibi": {
+        "en": "He filled at the borewell, emptied where he was pointed and wrote the trip up on the sheet the same night with the standing order number the office gives him. Nobody hands a tanker driver a water test, and eleven trips to that mouth in two years were all written the same way by the same office.",
+        "hi": "उसने बोरवेल से भरा, जहाँ इशारा हुआ वहाँ ख़ाली किया, और उसी रात दफ़्तर से मिले स्टैंडिंग ऑर्डर नंबर पर ट्रिप शीट भर दी। टैंकर ड्राइवर को कोई पानी की जाँच रिपोर्ट नहीं थमाता — और उस मुँह के दो साल के ग्यारह ट्रिप उसी दफ़्तर ने उसी तरह लिखे हैं।"
+      }
+    },
+    {
+      "id": "sugna",
+      "name": {
+        "en": "Sugna Devi",
+        "hi": "सुगना देवी"
+      },
+      "role": {
+        "en": "THE WATER-CARRIER",
+        "hi": "पनिहारी"
+      },
+      "hook": {
+        "en": "the only rope that goes down this tanka",
+        "hi": "इस टाँके में उतरने वाली अकेली रस्सी"
+      },
+      "alibi": {
+        "en": "She has drawn from this tanka for nineteen years for four households and is paid by the pot, and every pot she has ever carried came up and out. She is also the one who told the halwai the water had turned, on the eighth, four days before he thought of testing it.",
+        "hi": "उन्नीस साल से वे चार घरों के लिए इस टाँके से पानी भरती हैं और पैसा घड़े का लेती हैं — और जो घड़ा उन्होंने उठाया, वह ऊपर और बाहर ही गया। और आठ तारीख़ को हलवाई को यह भी उन्होंने ही बताया था कि पानी बदल गया है — जाँच का ख़याल उसे चार दिन बाद आया।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "nemi",
+      "name": {
+        "en": "Nemi Chand Godara",
+        "hi": "नेमी चंद गोदारा"
+      },
+      "role": {
+        "en": "THE SHOP OPPOSITE",
+        "hi": "सामने की दुकान"
+      },
+      "hook": {
+        "en": "buys three tankers a month himself",
+        "hi": "ख़ुद महीने के तीन टैंकर ख़रीदता है"
+      },
+      "alibi": {
+        "en": "His three Magh trips are all in daylight, all on his own order number, all from the municipal filling point, and all of them go into a plastic tank inside his own shop. His counter has been on a tarpaulin frame since Ashwin because his front room is still black.",
+        "hi": "उसके माघ के तीनों ट्रिप दिन के हैं, तीनों उसके अपने ऑर्डर नंबर पर, तीनों नगर निगम के पॉइंट से, और तीनों उसकी ही दुकान के भीतर रखी प्लास्टिक की टंकी में जाते हैं। आसोज से उसका गल्ला तिरपाल के ढाँचे पर लगा है, क्योंकि उसका अगला कमरा अब भी काला पड़ा है।"
+      }
+    },
+    {
+      "id": "damodar",
+      "name": {
+        "en": "Damodar Agarwal",
+        "hi": "दामोदर अग्रवाल"
+      },
+      "role": {
+        "en": "THE HALWAI’S NEPHEW",
+        "hi": "हलवाई का भतीजा"
+      },
+      "hook": {
+        "en": "opens the padlock twice a day",
+        "hi": "दिन में दो बार ताला वही खोलता है"
+      },
+      "alibi": {
+        "en": "The key he holds opens the valve that takes water out of the tanka, and he is the man who has been rationing the stair to two buckets a day on his uncle’s orders. On the night of Magh two he was at the bhatti with two mazdoors from ten until five.",
+        "hi": "उसके पास जो चाबी है, वह टाँके से पानी निकालने वाली टोंटी खोलती है — और चाचा के हुक्म पर ज़ीने को दिन की दो बाल्टी पर रखने वाला आदमी वही है। माघ दो की रात वह दस से पाँच तक दो मज़दूरों के साथ भट्टी पर था।"
+      }
+    }
+  ],
+  "culpritId": "bheru",
+  "interrogations": [
+    {
+      "suspectId": "sugna",
+      "setting": {
+        "en": "The chowk at ten, a rope coiled on the parapet and four brass pots standing in the shade of the stair.",
+        "hi": "दस बजे का चौक, मुँडेर पर लिपटी रस्सी और ज़ीने की छाया में खड़े चार पीतल के घड़े।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You told the halwai the water had turned.",
+            "hi": "पानी बदल गया है, यह आपने हलवाई को बताया था।"
+          },
+          "answer": {
+            "en": "“On the eighth. I have drawn from this tanka nineteen years and I know it the way you know your own kitchen. It went heavy in the mouth and it left a ring in the pot.”",
+            "hi": "“आठ तारीख़ को। उन्नीस साल से इस टाँके का पानी भरती हूँ, उसे मैं वैसे जानती हूँ जैसे तुम अपनी रसोई। मुँह में भारी हो गया था, और घड़े में एक हलक़ा छोड़ने लगा था।”"
+          },
+          "note": {
+            "en": "The first instrument that noticed this was a woman with a rope, four days ahead of a laboratory.",
+            "hi": "इसे सबसे पहले जिस यंत्र ने पकड़ा, वह रस्सी वाली एक औरत थी — प्रयोगशाला से चार दिन पहले।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Could anybody have got a hose to this tanka without you seeing it?",
+            "hi": "क्या कोई आपके देखे बिना इस टाँके तक पाइप ला सकता था?"
+          },
+          "answer": {
+            "en": "“Not through the chowk. But the mouth is not in the chowk, is it. The mouth is inside their stair, and that stair has a street door of its own that I have never had a key to.”",
+            "hi": "“चौक से नहीं। पर मुँह चौक में है ही नहीं, है क्या। मुँह उनके ज़ीने के भीतर है, और उस ज़ीने का अपना गली वाला दरवाज़ा है — जिसकी चाबी मेरे पास कभी नहीं रही।”"
+          },
+          "needsClueId": "tds",
+          "lockedHint": {
+            "en": "Pin the water test first. She will not speculate about a hose until somebody proves to her that water came in.",
+            "hi": "पहले पानी की जाँच टाँगो। जब तक कोई उन्हें साबित न करे कि पानी भीतर आया, वे पाइप पर अटकलें नहीं लगाएँगी।"
+          },
+          "note": {
+            "en": "The inlet is on the landlord’s side of a door, and the two rooms above it are the only tenants that door serves.",
+            "hi": "मुँह उस दरवाज़े के मकान-मालिक वाली तरफ़ है — और उसके ऊपर के दो कमरे ही वे किरायेदार हैं, जिन्हें वह दरवाज़ा काम आता है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "roop",
+      "setting": {
+        "en": "A tanker yard on the Nagneechi road at noon, trip sheets on a spike and a hose coiled over the tank.",
+        "hi": "दोपहर में नागणेची रोड का टैंकर यार्ड, कील पर टँगी ट्रिप शीटें और टंकी पर लिपटा पाइप।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Twelve thousand litres, eleven at night, Halwaiyon ki Gali.",
+            "hi": "बारह हज़ार लीटर, रात ग्यारह बजे, हलवाइयों की गली।"
+          },
+          "answer": {
+            "en": "“I put the hose where the man paying points. I have emptied into that mouth eleven times in two years and every one of those times the sheet said building, so I have never once known whose water I was pouring.”",
+            "hi": "“पैसा देने वाला जहाँ इशारा करता है, पाइप मैं वहीं डालता हूँ। दो साल में उस मुँह में ग्यारह बार ख़ाली किया है और हर बार शीट पर ‘बिल्डिंग’ लिखा था — तो मुझे एक बार भी नहीं पता चला कि मैं किसका पानी डाल रहा हूँ।”"
+          },
+          "needsClueId": "trip",
+          "lockedHint": {
+            "en": "Pin the trip sheet. A driver who has not been shown his own sheet remembers nothing about a Tuesday in Magh.",
+            "hi": "ट्रिप शीट टाँगो। जिस ड्राइवर को उसकी ही शीट न दिखाई जाए, उसे माघ के किसी मंगल का कुछ याद नहीं रहता।"
+          },
+          "unlocksClueId": "saidhose",
+          "note": {
+            "en": "Eleven trips to one mouth, all billed to a building and never to a man. Somebody has been keeping that arrangement warm.",
+            "hi": "एक ही मुँह पर ग्यारह ट्रिप, सब एक इमारत के नाम, किसी आदमी के नाम एक भी नहीं। यह बंदोबस्त कोई गर्म रखता आया है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who lifted the lid for you?",
+            "hi": "ढक्कन आपके लिए किसने उठाया?"
+          },
+          "answer": {
+            "en": "“A man in a sweater with a torch, forty-odd, from upstairs. He had it up before I had the hose off the drum, and he stood in the water the whole twenty minutes.”",
+            "hi": "“स्वेटर पहने, टॉर्च लिए एक आदमी — चालीस के आसपास, ऊपर से। मैं ड्रम से पाइप उतार भी नहीं पाया था कि उसने ढक्कन उठा दिया था, और पूरे बीस मिनट वह पानी में ही खड़ा रहा।”"
+          },
+          "needsClueId": "mouth",
+          "lockedHint": {
+            "en": "Pin the filling mouth. Ask him about a lid and he will ask you which lid, in a city of twelve thousand lids.",
+            "hi": "भरने का मुँह टाँगो। ढक्कन के बारे में पूछोगे तो वह पूछेगा — कौन सा ढक्कन, बारह हज़ार ढक्कनों के शहर में।"
+          },
+          "note": {
+            "en": "Forty-odd, from upstairs, and standing in the water for twenty minutes. Nobody stands in cold water in Magh for somebody else’s plan.",
+            "hi": "चालीस के आसपास, ऊपर का, और बीस मिनट पानी में खड़ा। माघ के ठंडे पानी में कोई किसी और की योजना के लिए खड़ा नहीं रहता।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bheru",
+      "setting": {
+        "en": "Two rooms above the shop, a school exercise book on the shelf and eleven copies of one letter inside it.",
+        "hi": "दुकान के ऊपर के दो कमरे, ताक़ पर एक स्कूल की कॉपी और उसमें एक ही चिट्ठी की ग्यारह नक़लें।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "The tanka rose four inches in Magh.",
+            "hi": "माघ में टाँका चार इंच बढ़ गया।"
+          },
+          "answer": {
+            "en": "“Then be glad. Somebody in this building finally put water into something instead of taking it out.”",
+            "hi": "“तो ख़ुश हो जाइए। इस इमारत में किसी ने आख़िरकार किसी चीज़ में पानी डाला, निकाला नहीं।”"
+          },
+          "needsClueId": "dipbook",
+          "lockedHint": {
+            "en": "Pin the dipstick book. He will not treat four inches as a fact until sixty years of the same handwriting say so.",
+            "hi": "नाप की बही टाँगो। जब तक साठ साल की एक ही लिखाई यह न कहे, वह चार इंच को तथ्य नहीं मानेगा।"
+          },
+          "note": {
+            "en": "He is not denying it. He is the only person in this case who thinks it was a good thing to do.",
+            "hi": "वह मुकर नहीं रहा। इस केस में अकेला वही है, जो इसे अच्छा काम मानता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Two buckets a day, since Jyeshtha.",
+            "hi": "जेठ से, दिन की दो बाल्टी।"
+          },
+          "answer": {
+            "en": "“Six of us in two rooms, two buckets a day since Jyeshtha, and my daughter’s school shirt washed once a week. I wrote to munimji eleven times and kept every copy. Water is in my rent, sahib. It is written in my rent.”",
+            "hi": "“दो कमरों में हम छह, जेठ से दिन की दो बाल्टी, और बेटी की स्कूल शर्ट हफ़्ते में एक बार धुली। मैंने मुनीमजी को ग्यारह बार लिखा और हर नक़ल रखी। पानी मेरे किराये में है, साहब। मेरे किराये में लिखा हुआ है।”"
+          },
+          "needsClueId": "padlock",
+          "lockedHint": {
+            "en": "Pin the padlocked valve. He has been told for eight months that this is not a grievance; he will not open it up until it is on the board as one.",
+            "hi": "ताला लगी टोंटी टाँगो। आठ महीने से उसे यही कहा गया है कि यह कोई शिकायत नहीं है; जब तक वह बोर्ड पर शिकायत बनकर न आए, वह ज़बान नहीं खोलेगा।"
+          },
+          "unlocksClueId": "saidbuckets",
+          "note": {
+            "en": "Eleven letters to a munim, and the twelfth thing he did was buy twelve thousand litres of the cheapest water in Bikaner.",
+            "hi": "मुनीम को ग्यारह चिट्ठियाँ — और बारहवाँ काम उसने यह किया कि बीकानेर का सबसे सस्ता पानी बारह हज़ार लीटर ख़रीद लिया।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Did you know what that water would do to chhena?",
+            "hi": "आपको पता था कि वह पानी छेने का क्या करेगा?"
+          },
+          "answer": {
+            "en": "“I know what eight months of two buckets does to a house. Nobody in forty years has told me anything about chhena, and nobody has ever asked me either.”",
+            "hi": "“मुझे यह पता है कि आठ महीने की दो बाल्टी घर का क्या करती है। छेने के बारे में चालीस साल में मुझे किसी ने कुछ नहीं बताया — और किसी ने मुझसे पूछा भी नहीं।”"
+          },
+          "note": {
+            "en": "That is the truth and it is not a defence, and both of those things will still be true in a courtroom.",
+            "hi": "यह सच है और यह बचाव नहीं है — और अदालत में भी ये दोनों बातें सच ही रहेंगी।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "saidbuckets",
+      "correction": {
+        "en": "The driver is paid by the trip and the water-carrier is paid by the pot, and neither of them gains an inch from a tanka going up. One household in this building had been living six people on two buckets a day since Jyeshtha and had asked for water eleven times in writing.",
+        "hi": "ड्राइवर को ट्रिप का पैसा मिलता है और पनिहारी को घड़े का, और टाँके के बढ़ने से इन दोनों को एक इंच का फ़ायदा नहीं। इस इमारत में एक ही घर जेठ से छह लोगों के साथ दिन की दो बाल्टी पर जी रहा था — और उसने ग्यारह बार लिखकर पानी माँगा था।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "mouth",
+      "correction": {
+        "en": "There is one hole in this world that puts water into that tanka, and it is not in the shop and not in the chowk. It is in the floor of a stair-head behind a street door, and the only tenants that door serves are the two rooms at the top of it.",
+        "hi": "इस दुनिया में एक ही छेद उस टाँके में पानी डालता है, और वह न दुकान में है, न चौक में। वह गली के एक दरवाज़े के पीछे ज़ीने के सिरे के फ़र्श में है — और उस दरवाज़े से जिन किरायेदारों का काम चलता है, वे उसके ऊपर के दो कमरे ही हैं।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "trip",
+      "correction": {
+        "en": "He did not have to hide it, because the paper hid it for him. Twelve thousand litres went into that mouth at eleven at night against a building’s standing order number and fourteen hundred rupees in cash, which is a sheet with a building on it and no man on it at all.",
+        "hi": "उसे छिपाना नहीं पड़ा, क्योंकि काग़ज़ ने उसके लिए छिपा दिया। रात ग्यारह बजे उस मुँह में बारह हज़ार लीटर गए — एक इमारत के स्टैंडिंग ऑर्डर नंबर पर और चौदह सौ रुपये नक़द पर — यानी वह शीट, जिस पर इमारत है और आदमी कोई नहीं।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "broke",
+    "toClueId": "dipbook",
+    "text": {
+      "en": "Nobody has touched the milk and nobody has touched the hand, so stop looking inside the kitchen. Ask the water where it has been, and ask the book how much of it there is.",
+      "hi": "दूध को किसी ने नहीं छुआ और हाथ को किसी ने नहीं छुआ — तो रसोई के भीतर देखना छोड़िए। पानी से पूछिए कि वह कहाँ से आया, और बही से पूछिए कि वह कितना है।"
+    }
+  },
+  "bankedClue": {
+    "en": "A municipal water connection cut for arrears eleven months ago, in the landlord’s name, on two rents that include water",
+    "hi": "ग्यारह महीने पहले बकाया पर कटा नगर निगम का पानी का कनेक्शन — मकान मालिक के नाम, और दोनों किराये पानी समेत हैं"
+  }
+}

@@ -17,6 +17,11 @@
   "photoCaption": {
     "en": "the haveli, 6:40 pm"
   },
+  "art": {
+    "ground": "courtyard",
+    "light": "dusk",
+    "props": ["jewelBox", "jharokha", "bunting"]
+  },
   "iraNote": {
     "en": "“An anklet says she was there. It doesn’t say when. Check who signs with a V.”"
   },

@@ -1,0 +1,429 @@
+{
+  "id": "udaipur-the-empty-box",
+  "schema": 1,
+  "city": "udaipur",
+  "genre": "theft",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "udaipur-lake-palace-season",
+    "caseNumber": 1
+  },
+  "title": {
+    "en": "The Empty Box",
+    "hi": "ख़ाली डिब्बा"
+  },
+  "place": {
+    "en": "Mor Bagh island · the gift table · Sunday, 5:40 PM",
+    "hi": "मोर बाग़ टापू · नेग की मेज़ · रविवार, 5:40 PM"
+  },
+  "brief": {
+    "en": "A polki set left Bapu Bazaar on an approval memo, crossed the lake on a boatman’s knees, and was opened on the gift table in front of nine people. The lac seal was whole and the jeweller’s own die was pressed into it. The box weighed what a polki set weighs. There was no polki set in it.",
+    "hi": "एक पोल्की सेट अप्रूवल मेमो पर बापू बाज़ार से निकला, मल्लाह के घुटनों पर झील पार की, और नौ लोगों के सामने नेग की मेज़ पर खोला गया। लाख की मुहर सलामत थी और उस पर सुनार की अपनी ही ठप्पी लगी थी। डिब्बे का वज़न उतना ही था जितना पोल्की सेट का होता है। डिब्बे में पोल्की सेट था ही नहीं।"
+  },
+  "photoCaption": {
+    "en": "the gift table, 5:40 pm",
+    "hi": "नेग की मेज़, शाम 5:40"
+  },
+  "iraNote": {
+    "en": "“A seal only ever proves that nobody opened the box. It has never once proved that somebody filled it.”",
+    "hi": "“मुहर सिर्फ़ इतना साबित करती है कि डिब्बा किसी ने खोला नहीं। यह उसने आज तक साबित नहीं किया कि उसे भरा किसी ने था।”"
+  },
+  "clues": [
+    {
+      "id": "memo",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "APPROVAL MEMO · ONE POLKI SET",
+        "hi": "अप्रूवल मेमो · एक पोल्की सेट"
+      },
+      "text": {
+        "en": "Signed out against the family’s name at 4:10, returnable in seven days. The carrier’s own entry in the shop’s outward book is 4:50 — forty minutes later.",
+        "hi": "परिवार के नाम पर 4:10 बजे निकाला गया, सात दिन में वापसी। दुकान की जावक बही में ले जाने वाले की अपनी प्रविष्टि 4:50 की है — पूरे चालीस मिनट बाद।"
+      }
+    },
+    {
+      "id": "seal",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE LAC SEAL",
+        "hi": "लैब पर्ची · लाख की मुहर"
+      },
+      "text": {
+        "en": "Whole, and pressed with the jeweller’s own die. Into lac that had already set once and was warmed a second time.",
+        "hi": "सलामत, और सुनार की अपनी ठप्पी से लगी। पर लाख वह है जो एक बार जम चुकी थी और दोबारा गरम की गई।"
+      }
+    },
+    {
+      "id": "weight",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE BOX",
+        "hi": "लैब पर्ची · डिब्बा"
+      },
+      "text": {
+        "en": "Within four grams of what that set weighs — and the weight is in the wrong place. Nine tola of lead shot, under the velvet rather than in the tray.",
+        "hi": "उस सेट के वज़न से बस चार ग्राम इधर-उधर — और वज़न ग़लत जगह है। नौ तोला सीसे की गोली, ट्रे में नहीं, मख़मल के नीचे।"
+      }
+    },
+    {
+      "id": "lining",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE LINING",
+        "hi": "डिब्बे की गद्दी"
+      },
+      "text": {
+        "en": "Re-stitched along one edge in cotton, where the box was made with silk. The needle holes are new and the stitch is a jeweller’s, not a tailor’s.",
+        "hi": "एक किनारे से सूती धागे में दोबारा सिली हुई, जबकि डिब्बा रेशम से बना है। सुई के छेद नए हैं और टाँका दर्ज़ी का नहीं, सुनार का है।"
+      }
+    },
+    {
+      "id": "forty",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE FORTY MINUTES",
+        "hi": "वे चालीस मिनट"
+      },
+      "text": {
+        "en": "Between the memo and the carrier. For thirty of them the counter was one man on his own — the owner was at the assay office with the hallmarking lot.",
+        "hi": "मेमो और ले जाने वाले के बीच के चालीस मिनट। इनमें से तीस मिनट काउंटर पर अकेला एक ही आदमी था — मालिक हॉलमार्किंग का लॉट लेकर परख दफ़्तर गया हुआ था।"
+      }
+    },
+    {
+      "id": "shot",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHERE THE LEAD CAME FROM",
+        "hi": "सीसा आया कहाँ से"
+      },
+      "text": {
+        "en": "The shop keeps lead shot for weighting bangle cores. The jar is down by nine tola and the stock book shows nothing drawn against it since Magh.",
+        "hi": "दुकान में चूड़ी के भीतर भरने के लिए सीसे की गोली रखी रहती है। मर्तबान नौ तोला कम है, और स्टॉक बही में माघ से उसमें से कुछ निकाला ही नहीं गया।"
+      }
+    },
+    {
+      "id": "debt",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE CHIT IN HATHIPOLE",
+        "hi": "हाथीपोल वाली चिट"
+      },
+      "text": {
+        "en": "₹80,000 owed to a lender behind Hathipole, taken in Pausha against his sister’s wedding. The first instalment fell due on the day the box crossed.",
+        "hi": "हाथीपोल के पीछे वाले साहूकार का ₹80,000 — पौष में, बहन की शादी के लिए लिया गया। पहली क़िस्त ठीक उसी दिन चढ़ी जिस दिन डिब्बा झील पार गया।"
+      }
+    },
+    {
+      "id": "boat",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE JETTY",
+        "hi": "फ़ोटो · घाट"
+      },
+      "text": {
+        "en": "Bheem Singh with the box on his knees for the whole crossing, both hands on the oars.",
+        "hi": "भीम सिंह, पूरे फेरे भर डिब्बा घुटनों पर रखे, और दोनों हाथ चप्पुओं पर।"
+      },
+      "dismissNote": {
+        "en": "ruled out — knees are where a boatman puts anything he does not want in the bilge, the seal was whole at both jetties, and he has never owned a die",
+        "hi": "ख़ारिज — जो चीज़ नाव के पेंदे के पानी में नहीं रखनी होती, मल्लाह उसे घुटनों पर ही रखता है; मुहर दोनों घाटों पर सलामत थी, और ठप्पी उसके पास कभी थी ही नहीं"
+      }
+    },
+    {
+      "id": "cousin",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO OPENED IT",
+        "hi": "खोला किसने"
+      },
+      "text": {
+        "en": "Pallavi broke the seal at the gift table in front of nine people.",
+        "hi": "पल्लवी ने नौ लोगों के सामने, नेग की मेज़ पर मुहर तोड़ी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nine witnesses is the opposite of an opportunity, and she is the one who stopped anybody else touching the box afterwards",
+        "hi": "ख़ारिज — नौ गवाह मौक़े का उल्टा होते हैं, और उसके बाद डिब्बे को किसी और के हाथ न लगने देना भी उसी का किया हुआ है"
+      }
+    },
+    {
+      "id": "insurance",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE SHOP’S TRANSIT COVER",
+        "hi": "दुकान का ट्रांज़िट बीमा"
+      },
+      "text": {
+        "en": "Harshad’s stock is insured door to door while it is out on approval.",
+        "hi": "अप्रूवल पर निकले हर्षद के माल का दरवाज़े से दरवाज़े तक बीमा है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — approval means the set is still his stock and his risk; the cover pays him less than the sale would have, which is a reason not to lose it",
+        "hi": "ख़ारिज — अप्रूवल का मतलब है माल अब भी उसी का और जोखिम भी उसी का; बीमा उसे बिक्री से कम देता है, यानी खोने की वजह नहीं, न खोने की वजह है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidalone",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE APPRENTICE",
+        "hi": "बयान · कारीगर लड़का"
+      },
+      "text": {
+        "en": "“Thirty minutes, alone. I stitched the lining back myself — I am the only one in that shop whose stitch does not show. That is the thing I was taught first.”",
+        "hi": "“तीस मिनट, अकेला। गद्दी मैंने ख़ुद वापस सिली — उस दुकान में टाँका सिर्फ़ मेरा नहीं दिखता। सबसे पहले यही सिखाया गया था।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "mukesh",
+      "name": {
+        "en": "Mukesh",
+        "hi": "मुकेश"
+      },
+      "role": {
+        "en": "THE APPRENTICE",
+        "hi": "कारीगर लड़का"
+      },
+      "hook": {
+        "en": "alone at the counter for thirty of those minutes",
+        "hi": "उन में से तीस मिनट काउंटर पर अकेला"
+      },
+      "confession": {
+        "en": "Lifted the set out of the tray while the owner was at the assay office, made the weight up with nine tola of the shop’s own lead shot, stitched the lining back with a stitch nobody else there can manage, and warmed the lac to take the die a second time — for the first instalment on eighty thousand rupees.",
+        "hi": "मालिक के परख दफ़्तर जाते ही ट्रे से सेट निकाला, दुकान की अपनी नौ तोला सीसे की गोली से वज़न पूरा किया, गद्दी वैसे टाँके से सिली जो वहाँ और किसी से नहीं बनता, और लाख गरम करके ठप्पी दोबारा लगा दी — अस्सी हज़ार की पहली क़िस्त के लिए।"
+      }
+    },
+    {
+      "id": "harshad",
+      "name": {
+        "en": "Harshad Soni",
+        "hi": "हर्षद सोनी"
+      },
+      "role": {
+        "en": "THE JEWELLER",
+        "hi": "सुनार"
+      },
+      "hook": {
+        "en": "the die, the box and the loss are all his",
+        "hi": "ठप्पी, डिब्बा और घाटा — तीनों उसी के"
+      },
+      "alibi": {
+        "en": "He was at the assay office with the hallmarking lot and the office has his token. On an approval memo the set is still his stock, so the only person the theft costs is him.",
+        "hi": "वह हॉलमार्किंग का लॉट लेकर परख दफ़्तर में था और दफ़्तर के पास उसका टोकन है। अप्रूवल मेमो पर माल अब भी उसी का है, यानी चोरी का नुक़सान अकेले उसी को है।"
+      }
+    },
+    {
+      "id": "bheem",
+      "name": {
+        "en": "Bheem Singh",
+        "hi": "भीम सिंह"
+      },
+      "role": {
+        "en": "THE BOATMAN",
+        "hi": "मल्लाह"
+      },
+      "hook": {
+        "en": "the box was on his knees for the whole crossing",
+        "hi": "पूरे फेरे भर डिब्बा उसी के घुटनों पर था"
+      },
+      "alibi": {
+        "en": "The seal was whole when he took it and whole when he gave it up, and the lac was warmed in a room with a flame in it. There is no flame on a boat.",
+        "hi": "लेते वक़्त भी मुहर सलामत थी और देते वक़्त भी, और लाख वहीं गरम हुई जहाँ आग थी। नाव पर आग नहीं होती।"
+      }
+    },
+    {
+      "id": "pallavi",
+      "name": {
+        "en": "Pallavi",
+        "hi": "पल्लवी"
+      },
+      "role": {
+        "en": "THE BRIDE’S COUSIN",
+        "hi": "दुल्हन की बहन"
+      },
+      "hook": {
+        "en": "took delivery and broke the seal",
+        "hi": "डिब्बा उसी ने लिया और मुहर उसी ने तोड़ी"
+      },
+      "alibi": {
+        "en": "She opened it in front of nine people, which is not how anybody steals anything, and then would not let a soul near the box until we came.",
+        "hi": "उसने नौ लोगों के सामने खोला — चोरी ऐसे नहीं होती — और उसके बाद हमारे आने तक डिब्बे के पास किसी को फटकने नहीं दिया।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "mukesh",
+  "interrogations": [
+    {
+      "suspectId": "harshad",
+      "setting": {
+        "en": "The shop at closing, the shutter half down, a lac stick and a spirit lamp still on the bench.",
+        "hi": "बंद होते वक़्त की दुकान, आधा गिरा शटर, और बेंच पर अब भी पड़ी लाख की सींक और स्पिरिट लैंप।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who can use this die?",
+            "hi": "यह ठप्पी कौन इस्तेमाल कर सकता है?"
+          },
+          "answer": {
+            "en": "“It lives in that drawer and the drawer is open all day. Sealing is not a skill, madam. Sealing so the lac looks poured once — that is a skill.”",
+            "hi": "“वह इसी दराज़ में रहती है और दराज़ दिन भर खुली रहती है। मुहर लगाना कोई हुनर नहीं है, मैडम। लाख ऐसे लगाना कि लगे एक ही बार ढाली गई — वह हुनर है।”"
+          },
+          "note": {
+            "en": "He has just told us the lac was worked twice, before anybody showed him the slip saying so.",
+            "hi": "पर्ची दिखाए जाने से पहले ही वह बता चुका है कि लाख दो बार बरती गई।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The memo says 4:10 and the carrier signs at 4:50.",
+            "hi": "मेमो 4:10 का है और ले जाने वाले के दस्तख़त 4:50 के।"
+          },
+          "answer": {
+            "en": "“Then the box sat sealed on my counter for forty minutes. I was not on my counter for thirty of them.”",
+            "hi": "“यानी डिब्बा चालीस मिनट मेरे काउंटर पर मुहरबंद पड़ा रहा। उनमें से तीस मिनट मैं अपने काउंटर पर था ही नहीं।”"
+          },
+          "needsClueId": "memo",
+          "lockedHint": {
+            "en": "Pin the memo. Two times on one piece of paper is the whole of this case, and he has not been shown them together.",
+            "hi": "मेमो टाँगो। इस पूरे केस की जान एक ही काग़ज़ पर लिखे दो वक़्त हैं, और वे उसे एक साथ दिखाए नहीं गए।"
+          },
+          "note": {
+            "en": "He gives us the thirty minutes himself, and the person standing in them works for him.",
+            "hi": "वे तीस मिनट वह ख़ुद हमें सौंप देता है — और उनमें खड़ा आदमी उसी का नौकर है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Nine tola of lead is gone from your jar.",
+            "hi": "आपके मर्तबान से नौ तोला सीसा ग़ायब है।"
+          },
+          "answer": {
+            "en": "“Then somebody weighed something. Lead is for the inside of a bangle. Nobody in this trade weighs a box unless he wants it to feel full.”",
+            "hi": "“तो किसी ने कुछ तौला है। सीसा चूड़ी के भीतर के लिए होता है। इस धंधे में डिब्बा वही तौलता है जो चाहता है कि वह भरा हुआ लगे।”"
+          },
+          "note": {
+            "en": "Forty-one years at one counter, and he is the one narrowing it for us.",
+            "hi": "एक ही काउंटर पर इकतालीस साल — और दायरा वही हमारे लिए छोटा कर रहा है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "mukesh",
+      "setting": {
+        "en": "The workbench at the back, a pinboard of needles above it, every one of them threaded.",
+        "hi": "पीछे की कारीगरी वाली मेज़, ऊपर सुइयों का बोर्ड, और हर सुई में धागा पिरोया हुआ।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who sewed this lining?",
+            "hi": "यह गद्दी किसने सिली?"
+          },
+          "answer": {
+            "en": "“Boxes come lined. Nobody sews a box.”",
+            "hi": "“डिब्बे गद्दी लगे ही आते हैं। डिब्बा कोई नहीं सिलता।”"
+          },
+          "needsClueId": "lining",
+          "lockedHint": {
+            "en": "Pin the lining. He will keep saying nobody sews a box until somebody shows him one that was sewn.",
+            "hi": "गद्दी टाँगो। जब तक कोई सिला हुआ डिब्बा सामने न रखे, वह यही दोहराएगा कि डिब्बा कोई नहीं सिलता।"
+          },
+          "note": {
+            "en": "Cotton thread on a silk box, and a jeweller's stitch. There is one pinboard of needles in this shop and it is over his bench.",
+            "hi": "रेशम के डिब्बे पर सूती धागा, और टाँका सुनार का। इस दुकान में सुइयों का बोर्ड एक ही है — और वह उसी की मेज़ के ऊपर है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Thirty minutes, and you were the counter.",
+            "hi": "तीस मिनट, और काउंटर आप ही थे।"
+          },
+          "answer": {
+            "en": "“Thirty minutes, alone. I stitched the lining back myself — I am the only one in that shop whose stitch does not show. That is the thing I was taught first.”",
+            "hi": "“तीस मिनट, अकेला। गद्दी मैंने ख़ुद वापस सिली — उस दुकान में टाँका सिर्फ़ मेरा नहीं दिखता। सबसे पहले यही सिखाया गया था।”"
+          },
+          "needsClueId": "forty",
+          "lockedHint": {
+            "en": "Pin the forty minutes. He can talk his way around a needle; he cannot talk his way out of being the only person in the room.",
+            "hi": "वे चालीस मिनट टाँगो। सुई की बात वह घुमा सकता है; कमरे में अकेला होने की बात नहीं घुमा सकता।"
+          },
+          "unlocksClueId": "saidalone",
+          "note": {
+            "en": "He says it almost proudly. The thing the shop taught him first is the thing it will lose him for.",
+            "hi": "वह यह लगभग गर्व से कहता है। दुकान ने उसे सबसे पहले जो सिखाया, वही उसे दुकान से ले जाएगा।"
+          }
+        },
+        {
+          "ask": {
+            "en": "There is a chit of yours in Hathipole.",
+            "hi": "हाथीपोल में आपकी एक चिट चल रही है।"
+          },
+          "answer": {
+            "en": "“My sister is getting married in Vaishakh. You have seen what a set costs. I sell them all day and I cannot buy one.”",
+            "hi": "“बहन की शादी वैशाख में है। सेट की क़ीमत आपने देखी है। दिन भर मैं वही बेचता हूँ और अपने लिए एक नहीं ख़रीद सकता।”"
+          },
+          "note": {
+            "en": "The saddest true sentence in this file, and it is still not a defence.",
+            "hi": "इस पूरी फ़ाइल का सबसे दुखद सच वाक्य — और फिर भी यह सफ़ाई नहीं है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "debt",
+      "correction": {
+        "en": "The jeweller carries the loss himself under an approval memo and the boatman was paid forty rupees for the crossing. One person in this file had eighty thousand rupees falling due the day the box went out.",
+        "hi": "अप्रूवल मेमो में घाटा सुनार का अपना है और मल्लाह को फेरे के चालीस रुपए मिले। इस फ़ाइल में एक ही शख़्स ऐसा है जिसकी अस्सी हज़ार की क़िस्त उसी दिन चढ़नी थी जिस दिन डिब्बा निकला।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "forty",
+      "correction": {
+        "en": "The seal was whole at both jetties, so nothing happened on the water. It happened in the forty minutes the box sat sealed on a counter — and for thirty of them there was one man behind it.",
+        "hi": "दोनों घाटों पर मुहर सलामत थी, यानी पानी पर कुछ हुआ ही नहीं। सब उन चालीस मिनटों में हुआ जब डिब्बा काउंटर पर मुहरबंद पड़ा था — और उनमें से तीस मिनट उसके पीछे एक ही आदमी खड़ा था।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "lining",
+      "correction": {
+        "en": "Nothing was carried past anybody. The set came out, nine tola of the shop’s own lead went in, and a lining was stitched back by the one pair of hands in that shop whose stitch does not show.",
+        "hi": "कुछ किसी के सामने से नहीं ले जाया गया। सेट बाहर आया, दुकान का ही नौ तोला सीसा भीतर गया, और गद्दी उन्हीं हाथों ने वापस सिली जिनका टाँका उस दुकान में नहीं दिखता।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "weight",
+    "toClueId": "lining",
+    "text": {
+      "en": "The weight is right and it is in the wrong place — under the cloth instead of in the tray. Something had to be opened to put it there, and cloth that is opened has to be closed again.",
+      "hi": "वज़न सही है और जगह ग़लत — ट्रे में नहीं, कपड़े के नीचे। उसे वहाँ रखने के लिए कुछ खोलना पड़ा होगा, और जो कपड़ा खुलता है उसे फिर से बंद भी करना पड़ता है।"
+    }
+  },
+  "bankedClue": {
+    "en": "An approval memo for a polki set, signed out of the shop by a hand that is not the carrier’s",
+    "hi": "पोल्की सेट का अप्रूवल मेमो — दुकान से निकला, और दस्तख़त उस हाथ के नहीं जो ले गया"
+  }
+}

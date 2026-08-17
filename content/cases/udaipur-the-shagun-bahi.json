@@ -1,0 +1,559 @@
+{
+  "id": "udaipur-the-shagun-bahi",
+  "schema": 1,
+  "city": "udaipur",
+  "genre": "forgery",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "udaipur-lake-palace-season",
+    "caseNumber": 3
+  },
+  "title": {
+    "en": "The Shagun Bahi",
+    "hi": "नेग की बही"
+  },
+  "place": {
+    "en": "Mor Bagh island · the neg table · Thursday, 11:20 AM",
+    "hi": "मोर बाग़ टापू · नेग की मेज़ · गुरुवार, 11:20 AM"
+  },
+  "brief": {
+    "en": "Kanta Devi has counted this family’s neg for thirty years and has never held a pen — she calls each sum aloud and a nephew writes it down. At the vidaai three givers mentioned what they had put in, and all three were more than the book says. Eleven entries are light by fourteen thousand three hundred rupees between them, and every one of the eleven falls in the same fortnight.",
+    "hi": "कांता देवी तीस साल से इस परिवार का नेग गिनती आई हैं और क़लम कभी हाथ में नहीं ली — वे हर रक़म बोलकर बताती हैं और एक भतीजा लिखता है। विदाई पर तीन देने वालों ने बताया कि उन्होंने कितना रखा था, और तीनों की रक़म बही से ज़्यादा थी। ग्यारह प्रविष्टियाँ मिलाकर चौदह हज़ार तीन सौ रुपए कम लिखी गई हैं, और ये ग्यारह की ग्यारह एक ही पखवाड़े की हैं।"
+  },
+  "photoCaption": {
+    "en": "the bahi, open at the teej fortnight",
+    "hi": "बही, तीज के पखवाड़े पर खुली"
+  },
+  "iraNote": {
+    "en": "“Everybody looks for the line that was changed. Nobody looks for the line that was wrong the first time it was written.”",
+    "hi": "“सब उस लाइन को ढूँढ़ते हैं जो बदली गई। उस लाइन को कोई नहीं ढूँढ़ता जो पहली बार लिखते वक़्त ही ग़लत थी।”"
+  },
+  "clues": [
+    {
+      "id": "bahi",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE SHAGUN BAHI · TEEJ FORTNIGHT",
+        "hi": "नेग की बही · तीज पखवाड़ा"
+      },
+      "text": {
+        "en": "Eleven entries light, between ₹500 and ₹2,000 each, ₹14,300 in all. The other four hundred and six entries in the book are exact.",
+        "hi": "ग्यारह प्रविष्टियाँ कम — हर एक ₹500 से ₹2,000 तक, कुल ₹14,300। बही की बाक़ी चार सौ छह प्रविष्टियाँ बिल्कुल सही हैं।"
+      }
+    },
+    {
+      "id": "ink",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE ELEVEN LINES",
+        "hi": "लैब पर्ची · वे ग्यारह लाइनें"
+      },
+      "text": {
+        "en": "No erasure, no overwriting, no second ink and no second hand. Each of the eleven was written once, in the same sitting as the lines above and below it.",
+        "hi": "न मिटाना, न ऊपर से लिखना, न दूसरी स्याही, न दूसरा हाथ। ग्यारहों एक ही बार लिखी गईं, उसी बैठक में जिसमें उनके ऊपर-नीचे की लाइनें।"
+      }
+    },
+    {
+      "id": "memory",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHAT KANTA DEVI REMEMBERS",
+        "hi": "कांता देवी को क्या याद है"
+      },
+      "text": {
+        "en": "Asked before the book was opened, she named nine of the eleven sums exactly and the other two within a hundred rupees.",
+        "hi": "बही खुलने से पहले पूछा गया तो उन्होंने ग्यारह में से नौ रक़में बिल्कुल ठीक बताईं और बाक़ी दो सौ रुपए के फ़र्क़ में।"
+      }
+    },
+    {
+      "id": "door",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE ELEVEN GIVERS",
+        "hi": "वे ग्यारह देने वाले"
+      },
+      "text": {
+        "en": "Every one of the eleven handed their lifafa at the door instead of at the table. All eleven arrived after the muhurat, which is when people do that.",
+        "hi": "ग्यारहों ने अपना लिफ़ाफ़ा मेज़ पर नहीं, दरवाज़े पर थमाया। ग्यारहों मुहूर्त के बाद पहुँचे थे — लोग तभी ऐसा करते हैं।"
+      }
+    },
+    {
+      "id": "route",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHAT THE DOOR CHANGES",
+        "hi": "दरवाज़ा क्या बदल देता है"
+      },
+      "text": {
+        "en": "A lifafa handed at the door never reaches Kanta Devi’s hands. The scribe opens it, calls the figure himself, and writes down the figure he called.",
+        "hi": "दरवाज़े पर थमाया लिफ़ाफ़ा कांता देवी के हाथ तक पहुँचता ही नहीं। लिखने वाला उसे ख़ुद खोलता है, रक़म ख़ुद बोलता है, और जो बोला वही लिख देता है।"
+      }
+    },
+    {
+      "id": "deposits",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ELEVEN CASH DEPOSITS",
+        "hi": "नक़द के ग्यारह जमा"
+      },
+      "text": {
+        "en": "₹14,300 into the scribe’s account across the same fortnight, in eleven separate lots, not one of them over ₹2,000.",
+        "hi": "उसी पखवाड़े में लिखने वाले के खाते में ₹14,300 — ग्यारह अलग-अलग बार, और एक भी ₹2,000 से ऊपर नहीं।"
+      }
+    },
+    {
+      "id": "coaching",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE COACHING RECEIPT",
+        "hi": "कोचिंग की रसीद"
+      },
+      "text": {
+        "en": "₹42,000 for a repeat year at a medical-entrance institute in Kota, paid in three parts. The last part fell due in the middle of that fortnight.",
+        "hi": "कोटा के मेडिकल एंट्रेंस संस्थान में दोबारा साल के ₹42,000, तीन किस्तों में। आख़िरी किस्त ठीक उसी पखवाड़े के बीच चढ़ी।"
+      }
+    },
+    {
+      "id": "tray",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE COUNTING TRAY",
+        "hi": "गिनती की थाली"
+      },
+      "text": {
+        "en": "Rekha Purohit counts every note that reaches the table, twice, and initials the tally.",
+        "hi": "मेज़ तक पहुँचने वाला हर नोट रेखा पुरोहित दो बार गिनती हैं और जोड़ पर दस्तख़त करती हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she counts what reaches the tray, and eleven of these never reached it; her tallies for the fortnight are exact to the rupee",
+        "hi": "ख़ारिज — वे वही गिनती हैं जो थाली तक पहुँचे, और इनमें से ग्यारह वहाँ पहुँचे ही नहीं; उस पखवाड़े के उनके जोड़ रुपए-रुपए तक सही हैं"
+      }
+    },
+    {
+      "id": "armful",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE DOOR",
+        "hi": "फ़ोटो · दरवाज़ा"
+      },
+      "text": {
+        "en": "Mahendra Singh with an armful of envelopes, walking them in.",
+        "hi": "महेंद्र सिंह, बाँहों में लिफ़ाफ़े भरे, अंदर लाते हुए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he carries them sealed, in front of forty guests, and hands them over sealed; nothing is opened until it is on the scribe's cloth",
+        "hi": "ख़ारिज — वे उन्हें बंद ही उठाते हैं, चालीस मेहमानों के सामने, और बंद ही सौंपते हैं; कुछ भी लिखने वाले के कपड़े तक पहुँचने से पहले नहीं खुलता"
+      }
+    },
+    {
+      "id": "safe",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "WHERE THE BAHI SLEEPS",
+        "hi": "बही रात कहाँ रहती है"
+      },
+      "text": {
+        "en": "The book is locked in Suhani Rathore’s office every night of the season, and she holds the only key.",
+        "hi": "सहालग की हर रात बही सुहानी राठौड़ के दफ़्तर के ताले में रहती है, और चाबी अकेले उसी के पास है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a locked room would matter if the book had been altered, and the lab says no line in it was ever touched twice",
+        "hi": "ख़ारिज — बंद कमरा तब मायने रखता जब बही बदली गई होती, और लैब कहती है कि उसकी किसी लाइन को दूसरी बार छुआ ही नहीं गया"
+      }
+    },
+    {
+      "id": "custom",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE ODD-RUPEE CUSTOM",
+        "hi": "एक रुपए वाला रिवाज़"
+      },
+      "text": {
+        "en": "Neg is given in odd sums — ₹2,100, ₹5,100 — and books are often kept rounded.",
+        "hi": "नेग विषम रक़म में दिया जाता है — ₹2,100, ₹5,100 — और बहियाँ अक्सर गोल करके लिखी जाती हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the eleven are light by hundreds and thousands, not by the single rupee the custom rounds away",
+        "hi": "ख़ारिज — ये ग्यारह सैकड़ों और हज़ारों में कम हैं, उस एक रुपए में नहीं जिसे रिवाज़ गोल कर देता है"
+      }
+    },
+    {
+      "id": "vidaai",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "HOW IT CAME OUT",
+        "hi": "बात खुली कैसे"
+      },
+      "text": {
+        "en": "Three givers mentioned their sums in conversation at the vidaai.",
+        "hi": "विदाई पर बातों-बातों में तीन देने वालों ने अपनी रक़म बता दी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — it is how we were called, not how it was done; guests talk at a vidaai and always have",
+        "hi": "ख़ारिज — यह बताता है कि हमें बुलाया क्यों गया, यह नहीं कि हुआ कैसे; विदाई पर मेहमान बातें करते ही हैं"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidcalled",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE SCRIBE",
+        "hi": "बयान · लिखने वाला"
+      },
+      "text": {
+        "en": "“The door envelopes I called myself, because Bua-ji cannot leave the table. I called them low. Eleven times, and I wrote down exactly what I had called.”",
+        "hi": "“दरवाज़े वाले लिफ़ाफ़े मैंने ख़ुद बोले, क्योंकि बुआजी मेज़ नहीं छोड़ सकतीं। मैंने कम बोले। ग्यारह बार — और जो बोला, हूबहू वही लिख दिया।”"
+      }
+    },
+    {
+      "id": "saidnever",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · KANTA DEVI",
+        "hi": "बयान · कांता देवी"
+      },
+      "text": {
+        "en": "“Those eleven I never called. Those eleven he called. I learned what was in them at the vidaai, like a guest, in my own house.”",
+        "hi": "“वे ग्यारह मैंने नहीं बोलीं। वे ग्यारह उसने बोलीं। उनमें क्या था, यह मुझे विदाई पर पता चला — मेहमान की तरह, अपने ही घर में।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ojas",
+      "name": {
+        "en": "Ojas Vyas",
+        "hi": "ओजस व्यास"
+      },
+      "role": {
+        "en": "THE SCRIBE",
+        "hi": "बही लिखने वाला"
+      },
+      "hook": {
+        "en": "the only hand that has ever written in this book",
+        "hi": "इस बही में लिखने वाला अकेला हाथ"
+      },
+      "confession": {
+        "en": "Opened eleven envelopes handed at the door, called each figure lower than it was, wrote down the figure he had called, and banked the difference in eleven lots small enough that no single one would be looked at — for the last instalment of a repeat year at Kota.",
+        "hi": "दरवाज़े पर आए ग्यारह लिफ़ाफ़े ख़ुद खोले, हर रक़म असल से कम बोली, जो बोली वही लिख दी, और फ़र्क़ ग्यारह ऐसे छोटे-छोटे हिस्सों में जमा किया कि किसी एक पर नज़र न पड़े — कोटा में दोबारा साल की आख़िरी किस्त के लिए।"
+      }
+    },
+    {
+      "id": "kanta",
+      "name": {
+        "en": "Kanta Devi",
+        "hi": "कांता देवी"
+      },
+      "role": {
+        "en": "THE GIFT REGISTRAR",
+        "hi": "नेग बही रखने वाली"
+      },
+      "hook": {
+        "en": "the book is hers and she cannot read a line of it",
+        "hi": "बही उन्हीं की है और उसकी एक लाइन वे पढ़ नहीं सकतीं"
+      },
+      "alibi": {
+        "en": "She named nine of the eleven sums from memory before anybody opened the book, and sent for us herself. A woman covering a hole does not hand you the hole.",
+        "hi": "बही खुलने से पहले उन्होंने ग्यारह में से नौ रक़में याद से बता दीं, और बुलवाया भी ख़ुद। छेद छिपाने वाली औरत छेद आपके हाथ में नहीं थमाती।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "suhani",
+      "name": {
+        "en": "Suhani Rathore",
+        "hi": "सुहानी राठौड़"
+      },
+      "role": {
+        "en": "THE WEDDING PLANNER",
+        "hi": "वेडिंग प्लानर"
+      },
+      "hook": {
+        "en": "the bahi is locked in her office every night",
+        "hi": "हर रात बही उसी के दफ़्तर के ताले में"
+      },
+      "alibi": {
+        "en": "Her office holds the book overnight and the lab says no line was ever touched a second time. A locked room is only useful to somebody who needs to go back in.",
+        "hi": "रात भर बही उसी के दफ़्तर में रहती है, और लैब कहती है कि किसी लाइन को दूसरी बार छुआ ही नहीं गया। बंद कमरा उसी के काम आता है जिसे दोबारा भीतर जाना हो।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "mahendra",
+      "name": {
+        "en": "Mahendra Singh",
+        "hi": "महेंद्र सिंह"
+      },
+      "role": {
+        "en": "THE BRIDE’S UNCLE",
+        "hi": "दुल्हन के चाचा"
+      },
+      "hook": {
+        "en": "carries the door envelopes in",
+        "hi": "दरवाज़े के लिफ़ाफ़े वही अंदर लाते हैं"
+      },
+      "alibi": {
+        "en": "He carries them sealed across a courtyard of forty people and hands them over sealed. Nothing on this island is opened before it is on the scribe’s cloth.",
+        "hi": "वे उन्हें बंद ही चालीस लोगों के आँगन से लाते हैं और बंद ही सौंपते हैं। इस टापू पर कुछ भी लिखने वाले के कपड़े तक पहुँचने से पहले नहीं खुलता।"
+      }
+    },
+    {
+      "id": "rekha",
+      "name": {
+        "en": "Rekha Purohit",
+        "hi": "रेखा पुरोहित"
+      },
+      "role": {
+        "en": "THE COUNTING AUNT",
+        "hi": "गिनने वाली बुआ"
+      },
+      "hook": {
+        "en": "counts every note that reaches the tray",
+        "hi": "थाली तक आया हर नोट वही गिनती हैं"
+      },
+      "alibi": {
+        "en": "Her tallies for that fortnight are exact to the rupee, because she counts what arrives. The eleven never arrived at her tray at all.",
+        "hi": "उस पखवाड़े के उनके जोड़ रुपए-रुपए तक सही हैं, क्योंकि वे वही गिनती हैं जो पहुँचे। वे ग्यारह उनकी थाली तक पहुँचे ही नहीं।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "ojas",
+  "interrogations": [
+    {
+      "suspectId": "kanta",
+      "setting": {
+        "en": "The neg table after the guests, the bahi shut, her hands flat on the cover.",
+        "hi": "मेहमानों के बाद की नेग वाली मेज़, बंद बही, और उसके ऊपर सपाट रखे उनके हाथ।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How do you know a sum is wrong in a book you cannot read?",
+            "hi": "जिस बही को आप पढ़ नहीं सकतीं, उसमें रक़म ग़लत है — यह कैसे पता चलता है?"
+          },
+          "answer": {
+            "en": "“I do not know the book. I know the money. Thirty years of calling it out loud puts it somewhere a page cannot argue with.”",
+            "hi": "“मुझे बही नहीं मालूम। मुझे पैसा मालूम है। तीस साल बोल-बोलकर गिनने से वह वहाँ बैठ जाता है जहाँ पन्ना बहस नहीं कर सकता।”"
+          },
+          "needsClueId": "memory",
+          "lockedHint": {
+            "en": "Pin what she remembered. She will not perform her memory for a stranger — show her it has already been written down and checked.",
+            "hi": "उन्हें जो याद था, वह टाँगो। अजनबी के सामने वे अपनी याददाश्त का तमाशा नहीं करेंगी — उन्हें दिखाओ कि वह लिखी और जाँची जा चुकी है।"
+          },
+          "note": {
+            "en": "Nine exact out of eleven, before the cover was lifted. The book is the unreliable witness here, not the woman.",
+            "hi": "बही खुलने से पहले ग्यारह में से नौ बिल्कुल सही। यहाँ भरोसे लायक़ नहीं बही है, औरत नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Did you call these eleven?",
+            "hi": "क्या ये ग्यारह आपने बोली थीं?"
+          },
+          "answer": {
+            "en": "“Those eleven I never called. Those eleven he called. I learned what was in them at the vidaai, like a guest, in my own house.”",
+            "hi": "“वे ग्यारह मैंने नहीं बोलीं। वे ग्यारह उसने बोलीं। उनमें क्या था, यह मुझे विदाई पर पता चला — मेहमान की तरह, अपने ही घर में।”"
+          },
+          "needsClueId": "door",
+          "lockedHint": {
+            "en": "Pin the eleven givers. Until she sees that all eleven came by the door, she is defending the whole book instead of eleven lines of it.",
+            "hi": "वे ग्यारह देने वाले टाँगो। जब तक उन्हें न दिखे कि ग्यारहों दरवाज़े से आए, वे ग्यारह लाइनों की जगह पूरी बही की सफ़ाई देती रहेंगी।"
+          },
+          "unlocksClueId": "saidnever",
+          "note": {
+            "en": "So there is a second voice in this book, and it only speaks for envelopes that come by the door.",
+            "hi": "यानी इस बही में एक दूसरी आवाज़ भी है — और वह सिर्फ़ दरवाज़े से आए लिफ़ाफ़ों के लिए बोलती है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who taught him to keep this book?",
+            "hi": "उसे यह बही रखना किसने सिखाया?"
+          },
+          "answer": {
+            "en": "“I did. He was nine. He wrote small and neat and I told the whole family we had our next keeper.”",
+            "hi": "“मैंने। तब वह नौ साल का था। छोटा और साफ़ लिखता था, और मैंने पूरे परिवार से कह दिया था कि अगली बही रखने वाला मिल गया।”"
+          },
+          "note": {
+            "en": "She is not going to enjoy the rest of this, and she has not once tried to steer it.",
+            "hi": "आगे जो आना है वह उन्हें अच्छा नहीं लगेगा — और फिर भी उन्होंने एक बार भी बात घुमाने की कोशिश नहीं की।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "mahendra",
+      "setting": {
+        "en": "The island’s outer gate, a tray of unclaimed slippers, the courtyard loud behind him.",
+        "hi": "टापू का बाहरी दरवाज़ा, बिना उठी चप्पलों की थाली, और पीछे शोर करता आँगन।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What happens to an envelope handed at the door?",
+            "hi": "दरवाज़े पर थमाए लिफ़ाफ़े का क्या होता है?"
+          },
+          "answer": {
+            "en": "“It comes with me to the cloth. I do not open. Opening is not my work and I would not know what to do with it.”",
+            "hi": "“मेरे साथ कपड़े तक आता है। मैं खोलता नहीं। खोलना मेरा काम नहीं है और खोलकर करूँ भी क्या।”"
+          },
+          "note": {
+            "en": "The cloth, then. Everything at this wedding ends up on the scribe's cloth.",
+            "hi": "यानी कपड़ा। इस शादी की हर चीज़ आख़िर में लिखने वाले के कपड़े पर ही पहुँचती है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Why did these eleven come by the door at all?",
+            "hi": "ये ग्यारह दरवाज़े से आए ही क्यों?"
+          },
+          "answer": {
+            "en": "“They were late. A man who has missed the muhurat does not walk up to the table in front of everybody. He gives it at the door and goes to find his chair.”",
+            "hi": "“देर से आए थे। जो मुहूर्त चूक गया हो, वह सबके सामने मेज़ तक नहीं जाता। दरवाज़े पर देकर अपनी कुर्सी ढूँढ़ने चला जाता है।”"
+          },
+          "note": {
+            "en": "Being late is a habit of guests, not a plan. Whoever used it did not arrange it — they only noticed it.",
+            "hi": "देर से आना मेहमानों की आदत है, किसी की योजना नहीं। जिसने इसका फ़ायदा उठाया, उसने इसे रचा नहीं — बस देख लिया।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Could you say what was in one of them?",
+            "hi": "क्या आप बता सकते हैं कि उनमें से किसी एक में क्या था?"
+          },
+          "answer": {
+            "en": "“No. Nobody writes the amount on a lifafa. That is the whole point of a lifafa.”",
+            "hi": "“नहीं। लिफ़ाफ़े पर रक़म कोई नहीं लिखता। लिफ़ाफ़े का मतलब ही यही है।”"
+          },
+          "note": {
+            "en": "Which means the only person who ever knew the figure was the person who opened it.",
+            "hi": "यानी रक़म सिर्फ़ उसी को पता चली जिसने लिफ़ाफ़ा खोला।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ojas",
+      "setting": {
+        "en": "The scribe’s cloth, a bolster, four pens laid parallel and a bank app open on the phone beside them.",
+        "hi": "लिखने वाले का कपड़ा, एक गद्दी, समानांतर रखी चार क़लमें, और बग़ल में फ़ोन पर खुला बैंक ऐप।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Has any line in this book been changed?",
+            "hi": "क्या इस बही की कोई लाइन बदली गई है?"
+          },
+          "answer": {
+            "en": "“Not one. Look at it under any light you like. I have never rubbed out a line in my life.”",
+            "hi": "“एक भी नहीं। जिस रोशनी में चाहें देख लीजिए। मैंने ज़िंदगी में कभी कोई लाइन मिटाई ही नहीं।”"
+          },
+          "needsClueId": "ink",
+          "lockedHint": {
+            "en": "Pin the lab slip. He is right, and letting him be right on the record is what closes the other door.",
+            "hi": "लैब पर्ची टाँगो। वह सही कह रहा है — और उसे रिकॉर्ड पर सही साबित होने देना ही दूसरा दरवाज़ा बंद करता है।"
+          },
+          "note": {
+            "en": "He is telling the exact truth and it is the most useful thing he could have said. Nothing was altered, so everything was wrong when it was written.",
+            "hi": "वह बिल्कुल सच कह रहा है, और इससे ज़्यादा काम की बात वह कह भी नहीं सकता था। कुछ बदला नहीं गया — यानी लिखते वक़्त ही सब ग़लत था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who called the sums for the door envelopes?",
+            "hi": "दरवाज़े वाले लिफ़ाफ़ों की रक़म बोली किसने?"
+          },
+          "answer": {
+            "en": "“The door envelopes I called myself, because Bua-ji cannot leave the table. I called them low. Eleven times, and I wrote down exactly what I had called.”",
+            "hi": "“दरवाज़े वाले लिफ़ाफ़े मैंने ख़ुद बोले, क्योंकि बुआजी मेज़ नहीं छोड़ सकतीं। मैंने कम बोले। ग्यारह बार — और जो बोला, हूबहू वही लिख दिया।”"
+          },
+          "needsClueId": "route",
+          "lockedHint": {
+            "en": "Pin what the door changes. He has been answering about the book; put the envelope in front of him instead.",
+            "hi": "दरवाज़ा क्या बदलता है, वह टाँगो। वह बही की बात कर रहा है — उसके सामने लिफ़ाफ़ा रखो।"
+          },
+          "unlocksClueId": "saidcalled",
+          "note": {
+            "en": "A perfect book. Every line written once, in one hand, and eleven of them false the moment the ink went down.",
+            "hi": "बेऐब बही। हर लाइन एक ही बार, एक ही हाथ से लिखी — और उनमें ग्यारह उसी पल झूठी हो गईं जिस पल स्याही गिरी।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eleven deposits, and none of them over two thousand.",
+            "hi": "ग्यारह जमा, और एक भी दो हज़ार से ऊपर नहीं।"
+          },
+          "answer": {
+            "en": "“Kota is forty-two thousand. My father has paid it twice already and he has not said one word to me about either.”",
+            "hi": "“कोटा बयालीस हज़ार का है। पिताजी दो बार दे चुके हैं और दोनों बार मुझसे एक शब्द नहीं कहा।”"
+          },
+          "needsClueId": "deposits",
+          "lockedHint": {
+            "en": "Pin the deposits. Eleven lots against eleven light lines is the arithmetic, and he cannot argue with his own bank.",
+            "hi": "जमा वाली प्रविष्टि टाँगो। ग्यारह लाइनों के सामने ग्यारह जमा — यही पूरा हिसाब है, और अपने ही बैंक से वह बहस नहीं कर सकता।"
+          },
+          "note": {
+            "en": "He kept every lot under two thousand, which is a boy who has read about what gets looked at.",
+            "hi": "उसने हर हिस्सा दो हज़ार से नीचे रखा — यह वह लड़का है जिसने पढ़ रखा है कि नज़र किस पर पड़ती है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "coaching",
+      "correction": {
+        "en": "The registrar cannot read the book and the counting aunt is exact to the rupee. Forty-two thousand for a repeat year, with the last instalment falling inside that fortnight, is a reason with a date on it.",
+        "hi": "बही रखने वाली उसे पढ़ ही नहीं सकतीं और गिनने वाली बुआ रुपए-रुपए तक सही हैं। दोबारा साल के बयालीस हज़ार, और आख़िरी किस्त ठीक उसी पखवाड़े में — यह ऐसी वजह है जिस पर तारीख़ लिखी है।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "route",
+      "correction": {
+        "en": "Nobody went back into a locked office, because nothing in that book was ever touched twice. Eleven envelopes simply never reached the woman whose voice the book is — and one person opened all eleven.",
+        "hi": "किसी को बंद दफ़्तर में दोबारा जाना ही नहीं पड़ा, क्योंकि उस बही में कुछ दूसरी बार छुआ ही नहीं गया। ग्यारह लिफ़ाफ़े बस उस औरत तक पहुँचे ही नहीं जिसकी आवाज़ यह बही है — और ग्यारहों को खोला एक ही आदमी ने।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidcalled",
+      "correction": {
+        "en": "There was nothing to escape from. A book with no erasure in it is a book nobody audits, and a figure that was false the first time it was written is a figure no light will ever show up.",
+        "hi": "बचकर निकलने की ज़रूरत ही नहीं थी। जिस बही में कोई मिटाया हुआ न हो, उसकी जाँच कोई नहीं करता — और जो रक़म पहली बार लिखते वक़्त ही झूठी हो, उसे कोई रोशनी कभी नहीं पकड़ती।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "bahi",
+    "toClueId": "ink",
+    "text": {
+      "en": "Before you ask who changed these eleven lines, ask whether anybody changed them at all. Put the page under a light and look for the erasure that ought to be there.",
+      "hi": "यह पूछने से पहले कि ये ग्यारह लाइनें बदलीं किसने, यह पूछो कि बदलीं भी या नहीं। पन्ना रोशनी के नीचे रखो और वह मिटाया हुआ ढूँढ़ो जो वहाँ होना चाहिए था।"
+    }
+  },
+  "bankedClue": {
+    "en": "A shagun register where eleven envelopes are entered light, all in the same fortnight",
+    "hi": "नेग की बही, जिसमें ग्यारह लिफ़ाफ़े कम लिखे गए — और सब एक ही पखवाड़े में"
+  }
+}

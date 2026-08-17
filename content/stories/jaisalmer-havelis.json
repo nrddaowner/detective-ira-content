@@ -1,0 +1,268 @@
+{
+  "id": "jaisalmer-havelis",
+  "schema": 1,
+  "region": "rajasthan",
+  "city": "jaisalmer",
+  "number": 5,
+  "unlockStars": 44,
+  "title": {
+    "en": "Havelis of Jaisalmer",
+    "hi": "जैसलमेर की हवेलियाँ"
+  },
+  "blurb": {
+    "en": "7 cases · a fort haveli under restoration, and its original carvings leaving in crates marked debris",
+    "hi": "7 केस · मरम्मत में खड़ी क़िले की एक हवेली, और उसकी असली तराश ‘मलबा’ लिखे बक्सों में बाहर"
+  },
+  "cases": [
+    "jaisalmer-water-in-the-blue-room",
+    "jaisalmer-the-masons-mark",
+    "jaisalmer-the-kanoi-road-dump",
+    "jaisalmer-cement-in-the-mortar",
+    "jaisalmer-the-hotel-jharokha",
+    "jaisalmer-bay-fourteen-twice",
+    "jaisalmer-crate-nineteen"
+  ],
+  "finale": {
+    "mastermindId": "abhay",
+    "reveal": {
+      "en": "Abhay Kothari?",
+      "hi": "अभय कोठारी?"
+    },
+    "threads": [
+      {
+        "caseNumber": 1,
+        "pointsAt": "abhay",
+        "text": {
+          "en": "A replacement schedule marking bay nine beyond repair, initialled a fortnight before the water reached it",
+          "hi": "प्रतिस्थापन सूची, जिसमें बाय नौ ‘मरम्मत से बाहर’ लिखी है — और उस पर हस्ताक्षर पानी के वहाँ पहुँचने से पूरे पखवाड़े पहले के हैं"
+        },
+        "short": {
+          "en": "the schedule, dated early",
+          "hi": "पहले की तारीख़ वाली सूची"
+        },
+        "pending": {
+          "en": "Water in the Blue Room will turn up the first thread",
+          "hi": "नीले कमरे का पानी पहला सिरा निकालेगा"
+        },
+        "misread": {
+          "en": "A chowkidar packed that spout and there is no doubt left about it, and a chowkidar cannot know which bay a written schedule will name a fortnight later. Only one hand initials that sheet, and it initialled bay nine before bay nine had anything wrong with it.",
+          "hi": "वह परनाला एक चौकीदार ने ठूँसा था, इसमें अब कोई शक बचा नहीं — और किसी चौकीदार को यह पता नहीं होता कि पंद्रह दिन बाद लिखी सूची किस बाय का नाम लेगी। उस पन्ने पर हस्ताक्षर एक ही हाथ करता है, और उसने बाय नौ पर हस्ताक्षर तब कर दिए जब बाय नौ में कुछ ख़राब ही नहीं हुआ था।"
+        }
+      },
+      {
+        "caseNumber": 2,
+        "pointsAt": "rewat",
+        "text": {
+          "en": "A store issue for one reproduction jali, against which two jalis left the store",
+          "hi": "एक प्रतिकृति जाली का भंडार निर्गम, जिस पर भंडार से दो जालियाँ बाहर गईं"
+        },
+        "short": {
+          "en": "one line, two jalis",
+          "hi": "एक पंक्ति, दो जालियाँ"
+        },
+        "pending": {
+          "en": "The Mason’s Mark holds the second thread",
+          "hi": "सिलावट की छाप में दूसरा सिरा है"
+        },
+        "misread": {
+          "en": "One line in an issue register and two stones out against it is the storekeeper’s book, the storekeeper’s pen and the storekeeper’s hour, and nothing in this fort leaves a store without him. Hang the thread on the store, and then ask who told him a second stone went against a line that was already used.",
+          "hi": "निर्गम पंजी की एक पंक्ति और उस पर दो पत्थर बाहर — यह भंडारी की बही है, भंडारी की क़लम है और भंडारी की घड़ी है, और इस क़िले में भंडार से कुछ भी उसके बिना बाहर नहीं जाता। सिरा भंडार पर टाँगो — और फिर पूछो कि उसे किसने कहा कि जो पंक्ति पहले ही बरत ली गई, उसी पर दूसरा पत्थर चढ़ा दे।"
+        }
+      },
+      {
+        "caseNumber": 3,
+        "pointsAt": "mangi",
+        "text": {
+          "en": "Six crates of debris on no lorry list of the contractor’s own, that reached no tip on this road",
+          "hi": "छह मलबा बक्से, जो ठेकेदार की अपनी किसी ट्रक सूची में नहीं हैं और इस सड़क के किसी घाट तक पहुँचे भी नहीं"
+        },
+        "short": {
+          "en": "six crates, no tip",
+          "hi": "छह बक्से, कोई घाट नहीं"
+        },
+        "pending": {
+          "en": "The Kanoi Road Dump will turn up the third thread",
+          "hi": "कनोई रोड का मलबा-घाट तीसरा सिरा निकालेगा"
+        },
+        "misread": {
+          "en": "The driver’s own racket is answered and closed, and it accounts for stone coming in and never for crates going missing. Six crates left this site and reached no tip in this district, and every crate that leaves this gate leaves on the debris contractor’s lorries under the debris contractor’s name.",
+          "hi": "ड्राइवर का अपना धंधा जवाब पा चुका है और बंद हो चुका है, और उससे भीतर आते पत्थर का हिसाब बैठता है — बाहर ग़ायब होते बक्सों का नहीं। छह बक्से इस साइट से निकले और इस ज़िले के किसी घाट तक नहीं पहुँचे — और इस गेट से जो भी बक्सा निकलता है, वह मलबा ठेकेदार के ट्रकों पर और उसी के नाम से निकलता है।"
+        }
+      },
+      {
+        "caseNumber": 4,
+        "pointsAt": "bhoja",
+        "text": {
+          "en": "A replacement jali cut to the original’s measure to a sixteenth, out of a bed this haveli was never built from",
+          "hi": "एक प्रतिस्थापन जाली, असल की नाप के सोलहवें हिस्से तक सटीक — और उस परत की, जिससे यह हवेली कभी बनी ही नहीं"
+        },
+        "short": {
+          "en": "the wrong bed, the right measure",
+          "hi": "ग़लत परत, सही नाप"
+        },
+        "pending": {
+          "en": "Cement in the Mortar holds the fourth thread",
+          "hi": "गारे में सीमेंट में चौथा सिरा है"
+        },
+        "misread": {
+          "en": "Nobody else in this district can bring a jali within a sixteenth of a two-hundred-year-old opening, out-of-square corners and all, and the chisel marks on it are his to a stroke. This is his work and his hands and his measure — put the thread on the carver, and then ask who handed him the drawing and the stone.",
+          "hi": "इस ज़िले में और कोई दो सौ साल पुराने झरोखे की नाप के सोलहवें हिस्से तक जाली नहीं ला सकता — टेढ़े कोनों समेत — और उस पर टाँकी के निशान एक-एक चोट तक उसी के हैं। यह उसका काम है, उसके हाथ हैं और उसकी नाप है — सिरा सिलावट पर रखो, और फिर पूछो कि नक़्शा और पत्थर उसके हाथ में किसने दिए।"
+        }
+      },
+      {
+        "caseNumber": 5,
+        "pointsAt": "shanti",
+        "text": {
+          "en": "A fixtures inventory where bay six was struck off in the caretaker’s hand, the only strike-off in thirty-one years",
+          "hi": "जड़ाऊ सामान की सूची, जिसमें बाय छह देखभाल करने वाली के हाथ से काटी गई — इकतीस साल की उस बही की अकेली कटी हुई प्रविष्टि"
+        },
+        "short": {
+          "en": "bay six, struck off",
+          "hi": "बाय छह, काटी हुई"
+        },
+        "pending": {
+          "en": "The Hotel Jharokha will say whose hand struck it off",
+          "hi": "होटल का झरोखा बताएगा कि काटा किसके हाथ ने"
+        },
+        "misread": {
+          "en": "That book is hers alone, she has kept it by hand for thirty-one years, and in all of it there is exactly one line struck through — the line for the one fixture that is now in a hotel lobby. The thread hangs where the initials are, and then you ask what she was shown that made her lift the pen.",
+          "hi": "वह बही अकेले उनकी है, इकतीस साल से वे उसे हाथ से रखती आई हैं, और पूरी बही में ठीक एक पंक्ति काटी गई है — उसी एक चीज़ की, जो अब एक होटल की लॉबी में है। सिरा वहीं टँगेगा जहाँ हस्ताक्षर हैं — और फिर पूछो कि उन्हें ऐसा क्या दिखाया गया कि क़लम उठ गई।"
+        }
+      },
+      {
+        "caseNumber": 6,
+        "pointsAt": "abhay",
+        "text": {
+          "en": "A progress frame with bay nine’s original jali still in the wall, three weeks after the schedule wrote it off",
+          "hi": "एक प्रगति फ़ोटो, जिसमें बाय नौ की असली जाली अब भी दीवार में है — प्रतिस्थापन सूची के उसे काटने के तीन हफ़्ते बाद"
+        },
+        "short": {
+          "en": "still in the wall",
+          "hi": "अब भी दीवार में"
+        },
+        "pending": {
+          "en": "Bay Fourteen, Twice holds the sixth thread",
+          "hi": "बाय चौदह, दो बार में छठा सिरा है"
+        },
+        "misread": {
+          "en": "The photographer moved dates for six thousand rupees a report and this is the one frame he did not move, which is why it is worth anything. It shows a sound original standing in a wall three weeks after a schedule declared it debris and eight days after a challan carried it out — and the declaring and the challan are one signature.",
+          "hi": "फ़ोटोग्राफ़र ने रिपोर्ट के छह हज़ार के लिए तारीख़ें खिसकाईं, और यह वह एक फ़ोटो है जिसे उसने नहीं खिसकाया — इसीलिए इसकी कोई क़ीमत है। इसमें एक सही-सलामत असली जाली दीवार में खड़ी है, उस सूची के उसे मलबा घोषित करने के तीन हफ़्ते बाद और उस चालान के उसे बाहर ले जाने के आठ दिन बाद — और घोषित करना और चालान, दोनों एक ही हस्ताक्षर हैं।"
+        }
+      },
+      {
+        "caseNumber": 7,
+        "pointsAt": "abhay",
+        "text": {
+          "en": "A completion certificate for nineteen replacement panels, over a store that issued twenty-three",
+          "hi": "उन्नीस प्रतिस्थापन पट्टों का पूर्णता प्रमाण-पत्र — और उस भंडार के ऊपर, जिसने तेईस दिए"
+        },
+        "short": {
+          "en": "nineteen certified, twenty-three issued",
+          "hi": "उन्नीस प्रमाणित, तेईस निर्गमित"
+        },
+        "pending": {
+          "en": "Crate Nineteen holds the last thread",
+          "hi": "उन्नीसवें बक्से में आख़िरी सिरा है"
+        },
+        "misread": {
+          "en": "A yard munshi stole one crate out of nineteen and that is answered. What is not is the arithmetic underneath it: nineteen panels certified complete, twenty-three panels issued out of the store, nineteen crates of what came out of the nineteen holes on a bill to Antwerp — and one signature at the bottom of the certificate that makes all four numbers legal.",
+          "hi": "एक यार्ड मुंशी ने उन्नीस में से एक बक्सा चुराया — उसका जवाब हो गया। जवाब न मिला उसके नीचे बैठे हिसाब का: उन्नीस पट्ट पूरे प्रमाणित, तेईस पट्ट भंडार से निर्गमित, और उन्नीस ख़ाली हुई जगहों से निकले माल के उन्नीस बक्से एंटवर्प के बिल पर — और प्रमाण-पत्र के नीचे एक हस्ताक्षर, जो इन चारों आँकड़ों को क़ानूनी बना देता है।"
+        }
+      }
+    ],
+    "suspects": [
+      {
+        "id": "abhay",
+        "name": {
+          "en": "Abhay Kothari",
+          "hi": "अभय कोठारी"
+        },
+        "role": {
+          "en": "THE HERITAGE ARCHITECT",
+          "hi": "हेरिटेज आर्किटेक्ट"
+        },
+        "dossier": {
+          "en": "the family’s own son and the trust’s own architect · writes the replacement schedule, signs the debris challans and signs the completion · the only hand on this site that decides what is beyond repair",
+          "hi": "परिवार का अपना बेटा और ट्रस्ट का अपना आर्किटेक्ट · प्रतिस्थापन सूची वही लिखता है, मलबा चालान पर दस्तख़त वही करता है और पूर्णता पर भी वही · इस साइट का अकेला हाथ, जो तय करता है कि क्या ‘मरम्मत से बाहर’ है"
+        }
+      },
+      {
+        "id": "bhoja",
+        "name": {
+          "en": "Bhoja Ram Silawat",
+          "hi": "भोजा राम सिलावट"
+        },
+        "role": {
+          "en": "THE STONE CARVER",
+          "hi": "सिलावट"
+        },
+        "dossier": {
+          "en": "fourteen years of restoration stone and not one mark on any of it · can bring a new jali inside a sixteenth of a two-hundred-year-old opening · has never once been given a drawing he did not carry out",
+          "hi": "चौदह साल की मरम्मत का पत्थर, और एक पर भी छाप नहीं · दो सौ साल पुराने झरोखे की नाप के सोलहवें हिस्से तक नई जाली ले आता है · जो नक़्शा उसे मिला, उसे उसने कभी बिना पूरा किए छोड़ा नहीं"
+        },
+        "cleared": {
+          "en": "He is the reason those replacements are perfect, and being perfect is his whole trade and his whole honour. A carver is given a bay number and a bed and a drawing, and he was given all three by somebody who never told him which of them was still sound.",
+          "hi": "वे प्रतिस्थापन इतने सटीक हैं तो उसी की वजह से, और सटीक होना ही उसका पूरा काम और पूरी इज़्ज़त है। सिलावट को एक बाय नंबर, एक परत और एक नक़्शा दिया जाता है — और तीनों उसे उसी ने दिए, जिसने कभी यह नहीं बताया कि इनमें से कौन अब भी सही-सलामत है।"
+        }
+      },
+      {
+        "id": "rewat",
+        "name": {
+          "en": "Rewat Singh Bhati",
+          "hi": "रेवत सिंह भाटी"
+        },
+        "role": {
+          "en": "THE SITE STOREKEEPER",
+          "hi": "साइट भंडारी"
+        },
+        "dossier": {
+          "en": "writes what leaves and what returns and subtracts neither · weighed the crate that was half again too heavy and entered the figure · four panels went out on verbal orders and he wrote the word verbal beside each",
+          "hi": "जो जाता है और जो लौटता है, दोनों लिखता है और घटाता किसी को नहीं · जो बक्सा डेढ़ गुना भारी था उसे तौला और आँकड़ा दर्ज किया · चार पट्ट ज़बानी आदेश पर गए और हर एक के बग़ल में उसने ‘ज़बानी’ लिख दिया"
+        },
+        "cleared": {
+          "en": "Every hole in this arc is visible because it is in his register in his own hand — the lime for a third of the metres, the seventeen-maund crate, the twenty-three panels against a certificate for nineteen. A man covering an arithmetic does not keep the arithmetic.",
+          "hi": "इस पूरे किस्से का हर छेद दिखता है, तो सिर्फ़ इसलिए कि वह उसकी पंजी में उसी के हाथ का लिखा है — एक तिहाई मीटर का चूना, सत्रह मन का बक्सा, उन्नीस के प्रमाण-पत्र पर तेईस पट्ट। हिसाब ढँकने वाला हिसाब रखता नहीं।"
+        }
+      },
+      {
+        "id": "shanti",
+        "name": {
+          "en": "Shanti Bai Paliwal",
+          "hi": "शांति बाई पालीवाल"
+        },
+        "role": {
+          "en": "THE HAVELI’S CARETAKER",
+          "hi": "हवेली की देखभाल करने वाली"
+        },
+        "dossier": {
+          "en": "thirty-one years of this house’s keys and its fixtures inventory · one strike-off in the whole book · sent for us herself, at her own cost, the morning she came back from Barmer",
+          "hi": "इस घर की चाबियों और जड़ाऊ सामान की सूची के इकतीस साल · पूरी बही में एक ही कटी प्रविष्टि · बाड़मेर से लौटने की सुबह, अपने ही ख़र्च पर, हमें बुलवाया उन्होंने ही"
+        },
+        "cleared": {
+          "en": "She struck off what a written schedule told her was gone, and then would not stop saying that bay six was neither in the wall nor in the store until somebody came and listened. The only entry she ever cancelled is the one she has been trying to get back.",
+          "hi": "जिसे लिखी हुई सूची ने ‘चला गया’ बताया, उसे उन्होंने काटा — और फिर यह कहना बंद नहीं किया कि बाय छह न दीवार में है, न भंडार में, जब तक कोई आकर सुन न गया। उन्होंने जो एक प्रविष्टि काटी है, वही वापस लाने की कोशिश में वे लगी हुई हैं।"
+        },
+        "feminine": true
+      },
+      {
+        "id": "mangi",
+        "name": {
+          "en": "Mangi Lal Suthar",
+          "hi": "मंगी लाल सुथार"
+        },
+        "role": {
+          "en": "THE DEBRIS CONTRACTOR",
+          "hi": "मलबा ठेकेदार"
+        },
+        "dossier": {
+          "en": "every crate that has left this gate went on his lorries · paid by the crate, and six of them he was never paid for · carried nineteen crates two hundred and eighty kilometres on passes that said site spoil",
+          "hi": "इस गेट से निकला हर बक्सा उसी के ट्रकों पर गया · पैसा बक्से का, और छह बक्सों का उसे मिला ही नहीं · ‘साइट मलबा’ लिखे पासों पर उन्नीस बक्से दो सौ अस्सी किलोमीटर ढोए"
+        },
+        "cleared": {
+          "en": "He is paid by the crate, so six crates he did not carry are six crates he was not paid for, and he put that gap in writing to the site twice before anybody asked. The word on a gate pass is written at a gate, and no lorry has ever been given a list of what is inside a box.",
+          "hi": "उसे बक्से का पैसा मिलता है, यानी जो छह उसने ढोए नहीं, उनका पैसा भी उसे नहीं मिला — और वह अंतर उसने किसी के पूछने से पहले दो बार लिखकर साइट को दिया। गेट पास का शब्द गेट पर लिखा जाता है, और किसी ट्रक को यह सूची कभी नहीं दी गई कि बक्से के भीतर क्या है।"
+        }
+      }
+    ]
+  }
+}

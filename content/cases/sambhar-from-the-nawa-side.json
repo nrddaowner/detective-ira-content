@@ -1,0 +1,514 @@
+{
+  "id": "sambhar-from-the-nawa-side",
+  "schema": 1,
+  "city": "sambhar",
+  "genre": "fraud",
+  "difficulty": "tricky",
+  "ambience": "TrainClatter",
+  "story": {
+    "id": "sambhar-salt-and-silence",
+    "caseNumber": 3
+  },
+  "title": {
+    "en": "From the Nawa Side",
+    "hi": "नावाँ की तरफ़ से"
+  },
+  "place": {
+    "en": "The kanta, eastern despatch yard · Shravan 18, 8:00 AM",
+    "hi": "काँटा, पूरब का डिस्पैच यार्ड · सावन 18, सुबह 8:00"
+  },
+  "brief": {
+    "en": "The works' kanta has weighed six hundred and seventeen laden lorries out of the eastern yard since Magh, and the Legal Metrology department verified and stamped it on Magh 3. Two hundred and ninety-one of those weighments were taken with the lorry standing where a lorry stands when it has come up the Nawa ramp, and all two hundred and ninety-one belong to the same two lorries. A kanta that lies to everybody is a broken kanta and gets replaced. This one has been telling the truth all season to every lorry that came in from the town side.",
+    "hi": "माघ से अब तक वर्क्स के काँटे ने पूरब के यार्ड से छह सौ सत्रह लदी लॉरियाँ तौली हैं, और माघ 3 को विधिक माप विज्ञान विभाग ने उसकी जाँच करके मुहर लगाई थी। उनमें से दो सौ इक्यानवे तौल उस जगह ली गईं जहाँ लॉरी तब खड़ी होती है जब वह नावाँ वाले रैंप से चढ़ी हो — और वे दो सौ इक्यानवे एक ही दो लॉरियों की हैं। जो काँटा सबसे झूठ बोले वह ख़राब काँटा है और बदल दिया जाता है। यह काँटा पूरे सीज़न हर उस लॉरी से सच बोलता रहा जो शहर की तरफ़ से चढ़ी।"
+  },
+  "photoCaption": {
+    "en": "the north-east corner of the platform, cell three below it",
+    "hi": "प्लेटफ़ॉर्म का उत्तर-पूर्वी कोना, नीचे सेल तीन"
+  },
+  "iraNote": {
+    "en": "“Nobody argues with a machine. That is not because a machine cannot be wrong — it is because arguing with one takes a screwdriver, and nobody has brought a screwdriver to an argument in this country since 1947.”",
+    "hi": "“मशीन से कोई बहस नहीं करता। इसलिए नहीं कि मशीन ग़लत नहीं हो सकती — बल्कि इसलिए कि उससे बहस करने के लिए पेचकस चाहिए, और इस देश में 1947 से कोई बहस में पेचकस लेकर नहीं आया।”"
+  },
+  "clues": [
+    {
+      "id": "kantabook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE KANTA BOOK, MAGH TO ASHADH",
+        "hi": "काँटा बही, माघ से आषाढ़"
+      },
+      "text": {
+        "en": "Six hundred and seventeen laden weighments, every slip written and signed by Ramniwas Saini. The approach is not a column in this book, but the platform position is, and two hundred and ninety-one slips carry the Nawa-ramp position. Every one of those two hundred and ninety-one is RJ 19 GA 4471 or RJ 19 GA 4802, both of them the property of Mahaveer Prasad Choudhary, and no other lorry in the works has used that ramp laden all season.",
+        "hi": "छह सौ सत्रह लदी हुई तौल, और हर पर्ची रामनिवास सैनी की लिखी और उसी की दस्तख़त की हुई। इस बही में रैंप का ख़ाना नहीं है, पर प्लेटफ़ॉर्म पर खड़े होने की जगह का है — और दो सौ इक्यानवे पर्चियों पर नावाँ रैंप वाली जगह दर्ज है। उन दो सौ इक्यानवे में से हर एक या तो RJ 19 GA 4471 है या RJ 19 GA 4802, और दोनों महावीर प्रसाद चौधरी की हैं। पूरे सीज़न वर्क्स की कोई और लॉरी लदी हुई उस रैंप से नहीं चढ़ी।"
+      }
+    },
+    {
+      "id": "tares",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ONE LORRY, TWO TARE WEIGHTS",
+        "hi": "एक लॉरी, दो ख़ाली वज़न"
+      },
+      "text": {
+        "en": "RJ 19 GA 4471 is tared empty twice in the same week of Phalgun. Off the town ramp on Phalgun 4 it is eight thousand five hundred and sixty kilos. Off the Nawa ramp on Phalgun 7 it is eight thousand two hundred and eighty. Same lorry, same body, same tarpaulin, both taken within an hour of the same diesel filling, and two hundred and eighty kilos apart.",
+        "hi": "फाल्गुन के एक ही हफ़्ते में RJ 19 GA 4471 का ख़ाली वज़न दो बार लिया गया। फाल्गुन 4 को शहर वाले रैंप से आठ हज़ार पाँच सौ साठ किलो। फाल्गुन 7 को नावाँ वाले रैंप से आठ हज़ार दो सौ अस्सी। वही लॉरी, वही बॉडी, वही तिरपाल, दोनों तौल उसी एक डीज़ल भराई के एक घंटे के भीतर — और आपस में दो सौ अस्सी किलो का फ़र्क़।"
+      }
+    },
+    {
+      "id": "trimpot",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "FOUR SEALS, ONE OF THEM BROKEN",
+        "hi": "चार सील, उनमें से एक टूटी"
+      },
+      "text": {
+        "en": "The junction box on the platform's north side carries one trim adjustment for each of the four load cells, and each one leaves the maker's bench under a dot of red lacquer. Three dots are whole. The dot over cell three is cracked across, there is a bright screwdriver score in the slot beneath it, and the lacquer dust is still in the thread.",
+        "hi": "प्लेटफ़ॉर्म के उत्तर वाले जंक्शन बॉक्स में चारों लोड सेल के लिए एक-एक ट्रिम पेच है, और हर पेच बनाने वाले की बेंच से लाल लाख की एक बूँद के नीचे निकलता है। तीन बूँदें साबुत हैं। सेल तीन वाली बूँद बीच से चटकी है, उसके नीचे के ख़ाँचे में पेचकस की चमकती लकीर है, और लाख का चूरा अब भी चूड़ी में पड़ा है।"
+      }
+    },
+    {
+      "id": "ramps",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "TWO WAYS ONTO ONE PLATFORM",
+        "hi": "एक प्लेटफ़ॉर्म, चढ़ने के दो रास्ते"
+      },
+      "text": {
+        "en": "The Nawa approach runs flat off the yard road. The town approach crosses the drain the works covered over in the year of the flood, and every driver crests that hump and rolls two feet further before he stops. Two feet is the whole difference between a laden rear bogie sitting over cell three and a laden rear bogie sitting between three and four, and a rear bogie is where two-thirds of a loaded lorry lives.",
+        "hi": "नावाँ वाला रास्ता यार्ड की सड़क से सीधा सपाट चढ़ता है। शहर वाला रास्ता उस नाले के ऊपर से जाता है जिसे बाढ़ वाले साल वर्क्स ने ढक दिया था, और हर ड्राइवर उस उभार से उतरकर दो फ़ुट आगे जाकर रुकता है। लदी लॉरी का पिछला बोगी सेल तीन के ऊपर बैठे या तीन और चार के बीच — फ़र्क़ बस उन्हीं दो फ़ुट का है, और लदी लॉरी का दो-तिहाई वज़न उसी पिछले बोगी पर रहता है।"
+      }
+    },
+    {
+      "id": "service",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE SERVICE CALL OF MAGH 9",
+        "hi": "माघ 9 का सर्विस कॉल"
+      },
+      "text": {
+        "en": "The agency's job card: attended Magh 9, complaint recorded as moisture ingress in the junction box, three hours eleven minutes on site, no parts consumed, no parts billed, and no charge raised on the works at all. The weighman never made that complaint and says so, and there is no complaint slip for it in the despatch office's own book.",
+        "hi": "एजेंसी का जॉब कार्ड: माघ 9 को हाज़िर, शिकायत दर्ज — जंक्शन बॉक्स में नमी, मौक़े पर तीन घंटे ग्यारह मिनट, कोई पुर्ज़ा नहीं लगा, कोई पुर्ज़ा बिल नहीं हुआ, और वर्क्स पर एक पैसा चार्ज नहीं किया गया। यह शिकायत काँटा बाबू ने कभी की ही नहीं और वह यही कहता है — और डिस्पैच दफ़्तर की अपनी बही में इसकी कोई शिकायत पर्ची है भी नहीं।"
+      }
+    },
+    {
+      "id": "stamp",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "VERIFIED AND STAMPED, MAGH 3",
+        "hi": "जाँच और मुहर, माघ 3"
+      },
+      "text": {
+        "en": "The Legal Metrology certificate: verified Magh 3, error within tolerance, seal affixed, valid to the third of the next Magh. The eccentricity check puts a third of the platform's capacity over each corner in turn, which is four tonnes, and passes it at twenty kilos. Nobody in this district reopens a stamped kanta for eleven months, and the first six days after a stamp are the only week of the year when a man can work inside one unwatched.",
+        "hi": "विधिक माप विज्ञान का प्रमाणपत्र: माघ 3 को जाँच, त्रुटि सीमा के भीतर, सील लगी, अगले माघ की तीन तारीख़ तक वैध। कोने की जाँच में प्लेटफ़ॉर्म की क्षमता का एक तिहाई बारी-बारी हर कोने पर रखा जाता है — यानी चार टन — और बीस किलो तक पास कर दिया जाता है। इस ज़िले में मुहर लगा काँटा ग्यारह महीने कोई नहीं खोलता, और मुहर के बाद के पहले छह दिन साल का इकलौता हफ़्ता हैं जब कोई उसके भीतर बिना देखे-सुने काम कर सकता है।"
+      }
+    },
+    {
+      "id": "forty",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "FORTY THOUSAND, MAGH 12",
+        "hi": "चालीस हज़ार, माघ 12"
+      },
+      "text": {
+        "en": "Forty thousand rupees paid into the mechanic's savings account at Phulera on Magh 12, in cash, over the counter. The paying-in slip is filled in a rounded clerk's hand that is not his own and not the bank's, and the account had held nothing over nine thousand rupees in four years.",
+        "hi": "माघ 12 को फुलेरा में मिस्त्री के बचत खाते में चालीस हज़ार रुपये नक़द, खिड़की पर जमा। जमा पर्ची एक गोल-गोल बाबूनुमा लिखाई में भरी है, जो न उसकी है और न बैंक की — और चार साल में उस खाते में कभी नौ हज़ार से ऊपर कुछ नहीं रहा।"
+      }
+    },
+    {
+      "id": "diesel",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE DRIVERS SIPHON DIESEL",
+        "hi": "ड्राइवर डीज़ल निकालते हैं"
+      },
+      "text": {
+        "en": "Everybody on this yard knows the drivers sell diesel out of the tank at Nawa, which is offered as the reason no lorry ever tares the same twice.",
+        "hi": "इस यार्ड में सब जानते हैं कि ड्राइवर नावाँ में टंकी से डीज़ल बेचते हैं, और यही वजह बताई जाती है कि किसी लॉरी का ख़ाली वज़न दो बार एक जैसा नहीं आता।"
+      },
+      "dismissNote": {
+        "en": "ruled out — full to dry, this lorry's tank is two hundred and ten litres, which is a hundred and seventy-five kilos, and both tares were taken within an hour of the same filling",
+        "hi": "ख़ारिज — भरी से सूखी तक इस लॉरी की टंकी दो सौ दस लीटर की है, यानी एक सौ पचहत्तर किलो — और दोनों ख़ाली तौल उसी एक भराई के एक घंटे के भीतर ली गई थीं"
+      }
+    },
+    {
+      "id": "tarpaulin",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WET TARPAULINS IN ASHADH",
+        "hi": "आषाढ़ में भीगे तिरपाल"
+      },
+      "text": {
+        "en": "The despatch office says the season's weights wander because a tarpaulin takes up water in the rains and nobody dries one before a weighment.",
+        "hi": "डिस्पैच दफ़्तर कहता है कि सीज़न के वज़न इसलिए इधर-उधर होते हैं कि बारिश में तिरपाल पानी सोख लेता है, और तौल से पहले उसे कोई सुखाता नहीं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the discrepancy runs from Magh, five months before a drop of rain fell on this lake, and a wet tarpaulin makes a lorry heavier",
+        "hi": "ख़ारिज — फ़र्क़ माघ से चल रहा है, यानी इस झील पर बारिश की एक बूँद गिरने से पाँच महीने पहले से — और भीगा तिरपाल लॉरी को भारी करता है, हल्का नहीं"
+      }
+    },
+    {
+      "id": "driver",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHY HE COMES ROUND BY NAWA",
+        "hi": "वह नावाँ के रास्ते क्यों आता है"
+      },
+      "text": {
+        "en": "Ishaq Khan says he takes the long way round because his brother keeps the tea stall at the Nawa gate and he gets a glass free.",
+        "hi": "इसहाक़ ख़ान कहता है कि वह लंबा रास्ता इसलिए लेता है कि नावाँ गेट की चाय की थड़ी उसके भाई की है और वहाँ एक गिलास मुफ़्त मिल जाता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the same driver brought the works' own lorry across this platform eleven times in Phalgun and came the short way every one of them, and his brother's stall was where it is now",
+        "hi": "ख़ारिज — वही ड्राइवर फाल्गुन में वर्क्स की अपनी लॉरी ग्यारह बार इसी प्लेटफ़ॉर्म से लाया और हर बार छोटा रास्ता लिया, जबकि उसके भाई की थड़ी वहीं थी जहाँ आज है"
+      }
+    },
+    {
+      "id": "corrosion",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "THE DECK IS EATEN BY SALT",
+        "hi": "डेक को नमक खा गया है"
+      },
+      "text": {
+        "en": "The platform's deck plates are pitted through in two places and the works has been writing for a new kanta for three years.",
+        "hi": "प्लेटफ़ॉर्म की डेक प्लेटें दो जगह से गल कर छिद गई हैं, और वर्क्स तीन साल से नए काँटे के लिए लिख रहा है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a deck that loses metal loses it from its own dead weight, which is zeroed out at every tare, and it would do so for both ramps and every lorry equally",
+        "hi": "ख़ारिज — जो डेक धातु खोता है वह अपना ही मृत भार खोता है, जो हर ख़ाली तौल पर शून्य कर दिया जाता है — और वह दोनों रैंप और हर लॉरी पर एक बराबर होता"
+      }
+    },
+    {
+      "id": "shortage",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE YARD IS ALWAYS SHORT",
+        "hi": "यार्ड हमेशा कम पड़ता है"
+      },
+      "text": {
+        "en": "The despatch yard has closed short against its own inbound figure in every one of the last six seasons, which the works treats as normal.",
+        "hi": "पिछले छहों सीज़न में डिस्पैच यार्ड अपने ही आवक आँकड़े के मुक़ाबले कम पर बंद हुआ है, और वर्क्स इसे सामान्य मानकर चलता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out for this case — it is true, it is six years old, and it is a great deal bigger than one screwdriver; it belongs to whatever is done with the closing stock, not to what happens on this platform",
+        "hi": "इस केस के लिए ख़ारिज — बात सच है, छह साल पुरानी है, और एक पेचकस से कहीं बड़ी है; इसका ताल्लुक़ इस प्लेटफ़ॉर्म से नहीं, बल्कि उससे है जो साल के आख़िरी स्टॉक के साथ किया जाता है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidbox",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE GATE LOG",
+        "hi": "बयान · गेट लॉग"
+      },
+      "text": {
+        "en": "“Magh 9. In at nine-forty, out at twelve fifty-one, one man, one tool bag, purpose written by him in his own hand as junction box, moisture. He was alone under that platform the whole time, because the weighman was on his week's rest and the yard does not despatch on a Monday. Nobody has ever asked me for that page.”",
+        "hi": "“माघ 9। नौ चालीस पर भीतर, बारह इक्यावन पर बाहर — एक आदमी, एक औज़ार का थैला, और प्रयोजन उसी की लिखाई में — जंक्शन बॉक्स, नमी। पूरे वक़्त वह उस प्लेटफ़ॉर्म के नीचे अकेला था, क्योंकि काँटा बाबू अपने हफ़्ते की छुट्टी पर था और सोमवार को यार्ड से डिस्पैच होता ही नहीं। वह पन्ना मुझसे आज तक किसी ने नहीं माँगा।”"
+      }
+    },
+    {
+      "id": "saidramp",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE WEIGHMAN",
+        "hi": "बयान · काँटा बाबू"
+      },
+      "text": {
+        "en": "“Fifteen hundred a month to say four words to two drivers. Come round by Nawa. I have said it three hundred times and I have never once known why, and I have never once asked, because a man who asks that question is a man who has decided to be poor.”",
+        "hi": "“दो ड्राइवरों से चार शब्द कहने के पंद्रह सौ महीना। नावाँ के रास्ते आना। यह मैंने तीन सौ बार कहा है और एक बार भी नहीं जाना कि क्यों — और एक बार भी पूछा नहीं, क्योंकि जो आदमी यह सवाल पूछ लेता है, वह तय कर चुका होता है कि उसे ग़रीब रहना है।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "jeevan",
+      "name": {
+        "en": "Jeevan Lal Verma",
+        "hi": "जीवन लाल वर्मा"
+      },
+      "role": {
+        "en": "THE WEIGHBRIDGE MECHANIC",
+        "hi": "काँटे का मिस्त्री"
+      },
+      "hook": {
+        "en": "three hours alone inside the box",
+        "hi": "बॉक्स के भीतर तीन घंटे अकेला"
+      },
+      "confession": {
+        "en": "Took forty thousand rupees to answer a service call nobody made, six days after the department's seal went on, and turned the trim on cell three down by a hair — which is a quarter of an hour's work and cannot be seen from above the deck. Says he did not steal a gram of salt in his life and that all he did was move a screw. He also knew exactly what the screw was worth, because he asked for forty thousand and got it without an argument.",
+        "hi": "चालीस हज़ार लेकर उस सर्विस कॉल पर आया जो किसी ने की ही नहीं थी — विभाग की सील लगने के छह दिन बाद — और सेल तीन का ट्रिम बाल भर नीचे कर दिया, जो पंद्रह मिनट का काम है और डेक के ऊपर से दिखता नहीं। कहता है कि उसने ज़िंदगी में नमक का एक कण नहीं चुराया, बस एक पेच घुमाया है। यह भी सच है कि उस पेच की क़ीमत उसे ठीक-ठीक मालूम थी — उसने चालीस हज़ार माँगे और बिना बहस के मिल गए।"
+      }
+    },
+    {
+      "id": "ramniwas",
+      "name": {
+        "en": "Ramniwas Saini",
+        "hi": "रामनिवास सैनी"
+      },
+      "role": {
+        "en": "THE WEIGHMAN",
+        "hi": "काँटा बाबू"
+      },
+      "hook": {
+        "en": "every one of the slips is in his hand",
+        "hi": "हर पर्ची उसी की लिखाई में है"
+      },
+      "alibi": {
+        "en": "He was on his week's rest on Magh 9 and the gate log has him nowhere near the yard. He cannot open a sealed junction box, has never held a screwdriver on this platform in eleven years, and every slip he wrote is an honest record of what the machine under him said. What he took fifteen hundred a month for was a sentence, not a number.",
+        "hi": "माघ 9 को वह अपने हफ़्ते की छुट्टी पर था और गेट लॉग उसे यार्ड के आसपास कहीं नहीं दिखाता। सीलबंद जंक्शन बॉक्स वह खोल नहीं सकता, ग्यारह साल में इस प्लेटफ़ॉर्म पर उसने पेचकस नहीं पकड़ा, और उसकी लिखी हर पर्ची इस बात का ईमानदार रिकॉर्ड है कि नीचे की मशीन ने क्या कहा। पंद्रह सौ महीना उसने एक वाक्य के लिए लिए थे, किसी अंक के लिए नहीं।"
+      }
+    },
+    {
+      "id": "bhoop",
+      "name": {
+        "en": "Bhoop Singh Shekhawat",
+        "hi": "भूप सिंह शेखावत"
+      },
+      "role": {
+        "en": "THE SECURITY SUPERVISOR",
+        "hi": "सुरक्षा पर्यवेक्षक"
+      },
+      "hook": {
+        "en": "the yard's gate log is his",
+        "hi": "यार्ड का गेट लॉग उसी का है"
+      },
+      "alibi": {
+        "en": "He logged the mechanic in and out to the minute and kept the page, which is the single piece of paper in this works that fixes a man under that platform on that day. A man arranging a tamper does not write down the tamperer's arrival time, his tool bag and his stated purpose in a bound register with numbered pages.",
+        "hi": "मिस्त्री के आने और जाने का मिनट-मिनट उसने लिखा और वह पन्ना सँभालकर रखा — इस पूरे वर्क्स में यही इकलौता काग़ज़ है जो उस दिन उस आदमी को उस प्लेटफ़ॉर्म के नीचे बैठा देता है। जो आदमी छेड़छाड़ करवा रहा हो, वह छेड़छाड़ करने वाले का आगमन समय, औज़ार का थैला और बताया हुआ प्रयोजन क्रमांकित पन्नों वाले बँधे रजिस्टर में नहीं लिखता।"
+      }
+    },
+    {
+      "id": "ishaq",
+      "name": {
+        "en": "Ishaq Khan",
+        "hi": "इसहाक़ ख़ान"
+      },
+      "role": {
+        "en": "THE LORRY DRIVER",
+        "hi": "लॉरी ड्राइवर"
+      },
+      "hook": {
+        "en": "took the Nawa ramp two hundred times",
+        "hi": "दो सौ बार नावाँ रैंप से चढ़ा"
+      },
+      "alibi": {
+        "en": "He stops where he is told to stop and is paid by the trip, not by the tonne, so a light load and a heavy one are the same day's money to him. On the works' own lorry in Phalgun he came the short way eleven times out of eleven, because nobody at the kanta had told him otherwise.",
+        "hi": "जहाँ रोकने को कहा जाता है वहीं रोकता है, और पैसा उसे फेरे का मिलता है, टन का नहीं — तो हल्का लदान हो या भारी, दिन की कमाई उसके लिए एक ही है। फाल्गुन में वर्क्स की अपनी लॉरी लेकर वह ग्यारह में से ग्यारह बार छोटे रास्ते से आया, क्योंकि काँटे पर किसी ने उससे कुछ और नहीं कहा था।"
+      }
+    },
+    {
+      "id": "mahaveer",
+      "name": {
+        "en": "Mahaveer Prasad Choudhary",
+        "hi": "महावीर प्रसाद चौधरी"
+      },
+      "role": {
+        "en": "THE LABOUR CONTRACTOR",
+        "hi": "श्रम ठेकेदार"
+      },
+      "hook": {
+        "en": "both lorries on that ramp are his",
+        "hi": "उस रैंप की दोनों लॉरियाँ उसी की हैं"
+      },
+      "alibi": {
+        "en": "He was in Kuchaman on Magh 9 and has not set foot inside the despatch yard in two seasons; the gate log says so and it is the same log that convicts the mechanic. His lorries carry salt he has already bought on a purchase order at a rate fixed in Kartik, and he says a rate fixed in Kartik cannot be improved by a screwdriver in Magh.",
+        "hi": "माघ 9 को वह कुचामन में था और दो सीज़न से डिस्पैच यार्ड के भीतर उसने पैर नहीं रखा — यह वही गेट लॉग कहता है, जो मिस्त्री को फँसाता है। उसकी लॉरियाँ वह नमक ढोती हैं जो वह कार्तिक में तय दर पर ख़रीद चुका है, और उसका कहना है कि कार्तिक में तय हुई दर माघ के पेचकस से बेहतर नहीं हो सकती।"
+      }
+    }
+  ],
+  "culpritId": "jeevan",
+  "interrogations": [
+    {
+      "suspectId": "ramniwas",
+      "setting": {
+        "en": "The kanta cabin at eight in the morning, the season's slip books in a wire rack and the platform's north-east corner framed in the window.",
+        "hi": "सुबह आठ बजे काँटा केबिन, तार की रैक में सीज़न की पर्ची-बहियाँ, और खिड़की में ठीक सामने प्लेटफ़ॉर्म का उत्तर-पूर्वी कोना।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Six hundred and seventeen loads, and you wrote every slip.",
+            "hi": "छह सौ सत्रह लदान, और हर पर्ची आपने लिखी।"
+          },
+          "answer": {
+            "en": "“I write what the display says. That is the whole of my work and it has been the whole of my work for eleven years. If you want a number I invented, you will be looking a long time.”",
+            "hi": "“डिस्प्ले पर जो आता है, वही लिखता हूँ। मेरा काम बस इतना ही है और ग्यारह साल से इतना ही है। कोई अंक ढूँढ़ रहे हैं जो मैंने गढ़ा हो, तो बहुत देर ढूँढ़ना पड़ेगा।”"
+          },
+          "note": {
+            "en": "That is true, and it is the reason a tampered kanta is worth so much: it makes an honest man's handwriting into the fraud's own signature.",
+            "hi": "यह सच है, और छेड़ा हुआ काँटा इतना क़ीमती इसीलिए है: वह एक ईमानदार आदमी की लिखाई को ही उस धोखे के दस्तख़त बना देता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "One lorry has two tare weights two hundred and eighty kilos apart.",
+            "hi": "एक ही लॉरी के दो ख़ाली वज़न हैं, आपस में दो सौ अस्सी किलो के फ़र्क़ पर।"
+          },
+          "answer": {
+            "en": "“Then one of them is wrong and I wrote both of them down. I have wanted this platform replaced for three years and there is a file in the despatch office with my name on it saying so. Nobody replaces a kanta with a fresh stamp on it.”",
+            "hi": "“तो उनमें से एक ग़लत है, और दोनों मैंने ही लिखे हैं। तीन साल से मैं यह प्लेटफ़ॉर्म बदलवाना चाहता हूँ और डिस्पैच दफ़्तर में मेरे नाम की फ़ाइल इसकी गवाह है। जिस काँटे पर ताज़ा मुहर लगी हो, उसे कोई नहीं बदलता।”"
+          },
+          "needsClueId": "tares",
+          "lockedHint": {
+            "en": "Find the two tares first. He has been complaining about this platform for three years and will go on complaining until somebody puts a number in front of him.",
+            "hi": "पहले वे दोनों ख़ाली वज़न ढूँढ़िए। तीन साल से वह इस प्लेटफ़ॉर्म की शिकायत कर रहा है और तब तक करता रहेगा जब तक कोई उसके सामने एक अंक न रख दे।"
+          },
+          "note": {
+            "en": "He has been asking for this kanta to be looked at for three years. Somebody heard him and made sure it was looked at by the right man.",
+            "hi": "तीन साल से वह कह रहा है कि इस काँटे को देखा जाए। किसी ने उसकी सुन ली और यह पक्का कर दिया कि देखने वाला ठीक आदमी हो।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Two hundred and ninety-one loads, and every one of them came round by Nawa.",
+            "hi": "दो सौ इक्यानवे लदान, और हर एक नावाँ के रास्ते आया।"
+          },
+          "answer": {
+            "en": "“Fifteen hundred a month to say four words to two drivers. Come round by Nawa. I have said it three hundred times and I have never once known why, and I have never once asked, because a man who asks that question is a man who has decided to be poor.”",
+            "hi": "“दो ड्राइवरों से चार शब्द कहने के पंद्रह सौ महीना। नावाँ के रास्ते आना। यह मैंने तीन सौ बार कहा है और एक बार भी नहीं जाना कि क्यों — और एक बार भी पूछा नहीं, क्योंकि जो आदमी यह सवाल पूछ लेता है, वह तय कर चुका होता है कि उसे ग़रीब रहना है।”"
+          },
+          "needsClueId": "kantabook",
+          "lockedHint": {
+            "en": "Count the Nawa-ramp slips before you ask him. He can carry one lorry's habit; he cannot carry two hundred and ninety-one of them.",
+            "hi": "पूछने से पहले नावाँ रैंप की पर्चियाँ गिन लीजिए। एक लॉरी की आदत वह ढो लेगा — दो सौ इक्यानवे नहीं ढो सकता।"
+          },
+          "unlocksClueId": "saidramp",
+          "note": {
+            "en": "Fifteen hundred a month is what it costs to buy a sentence. It is not what it costs to buy a machine.",
+            "hi": "पंद्रह सौ महीना एक वाक्य ख़रीदने का दाम है। मशीन ख़रीदने का दाम यह नहीं होता।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "bhoop",
+      "setting": {
+        "en": "The gate office, four years of bound registers on a shelf and one of them already out on the desk with a finger in it.",
+        "hi": "गेट का दफ़्तर, ताक़ पर चार साल के बँधे रजिस्टर, और उनमें से एक पहले से मेज़ पर खुला — बीच में उँगली फँसाए।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Somebody worked under that platform in Magh.",
+            "hi": "माघ में कोई उस प्लेटफ़ॉर्म के नीचे काम कर रहा था।"
+          },
+          "answer": {
+            "en": "“Magh 9. In at nine-forty, out at twelve fifty-one, one man, one tool bag, purpose written by him in his own hand as junction box, moisture. He was alone under that platform the whole time, because the weighman was on his week's rest and the yard does not despatch on a Monday. Nobody has ever asked me for that page.”",
+            "hi": "“माघ 9। नौ चालीस पर भीतर, बारह इक्यावन पर बाहर — एक आदमी, एक औज़ार का थैला, और प्रयोजन उसी की लिखाई में — जंक्शन बॉक्स, नमी। पूरे वक़्त वह उस प्लेटफ़ॉर्म के नीचे अकेला था, क्योंकि काँटा बाबू अपने हफ़्ते की छुट्टी पर था और सोमवार को यार्ड से डिस्पैच होता ही नहीं। वह पन्ना मुझसे आज तक किसी ने नहीं माँगा।”"
+          },
+          "needsClueId": "service",
+          "lockedHint": {
+            "en": "Get the agency's job card first. He will not open a register for a day nobody has named to him.",
+            "hi": "पहले एजेंसी का जॉब कार्ड लीजिए। जिस दिन का नाम उसके सामने न रखा गया हो, उस दिन के लिए वह रजिस्टर नहीं खोलेगा।"
+          },
+          "unlocksClueId": "saidbox",
+          "note": {
+            "en": "Six days after the seal, on the one weekday the yard is empty, for a fault nobody had reported. Somebody read the verification calendar before choosing the date.",
+            "hi": "सील लगने के छह दिन बाद, हफ़्ते के उसी इकलौते दिन जब यार्ड ख़ाली रहता है, और उस ख़राबी के लिए जिसकी शिकायत किसी ने की ही नहीं। तारीख़ चुनने से पहले किसी ने जाँच का कैलेंडर देखा है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "jeevan",
+      "setting": {
+        "en": "The agency's shed at Phulera, a bench of load cells and indicator heads and a passbook in the drawer under the till.",
+        "hi": "फुलेरा में एजेंसी का शेड, बेंच पर लोड सेल और इंडिकेटर हेड, और गल्ले के नीचे वाली दराज़ में एक पासबुक।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "The lacquer over cell three is broken.",
+            "hi": "सेल तीन के ऊपर की लाख टूटी हुई है।"
+          },
+          "answer": {
+            "en": "“Lacquer cracks. It is on a platform in a salt yard, sahib — the air out there eats galvanising off a roof in two years. You will find that dot cracked on every kanta between here and Makrana.”",
+            "hi": "“लाख चटकती है। वह नमक के यार्ड के प्लेटफ़ॉर्म पर लगी है, साहब — वहाँ की हवा दो साल में छत की जस्तेदारी खा जाती है। यहाँ से मकराना तक हर काँटे पर वह बूँद चटकी मिलेगी।”"
+          },
+          "needsClueId": "trimpot",
+          "lockedHint": {
+            "en": "Photograph the junction box before you sit down with him. Lacquer dust in a thread is an hour old to a man who knows lacquer.",
+            "hi": "उसके सामने बैठने से पहले जंक्शन बॉक्स की तस्वीर ले लीजिए। जो आदमी लाख को जानता है, उसके लिए चूड़ी में पड़ा लाख का चूरा घंटे भर पुराना होता है।"
+          },
+          "note": {
+            "en": "Cracked lacquer is weather. A bright score in the slot underneath it is a screwdriver, and the dust from the crack is still sitting in the thread.",
+            "hi": "चटकी लाख मौसम है। उसके नीचे के ख़ाँचे में चमकती लकीर पेचकस है — और चटकने से बना चूरा अब भी चूड़ी में पड़ा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Three hours, no parts, no bill.",
+            "hi": "तीन घंटे, कोई पुर्ज़ा नहीं, कोई बिल नहीं।"
+          },
+          "answer": {
+            "en": "“Goodwill. We keep four kantas in this district and if I bill three hours for opening a box I lose the contract to the Ajmer people, who will do it for nothing and do it badly. Ask anyone in the trade.”",
+            "hi": "“सद्भाव है। इस ज़िले में हमारे चार काँटे हैं, और अगर मैं बॉक्स खोलने के तीन घंटे बिल कर दूँ तो ठेका अजमेर वालों को चला जाएगा — जो मुफ़्त में करेंगे और ख़राब करेंगे। किसी से भी पूछ लीजिए, यही चलन है।”"
+          },
+          "needsClueId": "forty",
+          "lockedHint": {
+            "en": "Get the passbook before you ask about the bill. Goodwill is a very good answer until somebody has seen what was paid for it.",
+            "hi": "बिल के बारे में पूछने से पहले पासबुक ले लीजिए। सद्भाव तब तक बहुत अच्छा जवाब है, जब तक किसी ने यह न देख लिया हो कि उसका दाम कितना मिला।"
+          },
+          "note": {
+            "en": "Forty thousand on Magh 12, three days after the goodwill, in a hand that fills paying-in slips all day for somebody else.",
+            "hi": "माघ 12 को चालीस हज़ार — सद्भाव के तीन दिन बाद, और उस लिखाई में जो दिन भर किसी और के लिए जमा पर्चियाँ भरती है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "forty",
+      "correction": {
+        "en": "The weighman took fifteen hundred a month, the driver is paid by the trip and the gate keeper wrote the page that catches everybody. One man was paid forty thousand rupees in cash, three days after a three-hour visit he did not bill, into an account that had never held nine.",
+        "hi": "काँटा बाबू ने पंद्रह सौ महीना लिए, ड्राइवर को फेरे का पैसा मिलता है, और गेट वाले ने वह पन्ना लिखा जो सबको पकड़ता है। एक ही आदमी को चालीस हज़ार रुपये नक़द मिले — उस तीन घंटे की हाज़िरी के तीन दिन बाद जिसका उसने बिल नहीं बनाया, और उस खाते में, जिसमें कभी नौ हज़ार नहीं रहे।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidbox",
+      "correction": {
+        "en": "Six days after the department's seal, on the one weekday the yard does not despatch, with the weighman on his week's rest: three hours and eleven minutes alone under a platform nobody will lawfully open again for eleven months. The date was not luck. Somebody read the verification calendar and then made a service call for a fault that had never been reported.",
+        "hi": "विभाग की सील लगने के छह दिन बाद, हफ़्ते के उस इकलौते दिन जब यार्ड से डिस्पैच नहीं होता, और काँटा बाबू अपने हफ़्ते की छुट्टी पर: उस प्लेटफ़ॉर्म के नीचे तीन घंटे ग्यारह मिनट अकेला, जिसे क़ायदे से अगले ग्यारह महीने कोई नहीं खोलेगा। तारीख़ इत्तिफ़ाक़ नहीं थी। किसी ने जाँच का कैलेंडर पढ़ा और फिर उस ख़राबी के लिए सर्विस कॉल कराई जिसकी शिकायत कभी हुई ही नहीं।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "stamp",
+      "correction": {
+        "en": "Nothing had to be hidden, because a stamped kanta is a witness nobody cross-examines. The eccentricity check puts four tonnes over a corner and lets twenty kilos go; a laden rear bogie puts eighteen. The seal that was meant to make this platform honest is the only reason it could go on lying for five months in one direction to two lorries.",
+        "hi": "कुछ छिपाना नहीं था, क्योंकि मुहर लगा काँटा वह गवाह है जिससे कोई जिरह नहीं करता। कोने की जाँच में कोने पर चार टन रखे जाते हैं और बीस किलो की छूट मिल जाती है; लदी लॉरी का पिछला बोगी वहाँ अठारह टन रखता है। जो सील इस प्लेटफ़ॉर्म को ईमानदार बनाने के लिए लगी थी, वही इकलौती वजह है कि यह पाँच महीने, एक ही तरफ़, दो लॉरियों से झूठ बोल सका।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "kantabook",
+    "toClueId": "tares",
+    "text": {
+      "en": "A loaded lorry can be argued about all day. An empty one cannot: it weighs what it weighs, and this book gives the same empty lorry two answers.",
+      "hi": "लदी लॉरी पर दिन भर बहस हो सकती है। ख़ाली लॉरी पर नहीं — उसका वज़न जो है सो है, और यह बही उसी एक ख़ाली लॉरी के दो जवाब देती है।"
+    }
+  },
+  "bankedClue": {
+    "en": "Two hundred and ninety-one weighment slips in the weighman's own book, every one of them light, every one a lorry that came in from Nawa",
+    "hi": "काँटा बाबू की अपनी बही में दो सौ इक्यानवे तौल पर्चियाँ — हर एक कम की, और हर एक उस लॉरी की जो नावाँ की तरफ़ से चढ़ी"
+  }
+}

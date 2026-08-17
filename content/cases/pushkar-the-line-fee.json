@@ -1,0 +1,418 @@
+{
+  "id": "pushkar-the-line-fee",
+  "schema": 1,
+  "city": "pushkar",
+  "genre": "impersonation",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "pushkar-camel-fair-books",
+    "caseNumber": 3
+  },
+  "title": {
+    "en": "The Line Fee",
+    "hi": "लाइन की उगाही"
+  },
+  "place": {
+    "en": "The east tethering rows · Friday, 9:20 AM",
+    "hi": "पूरब की खूँटा क़तारें · शुक्रवार, 9:20 AM"
+  },
+  "brief": {
+    "en": "Since the fair opened a man in a mela-committee armband has walked the east lines taking two hundred rupees a string and writing a receipt for every one. The receipts are committee receipts, off a committee book, in committee serials. The committee closed that book in Chaitra and has been asking after it ever since. Forty-one strings have now paid twice, and the ground book says all forty-one are clear.",
+    "hi": "मेला खुलने के दिन से मेला समिति का बाज़ूबंद पहने एक आदमी पूरब की क़तारों में घूमकर हर डोर से दो सौ रुपए ले रहा है और हर एक की रसीद भी काट रहा है। रसीदें समिति की हैं, समिति की ही बही की हैं, और समिति के ही सिलसिले के नंबरों की हैं। उस बही को समिति ने चैत में बंद कर दिया था और तब से उसे ढूँढ़ रही है। अब तक इकतालीस डोरें दो बार पैसा दे चुकी हैं, और ज़मीन बही कहती है कि इकतालीसों का हिसाब साफ़ है।"
+  },
+  "photoCaption": {
+    "en": "the east lines, collection hour",
+    "hi": "पूरब की क़तारें, उगाही का वक़्त"
+  },
+  "iraNote": {
+    "en": "“Nobody on a tethering row reads a face. They read an armband, and then they read the book, and the book was real.”",
+    "hi": "“खूँटा क़तार पर कोई चेहरा नहीं पढ़ता। लोग बाज़ूबंद पढ़ते हैं, फिर बही पढ़ते हैं — और बही असली थी।”"
+  },
+  "clues": [
+    {
+      "id": "serials",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "RECEIPT BOOK 14 · SERIALS",
+        "hi": "रसीद बही 14 · सिलसिला"
+      },
+      "text": {
+        "en": "Serials 1351 to 1400, issued to last year’s line-writer in Kartik and struck off the committee’s stock in Chaitra. The book was never handed back, and every receipt on the east lines this week falls inside that range.",
+        "hi": "सिलसिला 1351 से 1400 तक, पिछले कार्तिक में पिछले साल के लाइन-मुंशी को दी गई और चैत में समिति के स्टॉक से काट दी गई। बही कभी लौटाई नहीं गई, और इस हफ़्ते पूरब की क़तारों की हर रसीद उसी सिलसिले के भीतर की है।"
+      }
+    },
+    {
+      "id": "armband",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE ARMBAND",
+        "hi": "बाज़ूबंद"
+      },
+      "text": {
+        "en": "Saffron cloth with a stitched committee seal. This year’s bands are green and were issued on the first day — and not one breeder on the east lines noticed, because a breeder looks at the book in a man’s hand, not at his sleeve.",
+        "hi": "केसरिया कपड़ा, उस पर सिला हुआ समिति का ठप्पा। इस साल के बाज़ूबंद हरे हैं और पहले ही दिन बाँटे गए थे — और पूरब की क़तारों में एक भी पालक ने यह नहीं देखा, क्योंकि पालक आदमी के हाथ की बही देखता है, उसकी आस्तीन नहीं।"
+      }
+    },
+    {
+      "id": "handwriting",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE HAND ON THE RECEIPTS",
+        "hi": "रसीदों पर का हाथ"
+      },
+      "text": {
+        "en": "Forty-one receipts in one hand, and the same hand fills pages forty to ninety-six of last year’s ground book, which the committee still holds. Nothing here is traced or copied — it is simply the same man writing.",
+        "hi": "इकतालीस रसीदें एक ही हाथ की, और वही हाथ पिछले साल की ज़मीन बही के पन्ना चालीस से छियानबे तक भरता है — वह बही आज भी समिति के पास है। यहाँ कुछ नक़ल या हूबहू उतारा नहीं गया — यह बस वही आदमी लिख रहा है।"
+      }
+    },
+    {
+      "id": "groundbook",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE GROUND BOOK, MARKED CLEAR",
+        "hi": "ज़मीन बही, हिसाब साफ़"
+      },
+      "text": {
+        "en": "Forty-one strings marked paid against serials from a book the committee closed in Chaitra, every mark made between four and six in the evening in the gate writer’s hand. He wrote what forty-one breeders held out to him, and what they held out was genuine.",
+        "hi": "उस बही के नंबरों पर इकतालीस डोरें ‘चुकता’ लिखी गईं जिसे समिति चैत में बंद कर चुकी थी, और हर निशान शाम चार से छह के बीच गेट मुंशी के हाथ का है। इकतालीस पालकों ने उसके सामने जो बढ़ाया उसने वही लिखा — और जो बढ़ाया गया वह असली था।"
+      }
+    },
+    {
+      "id": "sacked",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE COMMITTEE’S ORDER, CHAITRA",
+        "hi": "समिति का आदेश, चैत"
+      },
+      "text": {
+        "en": "Put off the roll over a shortfall of nine thousand four hundred rupees in the ground collection, with no recovery ordered and no case filed. He was told to go and told nothing else, and his name is still painted on the line-writer’s board at the east gate.",
+        "hi": "ज़मीन की वसूली में नौ हज़ार चार सौ रुपए कम पड़ने पर रोल से हटाया गया — न वसूली का आदेश, न कोई मुक़दमा। उससे बस जाने को कहा गया और कुछ नहीं कहा गया, और पूरब गेट पर लाइन-मुंशी के बोर्ड पर उसका नाम आज भी पुता हुआ है।"
+      }
+    },
+    {
+      "id": "cash",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHERE IT WENT",
+        "hi": "पैसा गया कहाँ"
+      },
+      "text": {
+        "en": "Eight thousand two hundred paid into a Kishangarh finance company on Thursday against an overdue motorcycle loan, receipt in his own name and his own thumb. The instalments had been running four months behind since Shravan.",
+        "hi": "गुरुवार को किशनगढ़ की एक फ़ाइनेंस कंपनी में मोटरसाइकिल के बकाया क़र्ज़ पर आठ हज़ार दो सौ जमा — रसीद उसके अपने नाम और अपने अंगूठे की। श्रावण से क़िस्तें चार महीने पीछे चल रही थीं।"
+      }
+    },
+    {
+      "id": "cashier",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE COUNTER’S OWN TAKINGS",
+        "hi": "काउंटर की अपनी वसूली"
+      },
+      "text": {
+        "en": "Bhanwar Lal took one lakh sixty thousand in ground fees at the mela counter this week.",
+        "hi": "भँवर लाल ने इस हफ़्ते मेला काउंटर पर ज़मीन शुल्क के एक लाख साठ हज़ार वसूले।"
+      },
+      "dismissNote": {
+        "en": "ruled out — his serials are book twenty-two, his money is in the bank the same evening against a challan, and every string he receipted paid once",
+        "hi": "ख़ारिज — उसका सिलसिला बही बाईस का है, पैसा उसी शाम चालान पर बैंक में जाता है, और जिस डोर की उसने रसीद काटी वह एक ही बार चुकाई गई"
+      }
+    },
+    {
+      "id": "peon",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "ANOTHER ARMBAND ON THE LINES",
+        "hi": "क़तारों पर एक और बाज़ूबंद"
+      },
+      "text": {
+        "en": "Ummed Singh, the mela peon, walks the same rows twice a day in a committee armband.",
+        "hi": "मेला चपरासी उम्मेद सिंह उन्हीं क़तारों में दिन में दो बार समिति का बाज़ूबंद पहने घूमता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he cannot write and every one of these receipts is written; he carries water and messages, and he has never held a book",
+        "hi": "ख़ारिज — उसे लिखना नहीं आता और इनमें से हर रसीद लिखी हुई है; वह पानी और संदेश पहुँचाता है, बही उसके हाथ में कभी नहीं रही"
+      }
+    },
+    {
+      "id": "double",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "A STRING THAT PAID TWICE",
+        "hi": "दो बार चुकाने वाली डोर"
+      },
+      "text": {
+        "en": "Row twenty-two paid two hundred on the line on Tuesday and two hundred at the counter on Thursday, and has both receipts.",
+        "hi": "बाईसवीं क़तार ने मंगलवार को क़तार पर दो सौ दिए और गुरुवार को काउंटर पर दो सौ, और दोनों रसीदें उसके पास हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — paying twice is what being cheated looks like from the inside, and he is the one who walked to the office to complain about it",
+        "hi": "ख़ारिज — दो बार चुकाना ठगे जाने का ही चेहरा है, और दफ़्तर तक शिकायत लेकर वही गया था"
+      }
+    },
+    {
+      "id": "oldbook",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "LAST KARTIK’S ENTRY",
+        "hi": "पिछले कार्तिक की प्रविष्टि"
+      },
+      "text": {
+        "en": "A ground book entry from last Kartik carries a serial inside the same range, 1362.",
+        "hi": "पिछले कार्तिक की ज़मीन बही की एक प्रविष्टि पर उसी सिलसिले का नंबर है — 1362।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the book was current last Kartik and the entry is an honest one; a serial only becomes a lie after the day it was struck off",
+        "hi": "ख़ारिज — पिछले कार्तिक में वह बही चालू थी और प्रविष्टि सच्ची है; कोई नंबर झूठ तभी बनता है जब वह काटे जाने के बाद चले"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidbook",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE LINE-WRITER",
+        "hi": "बयान · लाइन-मुंशी"
+      },
+      "text": {
+        "en": "“Nobody ever asked me for the book. They asked me for the armband and I gave it back. A book nobody asks for is a book nobody closed.”",
+        "hi": "“बही मुझसे किसी ने कभी माँगी ही नहीं। बाज़ूबंद माँगा था, वह मैंने लौटा दिया। जिस बही को कोई माँगता नहीं, उसे कोई बंद भी नहीं करता।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ghevar",
+      "name": {
+        "en": "Ghevar Ram Kumawat",
+        "hi": "घेवर राम कुमावत"
+      },
+      "role": {
+        "en": "LAST YEAR’S LINE-WRITER",
+        "hi": "पिछले साल का लाइन-मुंशी"
+      },
+      "hook": {
+        "en": "was put off the roll in Chaitra and never returned book 14",
+        "hi": "चैत में रोल से हटाया गया, बही 14 कभी नहीं लौटाई"
+      },
+      "confession": {
+        "en": "Walked the east lines in last year’s saffron armband writing genuine committee receipts off a book struck off in Chaitra, took two hundred a string from forty-one strings, and put eight thousand two hundred of it into a Kishangarh finance company on Thursday against a motorcycle four months behind.",
+        "hi": "पिछले साल का केसरिया बाज़ूबंद पहनकर पूरब की क़तारों में घूमा और चैत में काटी जा चुकी बही से असली समिति रसीदें काटीं, इकतालीस डोरों से दो सौ-दो सौ लिए, और उसमें से आठ हज़ार दो सौ गुरुवार को किशनगढ़ की फ़ाइनेंस कंपनी में उस मोटरसाइकिल पर जमा किए जिसकी क़िस्तें चार महीने पीछे थीं।"
+      }
+    },
+    {
+      "id": "mohar",
+      "name": {
+        "en": "Mohar Singh Rawat",
+        "hi": "मोहर सिंह रावत"
+      },
+      "role": {
+        "en": "THE GATE WRITER",
+        "hi": "गेट का मुंशी"
+      },
+      "hook": {
+        "en": "marked forty-one strings clear in the ground book",
+        "hi": "ज़मीन बही में इकतालीस डोरें ‘चुकता’ उसी ने लिखीं"
+      },
+      "alibi": {
+        "en": "He marks the ground book against a receipt held out to him, and forty-one genuine committee receipts were held out to him. He was at the boom all week and has never in nine years been given a list of which books are closed.",
+        "hi": "जो रसीद उसके सामने बढ़ाई जाती है, उसी पर वह ज़मीन बही में निशान लगाता है — और उसके सामने इकतालीस असली समिति रसीदें बढ़ाई गईं। पूरा हफ़्ता वह बूम पर रहा, और नौ साल में उसे कभी यह सूची दी ही नहीं गई कि कौन-सी बहियाँ बंद हो चुकी हैं।"
+      }
+    },
+    {
+      "id": "bhanwar",
+      "name": {
+        "en": "Bhanwar Lal",
+        "hi": "भँवर लाल"
+      },
+      "role": {
+        "en": "THE COMMITTEE’S CASHIER",
+        "hi": "समिति का ख़ज़ांची"
+      },
+      "hook": {
+        "en": "the only man allowed to take a ground fee",
+        "hi": "ज़मीन शुल्क लेने का हक़ अकेले उसी को है"
+      },
+      "alibi": {
+        "en": "His book is twenty-two, his takings go to the bank the same evening against a challan, and the strings that paid him paid once. He is the man the double payers complained to.",
+        "hi": "उसकी बही बाईस है, वसूली उसी शाम चालान पर बैंक जाती है, और जिन डोरों ने उसे दिया उन्होंने एक ही बार दिया। दो बार चुकाने वालों ने शिकायत भी उसी से की थी।"
+      }
+    },
+    {
+      "id": "ummed",
+      "name": {
+        "en": "Ummed Singh",
+        "hi": "उम्मेद सिंह"
+      },
+      "role": {
+        "en": "THE MELA PEON",
+        "hi": "मेला चपरासी"
+      },
+      "hook": {
+        "en": "wears an armband and walks the same rows",
+        "hi": "बाज़ूबंद पहनता है और उन्हीं क़तारों में घूमता है"
+      },
+      "alibi": {
+        "en": "Forty-one receipts are written, and he cannot write. He carries water, messages and the committee’s tea, and no book has ever been in his hands.",
+        "hi": "इकतालीस रसीदें लिखी हुई हैं, और उसे लिखना नहीं आता। वह पानी, संदेश और समिति की चाय ढोता है, और कोई बही कभी उसके हाथ में आई ही नहीं।"
+      }
+    }
+  ],
+  "culpritId": "ghevar",
+  "interrogations": [
+    {
+      "suspectId": "ghevar",
+      "setting": {
+        "en": "A tea stall at the east gate, a motorcycle on its stand outside with a finance company’s sticker still on the tank.",
+        "hi": "पूरब गेट की चाय की दुकान, बाहर स्टैंड पर खड़ी मोटरसाइकिल — टंकी पर फ़ाइनेंस कंपनी का स्टिकर अब भी चिपका।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You are not on the committee’s roll this year.",
+            "hi": "इस साल आप समिति के रोल पर नहीं हैं।"
+          },
+          "answer": {
+            "en": "“I am not on the roll. I am on the board at the east gate, painted, since the year before last. Go and look at it and then tell me who I am.”",
+            "hi": "“रोल पर नहीं हूँ। पूरब गेट के बोर्ड पर हूँ, पिछले-से-पिछले साल से पुता हुआ। जाइए, देख आइए, फिर बताइए कि मैं कौन हूँ।”"
+          },
+          "note": {
+            "en": "The committee took the armband back and left the name painted on the gate. He has been living in the difference.",
+            "hi": "समिति ने बाज़ूबंद वापस ले लिया और नाम गेट पर पुता छोड़ दिया। वह इसी फ़र्क़ में रह रहा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Book fourteen was struck off in Chaitra.",
+            "hi": "बही चौदह चैत में काट दी गई थी।"
+          },
+          "answer": {
+            "en": "“Nobody ever asked me for the book. They asked me for the armband and I gave it back. A book nobody asks for is a book nobody closed.”",
+            "hi": "“बही मुझसे किसी ने कभी माँगी ही नहीं। बाज़ूबंद माँगा था, वह मैंने लौटा दिया। जिस बही को कोई माँगता नहीं, उसे कोई बंद भी नहीं करता।”"
+          },
+          "needsClueId": "serials",
+          "lockedHint": {
+            "en": "Pin the serials. Until the struck-off range is in front of him, every receipt he wrote is just a receipt.",
+            "hi": "सिलसिला टाँगो। जब तक काटा हुआ नंबर-दायरा उसके सामने न आए, उसकी काटी हर रसीद बस एक रसीद है।"
+          },
+          "unlocksClueId": "saidbook",
+          "note": {
+            "en": "He has just told us he still has it, and that he has been reading the committee’s silence as permission.",
+            "hi": "उसने अभी बता दिया कि बही अब भी उसी के पास है — और यह भी कि समिति की चुप्पी को वह इजाज़त समझता आया है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eight thousand two hundred on Thursday, at Kishangarh.",
+            "hi": "गुरुवार को किशनगढ़ में आठ हज़ार दो सौ।"
+          },
+          "answer": {
+            "en": "“Four months behind. They come for a motorcycle in the fifth month. Everybody in this fair knows what nine thousand four hundred cost me, and nobody has ever asked how I ate after it.”",
+            "hi": "“चार महीने पीछे था। पाँचवें महीने वे मोटरसाइकिल उठा ले जाते हैं। इस मेले में सबको पता है कि नौ हज़ार चार सौ ने मुझसे क्या छीना, और यह किसी ने आज तक नहीं पूछा कि उसके बाद मैंने खाया क्या।”"
+          },
+          "needsClueId": "cash",
+          "lockedHint": {
+            "en": "Pin the finance company’s receipt. He will keep the money vague until a date and a thumbprint of his own are on the table.",
+            "hi": "फ़ाइनेंस कंपनी की रसीद टाँगो। जब तक मेज़ पर उसकी अपनी तारीख़ और अपना अंगूठा न आ जाए, वह पैसे की बात गोल ही रखेगा।"
+          },
+          "note": {
+            "en": "A shortfall nobody recovered and nobody forgave, and this is what the committee bought with that silence.",
+            "hi": "एक कमी जिसे न किसी ने वसूला, न किसी ने माफ़ किया — और समिति ने उसी चुप्पी से यह ख़रीदा।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "mohar",
+      "setting": {
+        "en": "The gate office at six, the ground book open at row forty, and forty-one ticks in one column drying in the same ink.",
+        "hi": "छह बजे का गेट दफ़्तर, चालीसवीं क़तार पर खुली ज़मीन बही, और एक ही ख़ाने में एक ही स्याही से सूखते इकतालीस निशान।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How do you decide a string has paid?",
+            "hi": "आप कैसे तय करते हैं कि किसी डोर ने चुका दिया?"
+          },
+          "answer": {
+            "en": "“The man holds out a receipt and I read the number and I tick the row. If I stopped to think about every number, the lines would still be paying at Purnima.”",
+            "hi": "“आदमी रसीद बढ़ाता है, मैं नंबर पढ़ता हूँ और क़तार पर निशान लगा देता हूँ। अगर हर नंबर पर सोचने बैठूँ तो पूर्णिमा तक क़तारें चुकाती ही रहेंगी।”"
+          },
+          "note": {
+            "en": "He reads numbers and nobody has ever given him a list of the numbers that stopped being numbers.",
+            "hi": "वह नंबर पढ़ता है — और उसे कभी वह सूची दी ही नहीं गई कि कौन-से नंबर अब नंबर नहीं रहे।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Forty-one of them came off a book that was closed.",
+            "hi": "उनमें से इकतालीस उस बही से आईं जो बंद हो चुकी थी।"
+          },
+          "answer": {
+            "en": "“Then the committee closed a book and told the committee. Nobody told the gate.”",
+            "hi": "“तो समिति ने बही बंद की और समिति को बता दिया। गेट को किसी ने नहीं बताया।”"
+          },
+          "needsClueId": "groundbook",
+          "lockedHint": {
+            "en": "Pin the ground book. He will keep answering about procedure until his own column of forty-one ticks is in front of him.",
+            "hi": "ज़मीन बही टाँगो। जब तक उसका अपना इकतालीस निशानों वाला ख़ाना सामने न आए, वह तरीक़े की ही बात करता रहेगा।"
+          },
+          "note": {
+            "en": "The marks are his and the fault is not, and both of those will matter later.",
+            "hi": "निशान उसके हैं और ग़लती उसकी नहीं — और आगे चलकर ये दोनों बातें काम आएँगी।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "sacked",
+      "correction": {
+        "en": "The cashier banks his takings the same evening and the peon cannot write. One man on these lines lost his place over nine thousand four hundred rupees that nobody recovered and nobody forgave, and kept the name painted on the gate.",
+        "hi": "ख़ज़ांची अपनी वसूली उसी शाम बैंक में डाल देता है और चपरासी को लिखना नहीं आता। इन क़तारों पर एक ही आदमी ऐसा था जिसने नौ हज़ार चार सौ रुपए पर अपनी जगह गँवाई — जिन्हें न किसी ने वसूला, न माफ़ किया — और जिसका नाम गेट पर पुता रह गया।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "serials",
+      "correction": {
+        "en": "Nothing on those receipts was forged, which is why nobody looked twice. Book fourteen was struck off the committee’s stock in Chaitra and never handed back, and every receipt on the east lines this week comes off it.",
+        "hi": "उन रसीदों में कुछ भी जाली नहीं था — इसीलिए किसी ने दोबारा नहीं देखा। बही चौदह चैत में समिति के स्टॉक से कटी और कभी लौटाई नहीं गई, और इस हफ़्ते पूरब की क़तारों की हर रसीद उसी से निकली है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "cash",
+      "correction": {
+        "en": "Nothing had to be carried anywhere. Eight thousand two hundred of it walked into a Kishangarh finance company on Thursday under his own name and his own thumb, against a motorcycle four months behind.",
+        "hi": "यहाँ कुछ कहीं ले जाने की ज़रूरत ही नहीं थी। उसमें से आठ हज़ार दो सौ गुरुवार को उसके अपने नाम और अपने अंगूठे से किशनगढ़ की फ़ाइनेंस कंपनी में चले गए — उस मोटरसाइकिल पर, जिसकी क़िस्तें चार महीने पीछे थीं।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "armband",
+    "toClueId": "handwriting",
+    "text": {
+      "en": "The cloth is a year out of date and nobody on the lines looked at it. They looked at the book in his hand — so stop asking who he was dressed as and ask whose writing is inside it.",
+      "hi": "कपड़ा पूरे एक साल पुराना है और क़तारों में किसी ने उसकी तरफ़ देखा तक नहीं। सबने उसके हाथ की बही देखी — तो यह पूछना छोड़िए कि उसने किसका भेस बनाया था, और यह पूछिए कि उसके भीतर लिखावट किसकी है।"
+    }
+  },
+  "bankedClue": {
+    "en": "Forty-one strings marked paid in the ground book, against a receipt book the committee closed in Chaitra",
+    "hi": "ज़मीन बही में इकतालीस डोरें ‘चुकता’ लिखी गईं — उस रसीद बही के नंबरों पर, जिसे समिति चैत में बंद कर चुकी थी"
+  }
+}

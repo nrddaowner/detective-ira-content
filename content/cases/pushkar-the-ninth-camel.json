@@ -1,0 +1,418 @@
+{
+  "id": "pushkar-the-ninth-camel",
+  "schema": 1,
+  "city": "pushkar",
+  "genre": "fraud",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "pushkar-camel-fair-books",
+    "caseNumber": 1
+  },
+  "title": {
+    "en": "The Ninth Camel",
+    "hi": "नौवाँ ऊँट"
+  },
+  "place": {
+    "en": "The loading ramp, north gate · Wednesday, 7:10 AM",
+    "hi": "उत्तरी गेट का चढ़ाव रैंप · बुधवार, 7:10 AM"
+  },
+  "brief": {
+    "en": "Hanwant Mal paid ninety-four thousand for lot sixty-one on Monday and came for it on Wednesday with a truck a day late. The animal that had stood at the ramp with its file since Monday evening is not on this ground. A truck left for Bikaner at first light on Tuesday with eight camels written on its gate pass and fodder for nine drawn against its chit. The rope burn on that truck’s tailboard chain is one day old and the rest of the chain is seasons old.",
+    "hi": "हंवंत मल ने सोमवार को लॉट इकसठ के चौरानबे हज़ार चुकाए और बुधवार को ट्रक लेकर आया — पूरे एक दिन देर से। जो जानवर सोमवार शाम से अपनी फ़ाइल के साथ रैंप पर खड़ा था, वह इस मैदान पर कहीं नहीं है। मंगलवार पहली रोशनी में एक ट्रक बीकानेर निकला, जिसके गेट पास पर आठ ऊँट लिखे थे और जिसकी चिट पर नौ का चारा उठा था। उस ट्रक के पिछले तख़्ते की कड़ी पर रस्सी का एक निशान बस एक दिन पुराना है, और बाक़ी कड़ी मौसमों पुरानी।"
+  },
+  "photoCaption": {
+    "en": "the ramp at first light",
+    "hi": "पहली रोशनी में रैंप"
+  },
+  "iraNote": {
+    "en": "“Eight is not a lie if you counted at the boom. The lie is where the counting stopped.”",
+    "hi": "“अगर गिनती बूम पर हुई है तो आठ झूठ नहीं है। झूठ वहाँ है जहाँ गिनती ख़त्म हो गई।”"
+  },
+  "clues": [
+    {
+      "id": "gatepass",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "GATE PASS · EIGHT HEAD",
+        "hi": "गेट पास · आठ जानवर"
+      },
+      "text": {
+        "en": "Written at the boom at five-forty on Tuesday by Mohar Singh Rawat: truck RJ 01 GA 4412, eight head, Bikaner. The boom stands two hundred feet short of the ramp.",
+        "hi": "मंगलवार को पाँच बजकर चालीस मिनट पर बूम पर मोहर सिंह रावत के हाथ का लिखा: ट्रक RJ 01 GA 4412, आठ जानवर, बीकानेर। बूम रैंप से पूरे दो सौ फ़ीट पीछे खड़ा है।"
+      }
+    },
+    {
+      "id": "fodder",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "FODDER DRAWN · NINE BUNDLES",
+        "hi": "चारा उठा · नौ पूले"
+      },
+      "text": {
+        "en": "Nine bundles of kadbi issued at four-fifty against that truck’s own chit, a full hour before the pass was written. A camel eats one bundle on a road day, and Bikaner is one road day.",
+        "hi": "उसी ट्रक की चिट पर चार बजकर पचास मिनट पर नौ पूले कड़बी दी गई — पास लिखे जाने से पूरे एक घंटे पहले। सफ़र के एक दिन में ऊँट एक पूला खाता है, और बीकानेर एक ही दिन का सफ़र है।"
+      }
+    },
+    {
+      "id": "chain",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE TAILBOARD CHAIN",
+        "hi": "पिछले तख़्ते की कड़ी"
+      },
+      "text": {
+        "en": "One rope burn on the link is a day old where the others are seasons old, and there is hair caught in it. Dun hair, coarse, off the neck of a grown male — and the eight on the pass are all white Bikaneri.",
+        "hi": "कड़ी पर एक रस्सी का निशान बस एक दिन पुराना है, जबकि बाक़ी मौसमों पुराने; और उसमें बाल फँसे हैं। भूरे बाल, मोटे, किसी जवान नर की गर्दन के — और पास पर लिखे आठों बीकानेरी सफ़ेद हैं।"
+      }
+    },
+    {
+      "id": "certificate",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "HEALTH CERTIFICATE · NO LOT",
+        "hi": "स्वास्थ्य प्रमाण-पत्र · लॉट नदारद"
+      },
+      "text": {
+        "en": "Left at the ramp in the animal’s file. It gives the mouth, the brand and a split off-side nostril, and it gives no lot number, no owner and no token — so nobody at the ramp could say whose animal was standing there, and the paper did not help them.",
+        "hi": "जानवर की फ़ाइल में रैंप पर ही पड़ा मिला। इसमें मुँह है, दाग़ है और दाहिनी नाक का कटा हिस्सा है — और लॉट नंबर नहीं है, मालिक नहीं है, टोकन नहीं है। इसलिए रैंप पर कोई नहीं बता सका कि वहाँ खड़ा जानवर किसका है, और काग़ज़ ने उनकी कोई मदद नहीं की।"
+      }
+    },
+    {
+      "id": "nakhas",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "BIKANER MANDI · THURSDAY",
+        "hi": "बीकानेर मंडी · गुरुवार"
+      },
+      "text": {
+        "en": "A dun male, six years, split off-side nostril, sold on Thursday for sixty-one thousand. The seller written on the entry is Poonam Chand Bhati of Naya Gaon, who is Kalu Ram’s wife’s brother, sells vegetables, and has never owned a camel.",
+        "hi": "एक भूरा नर, छह साल, दाहिनी नाक कटी — गुरुवार को इकसठ हज़ार में बिका। प्रविष्टि पर बेचने वाले का नाम नया गाँव के पूनम चंद भाटी का है, जो कालू राम का साला है, सब्ज़ी बेचता है, और जिसने ज़िंदगी में कभी ऊँट नहीं पाला।"
+      }
+    },
+    {
+      "id": "debt",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE LENDER’S CHIT",
+        "hi": "साहूकार की चिट"
+      },
+      "text": {
+        "en": "One lakh forty thousand owed at Ganahera since Ashadh, taken against two camels of his own that the lender took anyway. The season’s instalment fell due on the morning the truck rolled.",
+        "hi": "आषाढ़ से गनहेड़ा में एक लाख चालीस हज़ार बाक़ी — अपने ही दो ऊँटों के बदले लिया गया क़र्ज़, और वे दोनों ऊँट साहूकार ले भी गया। इस मौसम की क़िस्त ठीक उसी सुबह चढ़ी जिस सुबह ट्रक चला।"
+      }
+    },
+    {
+      "id": "driver",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · UNDER THE TRUCK",
+        "hi": "फ़ोटो · ट्रक के नीचे"
+      },
+      "text": {
+        "en": "Pratap Singh asleep on a cot under his own truck at five, photographed by the tea stall’s owner for his wall of regulars.",
+        "hi": "प्रताप सिंह पाँच बजे अपने ही ट्रक के नीचे खाट पर सोता हुआ — चाय वाले ने अपने पक्के ग्राहकों की दीवार के लिए यह फ़ोटो खींची थी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a driver takes the pass he is handed and drives; he was still asleep when the ninth went up the ramp, and the chit that drew feed for nine is not in his hand",
+        "hi": "ख़ारिज — ड्राइवर जो पास थमाया जाए वही लेकर चल देता है; जब नौवाँ रैंप चढ़ा तब वह सो रहा था, और नौ का चारा उठाने वाली चिट उसके हाथ की नहीं है"
+      }
+    },
+    {
+      "id": "buyerlate",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE BUYER’S OWN DELAY",
+        "hi": "ख़रीदार की अपनी देरी"
+      },
+      "text": {
+        "en": "Hanwant Mal’s truck came a day late off a broken half-shaft at Beawar, and the garage at Beawar has the bill and the old shaft.",
+        "hi": "हंवंत मल का ट्रक ब्यावर में हाफ़-शाफ़्ट टूटने से एक दिन देर से आया, और ब्यावर के गैराज के पास बिल भी है और टूटी शाफ़्ट भी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — being late is how he was robbed, not how he robbed himself; the ninety-four thousand is paid and the receipt is lying in the mela office",
+        "hi": "ख़ारिज — देर से आना उसके लुटने की वजह है, ख़ुद को लूटने का तरीक़ा नहीं; चौरानबे हज़ार चुक चुके हैं और रसीद मेला दफ़्तर में पड़ी है"
+      }
+    },
+    {
+      "id": "stray",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "A DUN CAMEL, AJMER ROAD",
+        "hi": "अजमेर सड़क पर भूरा ऊँट"
+      },
+      "text": {
+        "en": "Photographed at noon on Tuesday, seven kilometres out, being led on foot by a man with a bundle.",
+        "hi": "मंगलवार दोपहर, सात किलोमीटर बाहर — एक आदमी गठरी लिए उसे पैदल हाँकता हुआ।"
+      },
+      "dismissNote": {
+        "en": "ruled out — ear-notched and unbranded, which is a jogi’s animal; the fair sheds four of them a day and this one was back at the Ajmer chowki by evening",
+        "hi": "ख़ारिज — कान कटा और बेदाग़, यानी जोगी का जानवर; मेला रोज़ ऐसे चार छोड़ता है और यह शाम तक अजमेर चौकी पहुँच भी गया था"
+      }
+    },
+    {
+      "id": "rassa",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "A CUT HALTER ROPE",
+        "hi": "कटी हुई नकेल की रस्सी"
+      },
+      "text": {
+        "en": "Found under the ramp, cut clean at one end, with a fodder-seller’s knot in the other.",
+        "hi": "रैंप के नीचे मिली — एक सिरा साफ़ कटा हुआ, दूसरे सिरे पर चारा बेचने वाले की गाँठ।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nothing here was cut loose; the ninth walked up a ramp on its own halter, and this rope has been cut and knotted a dozen times by a man who sells rope by the length",
+        "hi": "ख़ारिज — यहाँ कुछ काटकर नहीं छुड़ाया गया; नौवाँ अपनी ही नकेल में रैंप चढ़ा था, और यह रस्सी उस आदमी की है जो रस्सी नाप से बेचता है — दर्जन भर बार काटी और गाँठी हुई"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidnine",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE CONTRACTOR",
+        "hi": "बयान · ठेकेदार"
+      },
+      "text": {
+        "en": "“Nine bundles, yes. I draw feed by the head and I drew nine. Now you want me to stand here and say I cannot count to eight?”",
+        "hi": "“नौ पूले, हाँ। मैं जानवर गिनकर चारा लेता हूँ और मैंने नौ लिए। अब आप चाहते हैं कि मैं यहाँ खड़े होकर कह दूँ कि मुझे आठ तक गिनना नहीं आता?”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "kaluram",
+      "name": {
+        "en": "Kalu Ram",
+        "hi": "कालू राम"
+      },
+      "role": {
+        "en": "THE LOADING CONTRACTOR",
+        "hi": "चढ़ाई का ठेकेदार"
+      },
+      "hook": {
+        "en": "walks every animal from the ramp to the truck",
+        "hi": "हर जानवर रैंप से ट्रक तक वही ले जाता है"
+      },
+      "confession": {
+        "en": "Took the unclaimed animal up the ramp behind eight that were paid for, tied it at the tailboard, drew a ninth bundle of kadbi an hour before the gate wrote eight, and had it sold at the Bikaner mandi on Thursday under his wife’s brother’s name — because a lender at Ganahera had already taken two of his own camels and wanted the next instalment that morning.",
+        "hi": "जिस जानवर को कोई लेने नहीं आया था, उसे चुकाए हुए आठ के पीछे रैंप चढ़ाया, पिछले तख़्ते से बाँधा, गेट के आठ लिखने से एक घंटा पहले नौवाँ पूला कड़बी उठाया, और गुरुवार को बीकानेर मंडी में अपने साले के नाम से बिकवा दिया — क्योंकि गनहेड़ा का साहूकार उसके अपने दो ऊँट पहले ही ले जा चुका था और उसी सुबह अगली क़िस्त माँग रहा था।"
+      }
+    },
+    {
+      "id": "pratap",
+      "name": {
+        "en": "Pratap Singh",
+        "hi": "प्रताप सिंह"
+      },
+      "role": {
+        "en": "THE TRUCK DRIVER",
+        "hi": "ट्रक ड्राइवर"
+      },
+      "hook": {
+        "en": "his truck, his tailboard, his road",
+        "hi": "ट्रक उसका, तख़्ता उसका, सड़क उसकी"
+      },
+      "alibi": {
+        "en": "He was asleep under his own truck until five and the tea stall has a photograph of it. A driver signs for the load the gate gives him, and the gate gave him eight.",
+        "hi": "पाँच बजे तक वह अपने ही ट्रक के नीचे सो रहा था और चाय वाले के पास उसकी फ़ोटो है। ड्राइवर उसी माल की रसीद देता है जो गेट उसे देता है — और गेट ने उसे आठ दिए थे।"
+      }
+    },
+    {
+      "id": "hanwant",
+      "name": {
+        "en": "Hanwant Mal",
+        "hi": "हंवंत मल"
+      },
+      "role": {
+        "en": "THE SIROHI BUYER",
+        "hi": "सिरोही का ख़रीदार"
+      },
+      "hook": {
+        "en": "paid on Monday, came on Wednesday",
+        "hi": "सोमवार को पैसा, बुधवार को हाज़िरी"
+      },
+      "alibi": {
+        "en": "He paid ninety-four thousand two days before the animal moved and was two hundred kilometres away under a broken half-shaft when it did. The loss is his and nobody else’s.",
+        "hi": "जानवर के हिलने से दो दिन पहले उसने चौरानबे हज़ार चुका दिए थे, और जिस वक़्त वह हिला, वह दो सौ किलोमीटर दूर टूटी शाफ़्ट के नीचे खड़ा था। घाटा अकेले उसी का है।"
+      }
+    },
+    {
+      "id": "mohar",
+      "name": {
+        "en": "Mohar Singh Rawat",
+        "hi": "मोहर सिंह रावत"
+      },
+      "role": {
+        "en": "THE GATE WRITER",
+        "hi": "गेट का मुंशी"
+      },
+      "hook": {
+        "en": "wrote eight on the pass",
+        "hi": "पास पर आठ उसी ने लिखा"
+      },
+      "alibi": {
+        "en": "He counts at the boom and the boom is two hundred feet short of the ramp. Eight walked past him and eight is what he wrote — the ninth was tied on beyond where his eyes stop.",
+        "hi": "वह बूम पर गिनता है और बूम रैंप से दो सौ फ़ीट पीछे है। उसके सामने से आठ गुज़रे और उसने आठ ही लिखा — नौवाँ वहाँ बँधा जहाँ उसकी नज़र ख़त्म हो जाती है।"
+      }
+    }
+  ],
+  "culpritId": "kaluram",
+  "interrogations": [
+    {
+      "suspectId": "kaluram",
+      "setting": {
+        "en": "The ramp shed at noon, a spike of loading chits on the post, and the ramp planks still dark from the morning’s animals.",
+        "hi": "दोपहर का रैंप वाला छप्पर, खंभे पर चढ़ाई की चिटों की सींक, और सुबह के जानवरों से अब तक गीले पड़े रैंप के पटरे।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who walks the animals up?",
+            "hi": "जानवरों को ऊपर कौन चढ़ाता है?"
+          },
+          "answer": {
+            "en": "“I do. Two hundred a head, eleven fairs. A driver does not touch an animal and a buyer does not touch an animal. I touch every one of them.”",
+            "hi": "“मैं। दो सौ रुपए प्रति जानवर, ग्यारह मेलों से। ड्राइवर जानवर को हाथ नहीं लगाता, ख़रीदार जानवर को हाथ नहीं लगाता। हर एक को मैं ही छूता हूँ।”"
+          },
+          "note": {
+            "en": "He does not hide the one fact that puts him on the ramp, because eleven fairs of it are his living.",
+            "hi": "जो एक बात उसे रैंप पर खड़ा करती है, वही वह छिपाता नहीं — क्योंकि ग्यारह मेलों से उसी से उसका घर चलता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Nine bundles at four-fifty. The pass was written at five-forty.",
+            "hi": "चार बजकर पचास पर नौ पूले। और पास लिखा गया पाँच बजकर चालीस पर।"
+          },
+          "answer": {
+            "en": "“Nine bundles, yes. I draw feed by the head and I drew nine. Now you want me to stand here and say I cannot count to eight?”",
+            "hi": "“नौ पूले, हाँ। मैं जानवर गिनकर चारा लेता हूँ और मैंने नौ लिए। अब आप चाहते हैं कि मैं यहाँ खड़े होकर कह दूँ कि मुझे आठ तक गिनना नहीं आता?”"
+          },
+          "needsClueId": "fodder",
+          "lockedHint": {
+            "en": "Pin the fodder. He can talk around a chain and around a photograph; he cannot talk around drawing feed for nine an hour before anybody had written eight.",
+            "hi": "चारा टाँगो। कड़ी और फ़ोटो की बात वह घुमा सकता है; पर किसी के आठ लिखने से एक घंटा पहले नौ का चारा उठाने की बात नहीं घुमा सकता।"
+          },
+          "unlocksClueId": "saidnine",
+          "note": {
+            "en": "Feed is drawn for what is going, not for what is standing. He drew for nine before the gate had seen anything at all.",
+            "hi": "चारा उसके लिए उठता है जो जा रहा है, उसके लिए नहीं जो खड़ा है। उसने नौ का उठाया — तब, जब गेट ने कुछ देखा तक नहीं था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Poonam Chand Bhati sold a dun male at Bikaner on Thursday.",
+            "hi": "गुरुवार को बीकानेर में पूनम चंद भाटी ने एक भूरा नर बेचा।"
+          },
+          "answer": {
+            "en": "“My wife’s brother sells vegetables. If somebody has written his name on something, go and ask the man who wrote it.”",
+            "hi": "“मेरा साला सब्ज़ी बेचता है। अगर किसी ने कहीं उसका नाम लिख दिया है तो जाइए, उसी से पूछिए जिसने लिखा है।”"
+          },
+          "needsClueId": "nakhas",
+          "lockedHint": {
+            "en": "Pin the Bikaner entry. A name is only a name until the man it belongs to is standing in front of it.",
+            "hi": "बीकानेर वाली प्रविष्टि टाँगो। नाम तब तक सिर्फ़ नाम है, जब तक जिसका है वह उसके सामने खड़ा न हो।"
+          },
+          "note": {
+            "en": "Nobody had told him whose brother-in-law that name was.",
+            "hi": "यह किसी ने उसे नहीं बताया था कि वह नाम किसके साले का है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "pratap",
+      "setting": {
+        "en": "The truck yard behind the fodder line, the tailboard down, the chain hanging exactly where the burn is.",
+        "hi": "चारे की क़तार के पीछे ट्रक का अहाता, पिछला तख़्ता गिरा हुआ, और कड़ी ठीक वहीं लटकी जहाँ निशान है।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Eight on the pass. Nine on the fodder chit.",
+            "hi": "पास पर आठ। चारे की चिट पर नौ।"
+          },
+          "answer": {
+            "en": "“The chit is not mine. I sign for the load at the gate, and the gate said eight, so eight is what I signed.”",
+            "hi": "“चिट मेरी नहीं है। मैं गेट पर माल की रसीद देता हूँ, और गेट ने आठ कहा तो मैंने आठ पर दस्तख़त किए।”"
+          },
+          "note": {
+            "en": "The chit is drawn by the man who loads, and the load is signed by the man who drives. He is telling us which of those two he is.",
+            "hi": "चिट वह उठाता है जो चढ़ाता है, और रसीद वह देता है जो चलाता है। वह हमें बता रहा है कि इन दोनों में से वह कौन है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "There is dun hair in your tailboard chain.",
+            "hi": "आपके पिछले तख़्ते की कड़ी में भूरे बाल फँसे हैं।"
+          },
+          "answer": {
+            "en": "“Then something dun was tied to my tailboard. I load what is walked up to me and I do not ask a camel its colour at four in the morning.”",
+            "hi": "“तो मेरे तख़्ते से कुछ भूरा बँधा होगा। जो मेरे पास तक चलाकर लाया जाता है, मैं वही लादता हूँ — और सुबह चार बजे मैं ऊँट से उसका रंग नहीं पूछता।”"
+          },
+          "needsClueId": "chain",
+          "lockedHint": {
+            "en": "Pin the chain. He will keep saying he only drives until somebody puts the hair off his own tailboard in front of him.",
+            "hi": "कड़ी टाँगो। जब तक कोई उसके अपने तख़्ते के बाल उसके सामने न रखे, वह यही दोहराएगा कि वह तो सिर्फ़ चलाता है।"
+          },
+          "note": {
+            "en": "Eight stood in the body and one was tied at the tailboard, which is exactly where a ninth goes when a body holds eight.",
+            "hi": "आठ अंदर खड़े थे और एक तख़्ते से बँधा था — जब अंदर आठ ही समाते हों, नौवाँ ठीक वहीं बाँधा जाता है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "debt",
+      "correction": {
+        "en": "The driver is paid by the trip and the buyer had already handed over ninety-four thousand. One man on this ramp had a lender’s instalment falling due on the morning the truck rolled, and had already lost two camels of his own to that lender.",
+        "hi": "ड्राइवर को फेरे का पैसा मिलता है और ख़रीदार चौरानबे हज़ार पहले ही दे चुका था। इस रैंप पर एक ही आदमी ऐसा था जिसकी साहूकार की क़िस्त ट्रक चलने की सुबह चढ़नी थी — और जिसके अपने दो ऊँट वही साहूकार पहले ले जा चुका था।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "fodder",
+      "correction": {
+        "en": "Nothing was taken past the boom, because the boom stands two hundred feet short of the ramp. Feed for nine was drawn an hour before a pass for eight was written, and it was drawn by the one man who walks every animal up.",
+        "hi": "बूम के सामने से कुछ नहीं ले जाया गया, क्योंकि बूम रैंप से दो सौ फ़ीट पीछे खड़ा है। आठ का पास लिखे जाने से एक घंटा पहले नौ का चारा उठा — और उठाया उसी एक आदमी ने जो हर जानवर ऊपर चढ़ाता है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "nakhas",
+      "correction": {
+        "en": "The ninth did not vanish off this ground. It stood at a tailboard for one day’s road and was sold at the Bikaner mandi on Thursday under the name of a vegetable seller who has never owned a camel — his wife’s brother.",
+        "hi": "नौवाँ इस मैदान से ग़ायब नहीं हुआ। वह एक दिन की सड़क भर पिछले तख़्ते से बँधा खड़ा रहा और गुरुवार को बीकानेर मंडी में एक सब्ज़ी वाले के नाम बिक गया, जिसने कभी ऊँट पाला ही नहीं — उसके अपने साले के नाम।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "chain",
+    "toClueId": "fodder",
+    "text": {
+      "en": "The body of that truck holds eight standing, so a ninth never goes inside it — a ninth is tied at the tailboard. And a ninth that is tied still has to eat.",
+      "hi": "उस ट्रक के अंदर खड़े-खड़े आठ ही समाते हैं, इसलिए नौवाँ कभी अंदर नहीं जाता — नौवाँ पिछले तख़्ते से बाँधा जाता है। और जो नौवाँ बँधा है, उसे खाना तो फिर भी पड़ेगा।"
+    }
+  },
+  "bankedClue": {
+    "en": "A health certificate that names an animal by its teeth and its brand, and never once by its lot",
+    "hi": "एक स्वास्थ्य प्रमाण-पत्र, जो जानवर को उसके दाँतों और दाग़ से पहचानता है — उसके लॉट से एक बार भी नहीं"
+  }
+}

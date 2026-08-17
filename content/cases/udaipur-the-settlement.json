@@ -1,0 +1,714 @@
+{
+  "id": "udaipur-the-settlement",
+  "schema": 1,
+  "city": "udaipur",
+  "genre": "fraud",
+  "difficulty": "devious",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "udaipur-lake-palace-season",
+    "caseNumber": 6
+  },
+  "title": {
+    "en": "The Settlement",
+    "hi": "आख़िरी हिसाब"
+  },
+  "place": {
+    "en": "Udaipur · the family’s counting room · Monday, 10:00 AM",
+    "hi": "उदयपुर · परिवार का हिसाब कमरा · सोमवार, 10:00 AM"
+  },
+  "brief": {
+    "en": "At the end of a season every vendor on this lake is paid off one statement. Nineteen names, forty-one lakh, and one line for six lakh forty to a decor firm with no shop, no GST and no other client in the world. The insurance claim for the vanished polki set is filed alongside it, on a valuation certificate written four days before the jeweller let the set out of his door.",
+    "hi": "सहालग ख़त्म होने पर इस झील का हर वेंडर एक ही हिसाब से चुकाया जाता है। उन्नीस नाम, इकतालीस लाख — और उनमें एक पंक्ति छह लाख चालीस हज़ार की, ऐसी सजावट फ़र्म के नाम जिसकी न दुकान है, न जीएसटी, न दुनिया में कोई दूसरा ग्राहक। ग़ायब पोल्की सेट का बीमा दावा भी उसी के साथ लगा है — उस मूल्यांकन प्रमाणपत्र पर, जो सुनार के दरवाज़े से सेट निकलने के चार दिन पहले लिखा गया।"
+  },
+  "photoCaption": {
+    "en": "line twelve, six lakh forty",
+    "hi": "पंक्ति बारह, छह लाख चालीस"
+  },
+  "iraNote": {
+    "en": "“A firm is a name, an account and a stamp. Any of the three can be rented for a season. What cannot be rented is a reason for the firm to exist in the first place.”",
+    "hi": "“फ़र्म का मतलब है एक नाम, एक खाता और एक मुहर। तीनों में से कोई भी एक सहालग के लिए किराए पर मिल जाती है। किराए पर नहीं मिलती तो सिर्फ़ यह वजह कि फ़र्म हो ही क्यों।”"
+  },
+  "clues": [
+    {
+      "id": "settlement",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE FINAL SETTLEMENT",
+        "hi": "आख़िरी हिसाब"
+      },
+      "text": {
+        "en": "Nineteen vendors, ₹41.2 lakh, one statement, one signature. Line 12: Mewar Mandap Works, ₹6,40,000, “additional decor”.",
+        "hi": "उन्नीस वेंडर, ₹41.2 लाख, एक हिसाब, एक दस्तख़त। पंक्ति 12: मेवाड़ मंडप वर्क्स, ₹6,40,000, “अतिरिक्त सजावट”।"
+      }
+    },
+    {
+      "id": "firm",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "MEWAR MANDAP WORKS",
+        "hi": "मेवाड़ मंडप वर्क्स"
+      },
+      "text": {
+        "en": "Registered at shop 14, Ashwini Bazaar — which is a tailor’s, and has been for nineteen years. No GST, no second client, no van, no godown.",
+        "hi": "पता: दुकान 14, अश्विनी बाज़ार — जो दर्ज़ी की दुकान है, और उन्नीस साल से है। न जीएसटी, न दूसरा ग्राहक, न गाड़ी, न गोदाम।"
+      }
+    },
+    {
+      "id": "account",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE CURRENT ACCOUNT",
+        "hi": "चालू खाता"
+      },
+      "text": {
+        "en": "Opened in Kartik on one PAN and one Aadhaar. Six credits, all from the same payer, and every rupee drawn out in cash inside a day.",
+        "hi": "कार्तिक में एक पैन और एक आधार पर खुला। छह जमा, सब एक ही देने वाले से — और हर रुपया चौबीस घंटे के भीतर नक़द निकाला हुआ।"
+      }
+    },
+    {
+      "id": "rent",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHAT THE PROPRIETOR WAS PAID",
+        "hi": "मालिक को मिला क्या"
+      },
+      "text": {
+        "en": "₹15,000 for the use of his name and papers, and ₹500 a trip to stand at a bank counter. Six trips.",
+        "hi": "अपने नाम और काग़ज़ों के इस्तेमाल के ₹15,000, और बैंक काउंटर पर खड़े होने के ₹500 प्रति फेरा। छह फेरे।"
+      }
+    },
+    {
+      "id": "handwriting",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE SIX INVOICES",
+        "hi": "लैब पर्ची · छह बिल"
+      },
+      "text": {
+        "en": "All six typed on one machine and signed in one hand — and that hand is not the proprietor’s. He signs with a thumb and a taught scrawl.",
+        "hi": "छहों एक ही मशीन पर टाइप और एक ही हाथ के दस्तख़त — और वह हाथ मालिक का नहीं है। वह तो अंगूठा लगाता है और रटा हुआ घसीट लिखता है।"
+      }
+    },
+    {
+      "id": "valuation",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE VALUATION CERTIFICATE",
+        "hi": "मूल्यांकन प्रमाणपत्र"
+      },
+      "text": {
+        "en": "The claim rests on a valuation of the polki set dated the 2nd. The jeweller’s own approval memo, the paper that first let the set leave his shop, is dated the 6th.",
+        "hi": "दावा पोल्की सेट के जिस मूल्यांकन पर टिका है, उसकी तारीख़ 2 है। सुनार का अपना अप्रूवल मेमो — वह काग़ज़ जिससे सेट पहली बार दुकान से निकला — 6 तारीख़ का है।"
+      }
+    },
+    {
+      "id": "claim",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE CLAIM FILE",
+        "hi": "बीमा दावा फ़ाइल"
+      },
+      "text": {
+        "en": "₹11 lakh claimed against a set that was still the jeweller’s stock, under a policy taken in the family’s name in Kartik and never renewed since.",
+        "hi": "₹11 लाख का दावा — उस सेट पर, जो अब भी सुनार का माल था; पॉलिसी कार्तिक में परिवार के नाम ली गई और उसके बाद कभी नवीनीकृत नहीं हुई।"
+      }
+    },
+    {
+      "id": "undercut",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE TWO DECOR QUOTES",
+        "hi": "सजावट के दो भाव"
+      },
+      "text": {
+        "en": "Kesar Singh quoted ₹5,80,000 for the same work and was told it had gone to a cheaper firm — at ₹6,40,000.",
+        "hi": "केसर सिंह ने उसी काम का ₹5,80,000 भाव दिया और उसे बताया गया कि काम सस्ती फ़र्म को गया — ₹6,40,000 में।"
+      }
+    },
+    {
+      "id": "sim",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE PREPAID SIM",
+        "hi": "प्रीपेड सिम"
+      },
+      "text": {
+        "en": "The number that telephoned the hotel’s records clerk about six nights was bought in Kartik on the same rented name and the same rented Aadhaar.",
+        "hi": "होटल के रिकॉर्ड बाबू को छह रातों के बारे में जिस नंबर से फ़ोन आया, वह कार्तिक में उसी किराए के नाम और उसी किराए के आधार पर लिया गया था।"
+      }
+    },
+    {
+      "id": "query",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE MUNIM’S QUERY",
+        "hi": "मुनीम का सवाल"
+      },
+      "text": {
+        "en": "Pramod Jain queried line 12 in writing before he released the payment.",
+        "hi": "प्रमोद जैन ने भुगतान छोड़ने से पहले पंक्ति 12 पर लिखकर सवाल किया था।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he queried it, an invoice came back the same afternoon and he paid; a man inside this does not leave his own doubt in the file",
+        "hi": "ख़ारिज — उसने सवाल किया, उसी दोपहर बिल आ गया और उसने भुगतान कर दिया; इसमें शामिल आदमी अपना ही शक फ़ाइल में नहीं छोड़ता"
+      }
+    },
+    {
+      "id": "survey",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE SURVEYOR’S VISIT",
+        "hi": "सर्वेयर का दौरा"
+      },
+      "text": {
+        "en": "Nirmala Bhat inspected on the 9th and the claim has still not been paid.",
+        "hi": "निर्मला भट ने 9 तारीख़ को निरीक्षण किया और दावा आज तक चुकाया नहीं गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — her report is the only reason the claim is stuck; she is the one who put the two dates side by side",
+        "hi": "ख़ारिज — दावा अटका ही उसकी रिपोर्ट से है; दोनों तारीख़ें आमने-सामने रखने वाली वही है"
+      }
+    },
+    {
+      "id": "kesar",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE LOSING CONTRACTOR",
+        "hi": "फ़ोटो · भाव हारा ठेकेदार"
+      },
+      "text": {
+        "en": "Kesar Singh at the planner’s office in Magh, shouting loud enough for the stairs.",
+        "hi": "माघ में प्लानर के दफ़्तर पर केसर सिंह, इतनी ज़ोर से चिल्लाता हुआ कि सीढ़ियों तक सुनाई दे।"
+      },
+      "dismissNote": {
+        "en": "ruled out — losing work to a cheaper quote and saying so on the stairs is not fraud, and his was the honest number of the two",
+        "hi": "ख़ारिज — सस्ते भाव से काम हारना और सीढ़ियों पर चिल्लाकर कहना धोखाधड़ी नहीं है — और दोनों में ईमानदार आँकड़ा उसी का था"
+      }
+    },
+    {
+      "id": "gst",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE OTHER TWO WITHOUT GST",
+        "hi": "बिना जीएसटी वाले बाक़ी दो"
+      },
+      "text": {
+        "en": "Three of the nineteen vendors have no GST number.",
+        "hi": "उन्नीस वेंडरों में से तीन के पास जीएसटी नंबर नहीं है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the other two are a flower-seller and a band, both under the threshold, both with a shop you can walk into and a queue outside it",
+        "hi": "ख़ारिज — बाक़ी दो फूल वाला और बैंड हैं, दोनों सीमा से नीचे, दोनों की दुकान है जिसमें घुसा जा सकता है और बाहर लाइन लगती है"
+      }
+    },
+    {
+      "id": "policy",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE POLICY DATE",
+        "hi": "पॉलिसी की तारीख़"
+      },
+      "text": {
+        "en": "The family’s jewellery cover was taken out in Kartik.",
+        "hi": "परिवार का गहनों का बीमा कार्तिक में लिया गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — every family holding a wedding on this lake insures in Kartik, and the planner’s own printed checklist tells them to on page one",
+        "hi": "ख़ारिज — इस झील पर शादी करने वाला हर परिवार कार्तिक में बीमा कराता है, और प्लानर की अपनी छपी चेकलिस्ट पहले ही पन्ने पर यही कहती है"
+      }
+    },
+    {
+      "id": "tailor",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · SHOP 14",
+        "hi": "फ़ोटो · दुकान 14"
+      },
+      "text": {
+        "en": "The tailor at shop 14, who has never heard of Mewar Mandap Works.",
+        "hi": "दुकान 14 का दर्ज़ी, जिसने मेवाड़ मंडप वर्क्स का नाम तक नहीं सुना।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he is a witness and a good one, but everything he can tell us is about what is not there",
+        "hi": "ख़ारिज — वह गवाह है और अच्छा गवाह है, पर वह जो कुछ बता सकता है वह सब इस बारे में है कि वहाँ क्या नहीं है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidrented",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE PROPRIETOR",
+        "hi": "बयान · काग़ज़ों का मालिक"
+      },
+      "text": {
+        "en": "“Fifteen thousand for my name and five hundred a trip to stand at the counter. I signed where the finger pointed, I carried the cash out to a car, and I never once saw who was inside it.”",
+        "hi": "“अपने नाम के पंद्रह हज़ार और काउंटर पर खड़े होने के पाँच सौ प्रति फेरा। जहाँ उँगली रखी गई वहाँ दस्तख़त किए, नक़द उठाकर बाहर गाड़ी तक ले गया — और एक बार भी नहीं देखा कि उसमें बैठा कौन है।”"
+      }
+    },
+    {
+      "id": "saidquery",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE MUNIM",
+        "hi": "बयान · मुनीम"
+      },
+      "text": {
+        "en": "“I queried line twelve. An invoice came back the same afternoon, on a letterhead, with a stamp and a number. I have paid nineteen vendors on a great deal less than that.”",
+        "hi": "“मैंने पंक्ति बारह पर सवाल किया था। उसी दोपहर बिल लौट आया — लेटरहेड पर, मुहर और नंबर के साथ। मैंने उन्नीस वेंडरों को इससे कहीं कम पर भुगतान किया है।”"
+      }
+    },
+    {
+      "id": "saidsurvey",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE SURVEYOR",
+        "hi": "बयान · सर्वेयर"
+      },
+      "text": {
+        "en": "“A valuation four days older than the memo that let the set out of the shop. Somebody had that set valued for loss before it had been sent anywhere to be lost.”",
+        "hi": "“मूल्यांकन उस मेमो से चार दिन पुराना है जिससे सेट दुकान से निकला। यानी किसी ने उस सेट का नुक़सान के लिहाज़ से मूल्यांकन तब करा लिया, जब वह खोने के लिए कहीं भेजा भी नहीं गया था।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "lalit",
+      "name": {
+        "en": "Lalit Ameta",
+        "hi": "ललित अमेता"
+      },
+      "role": {
+        "en": "THE PROPRIETOR ON PAPER",
+        "hi": "काग़ज़ों का मालिक"
+      },
+      "hook": {
+        "en": "owns a firm he has never seen",
+        "hi": "उस फ़र्म का मालिक, जिसे उसने कभी देखा नहीं"
+      },
+      "confession": {
+        "en": "Rented out his name, his PAN and his Aadhaar for fifteen thousand rupees, opened a current account he never used, stood at a counter six times for five hundred a trip and carried six lakh forty thousand rupees out in cash to a car — and let a prepaid SIM be bought on the same papers.",
+        "hi": "अपना नाम, पैन और आधार पंद्रह हज़ार में किराए पर दिया, ऐसा चालू खाता खुलवाया जिसे उसने कभी इस्तेमाल नहीं किया, पाँच सौ प्रति फेरा पर छह बार काउंटर पर खड़ा हुआ और छह लाख चालीस हज़ार नक़द उठाकर एक गाड़ी तक पहुँचाए — और उन्हीं काग़ज़ों पर एक प्रीपेड सिम भी लेने दिया।"
+      }
+    },
+    {
+      "id": "suhani",
+      "name": {
+        "en": "Suhani Rathore",
+        "hi": "सुहानी राठौड़"
+      },
+      "role": {
+        "en": "THE WEDDING PLANNER",
+        "hi": "वेडिंग प्लानर"
+      },
+      "hook": {
+        "en": "the settlement is drawn and signed by her",
+        "hi": "हिसाब उसी का बनाया और उसी का दस्तख़त किया"
+      },
+      "alibi": {
+        "en": "She drew the statement, which is her job, and every vendor on it was appointed the way every vendor is. Her name is on no invoice, no account, no SIM and no certificate in this file.",
+        "hi": "हिसाब उसने बनाया — यह उसका काम है — और उस पर लिखा हर वेंडर उसी तरीक़े से तय हुआ जैसे हर वेंडर होता है। इस फ़ाइल के किसी बिल, किसी खाते, किसी सिम या किसी प्रमाणपत्र पर उसका नाम नहीं है।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "harshad",
+      "name": {
+        "en": "Harshad Soni",
+        "hi": "हर्षद सोनी"
+      },
+      "role": {
+        "en": "THE JEWELLER",
+        "hi": "सुनार"
+      },
+      "hook": {
+        "en": "the set was his, and so is the loss",
+        "hi": "सेट भी उसका था और घाटा भी"
+      },
+      "alibi": {
+        "en": "The claim is filed in the family’s name against a set that was still his stock, so the eleven lakh would never have reached him. He has been asking for that valuation certificate since Magh and nobody will show it to him.",
+        "hi": "दावा परिवार के नाम से उस सेट पर है जो अब भी उसका माल था — यानी ग्यारह लाख उस तक पहुँचते ही नहीं। वह माघ से वह मूल्यांकन प्रमाणपत्र माँग रहा है और कोई उसे दिखाने को तैयार नहीं।"
+      }
+    },
+    {
+      "id": "pramod",
+      "name": {
+        "en": "Pramod Jain",
+        "hi": "प्रमोद जैन"
+      },
+      "role": {
+        "en": "THE FAMILY MUNIM",
+        "hi": "परिवार का मुनीम"
+      },
+      "hook": {
+        "en": "released every rupee of the settlement",
+        "hi": "हिसाब का हर रुपया उसी ने छोड़ा"
+      },
+      "alibi": {
+        "en": "He is the only person who questioned line twelve at all, and he did it in writing before he paid. The query is still in the file, which is a strange thing for a man to leave behind him.",
+        "hi": "पंक्ति बारह पर सवाल उठाने वाला अकेला वही है, और उसने भुगतान से पहले लिखकर उठाया। वह सवाल आज भी फ़ाइल में है — जो पीछे छोड़ने के लिए अजीब चीज़ है।"
+      }
+    },
+    {
+      "id": "nirmala",
+      "name": {
+        "en": "Nirmala Bhat",
+        "hi": "निर्मला भट"
+      },
+      "role": {
+        "en": "THE INSURANCE SURVEYOR",
+        "hi": "बीमा सर्वेयर"
+      },
+      "hook": {
+        "en": "the eleven lakh will not move without her",
+        "hi": "उसके बिना ग्यारह लाख हिलेंगे नहीं"
+      },
+      "alibi": {
+        "en": "She could have passed the claim in a morning and taken her fee. Instead she laid two dates beside each other, stopped eleven lakh, and wrote down why.",
+        "hi": "वह एक सुबह में दावा पास करके अपनी फ़ीस ले सकती थी। उसके बजाय उसने दो तारीख़ें आमने-सामने रखीं, ग्यारह लाख रोके, और वजह लिखकर दी।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "kesarsingh",
+      "name": {
+        "en": "Kesar Singh",
+        "hi": "केसर सिंह"
+      },
+      "role": {
+        "en": "THE DECOR CONTRACTOR",
+        "hi": "सजावट ठेकेदार"
+      },
+      "hook": {
+        "en": "lost the job to a firm that does not exist",
+        "hi": "काम उस फ़र्म से हारा जो है ही नहीं"
+      },
+      "alibi": {
+        "en": "He quoted sixty thousand rupees less than the firm that won and has been shouting about it since Magh. Nobody invents a rival to lose money to.",
+        "hi": "जीतने वाली फ़र्म से साठ हज़ार कम भाव उसने दिया, और माघ से इसी पर चिल्ला रहा है। कोई अपने ही नुक़सान के लिए फ़र्ज़ी प्रतिद्वंद्वी नहीं गढ़ता।"
+      }
+    }
+  ],
+  "culpritId": "lalit",
+  "interrogations": [
+    {
+      "suspectId": "pramod",
+      "setting": {
+        "en": "The counting room, nineteen vendor files in a row and one of them thinner than the rest.",
+        "hi": "हिसाब कमरा, क़तार में उन्नीस वेंडर फ़ाइलें — और उनमें एक बाक़ी सबसे पतली।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You paid six lakh forty to a firm with no shop.",
+            "hi": "बिना दुकान वाली फ़र्म को आपने छह लाख चालीस दिए।"
+          },
+          "answer": {
+            "en": "“I paid against an invoice, a letterhead and a stamp, the way I pay everybody. I do not visit shops. Nobody in this trade visits shops.”",
+            "hi": "“मैंने बिल, लेटरहेड और मुहर देखकर भुगतान किया — जैसे सबको करता हूँ। मैं दुकानें देखने नहीं जाता। इस धंधे में कोई नहीं जाता।”"
+          },
+          "note": {
+            "en": "Which is precisely the hole a firm like this is built to sit in.",
+            "hi": "और ऐसी फ़र्म इसी छेद में बैठने के लिए बनाई जाती है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You queried it first.",
+            "hi": "आपने पहले सवाल भी किया था।"
+          },
+          "answer": {
+            "en": "“I queried line twelve. An invoice came back the same afternoon, on a letterhead, with a stamp and a number. I have paid nineteen vendors on a great deal less than that.”",
+            "hi": "“मैंने पंक्ति बारह पर सवाल किया था। उसी दोपहर बिल लौट आया — लेटरहेड पर, मुहर और नंबर के साथ। मैंने उन्नीस वेंडरों को इससे कहीं कम पर भुगतान किया है।”"
+          },
+          "needsClueId": "settlement",
+          "lockedHint": {
+            "en": "Pin the settlement. He answers documents; hand him the one with his own signature on the bottom.",
+            "hi": "आख़िरी हिसाब टाँगो। वह दस्तावेज़ों का जवाब देता है — वही दस्तावेज़ थमाओ जिसके नीचे उसके अपने दस्तख़त हैं।"
+          },
+          "unlocksClueId": "saidquery",
+          "note": {
+            "en": "Same afternoon. Somebody had a letterhead and a stamp within reach of a telephone.",
+            "hi": "उसी दोपहर। यानी किसी के पास फ़ोन की पहुँच में लेटरहेड और मुहर दोनों थे।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who told you the job had gone to them?",
+            "hi": "आपको किसने बताया कि काम उन्हें मिला?"
+          },
+          "answer": {
+            "en": "“Vendors are appointed by the planner’s office. I am handed a list. I have been handed a list for eleven seasons.”",
+            "hi": "“वेंडर प्लानर का दफ़्तर तय करता है। मुझे सूची थमा दी जाती है। ग्यारह सहालग से मुझे सूची ही थमाई जाती रही है।”"
+          },
+          "note": {
+            "en": "Eleven seasons of a list nobody checks, and this is the first season a name on it had no shop.",
+            "hi": "ग्यारह सहालग से ऐसी सूची, जिसे कोई जाँचता नहीं — और यह पहला सहालग है जब उसके किसी नाम की दुकान ही नहीं थी।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "harshad",
+      "setting": {
+        "en": "The shop in Bapu Bazaar, the memo book open at the sixth, a claim form untouched beside it.",
+        "hi": "बापू बाज़ार की दुकान, छह तारीख़ पर खुली मेमो बही, और बग़ल में बिना छुआ पड़ा दावा फ़ॉर्म।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who valued this set?",
+            "hi": "इस सेट का मूल्यांकन किसने किया?"
+          },
+          "answer": {
+            "en": "“Not me, and not anybody who asked me. It is my stock. I have wanted to see that certificate since Magh and I am still asking.”",
+            "hi": "“मैंने नहीं, और न किसी ऐसे ने जिसने मुझसे पूछा हो। माल मेरा है। वह प्रमाणपत्र माघ से देखना चाहता हूँ और अब तक माँग ही रहा हूँ।”"
+          },
+          "needsClueId": "valuation",
+          "lockedHint": {
+            "en": "Pin the valuation. He has been asking for this paper for two months — put it in his hands.",
+            "hi": "मूल्यांकन प्रमाणपत्र टाँगो। दो महीने से वह यही काग़ज़ माँग रहा है — उसके हाथ में रखो।"
+          },
+          "unlocksClueId": "saidsurvey",
+          "note": {
+            "en": "The second is four days before the sixth. On the second, that set was in his safe and nobody outside this shop knew it existed.",
+            "hi": "2 तारीख़ 6 से चार दिन पहले पड़ती है। 2 को वह सेट उसकी तिजोरी में था और इस दुकान के बाहर किसी को उसके होने की ख़बर तक नहीं थी।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who knew what was in that box before it left?",
+            "hi": "डिब्बा निकलने से पहले उसमें क्या है, यह किसे पता था?"
+          },
+          "answer": {
+            "en": "“Me, the boy, and the office that asked me to send a set of that value. They asked for the value first and the set afterwards.”",
+            "hi": "“मैं, वह लड़का, और वह दफ़्तर जिसने उतनी क़ीमत का सेट भेजने को कहा। उन्होंने पहले क़ीमत माँगी, सेट बाद में।”"
+          },
+          "note": {
+            "en": "The value first and the set afterwards. That is the order in which you plan a loss, not a gift.",
+            "hi": "पहले क़ीमत, बाद में सेट। नुक़सान इसी क्रम में तय किया जाता है, तोहफ़ा नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eleven lakh is claimed. How much reaches you?",
+            "hi": "दावा ग्यारह लाख का है। आप तक कितना पहुँचता है?"
+          },
+          "answer": {
+            "en": "“Nothing. The policy is in the family’s name. My set, their claim, their money. On an approval memo the loss stays mine until somebody signs, and nobody signed.”",
+            "hi": "“कुछ नहीं। पॉलिसी परिवार के नाम है। सेट मेरा, दावा उनका, पैसा उनका। अप्रूवल मेमो पर जब तक कोई दस्तख़त न करे, नुक़सान मेरा ही रहता है — और दस्तख़त किसी ने किए नहीं।”"
+          },
+          "needsClueId": "claim",
+          "lockedHint": {
+            "en": "Pin the claim file. He does not know what has been claimed in whose name; show him.",
+            "hi": "दावा फ़ाइल टाँगो। किसके नाम पर क्या दावा हुआ है, यह उसे पता ही नहीं — दिखाओ।"
+          },
+          "note": {
+            "en": "He goes very quiet. He has been carrying an eleven-lakh hole for two months while somebody else claimed it.",
+            "hi": "वह बिल्कुल चुप हो जाता है। दो महीने से वह ग्यारह लाख का छेद ढो रहा है, और दावा कोई और कर रहा था।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "lalit",
+      "setting": {
+        "en": "A rickshaw stand at Delhi Gate, a bank passbook in a plastic sleeve under the seat.",
+        "hi": "दिल्ली गेट का रिक्शा स्टैंड, और सीट के नीचे प्लास्टिक की थैली में रखी बैंक पासबुक।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What does Mewar Mandap Works do?",
+            "hi": "मेवाड़ मंडप वर्क्स करती क्या है?"
+          },
+          "answer": {
+            "en": "“Decor. Mandaps. Sir, I drive a rickshaw. I have never put up a mandap in my life.”",
+            "hi": "“सजावट। मंडप। साहब, मैं रिक्शा चलाता हूँ। मैंने ज़िंदगी में एक मंडप नहीं लगाया।”"
+          },
+          "needsClueId": "firm",
+          "lockedHint": {
+            "en": "Pin the firm. He will recite the word ‘decor’ until somebody shows him the shop his firm is registered at.",
+            "hi": "फ़र्म वाली बात टाँगो। जब तक कोई उसे वह दुकान न दिखाए जिस पते पर उसकी फ़र्म है, वह ‘सजावट’ रटता रहेगा।"
+          },
+          "note": {
+            "en": "He answered the question about the firm before he remembered he is the firm.",
+            "hi": "फ़र्म के बारे में जवाब उसने यह याद आने से पहले दे दिया कि फ़र्म वह ख़ुद है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Six trips to a bank counter.",
+            "hi": "बैंक काउंटर के छह फेरे।"
+          },
+          "answer": {
+            "en": "“Fifteen thousand for my name and five hundred a trip to stand at the counter. I signed where the finger pointed, I carried the cash out to a car, and I never once saw who was inside it.”",
+            "hi": "“अपने नाम के पंद्रह हज़ार और काउंटर पर खड़े होने के पाँच सौ प्रति फेरा। जहाँ उँगली रखी गई वहाँ दस्तख़त किए, नक़द उठाकर बाहर गाड़ी तक ले गया — और एक बार भी नहीं देखा कि उसमें बैठा कौन है।”"
+          },
+          "needsClueId": "account",
+          "lockedHint": {
+            "en": "Pin the current account. Six credits and six same-day cash withdrawals is a pattern he cannot call a coincidence.",
+            "hi": "चालू खाता टाँगो। छह जमा और उसी दिन छह नक़द निकासी — इसे वह इत्तेफ़ाक़ नहीं कह सकता।"
+          },
+          "unlocksClueId": "saidrented",
+          "note": {
+            "en": "Six lakh forty thousand rupees carried out of a bank by a man who was paid three thousand rupees to carry it.",
+            "hi": "छह लाख चालीस हज़ार बैंक से बाहर उस आदमी ने पहुँचाए, जिसे ले जाने के कुल तीन हज़ार मिले।"
+          }
+        },
+        {
+          "ask": {
+            "en": "These six invoices are signed in your name.",
+            "hi": "ये छह बिल आपके नाम से दस्तख़त हैं।"
+          },
+          "answer": {
+            "en": "“That is not my hand. Look at it. I write my name the way I was taught in a night class and it takes me a minute.”",
+            "hi": "“यह मेरा हाथ नहीं है। देख लीजिए। मैं अपना नाम वैसे लिखता हूँ जैसे रात की कक्षा में सिखाया था, और उसमें मुझे पूरा एक मिनट लगता है।”"
+          },
+          "needsClueId": "handwriting",
+          "lockedHint": {
+            "en": "Pin the invoice slip. He is right about the hand, and letting him be right names somebody else.",
+            "hi": "बिलों की लैब पर्ची टाँगो। हाथ के बारे में वह सही है — और उसे सही साबित होने देना किसी और का नाम खोलता है।"
+          },
+          "note": {
+            "en": "He is right. One machine, one hand, six invoices — and a hand that is not his and not the munim’s.",
+            "hi": "वह सही है। एक मशीन, एक हाथ, छह बिल — और वह हाथ न उसका है, न मुनीम का।"
+          }
+        },
+        {
+          "ask": {
+            "en": "A SIM was bought on your papers too.",
+            "hi": "आपके काग़ज़ों पर एक सिम भी लिया गया।"
+          },
+          "answer": {
+            "en": "“They took photocopies. Two sets. I remember because the shop charged me for them and I asked why I was paying.”",
+            "hi": "“उन्होंने फ़ोटोकॉपी ली थीं। दो सेट। याद है क्योंकि दुकान ने पैसे मुझसे लिए और मैंने पूछा था कि मैं क्यों दे रहा हूँ।”"
+          },
+          "needsClueId": "sim",
+          "lockedHint": {
+            "en": "Pin the SIM. He thinks he rented out one account; show him what else his name has been doing.",
+            "hi": "सिम वाली बात टाँगो। वह समझता है कि उसने एक खाता किराए पर दिया था — दिखाओ कि उसका नाम और क्या-क्या करता रहा।"
+          },
+          "note": {
+            "en": "The same name rented the account that took the money and the phone that arranged the dark. One set of papers, the whole season.",
+            "hi": "उसी नाम पर वह खाता भी किराए पर गया जिसमें पैसा आया, और वह फ़ोन भी जिससे अँधेरे का इंतज़ाम हुआ। एक ही काग़ज़, पूरा सहालग।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "suhani",
+      "setting": {
+        "en": "The planner’s office, the season over, nineteen closed files and a twentieth on the desk.",
+        "hi": "प्लानर का दफ़्तर, सहालग ख़त्म, उन्नीस बंद फ़ाइलें — और मेज़ पर बीसवीं।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who appointed Mewar Mandap Works?",
+            "hi": "मेवाड़ मंडप वर्क्स को किसने तय किया?"
+          },
+          "answer": {
+            "en": "“My office. We appoint forty vendors a season and I do not walk to forty shops. You are welcome to say I should.”",
+            "hi": "“मेरा दफ़्तर। हम सहालग में चालीस वेंडर तय करते हैं और मैं चालीस दुकानों तक पैदल नहीं जाती। आप कह सकती हैं कि मुझे जाना चाहिए।”"
+          },
+          "note": {
+            "en": "She concedes the failure and never the intent, and she does it faster every time.",
+            "hi": "लापरवाही वह मान लेती है, नीयत कभी नहीं — और हर बार पहले से जल्दी मान लेती है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Kesar Singh quoted sixty thousand less.",
+            "hi": "केसर सिंह ने साठ हज़ार कम भाव दिया था।"
+          },
+          "answer": {
+            "en": "“And Kesar Singh has been late on this lake twice. A cheaper man who arrives on the second day is not cheaper.”",
+            "hi": "“और केसर सिंह इस झील पर दो बार देर कर चुका है। जो सस्ता आदमी दूसरे दिन पहुँचे, वह सस्ता नहीं होता।”"
+          },
+          "note": {
+            "en": "She is defending paying sixty thousand more to a firm with no van, on grounds of reliability.",
+            "hi": "बिना गाड़ी वाली फ़र्म को साठ हज़ार ज़्यादा देने की सफ़ाई वह भरोसे के नाम पर दे रही है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who asked the jeweller for a set of that value?",
+            "hi": "सुनार से उतनी क़ीमत का सेट किसने माँगा?"
+          },
+          "answer": {
+            "en": "“The family gives me a figure and I find the thing. That is the work. It is the whole of the work.”",
+            "hi": "“परिवार मुझे एक आँकड़ा देता है और मैं चीज़ ढूँढ़ती हूँ। यही काम है। पूरा काम यही है।”"
+          },
+          "needsClueId": "valuation",
+          "lockedHint": {
+            "en": "Pin the valuation. The dates are the only thing in this room she has not had an answer ready for.",
+            "hi": "मूल्यांकन प्रमाणपत्र टाँगो। इस कमरे में सिर्फ़ यही तारीख़ें हैं जिनका तैयार जवाब उसके पास नहीं है।"
+          },
+          "note": {
+            "en": "The value was certified on the second. She asked the jeweller for the set on the fourth. She still has not said who ordered the valuation.",
+            "hi": "क़ीमत 2 तारीख़ को प्रमाणित हुई। सुनार से सेट उसने 4 को माँगा। और मूल्यांकन कराया किसने — यह उसने अब भी नहीं बताया।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "rent",
+      "correction": {
+        "en": "The contractor lost sixty thousand rupees to this firm and the surveyor stopped eleven lakh from moving. Fifteen thousand for a name and five hundred a trip is small, and small is exactly what a rented identity costs.",
+        "hi": "इस फ़र्म से ठेकेदार के साठ हज़ार गए और सर्वेयर ने ग्यारह लाख रोक दिए। नाम के पंद्रह हज़ार और पाँच सौ प्रति फेरा छोटी रक़म है — और किराए की पहचान की क़ीमत छोटी ही होती है।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidrented",
+      "correction": {
+        "en": "The munim never saw a shop and the jeweller never saw the certificate. Six lakh forty thousand rupees left a bank in cash because one man stood at a counter six times and signed where a finger pointed.",
+        "hi": "मुनीम ने दुकान कभी देखी नहीं और सुनार ने प्रमाणपत्र कभी देखा नहीं। छह लाख चालीस हज़ार बैंक से नक़द इसलिए निकले कि एक आदमी छह बार काउंटर पर खड़ा हुआ और जहाँ उँगली रखी गई वहाँ दस्तख़त कर दिए।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidquery",
+      "correction": {
+        "en": "Nothing had to be smuggled past anybody. A query was raised and an invoice came back the same afternoon on a letterhead with a stamp — and in this trade a letterhead with a stamp is the end of every question that has ever been asked.",
+        "hi": "किसी की नज़र बचाकर कुछ ले जाना ही नहीं पड़ा। सवाल उठा और उसी दोपहर लेटरहेड पर, मुहर के साथ बिल लौट आया — और इस धंधे में मुहर लगा लेटरहेड हर सवाल का आख़िरी जवाब होता है।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "settlement",
+    "toClueId": "firm",
+    "text": {
+      "en": "Nineteen names were paid and eighteen of them have a shop you can stand outside. Take the odd one’s address and go and stand outside that.",
+      "hi": "उन्नीस नाम चुकाए गए और अठारह की ऐसी दुकान है जिसके बाहर खड़ा हुआ जा सकता है। बाक़ी बचे नाम का पता लो और जाकर उसके बाहर खड़े हो जाओ।"
+    }
+  },
+  "bankedClue": {
+    "en": "A final settlement paying a decor firm that has no shop, no GST and no second job",
+    "hi": "आख़िरी हिसाब, जिसमें ऐसी सजावट फ़र्म को पैसा गया जिसकी न दुकान है, न जीएसटी, न कोई दूसरा काम"
+  }
+}

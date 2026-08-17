@@ -17,6 +17,11 @@
   "photoCaption": {
     "en": "the stand, 2:05 am"
   },
+  "art": {
+    "ground": "lane",
+    "light": "night",
+    "props": ["rickshaw", "lampPost", "pigeons"]
+  },
   "iraNote": {
     "en": "“The saddle was wound down four turns. Find me somebody who can’t reach the pedals.”"
   },

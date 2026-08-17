@@ -1,0 +1,247 @@
+{
+  "id": "sambhar-salt-and-silence",
+  "schema": 1,
+  "region": "rajasthan",
+  "city": "sambhar",
+  "number": 7,
+  "unlockStars": 78,
+  "title": {
+    "en": "Salt and Silence",
+    "hi": "नमक और चुप्पी"
+  },
+  "blurb": {
+    "en": "6 cases · two hundred and fourteen names on a muster, a hundred and fifty-one pairs of boots out of the store, and a weighbridge that only lies one way",
+    "hi": "6 केस · हाज़िरी में दो सौ चौदह नाम, भंडार से निकले एक सौ इक्यावन जोड़ी बूट, और एक काँटा जो झूठ सिर्फ़ एक तरफ़ बोलता है"
+  },
+  "cases": [
+    "sambhar-a-hundred-and-fifty-one-pairs",
+    "sambhar-the-eleventh-day",
+    "sambhar-from-the-nawa-side",
+    "sambhar-the-fourth-advance",
+    "sambhar-fifty-metres-outside",
+    "sambhar-the-allowed-loss"
+  ],
+  "finale": {
+    "mastermindId": "mahaveer",
+    "reveal": {
+      "en": "Mahaveer Prasad Choudhary?",
+      "hi": "महावीर प्रसाद चौधरी?"
+    },
+    "threads": [
+      {
+        "caseNumber": 1,
+        "pointsAt": "kailash",
+        "text": {
+          "en": "A welfare issue sheet countersigned for two hundred and fourteen pairs of gumboots, when a hundred and fifty-one pairs left the room",
+          "hi": "कल्याण भंडार की वह इशू शीट, जिस पर दो सौ चौदह जोड़ी गमबूट के लिए प्रतिहस्ताक्षर हैं — जबकि कमरे से एक सौ इक्यावन जोड़ी निकले"
+        },
+        "short": {
+          "en": "the boot sheet, countersigned",
+          "hi": "बूट की शीट, प्रतिहस्ताक्षरित"
+        },
+        "pending": {
+          "en": "A Hundred and Fifty-One Pairs will turn up the first thread",
+          "hi": "एक सौ इक्यावन जोड़ी पहला सिरा निकालेगा"
+        },
+        "misread": {
+          "en": "Nothing leaves that store without his second signature, and for nine years he has put it under a total he has never once stood and counted. That is his failure and he has stopped pretending otherwise. Now ask why a man on his fourteenth eighty-nine-day contract, with a three-day gap punched into his service after every one of them, would go and count anything.",
+          "hi": "उस भंडार से कुछ भी उसके दूसरे दस्तख़त के बिना नहीं निकलता, और नौ साल से वह हर कुल जोड़ के नीचे दस्तख़त करता आया है — बिना एक बार खड़े होकर गिने। यह उसकी चूक है और अब वह इससे मुकरता भी नहीं। अब पूछो कि जो आदमी अपनी चौदहवीं नवासी-दिन की नियुक्ति पर है, और हर नियुक्ति के बाद जिसकी सेवा में तीन दिन का गड्ढा ठोक दिया जाता है, वह गिनने जाएगा ही क्यों।"
+        }
+      },
+      {
+        "caseNumber": 2,
+        "pointsAt": "ratni",
+        "text": {
+          "en": "A gang hazri that carried a man's name for a hundred and sixty-three days after he walked, marked at the foot by the gang leader",
+          "hi": "गैंग की वह हाज़िरी, जो एक आदमी के चले जाने के बाद भी एक सौ तिरसठ दिन उसका नाम ढोती रही — और नीचे जमादारनी का निशान लगा है"
+        },
+        "short": {
+          "en": "the hazri, her mark",
+          "hi": "हाज़िरी, उसका निशान"
+        },
+        "pending": {
+          "en": "The Eleventh Day holds the second thread",
+          "hi": "ग्यारहवें दिन में दूसरा सिरा है"
+        },
+        "misread": {
+          "en": "Her mark is at the foot of every sheet that carried Nanu Ram for five and a half months, and she has never denied putting it there. She has also never been able to read one word above it, which is why she was made gang leader over four women who can. Ask who chose an illiterate jamadarni for the biggest gang on the eastern flat, and ask what the other four gangs' leaders have in common with her.",
+          "hi": "जिन-जिन शीटों ने नानू राम को साढ़े पाँच महीने ढोया, उन सबके नीचे उसका निशान है — और उसने कभी नहीं कहा कि निशान उसने नहीं लगाया। यह भी सच है कि उसके ऊपर लिखा एक शब्द वह कभी नहीं पढ़ सकी, और चार पढ़ी-लिखी औरतों के ऊपर उसे जमादारनी इसीलिए बनाया गया। पूछो कि पूरब के मैदान की सबसे बड़ी गैंग के लिए एक अनपढ़ जमादारनी किसने चुनी — और यह भी कि बाक़ी चार गैंगों की जमादारनियों में उसके साथ कौन-सी बात एक जैसी है।"
+        }
+      },
+      {
+        "caseNumber": 3,
+        "pointsAt": "ramniwas",
+        "text": {
+          "en": "Two hundred and ninety-one weighment slips in the weighman's own book, every one of them light, every one a lorry that came in from Nawa",
+          "hi": "काँटा बाबू की अपनी बही में दो सौ इक्यानवे तौल पर्चियाँ — हर एक कम की, और हर एक उस लॉरी की जो नावाँ की तरफ़ से चढ़ी"
+        },
+        "short": {
+          "en": "the slips, all light",
+          "hi": "पर्चियाँ, सब कम की"
+        },
+        "pending": {
+          "en": "From the Nawa Side will say whose book the light loads sit in",
+          "hi": "नावाँ की तरफ़ से बताएगा कि कम तुली लॉरियाँ किसकी बही में बैठी हैं"
+        },
+        "misread": {
+          "en": "He wrote every one of those slips, he told every one of those drivers which ramp to use, and he took fifteen hundred rupees a month for it — all of which he has said out loud without being asked twice. He did not put a shim under a load cell and he could not read a load cell if you handed him one. Ask who paid the mechanic forty thousand rupees in Magh, and ask what a weighman is worth to a man who owns both the lorries and the salt on them.",
+          "hi": "वे सारी पर्चियाँ उसी ने लिखीं, हर ड्राइवर को रैंप उसी ने बताया, और इसके पंद्रह सौ रुपये महीना उसने लिए — यह सब उसने बिना दोबारा पूछे ख़ुद कह दिया। लोड सेल के नीचे पत्ती उसने नहीं लगाई, और लोड सेल हाथ में देकर पढ़ने को कहो तो वह पढ़ भी नहीं सकता। पूछो कि माघ में मिस्त्री को चालीस हज़ार किसने दिए — और यह भी कि जिस आदमी की लॉरियाँ भी अपनी हैं और उन पर लदा नमक भी, उसके लिए एक काँटा बाबू की क़ीमत क्या है।"
+        }
+      },
+      {
+        "caseNumber": 4,
+        "pointsAt": "mahaveer",
+        "text": {
+          "en": "An advance register kept in the contractor's own almirah — four receipts against one thumb, and the interest column in his own hand",
+          "hi": "ठेकेदार की अपनी अलमारी में रखी पेशगी की बही — एक ही अंगूठे पर चार रसीदें, और ब्याज का ख़ाना उसी की लिखाई में"
+        },
+        "short": {
+          "en": "the advance register",
+          "hi": "पेशगी की बही"
+        },
+        "pending": {
+          "en": "The Fourth Advance holds the fourth thread",
+          "hi": "चौथी पेशगी में चौथा सिरा है"
+        },
+        "misread": {
+          "en": "The munim wrote three advances that were never paid and pocketed the money, and he will answer for fifteen thousand rupees to the last note. The register he wrote them in is not his. It lives in a contractor's almirah, the chest it draws on is a contractor's chest, and the five per cent a month that turns twenty thousand rupees into a life is written down the margin in a hand no munim has.",
+          "hi": "मुनीम ने तीन पेशगियाँ लिखीं जो कभी दी ही नहीं गईं, और पैसा अपनी जेब में डाला — पंद्रह हज़ार का हिसाब वह आख़िरी नोट तक देगा। पर जिस बही में उसने लिखा, वह उसकी नहीं है। वह बही एक ठेकेदार की अलमारी में रहती है, जिस तिजोरी से पैसा निकलता है वह ठेकेदार की है, और जो पाँच फ़ीसदी महीना बीस हज़ार को पूरी ज़िंदगी बना देता है, वह हाशिये पर जिस हाथ से लिखा है, वैसा हाथ किसी मुनीम का नहीं होता।"
+        }
+      },
+      {
+        "caseNumber": 5,
+        "pointsAt": "bhoop",
+        "text": {
+          "en": "A gate entry rewritten to put a boy's death fifty metres outside the wall, in the security supervisor's hand and over his own signature",
+          "hi": "गेट की वह प्रविष्टि, जो दोबारा लिखकर एक लड़के की मौत को दीवार से पचास मीटर बाहर कर देती है — सुरक्षा पर्यवेक्षक की लिखाई में और उसी के दस्तख़त के नीचे"
+        },
+        "short": {
+          "en": "the gate entry, rewritten",
+          "hi": "गेट की प्रविष्टि, दोबारा लिखी"
+        },
+        "pending": {
+          "en": "Fifty Metres Outside holds the fifth thread",
+          "hi": "पचास मीटर बाहर में पाँचवाँ सिरा है"
+        },
+        "misread": {
+          "en": "He rewrote a page and then sold the rewriting back to the only other man who knew about it, two thousand rupees a month for forty-one months, and there is nothing to be said for him. But a security supervisor does not decide where a lorry was standing. The lorry was standing inside the works because it was loading, and it belongs to the man whose salt it was loading.",
+          "hi": "उसने एक पन्ना दोबारा लिखा और फिर उसी दोबारा-लिखे को उसी दूसरे आदमी को बेचा जो इसे जानता था — दो हज़ार महीना, इकतालीस महीने — और उसके पक्ष में कहने को कुछ नहीं है। पर लॉरी कहाँ खड़ी थी, यह तय करना किसी सुरक्षा पर्यवेक्षक का काम नहीं है। लॉरी वर्क्स के भीतर इसलिए खड़ी थी कि वह लद रही थी — और वह उसी आदमी की है, जिसका नमक उस पर लद रहा था।"
+        }
+      },
+      {
+        "caseNumber": 6,
+        "pointsAt": "mahaveer",
+        "text": {
+          "en": "Six seasons of loss certificates, each signed by the harvesting contractor, each landing inside a tenth of a per cent of the ceiling the works allows",
+          "hi": "छह सीज़न के नुक़सान प्रमाणपत्र — हर एक पर कटाई ठेकेदार के दस्तख़त, और हर एक वर्क्स की तय अधिकतम सीमा से दसवें हिस्से के भीतर"
+        },
+        "short": {
+          "en": "six years at the ceiling",
+          "hi": "छह साल, हर बार सीमा पर"
+        },
+        "pending": {
+          "en": "The Allowed Loss holds the last thread",
+          "hi": "मंज़ूर नुक़सान में आख़िरी सिरा है"
+        },
+        "misread": {
+          "en": "The measurement clerk moved a constant in a manual and eleven heaps got smaller without anybody touching them, and he took eight thousand rupees a season to do it. That is a clerk's crime and it is worth a clerk's money. Underneath it are six years of a loss allowance that never once came in under the ceiling and never once went over — because a loss is a thing that happens to you, and this one had a budget.",
+          "hi": "माप बाबू ने एक नियमावली में एक स्थिरांक बदल दिया और बिना किसी के छुए ग्यारह ढेर छोटे हो गए — इसके उसने सीज़न के आठ हज़ार लिए। यह एक बाबू का जुर्म है और इसकी क़ीमत भी बाबू जितनी है। इसके नीचे छह साल का वह मंज़ूर नुक़सान पड़ा है, जो न कभी सीमा से नीचे रहा और न कभी ऊपर गया — क्योंकि नुक़सान वह होता है जो आप पर बीतता है, और इसका तो बजट बना हुआ था।"
+        }
+      }
+    ],
+    "suspects": [
+      {
+        "id": "mahaveer",
+        "name": {
+          "en": "Mahaveer Prasad Choudhary",
+          "hi": "महावीर प्रसाद चौधरी"
+        },
+        "role": {
+          "en": "THE LABOUR CONTRACTOR",
+          "hi": "श्रम ठेकेदार"
+        },
+        "dossier": {
+          "en": "holds the labour contract for kyars one to twenty-four on the eastern flat, and has held it six seasons running · musters two hundred and fourteen hands and pays every one of them in cash, at his own table, in his own compound · owns the two lorries that carry the eastern salt and stands surety for the kanta they cross",
+          "hi": "पूरब के मैदान की क्यारी एक से चौबीस तक का श्रम ठेका उसी के पास है, और लगातार छह सीज़न से है · हाज़िरी में दो सौ चौदह हाथ, और हर एक को नक़द — अपनी मेज़ पर, अपने अहाते में · पूरब का नमक ढोने वाली दोनों लॉरियाँ उसकी हैं, और जिस काँटे से वे गुज़रती हैं उसकी ज़मानत भी उसी की है"
+        }
+      },
+      {
+        "id": "kailash",
+        "name": {
+          "en": "Kailash Chandra Bhargava",
+          "hi": "कैलाश चंद्र भार्गव"
+        },
+        "role": {
+          "en": "THE TIME-KEEPER",
+          "hi": "समय-लिपिक"
+        },
+        "dossier": {
+          "en": "keeps the works' side of the muster and countersigns every welfare issue, nine years of it · wrote three complaints about the eastern muster in Chaitra, Vaishakh and Jyeshtha, and none since · is on his fourteenth consecutive eighty-nine-day appointment, each one with a three-day break punched into his service",
+          "hi": "हाज़िरी का वर्क्स वाला पक्ष उसी के पास है और हर कल्याण वितरण पर प्रतिहस्ताक्षर उसी के — नौ साल से · पूरब की हाज़िरी को लेकर चैत, वैशाख और जेठ में तीन शिकायतें लिखीं, उसके बाद एक भी नहीं · लगातार चौदहवीं नवासी-दिन की नियुक्ति पर है, और हर नियुक्ति के बाद उसकी सेवा में तीन दिन का गड्ढा ठोका गया है"
+        },
+        "cleared": {
+          "en": "He wrote three complaints in three months and was answered by a service book with fourteen holes punched in it. Nobody ever threatened him and nobody had to: a man who can be ended by not being renewed does not need to be told anything. His signature is on all of it and none of it was his to gain from.",
+          "hi": "तीन महीने में उसने तीन शिकायतें लिखीं, और जवाब में उसे चौदह छेदों वाली सेवा पुस्तिका मिली। धमकी उसे किसी ने नहीं दी, देनी भी नहीं पड़ी — जिस आदमी को ख़त्म करने के लिए बस नवीनीकरण न करना काफ़ी हो, उसे कुछ कहना नहीं पड़ता। दस्तख़त उसके हर जगह हैं, और उनमें से एक भी उसके फ़ायदे का नहीं था।"
+        }
+      },
+      {
+        "id": "ramniwas",
+        "name": {
+          "en": "Ramniwas Saini",
+          "hi": "रामनिवास सैनी"
+        },
+        "role": {
+          "en": "THE WEIGHMAN",
+          "hi": "काँटा बाबू"
+        },
+        "dossier": {
+          "en": "eleven years on the works' kanta and has not taken a day of casual leave in four of them · refused a despatch clerk's post in Vaishakh that would have paid two thousand more and moved him off the platform · attested the panchnama of a lorry cleaner's death in Magh four years ago and has been paying for it since, two thousand rupees a month",
+          "hi": "वर्क्स के काँटे पर ग्यारह साल, और उनमें से चार साल से एक दिन की आकस्मिक छुट्टी नहीं ली · वैशाख में डिस्पैच बाबू की वह जगह ठुकरा दी जो दो हज़ार ज़्यादा देती और उसे प्लेटफ़ॉर्म से हटा देती · चार साल पहले माघ में एक लॉरी क्लीनर की मौत के पंचनामे पर गवाही दी, और तब से उसकी क़ीमत भर रहा है — दो हज़ार रुपये महीना"
+        },
+        "cleared": {
+          "en": "He told two hundred and ninety-one drivers which ramp to use and took fifteen hundred a month for it, and he will answer for that. He also has not slept a full night since a boy went under a tailboard in front of him and he signed a paper saying it happened on a road he can see from his window. The men who own that lorry and that paper have slept fine.",
+          "hi": "दो सौ इक्यानवे ड्राइवरों को उसने रैंप बताया और इसके पंद्रह सौ महीना लिए — इसका जवाब वह देगा। यह भी सच है कि जिस रात उसकी आँखों के सामने एक लड़का तख़्ते के नीचे आया और उसने काग़ज़ पर लिख दिया कि यह उस सड़क पर हुआ जो उसकी खिड़की से दिखती है, उस रात के बाद वह पूरी नींद नहीं सोया। जिनकी वह लॉरी है और जिनका वह काग़ज़ है, वे ठीक से सोते रहे हैं।"
+        }
+      },
+      {
+        "id": "ratni",
+        "name": {
+          "en": "Ratni Devi",
+          "hi": "रतनी देवी"
+        },
+        "role": {
+          "en": "THE GANG LEADER",
+          "hi": "जमादारनी"
+        },
+        "feminine": true,
+        "dossier": {
+          "en": "leads the biggest harvesting gang on the eastern flat, forty-one hands, and has led it four seasons · marks the gang's hazri at the foot of every sheet with a thumb because she cannot read the line above it · was made jamadarni over four women in her own gang who can read, and has never been told why",
+          "hi": "पूरब के मैदान की सबसे बड़ी कटाई गैंग — इकतालीस हाथ — चार सीज़न से उसी के नीचे · हर शीट के नीचे गैंग की हाज़िरी पर अंगूठा लगाती है, क्योंकि ऊपर लिखी पंक्ति वह पढ़ नहीं सकती · अपनी ही गैंग की चार पढ़ी-लिखी औरतों के ऊपर जमादारनी बनाई गई, और वजह उसे आज तक किसी ने नहीं बताई"
+        },
+        "cleared": {
+          "en": "Her thumb is at the foot of a hundred and sixty-three days of a dead-looking man's attendance and she has never once known what was written above it. There are four women in her own gang who could have read it to her, which is the entire reason the gang was given to her and not to them. She has been paid three hundred rupees a season for the use of her thumb.",
+          "hi": "एक सौ तिरसठ दिन की उस हाज़िरी के नीचे उसका अंगूठा है, जिसका आदमी कब का जा चुका था — और ऊपर क्या लिखा था, यह उसे एक बार भी पता नहीं चला। उसकी अपनी गैंग में चार औरतें हैं जो उसे पढ़कर सुना सकती थीं, और गैंग उन्हें न देकर उसे देने की पूरी वजह यही है। अपने अंगूठे के इस्तेमाल के उसे सीज़न के तीन सौ रुपये मिले हैं।"
+        }
+      },
+      {
+        "id": "bhoop",
+        "name": {
+          "en": "Bhoop Singh Shekhawat",
+          "hi": "भूप सिंह शेखावत"
+        },
+        "role": {
+          "en": "THE SECURITY SUPERVISOR",
+          "hi": "सुरक्षा पर्यवेक्षक"
+        },
+        "dossier": {
+          "en": "keeps the gate register, the vehicle log and the works' only wall clock that is ever believed · rewrote the entry of Magh 14 four years ago so a lorry that was loading inside the works was standing on the Gudha road · has taken two thousand rupees a month from a weighman for forty-one months, and not one rupee from anybody else",
+          "hi": "गेट रजिस्टर, गाड़ियों का लॉग और वर्क्स की वह इकलौती दीवार-घड़ी जिस पर कोई यक़ीन करता है — तीनों उसी के ज़िम्मे · चार साल पहले माघ 14 की प्रविष्टि उसने दोबारा लिखी, ताकि वर्क्स के भीतर लद रही लॉरी गूढ़ा रोड पर खड़ी हो जाए · इकतालीस महीने से एक काँटा बाबू से दो हज़ार रुपये महीना लेता आया है, और किसी और से एक रुपया नहीं"
+        },
+        "cleared": {
+          "en": "He sold one man's silence back to him for forty-one months and there is nothing in his favour except this: he was told what to write before he wrote it, and the telling came from the owner of the lorry. He kept the first draft of that page for four years. A man who intends to be the author of a thing does not keep the version that names somebody else.",
+          "hi": "इकतालीस महीने तक उसने एक आदमी की चुप्पी उसी को बेची, और उसके पक्ष में सिवाय इसके कुछ नहीं: जो लिखा, वह उसे लिखने से पहले बता दिया गया था — और बताने वाला उस लॉरी का मालिक था। उस पन्ने का पहला मसौदा उसने चार साल सँभालकर रखा। जो आदमी किसी बात का लेखक बनना चाहता हो, वह वह मसौदा नहीं रखता जिसमें नाम किसी और का है।"
+        }
+      }
+    ]
+  }
+}

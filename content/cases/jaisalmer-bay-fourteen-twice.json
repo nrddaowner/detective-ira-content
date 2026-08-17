@@ -1,0 +1,509 @@
+{
+  "id": "jaisalmer-bay-fourteen-twice",
+  "schema": 1,
+  "city": "jaisalmer",
+  "genre": "forgery",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jaisalmer-havelis",
+    "caseNumber": 6
+  },
+  "title": {
+    "en": "Bay Fourteen, Twice",
+    "hi": "बाय चौदह, दो बार"
+  },
+  "place": {
+    "en": "The site office, the photograph file · Kartik 2, 4:20 PM",
+    "hi": "साइट दफ़्तर, फ़ोटो फ़ाइल · कार्तिक 2, 4:20 PM"
+  },
+  "brief": {
+    "en": "Running bill four was released against the Bhadra progress report, and that report claims forty-one metres and three bays complete. The site’s own stoppage register shows nineteen days of Bhadra lost to rain. Two frames in the report, dated six weeks apart, carry the same pigeon on the same bracket in the same posture with the same shadow under it. They are numbered four four one seven and four four one nine, and the card says they were taken eleven seconds apart.",
+    "hi": "चौथा चालू बिल भादों की प्रगति रिपोर्ट पर छूटा, और वह रिपोर्ट इकतालीस मीटर और तीन बाय पूरे होने का दावा करती है। साइट की अपनी बंदी पंजी बताती है कि भादों के उन्नीस दिन बारिश में गए। रिपोर्ट के दो फ़ोटो, जिन पर छह हफ़्ते के फ़ासले की तारीख़ें हैं, उसी कंगनी पर उसी मुद्रा में वही कबूतर और उसके नीचे वही छाया लिए हुए हैं। उनके नंबर चार हज़ार चार सौ सत्रह और चार हज़ार चार सौ उन्नीस हैं, और कार्ड कहता है कि वे ग्यारह सेकंड के अंतर पर खींचे गए।"
+  },
+  "photoCaption": {
+    "en": "two frames, eleven seconds apart",
+    "hi": "दो फ़ोटो, ग्यारह सेकंड के फ़ासले पर"
+  },
+  "iraNote": {
+    "en": "“A photograph does not know what day it is. Everything in this file believes a slate, and a slate is a thing you wipe.”",
+    "hi": "“फ़ोटो को नहीं पता होता कि आज कौन दिन है। इस फ़ाइल की हर चीज़ एक स्लेट पर भरोसा करती है — और स्लेट वह चीज़ है जिसे पोंछ दिया जाता है।”"
+  },
+  "clues": [
+    {
+      "id": "shadow",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE SHADOW OF THE ROD",
+        "hi": "छड़ी की छाया"
+      },
+      "text": {
+        "en": "The scale rod’s shadow falls at the same angle to within a degree in both frames. Between Shravan twenty-four and Ashwin six the sun drops enough at this latitude to lengthen that shadow by four inches, and it has not moved at all.",
+        "hi": "दोनों फ़ोटो में नाप की छड़ी की छाया एक डिग्री के भीतर एक ही कोण पर पड़ रही है। सावन चौबीस और आश्विन छह के बीच इस अक्षांश पर सूरज इतना ढल जाता है कि वह छाया चार इंच लंबी हो जाए — और वह ज़रा भी नहीं हिली है।"
+      }
+    },
+    {
+      "id": "board",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE DATE BOARD",
+        "hi": "तारीख़ पट्टी"
+      },
+      "text": {
+        "en": "A slate held in the frame with the date in chalk. The same thumb smudge sits in the bottom right corner of both boards, and under the second date the ghost of the first has not quite come off the slate.",
+        "hi": "फ़ोटो में पकड़ी हुई एक स्लेट, जिस पर चॉक से तारीख़ लिखी है। दोनों पट्टियों के नीचे दाएँ कोने में वही अंगूठे का धब्बा है, और दूसरी तारीख़ के नीचे पहली का धुँधला निशान स्लेट से पूरी तरह छूटा ही नहीं है।"
+      }
+    },
+    {
+      "id": "pigeon",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE PIGEON ON THE BRACKET",
+        "hi": "कंगनी पर कबूतर"
+      },
+      "text": {
+        "en": "The same bird on the same bracket in both frames, head turned the same way, one foot up, and the same small shadow beneath it. Six weeks is a long time for a pigeon to hold a pose.",
+        "hi": "दोनों फ़ोटो में उसी कंगनी पर वही पक्षी — सिर उसी तरफ़ मुड़ा, एक पैर उठा, और नीचे वही छोटी छाया। किसी कबूतर के लिए छह हफ़्ते एक ही मुद्रा में टिके रहना बहुत लंबा वक़्त है।"
+      }
+    },
+    {
+      "id": "frames",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE CAMERA’S OWN NUMBERS",
+        "hi": "कैमरे के अपने नंबर"
+      },
+      "text": {
+        "en": "Frame four four one seven sits in the Shravan report and frame four four one nine in the Ashwin one. A camera numbers its frames in the order it takes them, and the card puts eleven seconds between these two.",
+        "hi": "फ़ोटो चार हज़ार चार सौ सत्रह सावन की रिपोर्ट में है और चार हज़ार चार सौ उन्नीस आश्विन की रिपोर्ट में। कैमरा फ़ोटो को उसी क्रम में गिनता है जिस क्रम में खींचता है — और कार्ड इन दोनों के बीच ग्यारह सेकंड रखता है।"
+      }
+    },
+    {
+      "id": "stoppage",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "NINETEEN DAYS LOST",
+        "hi": "उन्नीस दिन बंद"
+      },
+      "text": {
+        "en": "Nineteen working days of Bhadra written off to rain in the site’s stoppage register, and Rewat Singh Bhati’s store issued no lime, no surkhi and no stone on any of them. The Bhadra report claims forty-one metres and three bays.",
+        "hi": "साइट की बंदी पंजी में भादों के उन्नीस कार्यदिवस बारिश में लिखे गए, और उनमें से किसी दिन रेवत सिंह भाटी के भंडार से न चूना निकला, न सुरखी, न पत्थर। भादों की रिपोर्ट इकतालीस मीटर और तीन बाय का दावा करती है।"
+      }
+    },
+    {
+      "id": "paidper",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "SIX THOUSAND A REPORT",
+        "hi": "एक रिपोर्ट के छह हज़ार"
+      },
+      "text": {
+        "en": "The photographer’s own contract: six thousand rupees a monthly report, twelve reports a year, and a report is not accepted without one frame for every bay under work. A month with no frames is a month with no fee.",
+        "hi": "फ़ोटोग्राफ़र का अपना ठेका: महीने की रिपोर्ट के छह हज़ार रुपए, साल की बारह रिपोर्ट — और जिस बाय पर काम चल रहा हो, उसका एक फ़ोटो बिना रिपोर्ट मंज़ूर नहीं होती। जिस महीने फ़ोटो नहीं, उस महीने पैसा नहीं।"
+      }
+    },
+    {
+      "id": "bill",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHAT THE PHOTOGRAPHS PAID",
+        "hi": "फ़ोटो से क्या छूटा"
+      },
+      "text": {
+        "en": "Running bill four, eleven lakh sixty, released by the trust on Ashwin two against the Bhadra report. The metres were real and they were cut in Ashwin, three weeks after the month that was paid for them.",
+        "hi": "चौथा चालू बिल, ग्यारह लाख साठ, ट्रस्ट ने आश्विन दो को भादों की रिपोर्ट पर छोड़ा। मीटर सच्चे थे और वे आश्विन में बने — यानी जिस महीने के नाम पर पैसा छूटा, उससे तीन हफ़्ते बाद।"
+      }
+    },
+    {
+      "id": "bayninephoto",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "BAY NINE, THREE WEEKS LATE",
+        "hi": "बाय नौ, तीन हफ़्ते देर से"
+      },
+      "text": {
+        "en": "A frame in the same file, dated Bhadra twenty-three, with bay nine’s original jali still standing in the wall. The replacement schedule wrote that jali off on Bhadra two, and debris challan forty-one carried it out of the gate on Bhadra sixteen.",
+        "hi": "उसी फ़ाइल का एक फ़ोटो, तारीख़ भादों तेईस, और उसमें बाय नौ की असली जाली अब भी दीवार में खड़ी है। प्रतिस्थापन सूची ने उस जाली को भादों दो को ‘मरम्मत से बाहर’ लिखा था, और मलबा चालान इकतालीस उसे भादों सोलह को गेट से बाहर ले गया था।"
+      }
+    },
+    {
+      "id": "tarapass",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO PASSED THE REPORT",
+        "hi": "रिपोर्ट किसने पास की"
+      },
+      "text": {
+        "en": "Tara Chand certified forty-one metres and three bays against the Bhadra report.",
+        "hi": "तारा चंद ने भादों की रिपोर्ट पर इकतालीस मीटर और तीन बाय प्रमाणित किए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he measured forty-one real metres on a real wall, and he measured them in Ashwin; the month written at the top of the report is the photographer’s column and never his",
+        "hi": "ख़ारिज — उसने असली दीवार पर इकतालीस असली मीटर नापे, और नापे आश्विन में; रिपोर्ट के सिरे पर लिखा महीना फ़ोटोग्राफ़र का ख़ाना है, उसका कभी नहीं"
+      }
+    },
+    {
+      "id": "rewatstore",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE STORE ON THOSE NINETEEN DAYS",
+        "hi": "उन उन्नीस दिनों का भंडार"
+      },
+      "text": {
+        "en": "Rewat Singh Bhati’s issue register is blank for all nineteen of the lost days.",
+        "hi": "रेवत सिंह भाटी की निर्गम पंजी उन उन्नीसों बंद दिनों में कोरी है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nineteen blank days in his own book are what proved the report wrong; a man covering a false month does not leave the month empty in the one register that can contradict it",
+        "hi": "ख़ारिज — उसकी अपनी बही के उन्नीस कोरे दिन ही रिपोर्ट को झूठा साबित करते हैं; झूठा महीना ढँकने वाला उस अकेली पंजी में महीना कोरा नहीं छोड़ता जो उसे काट सकती है"
+      }
+    },
+    {
+      "id": "sugnasign",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO RELEASED THE MONEY",
+        "hi": "पैसा किसने छोड़ा"
+      },
+      "text": {
+        "en": "Sugna Kanwar released eleven lakh sixty on Ashwin two on the trust’s cheque.",
+        "hi": "सुगना कंवर ने आश्विन दो को ट्रस्ट के चेक से ग्यारह लाख साठ छोड़े।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she releases against an engineer’s certificate and an accountant’s note and she asked for both and got both; the trust is the one losing money three weeks early",
+        "hi": "ख़ारिज — वह इंजीनियर के प्रमाण-पत्र और लेखाकार की टिप्पणी पर पैसा छोड़ती हैं, और दोनों उन्होंने माँगे भी और मिले भी; तीन हफ़्ते पहले पैसा गँवाने वाला तो ट्रस्ट ही है"
+      }
+    },
+    {
+      "id": "camera",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE CAMERA’S CLOCK",
+        "hi": "कैमरे की घड़ी"
+      },
+      "text": {
+        "en": "The camera’s clock ran four days behind for a week in Shravan after the battery was changed.",
+        "hi": "सावन में बैटरी बदलने के बाद एक हफ़्ते तक कैमरे की घड़ी चार दिन पीछे चलती रही।"
+      },
+      "dismissNote": {
+        "en": "ruled out — four days, and it is not the clock that places these two frames together; it is the frame numbers, which a camera counts and nobody can set",
+        "hi": "ख़ारिज — चार दिन, और इन दोनों फ़ोटो को साथ रखने वाली घड़ी नहीं है; फ़ोटो के नंबर हैं, जिन्हें कैमरा गिनता है और कोई सेट नहीं कर सकता"
+      }
+    },
+    {
+      "id": "rain",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE WETTEST BHADRA IN NINE YEARS",
+        "hi": "नौ साल का सबसे भीगा भादों"
+      },
+      "text": {
+        "en": "Nineteen working days went to rain, and no clause in this contract punishes anybody for weather.",
+        "hi": "उन्नीस कार्यदिवस बारिश में गए, और इस ठेके की कोई धारा मौसम के लिए किसी को सज़ा नहीं देती।"
+      },
+      "dismissNote": {
+        "en": "ruled out — it is the reason and not the offence; the rain was already written into the stoppage register by the same office that then reported a full month",
+        "hi": "ख़ारिज — यह वजह है, जुर्म नहीं; बारिश उसी दफ़्तर ने बंदी पंजी में पहले ही लिख दी थी, जिसने बाद में पूरा महीना काम का दिखाया"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidreport",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE PHOTOGRAPHER",
+        "hi": "बयान · फ़ोटोग्राफ़र"
+      },
+      "text": {
+        "en": "“The report goes in on the second of the month whether the rain stopped or not. In nine years nobody has ever asked me for a photograph of nothing happening, and nobody would pay me for one.”",
+        "hi": "“रिपोर्ट महीने की दो तारीख़ को जाती है, बारिश रुके या न रुके। नौ साल में मुझसे यह किसी ने नहीं कहा कि कुछ न होने की फ़ोटो दे दो — और कोई उसके पैसे भी नहीं देगा।”"
+      }
+    },
+    {
+      "id": "saidnoway",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE ACCOUNTANT",
+        "hi": "बयान · लेखाकार"
+      },
+      "text": {
+        "en": "“I release a running bill against a report, and a report is a set of photographs with a slate in them. Nobody has ever given me a way to know when a photograph was taken. I have asked for one twice.”",
+        "hi": "“मैं चालू बिल रिपोर्ट पर छोड़ता हूँ, और रिपोर्ट का मतलब है फ़ोटो का पुलिंदा जिसमें एक स्लेट हो। यह जानने का कोई तरीक़ा मुझे आज तक नहीं दिया गया कि फ़ोटो कब खींची गई। दो बार माँग चुका हूँ।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "dinesh",
+      "name": {
+        "en": "Dinesh Purohit",
+        "hi": "दिनेश पुरोहित"
+      },
+      "role": {
+        "en": "THE SITE PHOTOGRAPHER",
+        "hi": "साइट फ़ोटोग्राफ़र"
+      },
+      "hook": {
+        "en": "no frames, no fee, and nineteen days of rain",
+        "hi": "फ़ोटो नहीं तो पैसा नहीं, और उन्नीस दिन बारिश"
+      },
+      "confession": {
+        "en": "Shot bay fourteen twice in eleven seconds with two slates, wiped and rewrote the chalk date between the frames, and filed one of them in the Shravan report and the other in the Bhadra one — because his contract pays six thousand a report, a report needs a frame for every bay, and nineteen days of Bhadra had gone to rain.",
+        "hi": "ग्यारह सेकंड में दो स्लेटों के साथ बाय चौदह की दो फ़ोटो खींचीं, बीच में चॉक की तारीख़ पोंछकर दूसरी लिख दी, और एक सावन की रिपोर्ट में और दूसरी भादों की रिपोर्ट में लगा दी — क्योंकि उसके ठेके में रिपोर्ट के छह हज़ार मिलते हैं, रिपोर्ट में हर बाय का एक फ़ोटो चाहिए, और भादों के उन्नीस दिन बारिश में जा चुके थे।"
+      }
+    },
+    {
+      "id": "tarachand",
+      "name": {
+        "en": "Tara Chand",
+        "hi": "तारा चंद"
+      },
+      "role": {
+        "en": "THE SITE ENGINEER",
+        "hi": "साइट इंजीनियर"
+      },
+      "hook": {
+        "en": "certified forty-one metres and three bays",
+        "hi": "इकतालीस मीटर और तीन बाय उसी ने प्रमाणित किए"
+      },
+      "alibi": {
+        "en": "The forty-one metres exist and he measured them on the wall, in Ashwin. The month at the top of a progress report comes off the photographer’s slate and has never been in his hand.",
+        "hi": "वे इकतालीस मीटर मौजूद हैं और उसने उन्हें दीवार पर नापा — आश्विन में। प्रगति रिपोर्ट के सिरे पर का महीना फ़ोटोग्राफ़र की स्लेट से आता है और वह कभी उसके हाथ का नहीं होता।"
+      }
+    },
+    {
+      "id": "mahavir",
+      "name": {
+        "en": "Mahavir Prasad",
+        "hi": "महावीर प्रसाद"
+      },
+      "role": {
+        "en": "THE PROJECT ACCOUNTANT",
+        "hi": "परियोजना लेखाकार"
+      },
+      "hook": {
+        "en": "eleven lakh sixty went out on his note",
+        "hi": "ग्यारह लाख साठ उसी की टिप्पणी पर गए"
+      },
+      "alibi": {
+        "en": "He pays against a certificate and a report and has asked twice, in writing, for any way at all to date a photograph. He is the man who spotted the pigeon.",
+        "hi": "वह प्रमाण-पत्र और रिपोर्ट पर भुगतान करता है, और फ़ोटो की तारीख़ जाँचने का कोई भी तरीक़ा उसने दो बार लिखकर माँगा है। कबूतर पकड़ने वाला भी वही है।"
+      }
+    },
+    {
+      "id": "rewat",
+      "name": {
+        "en": "Rewat Singh Bhati",
+        "hi": "रेवत सिंह भाटी"
+      },
+      "role": {
+        "en": "THE SITE STOREKEEPER",
+        "hi": "साइट भंडारी"
+      },
+      "hook": {
+        "en": "his register is blank on all nineteen days",
+        "hi": "उन्नीसों दिन उसकी पंजी कोरी"
+      },
+      "alibi": {
+        "en": "Nineteen blank days in his own book are the thing that catches the report out. A man in on a false month does not leave that month empty in the one register that can contradict it.",
+        "hi": "उसकी अपनी बही के उन्नीस कोरे दिन ही रिपोर्ट को पकड़ते हैं। झूठे महीने में शामिल आदमी उस अकेली पंजी में वह महीना कोरा नहीं छोड़ता जो उसे काट सकती है।"
+      }
+    },
+    {
+      "id": "sugna",
+      "name": {
+        "en": "Sugna Kanwar",
+        "hi": "सुगना कंवर"
+      },
+      "role": {
+        "en": "THE TRUST’S SECRETARY",
+        "hi": "ट्रस्ट की सचिव"
+      },
+      "hook": {
+        "en": "signed the cheque on Ashwin two",
+        "hi": "आश्विन दो का चेक उसी ने काटा"
+      },
+      "alibi": {
+        "en": "She releases against an engineer’s certificate and an accountant’s note, asked for both and had both. The trust is the party out eleven lakh sixty three weeks early, and the trust is her.",
+        "hi": "वे इंजीनियर के प्रमाण-पत्र और लेखाकार की टिप्पणी पर पैसा छोड़ती हैं, दोनों माँगे और दोनों मिले। तीन हफ़्ते पहले ग्यारह लाख साठ गँवाने वाला पक्ष ट्रस्ट है — और ट्रस्ट वही हैं।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "dinesh",
+  "interrogations": [
+    {
+      "suspectId": "mahavir",
+      "setting": {
+        "en": "The accounts room at four, two reports open side by side, and a magnifying glass parked on a pigeon.",
+        "hi": "चार बजे का लेखा कमरा, बग़ल-बग़ल खुली दो रिपोर्टें, और एक कबूतर पर रखा हुआ आतशी शीशा।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You released eleven lakh sixty against this report.",
+            "hi": "आपने इस रिपोर्ट पर ग्यारह लाख साठ छोड़े।"
+          },
+          "answer": {
+            "en": "“I release a running bill against a report, and a report is a set of photographs with a slate in them. Nobody has ever given me a way to know when a photograph was taken. I have asked for one twice.”",
+            "hi": "“मैं चालू बिल रिपोर्ट पर छोड़ता हूँ, और रिपोर्ट का मतलब है फ़ोटो का पुलिंदा जिसमें एक स्लेट हो। यह जानने का कोई तरीक़ा मुझे आज तक नहीं दिया गया कि फ़ोटो कब खींची गई। दो बार माँग चुका हूँ।”"
+          },
+          "needsClueId": "frames",
+          "lockedHint": {
+            "en": "Pin the camera’s numbers. He will not concede that two dated frames are one moment until the count is in front of him.",
+            "hi": "कैमरे के नंबर टाँगो। जब तक गिनती सामने न आए, वह यह नहीं मानेगा कि दो तारीख़ों वाले फ़ोटो एक ही पल के हैं।"
+          },
+          "unlocksClueId": "saidnoway",
+          "note": {
+            "en": "A system that believes a slate is a system anybody with chalk can bill. He asked twice for the fix and nobody answered.",
+            "hi": "जो व्यवस्था स्लेट पर भरोसा करती है, उसमें चॉक रखने वाला कोई भी बिल बना सकता है। सुधार उसने दो बार माँगा और जवाब किसी ने नहीं दिया।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "tarachand",
+      "setting": {
+        "en": "The north face at five, a tape run out along the pointing, and Ashwin’s work still pale against Shravan’s.",
+        "hi": "पाँच बजे का उत्तरी मुख, जुड़ाई के साथ खिंचा हुआ फ़ीता, और सावन के काम के मुक़ाबले अब भी हल्का पड़ता आश्विन का काम।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Forty-one metres in a month with nineteen days of rain in it.",
+            "hi": "उन्नीस दिन बारिश वाले महीने में इकतालीस मीटर।"
+          },
+          "answer": {
+            "en": "“The forty-one metres are on that wall and I put a tape on every one of them. I measured them in Ashwin. I do not write the month on a report and I have never been asked to.”",
+            "hi": "“वे इकतालीस मीटर उसी दीवार पर हैं और हर एक पर मैंने फ़ीता रखा है। मैंने उन्हें आश्विन में नापा। रिपोर्ट पर महीना मैं नहीं लिखता, और मुझसे यह कभी कहा भी नहीं गया।”"
+          },
+          "needsClueId": "stoppage",
+          "lockedHint": {
+            "en": "Pin the stoppage register. The month is only a contradiction once the nineteen lost days are beside the forty-one metres.",
+            "hi": "बंदी पंजी टाँगो। महीना विरोधाभास तभी बनता है जब उन्नीस बंद दिन इकतालीस मीटर के बग़ल में खड़े हों।"
+          },
+          "note": {
+            "en": "The work is real and the month is not. That is a smaller crime than it looked and a much stranger one.",
+            "hi": "काम सच्चा है और महीना झूठा। यह जितना दिख रहा था उससे छोटा जुर्म है — और उससे कहीं ज़्यादा अजीब।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "dinesh",
+      "setting": {
+        "en": "The photographer’s corner of the store, a slate on a nail, a chalk box, and a camera bag with the card still in it.",
+        "hi": "भंडार में फ़ोटोग्राफ़र का कोना, खूँटी पर टँगी स्लेट, चॉक की डिब्बी, और कैमरे का बैग जिसमें कार्ड अब भी पड़ा है।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Frame four four one seven and frame four four one nine.",
+            "hi": "फ़ोटो चार हज़ार चार सौ सत्रह और फ़ोटो चार हज़ार चार सौ उन्नीस।"
+          },
+          "answer": {
+            "en": "“Then two frames of the same bay came out eleven seconds apart, which is what happens when a man is not sure of his focus. It does not tell you which report each one belongs in.”",
+            "hi": "“तो एक ही बाय के दो फ़ोटो ग्यारह सेकंड के अंतर पर निकले — जब आदमी को अपने फ़ोकस का भरोसा न हो, यही होता है। इससे यह तो नहीं पता चलता कि कौन-सी फ़ोटो किस रिपोर्ट की है।”"
+          },
+          "needsClueId": "board",
+          "lockedHint": {
+            "en": "Pin the date board. He will keep it at the level of focus until the ghost of the first date under the second is on the board.",
+            "hi": "तारीख़ पट्टी टाँगो। जब तक दूसरी तारीख़ के नीचे पहली का धुँधला निशान बोर्ड पर न आए, वह इसे फ़ोकस की बात बनाकर रखेगा।"
+          },
+          "note": {
+            "en": "It does tell us. One slate was wiped between two exposures, and the wipe did not take.",
+            "hi": "पता चलता है। दो क्लिक के बीच एक ही स्लेट पोंछी गई — और पोंछने से पूरा गया नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Nineteen days of Bhadra went to rain.",
+            "hi": "भादों के उन्नीस दिन बारिश में गए।"
+          },
+          "answer": {
+            "en": "“The report goes in on the second of the month whether the rain stopped or not. In nine years nobody has ever asked me for a photograph of nothing happening, and nobody would pay me for one.”",
+            "hi": "“रिपोर्ट महीने की दो तारीख़ को जाती है, बारिश रुके या न रुके। नौ साल में मुझसे यह किसी ने नहीं कहा कि कुछ न होने की फ़ोटो दे दो — और कोई उसके पैसे भी नहीं देगा।”"
+          },
+          "needsClueId": "stoppage",
+          "lockedHint": {
+            "en": "Pin the stoppage register. He will not explain a shortage of frames until the shortage of days is on the board.",
+            "hi": "बंदी पंजी टाँगो। जब तक दिनों की कमी बोर्ड पर न आए, वह फ़ोटो की कमी की सफ़ाई नहीं देगा।"
+          },
+          "unlocksClueId": "saidreport",
+          "note": {
+            "en": "Six thousand a report, and a report with a hole in it is worth nothing. He filled the hole with eleven seconds.",
+            "hi": "रिपोर्ट के छह हज़ार, और छेद वाली रिपोर्ट की कोई क़ीमत नहीं। उसने वह छेद ग्यारह सेकंड से भर दिया।"
+          }
+        },
+        {
+          "ask": {
+            "en": "There is a frame of yours dated Bhadra twenty-three with bay nine’s old jali still in the wall.",
+            "hi": "आपका एक फ़ोटो भादों तेईस का है, जिसमें बाय नौ की पुरानी जाली अब भी दीवार में है।"
+          },
+          "answer": {
+            "en": "“Then that one is honest, and it is dated the day it was taken. Ask the office why a jali that was still in a wall on the twenty-third left the gate as debris on the sixteenth.”",
+            "hi": "“तो वह सच्ची है, और उस पर उसी दिन की तारीख़ है जिस दिन खींची गई। दफ़्तर से पूछिए कि जो जाली तेईस को दीवार में खड़ी थी, वह सोलह को मलबा बनकर गेट से कैसे निकल गई।”"
+          },
+          "note": {
+            "en": "One frame in this file has the right date on it by accident, and it is the only frame that matters to anybody but him.",
+            "hi": "इस फ़ाइल के एक फ़ोटो पर सही तारीख़ इत्तिफ़ाक़ से पड़ी है — और उसके सिवा जो एक फ़ोटो किसी और के लिए मायने रखता है, वही है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "paidper",
+      "correction": {
+        "en": "The engineer measured real metres and the accountant asked twice for a way to date a photograph. One man is paid six thousand rupees a report, a report is refused without a frame for every bay under work, and nineteen days of that month had gone to rain.",
+        "hi": "इंजीनियर ने असली मीटर नापे और लेखाकार ने फ़ोटो की तारीख़ जाँचने का तरीक़ा दो बार माँगा। एक ही आदमी को रिपोर्ट के छह हज़ार रुपए मिलते हैं, जिस बाय पर काम चल रहा हो उसका फ़ोटो बिना रिपोर्ट लौटा दी जाती है — और उस महीने के उन्नीस दिन बारिश में जा चुके थे।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidreport",
+      "correction": {
+        "en": "Nothing had to be broken into. The whole dating of this project rests on a chalk slate held up inside the frame, and the man holding the slate is the man being paid for the frame.",
+        "hi": "यहाँ कहीं घुसने की ज़रूरत ही नहीं थी। इस पूरी परियोजना की तारीख़ फ़ोटो के भीतर पकड़ी हुई एक चॉक की स्लेट पर टिकी है — और स्लेट पकड़ने वाला वही आदमी है जिसे उस फ़ोटो का पैसा मिलता है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "board",
+      "correction": {
+        "en": "Nobody had to hide a second photograph, because there was no second photograph to hide. The slate was wiped and rewritten between two exposures eleven seconds apart, and the ghost of the first date is still on the slate.",
+        "hi": "दूसरी फ़ोटो छिपाने की ज़रूरत किसी को नहीं पड़ी, क्योंकि छिपाने के लिए दूसरी फ़ोटो थी ही नहीं। ग्यारह सेकंड के फ़ासले पर लिए दो क्लिक के बीच स्लेट पोंछकर फिर लिखी गई — और पहली तारीख़ का धुँधला निशान आज भी उसी स्लेट पर है।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "pigeon",
+    "toClueId": "frames",
+    "text": {
+      "en": "A bird will not hold a pose for six weeks, so those two frames are one moment wearing two dates. Something on that camera counts and cannot be set by hand.",
+      "hi": "कोई पक्षी छह हफ़्ते एक मुद्रा में नहीं टिकता — यानी वे दो फ़ोटो एक ही पल हैं, जो दो तारीख़ें पहने बैठा है। उस कैमरे में कुछ ऐसा है जो गिनता है और जिसे हाथ से सेट नहीं किया जा सकता।"
+    }
+  },
+  "bankedClue": {
+    "en": "A progress frame with bay nine’s original jali still in the wall, three weeks after the schedule wrote it off",
+    "hi": "एक प्रगति फ़ोटो, जिसमें बाय नौ की असली जाली अब भी दीवार में है — प्रतिस्थापन सूची के उसे काटने के तीन हफ़्ते बाद"
+  }
+}

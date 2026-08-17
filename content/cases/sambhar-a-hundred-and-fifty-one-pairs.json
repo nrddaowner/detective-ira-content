@@ -1,0 +1,386 @@
+{
+  "id": "sambhar-a-hundred-and-fifty-one-pairs",
+  "schema": 1,
+  "city": "sambhar",
+  "genre": "fraud",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "sambhar-salt-and-silence",
+    "caseNumber": 1
+  },
+  "title": {
+    "en": "A Hundred and Fifty-One Pairs",
+    "hi": "एक सौ इक्यावन जोड़ी"
+  },
+  "place": {
+    "en": "The Welfare Store, Marudhar Salt Works · Shravan 9, 10:00 AM",
+    "hi": "कल्याण भंडार, मारुधर साल्ट वर्क्स · सावन 9, सुबह 10:00"
+  },
+  "brief": {
+    "en": "Every hand on the eastern kyars draws a pair of gumboots and a pair of goggles in Vaishakh, because brine eats a bare foot in a fortnight and the glare off a salt pan takes the eyes in a season. The issue sheet is receipted for two hundred and fourteen pairs against the contractor's muster, and the store's own flattened cartons say a hundred and fifty-one pairs went out of that room. Sixty-three pairs were signed for and never worn. Banwari Lal has kept this store nine years and has never before been short so much as a spoon.",
+    "hi": "पूरब की क्यारियों का हर हाथ वैशाख में एक जोड़ी गमबूट और एक जोड़ी चश्मा लेता है, क्योंकि खारा पानी नंगे पैर को पखवाड़े में खा जाता है और नमक की चमक एक सीज़न में आँख ले लेती है। इशू शीट पर ठेकेदार की हाज़िरी के सामने दो सौ चौदह जोड़ी की रसीद है, और भंडार के अपने चपटे किए हुए डिब्बे कहते हैं कि उस कमरे से एक सौ इक्यावन जोड़ी निकले। तिरसठ जोड़ी पर दस्तख़त हुए और वे कभी पहने नहीं गए। बनवारी लाल नौ साल से यह भंडार सँभाल रहा है और आज तक एक चम्मच भी कम नहीं निकली।"
+  },
+  "photoCaption": {
+    "en": "the second bay, where the season's cartons were stacked",
+    "hi": "दूसरा ख़ाना, जहाँ सीज़न के डिब्बे चिने थे"
+  },
+  "iraNote": {
+    "en": "“Ask what a thing cost and you learn a price. Ask who stood in the queue for it, and you learn who exists.”",
+    "hi": "“पूछो कि चीज़ में कितना ख़र्च हुआ, तो क़ीमत पता चलेगी। पूछो कि उसे लेने क़तार में कौन-कौन खड़ा हुआ — तब पता चलेगा कि है कौन।”"
+  },
+  "clues": [
+    {
+      "id": "issuesheet",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE ISSUE SHEET, VAISHAKH 6",
+        "hi": "इशू शीट, वैशाख 6"
+      },
+      "text": {
+        "en": "Two hundred and fourteen pairs of gumboots, size run six to eleven, issued against the muster of Mahaveer Prasad Choudhary, contractor for kyars one to twenty-four. Two hundred and fourteen receipts down the right margin, a total at the foot, and under the total the second signature every welfare issue in this works carries — Kailash Chandra Bhargava, time-keeper.",
+        "hi": "दो सौ चौदह जोड़ी गमबूट, नाप छह से ग्यारह तक, महावीर प्रसाद चौधरी की हाज़िरी के सामने जारी — क्यारी एक से चौबीस के श्रम ठेकेदार। दाहिने हाशिये पर दो सौ चौदह रसीदें, नीचे कुल जोड़, और कुल जोड़ के नीचे वही दूसरा दस्तख़त जो इस वर्क्स के हर कल्याण वितरण पर होता है — कैलाश चंद्र भार्गव, समय-लिपिक।"
+      }
+    },
+    {
+      "id": "cartons",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THIRTEEN FLATTENED CARTONS",
+        "hi": "तेरह चपटे डिब्बे"
+      },
+      "text": {
+        "en": "Gumboots come twelve pairs to a carton and the store flattens every carton it opens and stacks them behind the third bay until the scrap dealer's tempo comes. Eighteen cartons were booked out of stock for this issue. Thirteen flattened cartons are in that stack, and the five sealed ones are not anywhere in this room.",
+        "hi": "गमबूट डिब्बे में बारह जोड़ी आते हैं, और भंडार हर खुला डिब्बा चपटा करके तीसरे ख़ाने के पीछे तब तक चिनता रहता है जब तक कबाड़ी का टेंपो न आ जाए। इस वितरण के लिए स्टॉक से अठारह डिब्बे निकाले गए। उस चट्टे में तेरह चपटे डिब्बे हैं — और पाँच सीलबंद डिब्बे इस कमरे में कहीं नहीं हैं।"
+      }
+    },
+    {
+      "id": "thumbs",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "SIXTY-THREE THUMBS IN ONE RUN",
+        "hi": "एक साथ लगे तिरसठ अंगूठे"
+      },
+      "text": {
+        "en": "The receipts run in the muster's serial order for the first hundred and fifty-one, with the ink darkening and thinning as a pad does across a morning. The last sixty-three sit in an unbroken run at the foot of the sheet, in one even black, out of serial order, and all of them thumbs. Not one of those sixty-three names has drawn goggles, a ration issue or a wage packet at a counter in two seasons.",
+        "hi": "पहली एक सौ इक्यावन रसीदें हाज़िरी के क्रमांक के हिसाब से चलती हैं, और स्याही वैसे ही गहराती-हल्की होती जाती है जैसे एक सुबह में पैड की होती है। आख़िरी तिरसठ शीट के नीचे एक ही लगातार पट्टी में बैठी हैं — एक ही बराबर कालेपन में, क्रमांक से बाहर, और सब की सब अंगूठे। उन तिरसठ नामों में से एक ने भी दो सीज़न में किसी खिड़की पर न चश्मा लिया है, न राशन, न तनख़्वाह का लिफ़ाफ़ा।"
+      }
+    },
+    {
+      "id": "nawamarket",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "WORKS BOOTS ON SALE AT NAWA",
+        "hi": "नावाँ में बिकते वर्क्स के बूट"
+      },
+      "text": {
+        "en": "A hardware shop on the Nawa bus stand sold black gumboots at a hundred and eighty rupees a pair through Jyeshtha and Ashadh, and three pairs are still on the shelf. Every sole carries the works' welfare mark heat-stamped into the arch, which is put there so a boot cannot be sold. Nobody who works on this lake buys gumboots, because everybody who works on this lake is given them.",
+        "hi": "नावाँ बस स्टैंड की एक हार्डवेयर दुकान जेठ और आषाढ़ भर काले गमबूट एक सौ अस्सी रुपये जोड़ी बेचती रही, और तीन जोड़ी अब भी शेल्फ़ पर हैं। हर तले के बीच में वर्क्स का कल्याण चिह्न गरम मुहर से ठुका है — वह वहाँ लगाया ही इसलिए जाता है कि बूट बेचा न जा सके। इस झील पर काम करने वाला कोई गमबूट ख़रीदता नहीं, क्योंकि इस झील पर काम करने वाले हर आदमी को वे मिलते हैं।"
+      }
+    },
+    {
+      "id": "cash",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "A SOCIETY LOAN, CLEARED AT ONCE",
+        "hi": "समिति का क़र्ज़, एक बार में चुकता"
+      },
+      "text": {
+        "en": "Eleven thousand three hundred rupees outstanding to the employees' co-operative credit society since the year before last, being recovered at four hundred a month against a wage of nine thousand two hundred. On Ashadh 2 the whole balance was paid in at the society counter in five-hundred-rupee notes, and the clerk remembers because nobody clears a society loan in cash.",
+        "hi": "कर्मचारी सहकारी ऋण समिति का ग्यारह हज़ार तीन सौ रुपया परसों साल से बकाया, नौ हज़ार दो सौ की तनख़्वाह में से चार सौ महीना की कटौती पर वसूला जा रहा था। आषाढ़ 2 को पूरा बकाया समिति की खिड़की पर पाँच-पाँच सौ के नोटों में जमा हुआ, और बाबू को यह याद है क्योंकि समिति का क़र्ज़ कोई नक़द नहीं चुकाता।"
+      }
+    },
+    {
+      "id": "goggles",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE GOGGLES WERE SHORT TOO",
+        "hi": "चश्मे भी कम पड़े"
+      },
+      "text": {
+        "en": "Nine pairs of goggles fewer than the sheet claims came out of the second bay in Vaishakh, and the shortage was raised at the time.",
+        "hi": "वैशाख में दूसरे ख़ाने से शीट के दावे से नौ जोड़ी चश्मे कम निकले, और तब यह कमी उठाई भी गई थी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nine arrived cracked inside a sealed carton, the breakage certificate is dated Vaishakh 4, and the supplier replaced them in Jyeshtha against a credit note",
+        "hi": "ख़ारिज — नौ सीलबंद डिब्बे के भीतर ही टूटे आए थे, टूट-फूट का प्रमाणपत्र वैशाख 4 का है, और आपूर्तिकर्ता ने जेठ में क्रेडिट नोट पर उन्हें बदल दिया"
+      }
+    },
+    {
+      "id": "leak",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE ROOF OVER THE THIRD BAY",
+        "hi": "तीसरे ख़ाने के ऊपर की छत"
+      },
+      "text": {
+        "en": "The store's roof let water in through the first week of Ashadh and stock was written off for damp.",
+        "hi": "आषाढ़ के पहले हफ़्ते भंडार की छत टपकती रही और सीलन के नाम पर कुछ माल बट्टे खाते डाला गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the leak is over the third bay, the boots were stacked in the second, and the damp write-off is forty metres of jute sacking and nothing else",
+        "hi": "ख़ारिज — टपकन तीसरे ख़ाने के ऊपर है, बूट दूसरे ख़ाने में चिने थे, और सीलन का बट्टा चालीस मीटर टाट का है, उसके सिवा कुछ नहीं"
+      }
+    },
+    {
+      "id": "gangdraw",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ONE MAN DREW FOR FORTY-ONE",
+        "hi": "एक आदमी, इकतालीस के लिए"
+      },
+      "text": {
+        "en": "Ganpat Ram, who writes the hazri for the biggest gang on the eastern flat, drew forty-one pairs in one armful rather than sending his gang to the counter.",
+        "hi": "गणपत राम — जो पूरब के मैदान की सबसे बड़ी गैंग की हाज़िरी लिखता है — अपनी गैंग को खिड़की भेजने के बजाय इकतालीस जोड़ी एक साथ उठा ले गया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — gang-wise drawing is how this store has issued for nine years, his forty-one are in serial order in his own hand, and forty-one pairs of boots were seen on forty-one pairs of feet",
+        "hi": "ख़ारिज — गैंग के हिसाब से देना इस भंडार का नौ साल पुराना तरीक़ा है, उसकी इकतालीस रसीदें उसी की लिखाई में क्रम से हैं, और इकतालीस जोड़ी बूट इकतालीस जोड़ी पैरों में देखे गए हैं"
+      }
+    },
+    {
+      "id": "tempo",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "A TEMPO AT THE BACK DOOR",
+        "hi": "पिछले दरवाज़े पर टेंपो"
+      },
+      "text": {
+        "en": "A tempo stood at the store's rear door on Vaishakh 7, the morning after the issue, and was loaded for twenty minutes.",
+        "hi": "वितरण के अगले दिन, वैशाख 7 की सुबह, भंडार के पिछले दरवाज़े पर एक टेंपो बीस मिनट खड़ा रहा और लदा।"
+      },
+      "dismissNote": {
+        "en": "ruled out — it is the scrap dealer's, it went out on gate pass 4471 with flattened cartons and cracked goggles, and the gate register weighed it out at ninety kilos of waste",
+        "hi": "ख़ारिज — वह कबाड़ी का है, गेट पास 4471 पर चपटे डिब्बे और टूटे चश्मे लेकर निकला, और गेट रजिस्टर ने उसे नब्बे किलो कबाड़ पर बाहर तौला"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidtotal",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE TIME-KEEPER",
+        "hi": "बयान · समय-लिपिक"
+      },
+      "text": {
+        "en": "“I countersign a total, not a queue. In nine years nobody in this works has asked me to stand inside that store and count heads — and if anybody ever had, I would have had to write down that sixty-three of them do not come.”",
+        "hi": "“मैं कुल जोड़ पर दस्तख़त करता हूँ, क़तार पर नहीं। नौ साल में इस वर्क्स के किसी आदमी ने मुझसे नहीं कहा कि उस भंडार में खड़े होकर सिर गिनो — और अगर कभी कहा होता, तो मुझे यह लिखना पड़ता कि उनमें से तिरसठ आते ही नहीं।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "banwari",
+      "name": {
+        "en": "Banwari Lal Kumawat",
+        "hi": "बनवारी लाल कुमावत"
+      },
+      "role": {
+        "en": "THE WELFARE STOREKEEPER",
+        "hi": "कल्याण भंडार का भंडारी"
+      },
+      "hook": {
+        "en": "the issue sheet is in his hand",
+        "hi": "इशू शीट उसी की लिखाई में है"
+      },
+      "confession": {
+        "en": "Booked eighteen cartons out of stock, opened thirteen, and put the other five in a tempo of his own on the Nawa road on Vaishakh 6 — sixty pairs at a hundred and ten to the hardware shop, and three pairs kept back for his sister's sons. Chose the sixty-three names off the foot of the muster because they are the only names in this works that never come to a counter, and he has known which names those are since the season before last.",
+        "hi": "स्टॉक से अठारह डिब्बे निकलवाए, तेरह खोले, और बाक़ी पाँच वैशाख 6 को नावाँ रोड पर अपने ही एक टेंपो में चढ़ा दिए — साठ जोड़ी हार्डवेयर की दुकान को एक सौ दस के भाव, और तीन जोड़ी अपनी बहन के लड़कों के लिए रख लीं। तिरसठ नाम उसने हाज़िरी की पूँछ से चुने, क्योंकि इस वर्क्स में सिर्फ़ वही नाम हैं जो कभी किसी खिड़की पर नहीं आते — और कौन-से नाम ऐसे हैं, यह उसे पिछले से पिछले सीज़न से मालूम है।"
+      }
+    },
+    {
+      "id": "kailash",
+      "name": {
+        "en": "Kailash Chandra Bhargava",
+        "hi": "कैलाश चंद्र भार्गव"
+      },
+      "role": {
+        "en": "THE TIME-KEEPER",
+        "hi": "समय-लिपिक"
+      },
+      "hook": {
+        "en": "countersigned the total, as he has for nine years",
+        "hi": "कुल जोड़ पर दस्तख़त, नौ साल से हर बार"
+      },
+      "alibi": {
+        "en": "He countersigns the foot of a sheet against a muster he did not write, in an office two hundred metres from the store, and he was in it all of Vaishakh 6 taking the works' own attendance. Sixty-three pairs of boots are worth eleven thousand rupees and he has been asking about those sixty-three names in writing since Chaitra.",
+        "hi": "वह उस हाज़िरी के सामने शीट के नीचे दस्तख़त करता है जो उसने लिखी ही नहीं, और वह दफ़्तर भंडार से दो सौ मीटर दूर है — वैशाख 6 को पूरे दिन वह वहीं वर्क्स की अपनी हाज़िरी ले रहा था। तिरसठ जोड़ी बूट ग्यारह हज़ार के होते हैं, और उन तिरसठ नामों के बारे में वह चैत से लिखकर पूछता आ रहा है।"
+      }
+    },
+    {
+      "id": "ganpat",
+      "name": {
+        "en": "Ganpat Ram",
+        "hi": "गणपत राम"
+      },
+      "role": {
+        "en": "THE GANG'S HAZRI WRITER",
+        "hi": "गैंग का हाज़िरी लेखक"
+      },
+      "hook": {
+        "en": "carried away forty-one pairs at once",
+        "hi": "इकतालीस जोड़ी एक साथ उठा ले गया"
+      },
+      "alibi": {
+        "en": "His forty-one receipts are in his own writing, in serial order, in the morning's ink, and forty-one women on kyar nine have been standing in his boots since Vaishakh. He took what his gang was owed and his gang has it on its feet.",
+        "hi": "उसकी इकतालीस रसीदें उसी की लिखाई में हैं, क्रम से, उसी सुबह की स्याही में — और क्यारी नौ की इकतालीस औरतें वैशाख से उन्हीं बूटों में खड़ी हैं। जो उसकी गैंग का था वही उठाया, और वह उसकी गैंग के पैरों में है।"
+      }
+    },
+    {
+      "id": "mahaveer",
+      "name": {
+        "en": "Mahaveer Prasad Choudhary",
+        "hi": "महावीर प्रसाद चौधरी"
+      },
+      "role": {
+        "en": "THE LABOUR CONTRACTOR",
+        "hi": "श्रम ठेकेदार"
+      },
+      "hook": {
+        "en": "the muster the store issued against is his",
+        "hi": "जिस हाज़िरी के सामने बाँटा गया, वह उसकी है"
+      },
+      "alibi": {
+        "en": "The welfare store is the works' and not his, he draws nothing from it and signs nothing in it, and boots issued against his muster cost him not one rupee — the works buys them. He was at the Nawa office on Vaishakh 6 arguing a rate revision, with four men and a file to say so.",
+        "hi": "कल्याण भंडार वर्क्स का है, उसका नहीं; न वह उसमें से कुछ लेता है, न कुछ उस पर दस्तख़त करता है — और उसकी हाज़िरी के सामने बँटे बूटों में उसका एक रुपया नहीं लगता, वे वर्क्स ख़रीदता है। वैशाख 6 को वह नावाँ के दफ़्तर में दर पुनरीक्षण पर बहस कर रहा था, और यह कहने के लिए चार आदमी और एक फ़ाइल मौजूद है।"
+      }
+    }
+  ],
+  "culpritId": "banwari",
+  "interrogations": [
+    {
+      "suspectId": "kailash",
+      "setting": {
+        "en": "The time office at noon, four muster boards on the wall and a service book open on the desk with fourteen renewal orders clipped into it.",
+        "hi": "दोपहर का समय-दफ़्तर, दीवार पर हाज़िरी के चार बोर्ड, और मेज़ पर खुली सेवा पुस्तिका जिसमें चौदह नवीनीकरण आदेश नत्थी हैं।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Your signature is under the total.",
+            "hi": "कुल जोड़ के नीचे आपके दस्तख़त हैं।"
+          },
+          "answer": {
+            "en": "“It is under every total since the year of the flood. That is what the second signature is — a certificate that the arithmetic adds up, which it does. Two hundred and fourteen receipts, two hundred and fourteen pairs, no remainder.”",
+            "hi": "“बाढ़ वाले साल से हर कुल जोड़ के नीचे है। दूसरा दस्तख़त होता ही यही है — इस बात का प्रमाण कि जोड़ मिलता है, और जोड़ मिलता है। दो सौ चौदह रसीदें, दो सौ चौदह जोड़ी, कुछ बचा नहीं।”"
+          },
+          "note": {
+            "en": "He certifies that a sheet agrees with itself. Nobody in this works certifies that a sheet agrees with the ground.",
+            "hi": "वह इस बात का प्रमाण देता है कि शीट अपने आप से मिलती है। इस वर्क्स में कोई इस बात का प्रमाण नहीं देता कि शीट ज़मीन से मिलती है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Sixty-three of those receipts were made at one sitting.",
+            "hi": "उन रसीदों में से तिरसठ एक ही बैठक में बनी हैं।"
+          },
+          "answer": {
+            "en": "“I countersign a total, not a queue. In nine years nobody in this works has asked me to stand inside that store and count heads — and if anybody ever had, I would have had to write down that sixty-three of them do not come.”",
+            "hi": "“मैं कुल जोड़ पर दस्तख़त करता हूँ, क़तार पर नहीं। नौ साल में इस वर्क्स के किसी आदमी ने मुझसे नहीं कहा कि उस भंडार में खड़े होकर सिर गिनो — और अगर कभी कहा होता, तो मुझे यह लिखना पड़ता कि उनमें से तिरसठ आते ही नहीं।”"
+          },
+          "needsClueId": "thumbs",
+          "lockedHint": {
+            "en": "Pin the run of sixty-three thumbs first. He will defend an arithmetic nobody has yet shown him is fiction.",
+            "hi": "पहले तिरसठ अंगूठों की वह लगातार पट्टी टाँगो। जब तक कोई उसे यह न दिखाए कि जोड़ ही कहानी है, वह उसी जोड़ का बचाव करता रहेगा।"
+          },
+          "unlocksClueId": "saidtotal",
+          "note": {
+            "en": "He has known for two seasons that sixty-three names do not come, and the store has known it too. One of them sold boots on it.",
+            "hi": "दो सीज़न से वह जानता है कि तिरसठ नाम आते ही नहीं — और भंडार भी यही जानता है। उनमें से एक ने इसी बात पर बूट बेचे।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "banwari",
+      "setting": {
+        "en": "The store's own veranda after issue hours, the shutter down to knee height and the scrap stack behind the third bay in full sun.",
+        "hi": "वितरण के बाद भंडार का अपना बरामदा, घुटनों तक गिरा शटर, और तीसरे ख़ाने के पीछे धूप में पड़ा कबाड़ का चट्टा।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Eighteen cartons out, thirteen flattened.",
+            "hi": "अठारह डिब्बे निकले, तेरह चपटे हुए।"
+          },
+          "answer": {
+            "en": "“The scrap man takes them by the load, not by the count. Five could have gone in Jyeshtha and I would not have written it down, because nobody in the history of this works has ever counted an empty carton.”",
+            "hi": "“कबाड़ी उन्हें लदान से लेता है, गिनती से नहीं। पाँच जेठ में चले गए होंगे और मैं लिखता भी नहीं, क्योंकि इस वर्क्स के इतिहास में ख़ाली डिब्बे किसी ने नहीं गिने।”"
+          },
+          "needsClueId": "cartons",
+          "lockedHint": {
+            "en": "Count the flattened cartons before you ask him about them. He is very good at a number that has not been said out loud.",
+            "hi": "उससे पूछने से पहले चपटे डिब्बे गिन लो। जो संख्या ज़ोर से कही न गई हो, उससे निपटने में वह बहुत माहिर है।"
+          },
+          "note": {
+            "en": "He answers about five cartons before anybody tells him five are missing.",
+            "hi": "किसी ने यह बताया नहीं कि पाँच कम हैं, और वह पाँच डिब्बों का जवाब दे रहा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eleven thousand three hundred, in cash, on Ashadh 2.",
+            "hi": "ग्यारह हज़ार तीन सौ, नक़द, आषाढ़ 2 को।"
+          },
+          "answer": {
+            "en": "“My wife's people sold a field at Jhak. Go and ask them, they will say the same thing, and then you can go and ask the patwari and he will say the field is still theirs. Everybody in this works borrows from somewhere, sahib. I am the only one who paid it back.”",
+            "hi": "“मेरी घरवाली के मायके ने झाक में खेत बेचा है। जाकर पूछ लो, वही कहेंगे — और फिर पटवारी से पूछ लो, वह कहेगा कि खेत आज भी उन्हीं का है। इस वर्क्स में हर आदमी कहीं न कहीं से उधार लेता है, साहब। चुकाने वाला अकेला मैं हूँ।”"
+          },
+          "note": {
+            "en": "Sixty pairs at a hundred and ten is six thousand six hundred, and the loan was eleven thousand three hundred. There is a second season's worth of this behind him.",
+            "hi": "साठ जोड़ी एक सौ दस के भाव यानी छह हज़ार छह सौ, और क़र्ज़ ग्यारह हज़ार तीन सौ का था। उसके पीछे एक और सीज़न भर का यही काम खड़ा है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "cash",
+      "correction": {
+        "en": "The time-keeper signs a total two hundred metres away and gains nothing by it, and the hazri writer's forty-one pairs are on forty-one pairs of feet. One man in this store was having four hundred a month cut from a wage of nine thousand two hundred, and cleared the whole balance at a counter in five-hundred-rupee notes eight weeks after the issue.",
+        "hi": "समय-लिपिक दो सौ मीटर दूर बैठकर कुल जोड़ पर दस्तख़त करता है और उससे उसे कुछ नहीं मिलता, और हाज़िरी लेखक की इकतालीस जोड़ी इकतालीस जोड़ी पैरों में हैं। इस भंडार में एक ही आदमी था जिसकी नौ हज़ार दो सौ की तनख़्वाह से चार सौ महीना कट रहा था — और वितरण के आठ हफ़्ते बाद उसने पूरा बकाया खिड़की पर पाँच-पाँच सौ के नोटों में जमा कर दिया।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "thumbs",
+      "correction": {
+        "en": "Sixty-three receipts made in one ink, in one run, out of the muster's order, against sixty-three names that have not been seen at a counter in two seasons. You cannot steal boots from a man who will come back and ask for them. You can steal them from a name.",
+        "hi": "एक ही स्याही में, एक ही पट्टी में, हाज़िरी के क्रम से बाहर बनी तिरसठ रसीदें — और सामने तिरसठ ऐसे नाम, जो दो सीज़न से किसी खिड़की पर नहीं दिखे। जो आदमी लौटकर माँगने आ सकता है, उससे बूट नहीं चुराए जा सकते। नाम से चुराए जा सकते हैं।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "issuesheet",
+      "correction": {
+        "en": "Nothing had to be hidden, because a countersigned total is never opened again. Two hundred and fourteen receipts against two hundred and fourteen pairs adds up perfectly, and it will go on adding up perfectly in a file for seven years — which is exactly as long as anybody is required to keep it.",
+        "hi": "कुछ छिपाना ही नहीं था, क्योंकि प्रतिहस्ताक्षरित कुल जोड़ दोबारा कभी नहीं खोला जाता। दो सौ चौदह जोड़ी के सामने दो सौ चौदह रसीदें — जोड़ पूरा-पूरा मिलता है, और सात साल तक फ़ाइल में यूँ ही पूरा-पूरा मिलता रहेगा, यानी ठीक उतने साल जितने उसे रखना ज़रूरी है।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "issuesheet",
+    "toClueId": "cartons",
+    "text": {
+      "en": "Stop reading the sheet. A sheet is written, and a written thing can say anything; a carton has to be opened, and a carton cannot be opened twice.",
+      "hi": "शीट पढ़ना छोड़िए। शीट लिखी जाती है और लिखी हुई चीज़ कुछ भी कह सकती है; डिब्बा खोलना पड़ता है, और एक डिब्बा दो बार नहीं खुलता।"
+    }
+  },
+  "bankedClue": {
+    "en": "A welfare issue sheet countersigned for two hundred and fourteen pairs of gumboots, when a hundred and fifty-one pairs left the room",
+    "hi": "कल्याण भंडार की वह इशू शीट, जिस पर दो सौ चौदह जोड़ी गमबूट के लिए प्रतिहस्ताक्षर हैं — जबकि कमरे से एक सौ इक्यावन जोड़ी निकले"
+  }
+}

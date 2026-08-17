@@ -1,0 +1,419 @@
+{
+  "id": "bikaner-the-wrong-shop",
+  "schema": 1,
+  "city": "bikaner",
+  "genre": "arson",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "bikaner-sweet-war",
+    "caseNumber": 2
+  },
+  "title": {
+    "en": "The Wrong Shop",
+    "hi": "ग़लत दुकान"
+  },
+  "place": {
+    "en": "Nokha Sweet House, Halwaiyon ki Gali · Ashwin 21, 6:40 AM",
+    "hi": "नोखा स्वीट हाउस, हलवाइयों की गली · आसोज 21, 6:40 AM"
+  },
+  "brief": {
+    "en": "Nine days before Diwali a fire took the front room of the shop opposite at twenty to two in the morning, and the lane had it out with its own buckets before the municipal tender turned in. Nobody was hurt, and the counter, the almirah and eleven cartons of Diwali boxes are ash. In the loft directly overhead sit eleven sealed tins of kerosene stencilled with the old shop’s name, which is what this whole bazaar has already decided the fire was. The tins never caught, and the fire did not begin anywhere near them.",
+    "hi": "दिवाली से नौ दिन पहले, रात के दो बजने में बीस मिनट पर सामने की दुकान का अगला कमरा जल गया — और नगर निगम की गाड़ी मुड़ने से पहले गली ने अपनी बाल्टियों से आग बुझा दी। किसी को चोट नहीं आई, और गल्ला, अलमारी और दिवाली के डिब्बों के ग्यारह कार्टन राख हैं। ठीक ऊपर के कमरे में मिट्टी के तेल के ग्यारह सीलबंद टिन रखे हैं, जिन पर पुरानी दुकान का नाम छपा है — और यह पूरा बाज़ार तय कर चुका है कि आग यही थी। वे टिन जले ही नहीं, और आग उनके पास कहीं से शुरू नहीं हुई।"
+  },
+  "photoCaption": {
+    "en": "the almirah, from the doorway",
+    "hi": "दरवाज़े से, अलमारी"
+  },
+  "iraNote": {
+    "en": "“Every fire in a bazaar arrives with a story already tied to its tail. Read the wall it burned, not the lane it happened in.”",
+    "hi": "“बाज़ार की हर आग अपनी पूँछ से एक कहानी बाँधकर आती है। जिस दीवार को वह जलाया, उसे पढ़िए — जिस गली में लगी, उसे नहीं।”"
+  },
+  "clues": [
+    {
+      "id": "seat",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHERE THE FIRE STARTED",
+        "hi": "आग शुरू कहाँ हुई"
+      },
+      "text": {
+        "en": "Fire climbs, so it writes a V behind it, and this one opens out of the wooden almirah beside the counter. The floorboards under the almirah are burnt through, its top shelf is gone, and the cartons nineteen feet away in the same room are scorched on one side only.",
+        "hi": "आग ऊपर चढ़ती है, इसलिए अपने पीछे एक ‘V’ लिख जाती है — और यह ‘V’ गल्ले के बग़ल वाली लकड़ी की अलमारी से खुलती है। अलमारी के नीचे का फ़र्श आर-पार जला है, उसका सबसे ऊपरी ख़ाना ख़त्म है, और उसी कमरे में उन्नीस फ़ुट दूर रखे कार्टन एक ही तरफ़ से झुलसे हैं।"
+      }
+    },
+    {
+      "id": "almirah",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE ALMIRAH WAS LOCKED",
+        "hi": "अलमारी बंद थी"
+      },
+      "text": {
+        "en": "The almirah’s brass lock is intact and was turned, and its door is blistered on the inner face and sound along the outer edge, so it burned from the inside with the door shut. Two keys open it and two keys open the shutter: one set was in Nemi Chand Godara’s pocket at Nokha, forty kilometres out, from the nineteenth to the twenty-second.",
+        "hi": "अलमारी का पीतल का ताला साबुत है और बंद हालत में था, और उसका पल्ला भीतर की तरफ़ से फफोलों भरा और बाहरी किनारे पर सही-सलामत है — यानी वह पल्ला बंद रहते भीतर से जली। उसे दो चाबियाँ खोलती हैं और शटर को भी दो: एक जोड़ा उन्नीस से बाईस तक नेमी चंद गोदारा की जेब में, चालीस किलोमीटर दूर नोखा में था।"
+      }
+    },
+    {
+      "id": "wick",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "NO KEROSENE AT THE SEAT",
+        "hi": "जड़ पर मिट्टी का तेल नहीं"
+      },
+      "text": {
+        "en": "The debris from the almirah holds no petroleum distillate at all. What it holds is milk fat and a length of charred cotton twist — a wick standing in a tin of ghee, which is a lamp, and a lamp is the one fire in a sweetshop that leaves nothing behind to argue with.",
+        "hi": "अलमारी के मलबे में पेट्रोलियम का कोई अंश नहीं है। जो है, वह दूध की चिकनाई और जली हुई रुई की एक बत्ती है — घी की डिब्बी में खड़ी बत्ती, यानी दीया — और मिठाई की दुकान में दीया ही वह आग है जो पीछे बहस करने लायक़ कुछ नहीं छोड़ती।"
+      }
+    },
+    {
+      "id": "tins",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "ELEVEN TINS, STILL SEALED",
+        "hi": "ग्यारह टिन, अब भी सीलबंद"
+      },
+      "text": {
+        "en": "Eleven fifteen-litre tins stand in the loft over the burnt room, full, caps sealed, the dust on their shoulders unbroken, each stencilled Kishan Lal Mishthan Bhandar. That loft is let to nobody in this lane on paper and to the halwai’s nephew in fact, at eleven hundred rupees a month in cash since Ashwin one, taken by the landlord’s munim against no receipt.",
+        "hi": "जली हुई दुकान के ऊपर के कमरे में पंद्रह-पंद्रह लीटर के ग्यारह टिन खड़े हैं — भरे हुए, ढक्कन सीलबंद, कंधों पर जमी धूल बिना छेड़ी हुई, और हर एक पर छपा है ‘किशन लाल मिष्ठान भंडार’। वह कमरा काग़ज़ पर इस गली में किसी को किराये पर नहीं है और हक़ीक़त में हलवाई के भतीजे को है — आसोज एक से ग्यारह सौ रुपये महीना नक़द, जो मकान मालिक का मुनीम बिना रसीद लेता है।"
+      }
+    },
+    {
+      "id": "bundles",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "FOUR BRICKS OF NOTES",
+        "hi": "नोटों की चार ईंटें"
+      },
+      "text": {
+        "en": "Currency burns from the edges in and a banded bundle chars into a brick that holds its layers, so it can be counted with a needle and a lens. The lower shelf gave up four bricks of a hundred notes each, all hundred-rupee, all banded with this shop’s own paper band.",
+        "hi": "नोट किनारों से भीतर की तरफ़ जलते हैं और बैंड लगी गड्डी जलकर ऐसी ईंट बनती है जो अपनी तहें सँभाल लेती है — यानी सूई और लेंस से उसे गिना जा सकता है। नीचे के ख़ाने से सौ-सौ नोटों की चार ईंटें निकलीं, सब सौ-सौ रुपये की, सब पर इसी दुकान का काग़ज़ी बैंड।"
+      }
+    },
+    {
+      "id": "slips",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE CARBON COUNTER SLIP",
+        "hi": "गल्ले की कार्बन पर्ची"
+      },
+      "text": {
+        "en": "Every night’s counter slip is written in duplicate and the carbon goes to the owner’s house, which is the one book in this shop that was not in the almirah. Ashwin twenty closes with eleven bundles banded and put away at eleven at night. Four came out of the fire.",
+        "hi": "हर रात की गल्ला पर्ची दो कॉपी में बनती है और कार्बन मालिक के घर जाता है — इस दुकान की वही एक बही है जो अलमारी में नहीं थी। आसोज बीस की पर्ची ग्यारह बजे रात, ग्यारह गड्डियाँ बैंड लगाकर रखी गईं, यही लिखकर बंद होती है। आग से चार निकलीं।"
+      }
+    },
+    {
+      "id": "skim",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ELEVEN MONTHS THAT DO NOT MEET",
+        "hi": "ग्यारह महीने, जो मिलते नहीं"
+      },
+      "text": {
+        "en": "Set the carbon slips against the bank’s pay-in book for eleven months and the shop has taken four lakh sixty thousand more across its counter than it has ever put in. The Diwali advances were to be reconciled with the owner on Kartik two, in one sitting, off the books that were in that almirah.",
+        "hi": "ग्यारह महीने की कार्बन पर्चियों को बैंक की जमा-बही के सामने रखिए, तो दुकान ने अपने गल्ले पर जमा से चार लाख साठ हज़ार ज़्यादा लिए हैं। दिवाली के बयाने का हिसाब कार्तिक दो को मालिक के साथ एक ही बैठक में होना था — उन्हीं बहियों से, जो उस अलमारी में थीं।"
+      }
+    },
+    {
+      "id": "quarrel",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE QUARREL IN THE LANE",
+        "hi": "गली की तकरार"
+      },
+      "text": {
+        "en": "Kishan Lal Agarwal stood in this lane on Bhadra two and shouted that the shop opposite had cost him eleven days of Shravan, in front of forty people.",
+        "hi": "भादों दो को किशन लाल अग्रवाल इसी गली में खड़े होकर चालीस लोगों के सामने चिल्लाए थे कि सामने की दुकान ने उनके सावन के ग्यारह दिन खा लिए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — on the night of the twentieth he was at the ration dealers’ dharna in Rani Bazaar until midnight in front of two hundred people, and his own shutter was down at nine",
+        "hi": "ख़ारिज — बीस की रात वे दो सौ लोगों के सामने रानी बाज़ार में राशन डीलरों के धरने में आधी रात तक थे, और उनका अपना शटर नौ बजे गिर चुका था"
+      }
+    },
+    {
+      "id": "karahi",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE BANKED FRYING KARAHI",
+        "hi": "दबाई हुई कड़ाही"
+      },
+      "text": {
+        "en": "Manphool banks the bhujia karahi’s fire every night at ten and leaves the coals to die under ash.",
+        "hi": "मनफूल हर रात दस बजे भुजिया की कड़ाही की आग दबा देता है और कोयले राख के नीचे बुझने के लिए छोड़ देता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the karahi stands in the back court behind a brick wall, its ash was cold and unstirred at dawn, and the seat of this fire is nineteen feet away inside a locked almirah",
+        "hi": "ख़ारिज — कड़ाही पिछले आँगन में एक ईंट की दीवार के पीछे है, भोर तक उसकी राख ठंडी और बिना हिली थी, और इस आग की जड़ उन्नीस फ़ुट दूर एक बंद अलमारी के भीतर है"
+      }
+    },
+    {
+      "id": "wiring",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ELEVEN YEARS OF WIRING",
+        "hi": "ग्यारह साल की वायरिंग"
+      },
+      "text": {
+        "en": "The shop runs three fans, a chiller and a tube light off one wooden board put up when it opened.",
+        "hi": "दुकान तीन पंखे, एक चिलर और एक ट्यूबलाइट उसी लकड़ी के बोर्ड से चलाती है जो खुलते वक़्त लगा था।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the board is on the opposite wall above the burn line with its insulation unmelted, and the meter’s fuse was found whole",
+        "hi": "ख़ारिज — बोर्ड सामने की दीवार पर, जलने की रेखा से ऊपर है और उसकी इंसुलेशन पिघली नहीं, और मीटर का फ़्यूज़ साबुत मिला"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidrent",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "ON RECORD · THE NEPHEW",
+        "hi": "बयान · भतीजा"
+      },
+      "text": {
+        "en": "“Eleven hundred a month, cash, into munimji’s hand, no receipt, since Ashwin one. He said the room was going spare. I never once asked myself why the sahib’s own room was going spare to a boy who works a bhatti.”",
+        "hi": "“ग्यारह सौ महीना, नक़द, मुनीमजी के हाथ में, कोई रसीद नहीं — आसोज एक से। उन्होंने कहा कमरा ख़ाली पड़ा है। मैंने एक बार भी ख़ुद से नहीं पूछा कि साहब का अपना कमरा भट्टी सँभालने वाले लड़के के लिए ख़ाली क्यों पड़ा है।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "pukhraj",
+      "name": {
+        "en": "Pukhraj Bhambhu",
+        "hi": "पुखराज भांभू"
+      },
+      "role": {
+        "en": "THE COUNTER CASHIER",
+        "hi": "गल्ले पर बैठने वाला"
+      },
+      "hook": {
+        "en": "closed the shop and carries both keys",
+        "hi": "दुकान उसी ने बंद की, दोनों चाबियाँ उसी के पास"
+      },
+      "confession": {
+        "en": "Banded eleven bundles at eleven at night, carried seven of them home in a cloth bag, banded four back into the almirah, came back at twenty past one with his own shutter key, stood a cotton wick in a tin of ghee on the top shelf among the account books, locked the almirah and pulled the shutter down behind him. The reconciliation with the owner was set for Kartik two and every book that would have shown eleven months of it was in that cupboard.",
+        "hi": "ग्यारह बजे रात ग्यारह गड्डियों पर बैंड लगाए, सात कपड़े के थैले में घर ले गया, चार वापस अलमारी में रखीं, सवा एक बजे अपनी शटर की चाबी से लौटा, बहियों के बीच सबसे ऊपर के ख़ाने में घी की डिब्बी में रुई की बत्ती खड़ी की, अलमारी में ताला लगाया और पीछे शटर गिरा दिया। मालिक के साथ हिसाब कार्तिक दो को तय था, और ग्यारह महीने का वह हिसाब दिखाने वाली हर बही उसी अलमारी में थी।"
+      }
+    },
+    {
+      "id": "damodar",
+      "name": {
+        "en": "Damodar Agarwal",
+        "hi": "दामोदर अग्रवाल"
+      },
+      "role": {
+        "en": "THE HALWAI’S NEPHEW",
+        "hi": "हलवाई का भतीजा"
+      },
+      "hook": {
+        "en": "his tins are in the loft overhead",
+        "hi": "ऊपर के कमरे में उसके टिन हैं"
+      },
+      "alibi": {
+        "en": "The tins are his and he has stopped pretending otherwise, but they are full, sealed and dusted over, and not one of them has been opened since Ashwin three. He was at his uncle’s bhatti with two mazdoors from ten at night to five in the morning, on a night the shop made four hundred kilos of khoya for Diwali.",
+        "hi": "टिन उसके हैं और अब वह इससे मुकरता नहीं, लेकिन वे भरे हैं, सीलबंद हैं और उन पर धूल जमी है — आसोज तीन के बाद उनमें से एक भी नहीं खुला। उस रात, जब दुकान ने दिवाली के लिए चार सौ किलो खोया बनाया, वह दस बजे से सुबह पाँच बजे तक दो मज़दूरों के साथ चाचा की भट्टी पर था।"
+      }
+    },
+    {
+      "id": "kishan",
+      "name": {
+        "en": "Kishan Lal Agarwal",
+        "hi": "किशन लाल अग्रवाल"
+      },
+      "role": {
+        "en": "THE OLD HALWAI",
+        "hi": "पुराना हलवाई"
+      },
+      "hook": {
+        "en": "the lane has already convicted him",
+        "hi": "गली उसे पहले ही दोषी ठहरा चुकी है"
+      },
+      "alibi": {
+        "en": "He was at the ration dealers’ dharna in Rani Bazaar until midnight in front of two hundred people and his shutter was down at nine. A man who wanted that shop burnt would not send eleven tins of kerosene up a stair with his own name stencilled on every one of them.",
+        "hi": "वे आधी रात तक दो सौ लोगों के सामने रानी बाज़ार के धरने में थे और उनका शटर नौ बजे गिर चुका था। जो आदमी उस दुकान को जलवाना चाहता हो, वह ज़ीने से मिट्टी के तेल के ग्यारह टिन ऊपर नहीं भेजेगा — हर एक पर अपना नाम छपा हुआ।"
+      }
+    },
+    {
+      "id": "manphool",
+      "name": {
+        "en": "Manphool",
+        "hi": "मनफूल"
+      },
+      "role": {
+        "en": "THE BHUJIA KARIGAR",
+        "hi": "भुजिया का कारीगर"
+      },
+      "hook": {
+        "en": "banks a frying fire every night at ten",
+        "hi": "हर रात दस बजे तलने की आग दबाता है"
+      },
+      "alibi": {
+        "en": "His karahi is in the back court behind a brick wall and its ash was cold and unstirred when the sun came up. He sleeps on the roof of his brother’s house in Barah Guwad and has neither key to anything in the front room.",
+        "hi": "उसकी कड़ाही पिछले आँगन में एक ईंट की दीवार के पीछे है, और सूरज निकलने तक उसकी राख ठंडी और बिना हिली थी। वह बारह गुवाड़ में अपने भाई के मकान की छत पर सोता है, और अगले कमरे की किसी चीज़ की चाबी उसके पास नहीं है।"
+      }
+    }
+  ],
+  "culpritId": "pukhraj",
+  "interrogations": [
+    {
+      "suspectId": "damodar",
+      "setting": {
+        "en": "The shared stair at noon, eleven tins in a row on the loft floor and a padlock hanging open on the hasp.",
+        "hi": "दोपहर का साझा ज़ीना, ऊपर के कमरे के फ़र्श पर कतार में ग्यारह टिन, और कुंडी पर खुला लटकता ताला।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Eleven tins of your uncle’s kerosene, over a shop that burned.",
+            "hi": "आपके चाचा के मिट्टी के तेल के ग्यारह टिन — और नीचे जली हुई दुकान।"
+          },
+          "answer": {
+            "en": "“Count the caps. Every seal is on, every tin is full, and there is dust on all eleven. If I had wanted that shop to burn I would be eleven tins lighter, not eleven tins richer.”",
+            "hi": "“ढक्कन गिन लीजिए। हर सील लगी है, हर टिन भरा है, और ग्यारहों पर धूल है। मुझे वह दुकान जलानी होती तो मैं ग्यारह टिन हल्का होता, ग्यारह टिन भारी नहीं।”"
+          },
+          "needsClueId": "tins",
+          "lockedHint": {
+            "en": "Pin the eleven tins. He will not talk about that room until the room is already on the board.",
+            "hi": "ग्यारह टिन टाँगो। जब तक वह कमरा बोर्ड पर न आए, वह उसके बारे में बात नहीं करेगा।"
+          },
+          "unlocksClueId": "saidrent",
+          "note": {
+            "en": "He is a thief of kerosene and he says so. The question he never asked himself is the only question worth asking.",
+            "hi": "वह मिट्टी के तेल का चोर है और यह कहता भी है। जो सवाल उसने ख़ुद से कभी नहीं पूछा, बस वही पूछने लायक़ है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Nothing at the seat of that fire was kerosene.",
+            "hi": "उस आग की जड़ पर मिट्टी के तेल का कुछ नहीं था।"
+          },
+          "answer": {
+            "en": "“Then tell the lane, not me. My chachi has not been to the temple in three weeks because of what people say at the tank.”",
+            "hi": "“तो गली को बताइए, मुझे नहीं। तालाब पर लोग जो कहते हैं, उसकी वजह से मेरी चाची तीन हफ़्ते से मंदिर नहीं गईं।”"
+          },
+          "needsClueId": "wick",
+          "lockedHint": {
+            "en": "Pin the analyst’s finding. Until the wick is on the board this is just a boy saying he did not do it.",
+            "hi": "विश्लेषक की जाँच टाँगो। जब तक बत्ती बोर्ड पर न आए, यह बस एक लड़के का ‘मैंने नहीं किया’ है।"
+          },
+          "note": {
+            "en": "The accelerant everybody can see is the one thing that provably did nothing. That is not luck; that is arrangement.",
+            "hi": "जो जलाने वाली चीज़ सबको दिखती है, साबित तौर पर उसी ने कुछ नहीं किया। यह इत्तिफ़ाक़ नहीं, इंतिज़ाम है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "pukhraj",
+      "setting": {
+        "en": "A tin-roofed room in Barah Guwad, a cloth bag on a nail, and a temple calendar with Kartik two circled.",
+        "hi": "बारह गुवाड़ का टीन की छत वाला कमरा, खूँटी पर कपड़े का थैला, और एक मंदिर कैलेंडर जिस पर कार्तिक दो गोल किया हुआ है।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "The almirah was locked and burning at the same time.",
+            "hi": "अलमारी एक ही वक़्त पर बंद भी थी और जल भी रही थी।"
+          },
+          "answer": {
+            "en": "“Then somebody locked it. There are two keys to that almirah and I have never said otherwise.”",
+            "hi": "“तो किसी ने बंद की होगी। उस अलमारी की दो चाबियाँ हैं, और मैंने कभी उल्टा नहीं कहा।”"
+          },
+          "needsClueId": "almirah",
+          "lockedHint": {
+            "en": "Pin the lock. Two keys is only an answer until somebody says where the other one was.",
+            "hi": "ताला टाँगो। ‘दो चाबियाँ’ तब तक जवाब है, जब तक कोई न बताए कि दूसरी कहाँ थी।"
+          },
+          "note": {
+            "en": "The other one spent that night at Nokha, forty kilometres away, in the pocket of the man whose shop it was.",
+            "hi": "दूसरी उस रात चालीस किलोमीटर दूर नोखा में थी — उसी आदमी की जेब में, जिसकी दुकान थी।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eleven bundles went in and four came out.",
+            "hi": "ग्यारह गड्डियाँ भीतर गईं और चार बाहर आईं।"
+          },
+          "answer": {
+            "en": "“Notes burn, sahib. Ask anybody who has seen a shop burn what happens to notes.”",
+            "hi": "“नोट जलते हैं, साहब। जिसने दुकान जलती देखी हो, उससे पूछ लीजिए कि नोटों का क्या होता है।”"
+          },
+          "needsClueId": "slips",
+          "lockedHint": {
+            "en": "Pin the carbon slip. He will keep the count vague while the only book that holds it is a book he thinks burned.",
+            "hi": "कार्बन पर्ची टाँगो। जब तक गिनती रखने वाली एकमात्र बही उसे जली हुई लगेगी, वह गिनती को धुँधली रखेगा।"
+          },
+          "note": {
+            "en": "They do burn, and a banded bundle burns into a brick that keeps its layers. Four bricks, eleven bundles.",
+            "hi": "जलते हैं — और बैंड लगी गड्डी जलकर वह ईंट बनती है जो अपनी तहें रखती है। चार ईंटें, ग्यारह गड्डियाँ।"
+          }
+        },
+        {
+          "ask": {
+            "en": "What was fixed for Kartik two?",
+            "hi": "कार्तिक दो को क्या तय था?"
+          },
+          "answer": {
+            "en": "“Hisaab. It is fixed for Kartik two every year of my life.”",
+            "hi": "“हिसाब। मेरी ज़िंदगी के हर साल कार्तिक दो को यही तय होता है।”"
+          },
+          "note": {
+            "en": "Every year, and this year the only books that could hold the eleven months were on the top shelf of the cupboard he locked.",
+            "hi": "हर साल — और इस साल ग्यारह महीने रखने वाली अकेली बहियाँ उसी अलमारी के सबसे ऊपरी ख़ाने में थीं, जिस पर उसने ताला लगाया।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "skim",
+      "correction": {
+        "en": "The nephew’s tins are full and the karigar’s ash was cold, and neither of them owed this shop anything. One man had taken four lakh sixty thousand across that counter more than he had banked, and had been given a date in Kartik to sit down with the owner and the books.",
+        "hi": "भतीजे के टिन भरे हैं और कारीगर की राख ठंडी थी, और इन दोनों पर इस दुकान का कुछ बाक़ी नहीं था। एक ही आदमी ने उस गल्ले पर जमा से चार लाख साठ हज़ार ज़्यादा लिए थे — और उसे कार्तिक की एक तारीख़ दी गई थी, मालिक और बहियों के साथ बैठने के लिए।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "almirah",
+      "correction": {
+        "en": "Nobody broke in and nothing was forced. The almirah burned from inside with its door shut and its brass lock turned, and the shutter was found down and locked at dawn — two keys to each, and one set was in the owner’s pocket forty kilometres away at Nokha.",
+        "hi": "कोई घुसा नहीं और कुछ तोड़ा नहीं गया। अलमारी पल्ला बंद और पीतल का ताला लगा रहते भीतर से जली, और भोर में शटर गिरा और बंद मिला — हर एक की दो चाबियाँ, और एक जोड़ा चालीस किलोमीटर दूर नोखा में मालिक की जेब में था।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "wick",
+      "correction": {
+        "en": "He was not running from anybody; he was handing the lane a culprit it already wanted. A cotton wick in a tin of ghee leaves milk fat in the debris of a sweetshop, which is what a sweetshop’s debris is made of — and eleven tins of somebody else’s kerosene were sitting upstairs to be blamed.",
+        "hi": "वह किसी से भाग नहीं रहा था; वह गली को वही मुजरिम थमा रहा था जो उसे पहले से चाहिए था। घी की डिब्बी में रुई की बत्ती मिठाई की दुकान के मलबे में दूध की चिकनाई छोड़ती है — और मिठाई की दुकान का मलबा उसी से बनता है — और ऊपर किसी और के मिट्टी के तेल के ग्यारह टिन इलज़ाम उठाने को रखे थे।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "tins",
+    "toClueId": "seat",
+    "text": {
+      "en": "Everybody in this lane is looking up at the tins. Look at the floor instead, and find where the burning actually began.",
+      "hi": "इस गली में हर कोई ऊपर टिनों की तरफ़ देख रहा है। उसकी जगह फ़र्श देखिए, और पता कीजिए कि जलना असल में कहाँ से शुरू हुआ।"
+    }
+  },
+  "bankedClue": {
+    "en": "Eleven sealed tins of the old shop’s kerosene in the loft above the fire, carried up in the nephew’s own hand",
+    "hi": "आग के ऊपर के कमरे में पुरानी दुकान के मिट्टी के तेल के ग्यारह सीलबंद टिन — भतीजे के अपने हाथों ऊपर पहुँचाए हुए"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "id": "udaipur-lake-palace-season",
+  "schema": 1,
+  "region": "rajasthan",
+  "city": "udaipur",
+  "number": 3,
+  "unlockStars": 18,
+  "title": {
+    "en": "Lake Palace Season",
+    "hi": "झील के महल का सहालग"
+  },
+  "blurb": {
+    "en": "6 cases · every boat booked, every gift logged, and one box that arrives empty",
+    "hi": "6 केस · हर नाव बुक, हर नेग दर्ज — और एक डिब्बा जो ख़ाली पहुँचता है"
+  },
+  "cases": [
+    "udaipur-the-empty-box",
+    "udaipur-the-ferry-log",
+    "udaipur-the-shagun-bahi",
+    "udaipur-the-sangeet-blackout",
+    "udaipur-the-strong-room",
+    "udaipur-the-settlement"
+  ],
+  "finale": {
+    "mastermindId": "suhani",
+    "reveal": {
+      "en": "Suhani Rathore?",
+      "hi": "सुहानी राठौड़?"
+    },
+    "threads": [
+      {
+        "caseNumber": 1,
+        "pointsAt": "harshad",
+        "text": {
+          "en": "An approval memo for a polki set, signed out of the shop by a hand that is not the carrier’s",
+          "hi": "पोल्की सेट का अप्रूवल मेमो — दुकान से निकला, और दस्तख़त उस हाथ के नहीं जो ले गया"
+        },
+        "short": {
+          "en": "the approval memo",
+          "hi": "अप्रूवल मेमो"
+        },
+        "pending": {
+          "en": "The Empty Box will turn up the first thread",
+          "hi": "ख़ाली डिब्बा पहला सिरा निकालेगा"
+        },
+        "misread": {
+          "en": "Nothing leaves a jeweller’s counter without a memo, and a memo is the shop’s own paper in the shop’s own book. This thread is the jeweller’s signature and the hour it was written — pin it to the counter it left, and then ask who was standing at it.",
+          "hi": "सुनार के काउंटर से बिना मेमो कुछ नहीं निकलता, और मेमो दुकान की अपनी बही का अपना काग़ज़ होता है। यह सिरा सुनार के दस्तख़त और उस घड़ी का है जब वह लिखा गया — इसे उसी काउंटर पर टाँगो जहाँ से निकला, और फिर पूछो कि उस वक़्त वहाँ खड़ा कौन था।"
+        }
+      },
+      {
+        "caseNumber": 2,
+        "pointsAt": "bheem",
+        "text": {
+          "en": "A crossing the jetty counted and the trip log never wrote down",
+          "hi": "एक फेरा, जो घाट ने गिना और नाव की बही ने कभी लिखा ही नहीं"
+        },
+        "short": {
+          "en": "the missing crossing",
+          "hi": "बिन लिखा फेरा"
+        },
+        "pending": {
+          "en": "The Ferry Log holds the second thread",
+          "hi": "नाव की बही में दूसरा सिरा है"
+        },
+        "misread": {
+          "en": "He ferried the box and he could not have opened it — the seal was whole at the far jetty and he has never held the key to anything on this lake. But the log is his, in his hand, and it is short by one crossing. Put the thread on the boatman and read what the gap in his own book is for.",
+          "hi": "डिब्बा उसी ने पहुँचाया, और खोल वह सकता ही नहीं था — दूसरे घाट पर मुहर सलामत थी और इस झील की किसी चीज़ की चाबी कभी उसके पास रही नहीं। पर बही उसकी है, उसी के हाथ की, और उसमें एक फेरा कम है। सिरा मल्लाह पर रखो, और पढ़ो कि उसकी अपनी बही का वह ख़ालीपन किस काम आया।"
+        }
+      },
+      {
+        "caseNumber": 3,
+        "pointsAt": "kanta",
+        "text": {
+          "en": "A shagun register where eleven envelopes are entered light, all in the same fortnight",
+          "hi": "नेग की बही, जिसमें ग्यारह लिफ़ाफ़े कम लिखे गए — और सब एक ही पखवाड़े में"
+        },
+        "short": {
+          "en": "the shagun bahi",
+          "hi": "नेग की बही"
+        },
+        "pending": {
+          "en": "The Shagun Bahi will say whose hand wrote the sums",
+          "hi": "नेग की बही बताएगी कि रक़में किसके हाथ ने लिखीं"
+        },
+        "misread": {
+          "en": "The bahi is dictated by one woman and written by another hand entirely, which is exactly why it is hers: an aunt who has counted this family’s neg for thirty years knows every sum in it by heart. The thread belongs to the register-keeper, not to the pen.",
+          "hi": "बही बोलती एक औरत है और लिखता कोई और हाथ है — और इसीलिए वह उसी की है: जिस बुआ ने तीस साल से इस परिवार का नेग गिना हो, उसे हर रक़म ज़बानी याद रहती है। यह सिरा बही रखने वाली का है, क़लम का नहीं।"
+        }
+      },
+      {
+        "caseNumber": 4,
+        "pointsAt": "suhani",
+        "text": {
+          "en": "A generator moved onto the strong-room phase four days before the sangeet",
+          "hi": "सहालग से चार दिन पहले जनरेटर उसी फ़ेज़ पर, जिस पर तिजोरी वाला गलियारा है"
+        },
+        "short": {
+          "en": "the moved generator",
+          "hi": "खिसका हुआ जनरेटर"
+        },
+        "pending": {
+          "en": "The Sangeet Blackout holds the fourth thread",
+          "hi": "सहालग के अँधेरे में चौथा सिरा है"
+        },
+        "misread": {
+          "en": "An operator runs a genset and an electrician wires it. Neither of them decides which circuit a wedding hangs on — that is a line on a booking sheet, changed four days out, initialled by the only person on this lake who signs booking sheets.",
+          "hi": "जनरेटर चलाता ऑपरेटर है और तार जोड़ता बिजली वाला। पर शादी किस लाइन पर टिकेगी, यह इनमें से कोई तय नहीं करता — वह बुकिंग शीट की एक पंक्ति है, चार दिन पहले बदली हुई, और उस पर दस्तख़त इस झील पर बुकिंग शीट पर दस्तख़त करने वाले इकलौते इंसान के हैं।"
+        }
+      },
+      {
+        "caseNumber": 5,
+        "pointsAt": "vijay",
+        "text": {
+          "en": "A strong-room night register with the countersign column blank for six nights",
+          "hi": "तिजोरी की रात-बही, जिसमें छह रातों का प्रतिहस्ताक्षर ख़ाना कोरा है"
+        },
+        "short": {
+          "en": "the blank countersign",
+          "hi": "कोरा प्रतिहस्ताक्षर"
+        },
+        "pending": {
+          "en": "The Strong-Room will turn up the fifth thread",
+          "hi": "तिजोरी का कमरा पाँचवाँ सिरा निकालेगा"
+        },
+        "misread": {
+          "en": "The banquet manager countersigns that register every night of the season and did not for six of them. A man does not go quiet for six nights out of laziness — but the blank is his blank, in his column, and the thread hangs where his name should be.",
+          "hi": "सहालग की हर रात उस बही पर प्रतिहस्ताक्षर बैंक्वेट मैनेजर करता है, और छह रात उसने नहीं किए। कोई छह रात आलस से चुप नहीं होता — पर वह ख़ालीपन उसी का है, उसी के ख़ाने में, और सिरा वहीं टँगेगा जहाँ उसका नाम होना चाहिए था।"
+        }
+      },
+      {
+        "caseNumber": 6,
+        "pointsAt": "suhani",
+        "text": {
+          "en": "A final settlement paying a decor firm that has no shop, no GST and no second job",
+          "hi": "आख़िरी हिसाब, जिसमें ऐसी सजावट फ़र्म को पैसा गया जिसकी न दुकान है, न जीएसटी, न कोई दूसरा काम"
+        },
+        "short": {
+          "en": "the settlement",
+          "hi": "आख़िरी हिसाब"
+        },
+        "pending": {
+          "en": "The Settlement holds the last thread",
+          "hi": "आख़िरी हिसाब में आख़िरी सिरा है"
+        },
+        "misread": {
+          "en": "Every vendor on this lake is paid off one statement at the end of the season, and one line of it goes to a firm that exists on that statement and nowhere else in Rajasthan. Only one hand draws that statement, and it is the same hand that chose the firm.",
+          "hi": "इस झील का हर वेंडर सहालग के आख़िर में एक ही हिसाब से चुकाया जाता है, और उसकी एक पंक्ति ऐसी फ़र्म के नाम है जो उस हिसाब के अलावा पूरे राजस्थान में कहीं नहीं है। वह हिसाब एक ही हाथ बनाता है — और फ़र्म भी उसी हाथ ने चुनी।"
+        }
+      }
+    ],
+    "suspects": [
+      {
+        "id": "suhani",
+        "name": {
+          "en": "Suhani Rathore",
+          "hi": "सुहानी राठौड़"
+        },
+        "role": {
+          "en": "THE WEDDING PLANNER",
+          "hi": "वेडिंग प्लानर"
+        },
+        "dossier": {
+          "en": "books every boat that crosses to the island · draws the settlement the whole season is paid off · nineteen weddings this year and not one complaint",
+          "hi": "टापू तक जाने वाली हर नाव उसी की बुक की · पूरे सहालग का हिसाब वही बनाती है · इस साल उन्नीस शादियाँ और एक भी शिकायत नहीं"
+        },
+        "feminine": true
+      },
+      {
+        "id": "bheem",
+        "name": {
+          "en": "Bheem Singh",
+          "hi": "भीम सिंह"
+        },
+        "role": {
+          "en": "THE BOATMAN",
+          "hi": "मल्लाह"
+        },
+        "dossier": {
+          "en": "twenty-two years on this water · keeps his trip log in pencil · carried the box and never once had a key to anything on the lake",
+          "hi": "बाईस साल इसी पानी पर · फेरों की बही पेंसिल से लिखता है · डिब्बा उसी ने ढोया, और झील की किसी चीज़ की चाबी उसके पास कभी नहीं रही"
+        },
+        "cleared": {
+          "en": "He ferried it and the seal was whole when he handed it over at the far jetty. A man who cannot open a box is not the man who emptied it — he is the man whose log somebody needed a hole in.",
+          "hi": "उसी ने पहुँचाया, और दूसरे घाट पर सौंपते वक़्त मुहर सलामत थी। जो डिब्बा खोल ही नहीं सकता, वह उसे ख़ाली करने वाला नहीं होता — वह वह आदमी है जिसकी बही में किसी को छेद चाहिए था।"
+        }
+      },
+      {
+        "id": "kanta",
+        "name": {
+          "en": "Kanta Devi",
+          "hi": "कांता देवी"
+        },
+        "role": {
+          "en": "THE GIFT REGISTRAR",
+          "hi": "नेग बही रखने वाली"
+        },
+        "dossier": {
+          "en": "has counted this family’s neg for thirty years · dictates every entry aloud · cannot write, and has never once been wrong about a sum",
+          "hi": "तीस साल से इस परिवार का नेग गिनती आई है · हर प्रविष्टि बोलकर लिखवाती है · लिखना नहीं आता, और रक़म में आज तक एक बार भी ग़लत नहीं हुई"
+        },
+        "cleared": {
+          "en": "She calls out every sum and somebody else writes it down. Eleven envelopes are light in a book she cannot read — and she is the one who noticed, from memory, and sent for us.",
+          "hi": "हर रक़म वह बोलती है और लिखता कोई और है। जिस बही को वह पढ़ ही नहीं सकती, उसमें ग्यारह लिफ़ाफ़े कम हैं — और पकड़ा भी उसी ने, याद के दम पर, और बुलवाया भी उसी ने हमें।"
+        },
+        "feminine": true
+      },
+      {
+        "id": "harshad",
+        "name": {
+          "en": "Harshad Soni",
+          "hi": "हर्षद सोनी"
+        },
+        "role": {
+          "en": "THE JEWELLER",
+          "hi": "सुनार"
+        },
+        "dossier": {
+          "en": "sent the polki set out on an approval memo · seals his own boxes with his own lac die · forty-one years at the same counter in Bapu Bazaar",
+          "hi": "पोल्की सेट अप्रूवल मेमो पर भेजा · अपने डिब्बे अपनी ही लाख की मुहर से बंद करता है · बापू बाज़ार के उसी काउंटर पर इकतालीस साल"
+        },
+        "cleared": {
+          "en": "The set is his stock and the loss is his loss until it is signed for — an approval memo means the jeweller carries the risk to the door. Nobody robs himself and then files the memo that proves he did.",
+          "hi": "सेट उसका माल है और जब तक रसीद न कट जाए, नुक़सान भी उसी का — अप्रूवल मेमो का मतलब ही यह है कि दरवाज़े तक जोखिम सुनार का। कोई ख़ुद को नहीं लूटता, और लूटकर वही मेमो फ़ाइल नहीं करता जो साबित कर दे कि लूटा।"
+        }
+      },
+      {
+        "id": "vijay",
+        "name": {
+          "en": "Vijay Menaria",
+          "hi": "विजय मेनारिया"
+        },
+        "role": {
+          "en": "THE BANQUET MANAGER",
+          "hi": "बैंक्वेट मैनेजर"
+        },
+        "dossier": {
+          "en": "countersigns the strong-room every night of the season · holds one of the two keys · six nights this season his column is blank",
+          "hi": "सहालग की हर रात तिजोरी पर प्रतिहस्ताक्षर करता है · दो में से एक चाबी उसी के पास · इस सहालग की छह रातें उसका ख़ाना कोरा है"
+        },
+        "cleared": {
+          "en": "Six blank nights are six nights somebody had something on him, and a man being squeezed is not the hand doing the squeezing. He kept the blanks in his own column where anybody auditing would find them — which is not what hiding looks like.",
+          "hi": "छह कोरी रातें यानी छह रातें किसी के हाथ में उसकी कोई कमज़ोरी थी — और जिसे दबाया जा रहा हो, वह दबाने वाला नहीं होता। उसने ख़ालीपन अपने ही ख़ाने में छोड़ा, जहाँ जाँच करने वाले को सबसे पहले मिलता — छिपाना ऐसा नहीं दिखता।"
+        }
+      }
+    ]
+  }
+}

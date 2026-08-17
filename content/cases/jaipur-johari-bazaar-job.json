@@ -17,6 +17,11 @@
   "photoCaption": {
     "en": "the strongroom, 3:20 am"
   },
+  "art": {
+    "ground": "counter",
+    "light": "lamp",
+    "props": ["almirah", "scale", "clock"]
+  },
   "iraNote": {
     "en": "“Two sets of prints in the gold dust. One of them stopped and came back for a second look — that’s the one who wasn’t expecting company.”"
   },

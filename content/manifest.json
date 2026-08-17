@@ -1,5 +1,25 @@
 {
   "files": {
+    "cases/bikaner-fourteen-money-orders.json": {
+      "bytes": 58901,
+      "sha256": "dfe8cb62b00ee245fe7c50e0672ce86f8aaf6867b8039943591177c966525f4d"
+    },
+    "cases/bikaner-the-second-meter.json": {
+      "bytes": 34930,
+      "sha256": "ad6f9294a72e74adcfd299cea40ada7dfb9f89e90376c05656164af61c713109"
+    },
+    "cases/bikaner-the-wrong-shop.json": {
+      "bytes": 34813,
+      "sha256": "f2d166b8e7ca2d49d7efea761809e6b81ec553dac980ddce20f0796f1928717e"
+    },
+    "cases/bikaner-tray-four.json": {
+      "bytes": 34970,
+      "sha256": "7e2b6d21c326c7572039024ca426558c1f309e74166998fa15cfc1af4d06e796"
+    },
+    "cases/bikaner-twelve-thousand-litres.json": {
+      "bytes": 45053,
+      "sha256": "a1ed3a1439e64d16bf3dc9cff6bf0f220e72564692de48b945c7b2d3c8767f42"
+    },
     "cases/darjeeling-down-train-two-forty.json": {
       "bytes": 17291,
       "sha256": "8484d09657adf1a6c5a71a78f7afc04c65e187ef806aca8564d56193889be183"
@@ -13,24 +33,52 @@
       "sha256": "5c18b90bd6125b120448279286b1121a02f190fe32c527dabc4fa8af03719712"
     },
     "cases/jaipur-johari-bazaar-job.json": {
-      "bytes": 12393,
-      "sha256": "f7d1cb44dd5c4acfca8d8336e98d16c06c28e82b9a65a960ad1244ca43662de8"
+      "bytes": 12498,
+      "sha256": "63d5ef46753d953e2a416f2d0e76cabdad94e9b2aee8696a929d685da4780a26"
     },
     "cases/jaipur-missing-tiffin.json": {
-      "bytes": 12173,
-      "sha256": "eed5f255175c78f2d005dcbdc01adaea4417c4fefcd48bd3f7d01dbbd0dc1118"
+      "bytes": 12283,
+      "sha256": "c7dcb246f869b47bcd0be99553e85e28f2a8aa271a89f97361d70bdff5da6b99"
     },
     "cases/jaipur-peacock-brooch.json": {
-      "bytes": 12547,
-      "sha256": "456d7a163449375c7a4252addea5052f476300efc032685eab5d4992e7f7506e"
+      "bytes": 12660,
+      "sha256": "d1a93c07bae973738567d8deaf07dc48d19b4be72a6213021da929a8549b629f"
     },
     "cases/jaipur-pigeon-post.json": {
-      "bytes": 17837,
-      "sha256": "445d2153f3253f9067f40a541c74c963b75ddc955d659ed4b7d7ff2152992cc6"
+      "bytes": 17860,
+      "sha256": "325d0f070ef9e7b1fd532166ec31df8df22c7be2a56a6f23f4d01c7aaaef71f1"
     },
     "cases/jaipur-rickshaw-riddle.json": {
-      "bytes": 12014,
-      "sha256": "a5e195a40cb2e8342fb0a931fc9989ffc2e4dfcbea576f0d982f188270098766"
+      "bytes": 12123,
+      "sha256": "295c5a35353c371e8f82f1146a2314b3c977f459061d9f413d215cdfd59c5668"
+    },
+    "cases/jaisalmer-bay-fourteen-twice.json": {
+      "bytes": 39307,
+      "sha256": "1a90856a1dfccbc04f6b987cdfedfd8815381536555c407b0c48ffacf5b876ee"
+    },
+    "cases/jaisalmer-cement-in-the-mortar.json": {
+      "bytes": 41769,
+      "sha256": "24c227fe2fe3a3aa48510f55bc34050c0a411ca3cb9bcdbb2525ea7fa6ce39c7"
+    },
+    "cases/jaisalmer-crate-nineteen.json": {
+      "bytes": 49644,
+      "sha256": "fb53c047f70d28f52285c49afa7043d48e1d78878e27e7328a5d41b89d18fdd5"
+    },
+    "cases/jaisalmer-the-hotel-jharokha.json": {
+      "bytes": 42727,
+      "sha256": "5f204d4b8b42bff675773373bfc81191b66f8275eff54b5a0de782570c2932a1"
+    },
+    "cases/jaisalmer-the-kanoi-road-dump.json": {
+      "bytes": 39254,
+      "sha256": "b19d3c521054ad33684516c2636c013b6589d044608347fe4d541f01c95506be"
+    },
+    "cases/jaisalmer-the-masons-mark.json": {
+      "bytes": 32905,
+      "sha256": "38f13795cbcee43801adafbec50b0c1d1d8de6f382fc7ed1c5f0ae3b45eaf132"
+    },
+    "cases/jaisalmer-water-in-the-blue-room.json": {
+      "bytes": 32490,
+      "sha256": "a639d86c1d5377ae597430b3922f326e7816839af104e667c38772443e7c473a"
     },
     "cases/jodhpur-alignment-sheet.json": {
       "bytes": 35343,
@@ -108,17 +156,93 @@
       "bytes": 9102,
       "sha256": "300e929cecc57d9b900b7d67e5a20d4345bf36d9f089265ea5c19238ea71b0a3"
     },
+    "cases/pushkar-nine-ropes.json": {
+      "bytes": 30751,
+      "sha256": "e271431769840b94392c905d24bb56a8ca1431460bee996b182fb9ec131c7ce5"
+    },
+    "cases/pushkar-one-permit.json": {
+      "bytes": 54343,
+      "sha256": "45f80e4910962baea0001374a68480737f81f54eef7522fa226a8c906e0b8599"
+    },
+    "cases/pushkar-tag-eleven-forty.json": {
+      "bytes": 40432,
+      "sha256": "0b6e7cdc9be73f02ae85f31a228b089ceec6013f46fef48ff1a9288f4e408542"
+    },
+    "cases/pushkar-the-line-fee.json": {
+      "bytes": 31372,
+      "sha256": "0c85041001885caa0871774d22ea031ddad8849e1b191056dedd1b2f12d27b77"
+    },
+    "cases/pushkar-the-ninth-camel.json": {
+      "bytes": 31109,
+      "sha256": "c46eb47fe25362b2987af6705452a96e819104deaf5d93b3468b9473dc93e30b"
+    },
+    "cases/sambhar-a-hundred-and-fifty-one-pairs.json": {
+      "bytes": 35685,
+      "sha256": "4e7bf005ae737ad29a7c6284fca1d60cc8005b8434cb3bf32feb873d941d5ec6"
+    },
+    "cases/sambhar-fifty-metres-outside.json": {
+      "bytes": 56586,
+      "sha256": "c71ef76a0d751136386f476484cb67724ee8c5a099097eecf647463d9c8d056d"
+    },
+    "cases/sambhar-from-the-nawa-side.json": {
+      "bytes": 50354,
+      "sha256": "8b26e16d9ba76d9765e923abf7d44e861deb50f4497b9fc9097063bc825e6856"
+    },
+    "cases/sambhar-the-allowed-loss.json": {
+      "bytes": 62253,
+      "sha256": "6b2a864a0dc3f16de7aae7ee8835842647a0f93ed85add258bf91bc9988a41df"
+    },
+    "cases/sambhar-the-eleventh-day.json": {
+      "bytes": 38169,
+      "sha256": "54373d4914d85014d764f83e62637c25dbbe0e8a98587725d3ce0bc2a7894b65"
+    },
+    "cases/sambhar-the-fourth-advance.json": {
+      "bytes": 48895,
+      "sha256": "3ba4cb3ff8f310dff39c1c7969d45dd016fca9e1dc5154e5c1cb2a1358a0a578"
+    },
     "cases/sundarbans-permit-for-a-boat.json": {
       "bytes": 17821,
       "sha256": "980175155f7bbb8663242e60f643dadbb0d1eeb21b7f57ebb6ae279d6ddfb33b"
     },
+    "cases/udaipur-the-empty-box.json": {
+      "bytes": 27538,
+      "sha256": "bd8419a70eb3541521f216844654052aa4df394c2ee3c2d23cc35ac344402392"
+    },
+    "cases/udaipur-the-ferry-log.json": {
+      "bytes": 36688,
+      "sha256": "e46ebaf05ccbf372a1cb2433b01b15a4e2f4a1131bbc8fb0f68a84c63dd45ac2"
+    },
+    "cases/udaipur-the-sangeet-blackout.json": {
+      "bytes": 37171,
+      "sha256": "34520ea05ad3b9a2a107cb46cc8fbce0827c70b56653eb8058248d831f28d4e2"
+    },
+    "cases/udaipur-the-settlement.json": {
+      "bytes": 48372,
+      "sha256": "ea05e632ee43ce6ea3c5fc8acd16a24a20a7222af4e120c71e83d71736cb299b"
+    },
+    "cases/udaipur-the-shagun-bahi.json": {
+      "bytes": 37042,
+      "sha256": "fbfb6178d29b66159ff19153bbca775d379966abf19638a7b3b0e4b255ee30d7"
+    },
+    "cases/udaipur-the-strong-room.json": {
+      "bytes": 37391,
+      "sha256": "5f2d04dcc55fa24838e164e1d07d1f569726b73cae05717c7d5d1ca69fac6681"
+    },
     "index.json": {
-      "bytes": 10228,
-      "sha256": "e9c09587ec0c4a2db225768aca9598360c5ea43d286cb4376dae7fd1832ac9dd"
+      "bytes": 19114,
+      "sha256": "9025004cbf656b1ef7747e2cdc4045bc46ed349667781a23de62a1b05630c3af"
+    },
+    "stories/bikaner-sweet-war.json": {
+      "bytes": 20758,
+      "sha256": "c1811c7ca35168758e7a2c22ac224589ba285feab904d6ad30d601fe58ff044a"
     },
     "stories/jaipur-pink-city.json": {
-      "bytes": 4871,
-      "sha256": "7bdf9b2bc52091e0f26b37ceef598837ed52ad03331b892e088197f6f4043613"
+      "bytes": 4899,
+      "sha256": "d273d20afec3431764013510ba8868398a78290983de5f03033a4af9a3767fe4"
+    },
+    "stories/jaisalmer-havelis.json": {
+      "bytes": 23614,
+      "sha256": "3b32a02c2e04accbe19a75ce457cf6b89400a727831fee1aba3b39b0ab981f8c"
     },
     "stories/jodhpur-blue-house-register.json": {
       "bytes": 17740,
@@ -127,9 +251,21 @@
     "stories/kolkata-howrah-ledger.json": {
       "bytes": 9183,
       "sha256": "fb741f92a4ff41ba3dd7ca901406795070799521eba6dd49f4f06d4501c2e6c3"
+    },
+    "stories/pushkar-camel-fair-books.json": {
+      "bytes": 16977,
+      "sha256": "06b10a02ff368a9349bd9329ba8a7bb586a7f03363356cc1be25a7e5a5f49ea7"
+    },
+    "stories/sambhar-salt-and-silence.json": {
+      "bytes": 27318,
+      "sha256": "8c234e995ce12e8fd7fb34ab45d9906f877dcc034709dbfb9d557a11e25e9816"
+    },
+    "stories/udaipur-lake-palace-season.json": {
+      "bytes": 17735,
+      "sha256": "1f8b2c62f08b1dfa04f1ef23eb46d0b17bb2f5aa9d33b9148cf50955289630ec"
     }
   },
   "schema": 1,
-  "tag": "v6",
-  "version": 6
+  "tag": "v7",
+  "version": 7
 }

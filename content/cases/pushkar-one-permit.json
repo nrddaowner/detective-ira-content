@@ -1,0 +1,653 @@
+{
+  "id": "pushkar-one-permit",
+  "schema": 1,
+  "city": "pushkar",
+  "genre": "impersonation",
+  "difficulty": "devious",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "pushkar-camel-fair-books",
+    "caseNumber": 5
+  },
+  "title": {
+    "en": "One Permit, Three Trucks",
+    "hi": "एक परमिट, तीन ट्रक"
+  },
+  "place": {
+    "en": "The south exit gate · Purnima eve · Sunday, 4:00 PM to midnight",
+    "hi": "दक्षिणी निर्गम गेट · पूर्णिमा की पूर्व संध्या · रविवार, शाम 4:00 से आधी रात"
+  },
+  "brief": {
+    "en": "Under the camel Act an animal leaving Rajasthan needs a permit from the competent authority, and permit two fourteen of this fair was typed once, for one buyer, for four head. It passed the south gate three times on Sunday, on three trucks, presented each time by a different man calling himself the buyer’s agent. Every counterfoil in the gate’s own book is genuine and every signature on them is a different hand. Twelve camels are out of the state this morning on a paper written for four.",
+    "hi": "ऊँट अधिनियम के तहत राजस्थान से बाहर जाने वाले जानवर के लिए सक्षम अधिकारी का परमिट चाहिए, और इस मेले का परमिट दो सौ चौदह एक ही बार टाइप हुआ था — एक ख़रीदार के लिए, चार जानवरों के लिए। रविवार को वह दक्षिणी गेट से तीन बार गुज़रा, तीन ट्रकों पर, और हर बार उसे पेश करने वाला कोई और आदमी था जो ख़ुद को ख़रीदार का मुख़्तार बता रहा था। गेट की अपनी बही में हर प्रतिपर्ण असली है और उन पर हर दस्तख़त किसी और हाथ का है। आज सुबह बारह ऊँट राज्य के बाहर हैं — चार के लिए लिखे एक काग़ज़ पर।"
+  },
+  "photoCaption": {
+    "en": "the south gate, half past eleven",
+    "hi": "दक्षिणी गेट, साढ़े ग्यारह"
+  },
+  "iraNote": {
+    "en": "“A gate that reads numbers will let anything through that carries the right number. Nobody built it to read faces, and everybody who uses it knows that.”",
+    "hi": "“जो गेट नंबर पढ़ता है, वह हर उस चीज़ को जाने देगा जिस पर सही नंबर लिखा हो। उसे चेहरे पढ़ने के लिए बनाया ही नहीं गया — और यह उस गेट को बरतने वाला हर आदमी जानता है।”"
+  },
+  "clues": [
+    {
+      "id": "permit",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "PERMIT TWO FOURTEEN",
+        "hi": "परमिट दो सौ चौदह"
+      },
+      "text": {
+        "en": "Issued to Ismail Khan of Bhuj for four head, signed by the sub-divisional officer on Saturday, typed once on the office machine. One original to the buyer, one carbon to the guard file, one carbon to the veterinary tent.",
+        "hi": "भुज के इस्माइल ख़ान के नाम चार जानवरों के लिए जारी, शनिवार को उपखंड अधिकारी के दस्तख़त, और दफ़्तर की मशीन पर एक ही बार टाइप। एक असल ख़रीदार को, एक कार्बन गार्ड फ़ाइल को, एक कार्बन पशु चिकित्सा तंबू को।"
+      }
+    },
+    {
+      "id": "counterfoils",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THREE COUNTERFOILS, ONE NUMBER",
+        "hi": "तीन प्रतिपर्ण, एक नंबर"
+      },
+      "text": {
+        "en": "Four-forty, seven fifty-five, eleven twenty, four head each, all against permit two fourteen. Three counterfoils in the gate’s own book in the gate writer’s own hand, and three signatures under them in three plainly different hands.",
+        "hi": "चार बजकर चालीस, आठ बजने में पाँच, ग्यारह बजकर बीस — हर बार चार जानवर, और हर बार परमिट दो सौ चौदह पर। गेट की अपनी बही में गेट मुंशी के अपने हाथ के तीन प्रतिपर्ण, और उनके नीचे साफ़-साफ़ तीन अलग हाथों के तीन दस्तख़त।"
+      }
+    },
+    {
+      "id": "carbons",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE CARBONS",
+        "hi": "कार्बन कॉपियाँ"
+      },
+      "text": {
+        "en": "The guard file copy of two fourteen is not in the guard file. The papers presented at seven fifty-five and at eleven twenty are carbons and not originals — same machine, same ribbon, same worn lower-case e falling below its line — and one of the two has a guard file stamp on the reverse.",
+        "hi": "दो सौ चौदह की गार्ड फ़ाइल वाली कॉपी गार्ड फ़ाइल में नहीं है। आठ बजने में पाँच और ग्यारह बजकर बीस पर पेश किए काग़ज़ असल नहीं, कार्बन हैं — वही मशीन, वही रिबन, वही घिसा हुआ छोटा ‘e’ जो अपनी पंक्ति से नीचे गिरता है — और इन दोनों में से एक के पिछले हिस्से पर गार्ड फ़ाइल की मुहर लगी है।"
+      }
+    },
+    {
+      "id": "authority",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THREE LETTERS OF AUTHORITY",
+        "hi": "मुख़्तारनामे, तीन"
+      },
+      "text": {
+        "en": "Three letters, each authorising a different man to move animals as Ismail Khan’s agent, all three typed on the same machine as the permit and all three after five in the evening. Ismail Khan writes in Kutchi and Gujarati, has never used a typewriter in his life, and has written none of them.",
+        "hi": "तीन चिट्ठियाँ, हर एक किसी और आदमी को इस्माइल ख़ान का मुख़्तार बताकर जानवर ले जाने की इजाज़त देती है — तीनों उसी मशीन पर टाइप जिस पर परमिट, और तीनों शाम पाँच के बाद। इस्माइल ख़ान कच्छी और गुजराती में लिखता है, ज़िंदगी में टाइपराइटर छुआ नहीं, और इनमें से एक भी उसने नहीं लिखी।"
+      }
+    },
+    {
+      "id": "movement",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "TWELVE CERTIFICATES, EIGHT EXAMS",
+        "hi": "बारह प्रमाण-पत्र, आठ जाँचें"
+      },
+      "text": {
+        "en": "The veterinary tent’s certificate book gave out twelve movement certificates on Sunday and its examination register records eight examinations for the whole day. Four of the twelve are on the tent’s own forms in a hand that is not the veterinary officer’s, off the pad he leaves at the counter for owners to fill their own names into.",
+        "hi": "पशु चिकित्सा तंबू की प्रमाण-पत्र बही ने रविवार को बारह परिवहन प्रमाण-पत्र दिए, और उसकी जाँच बही में पूरे दिन की आठ जाँचें दर्ज हैं। उन बारह में से चार तंबू के अपने फ़ॉर्मों पर हैं, पर लिखावट पशु चिकित्सा अधिकारी की नहीं है — वे उसी पैड के हैं जो वह काउंटर पर छोड़ देता है ताकि मालिक अपने नाम ख़ुद भर लें।"
+      }
+    },
+    {
+      "id": "exitslips",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE TWELVE EXIT SLIPS",
+        "hi": "बारह निर्गम पर्चियाँ"
+      },
+      "text": {
+        "en": "Twelve slips written against twelve arrival tokens. Four of those tokens belong to animals that were standing on the ground at midnight and are standing there now, which means four of the twelve that left were never entered at any gate at all.",
+        "hi": "बारह पर्चियाँ, बारह आवक टोकनों पर लिखी हुईं। इनमें से चार टोकन उन जानवरों के हैं जो आधी रात को मैदान पर खड़े थे और अब भी खड़े हैं — यानी जो बारह गए, उनमें से चार किसी गेट पर दर्ज ही नहीं हुए थे।"
+      }
+    },
+    {
+      "id": "money",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "FOUR THOUSAND A HEAD",
+        "hi": "चार हज़ार प्रति जानवर"
+      },
+      "text": {
+        "en": "The transport agent’s own pocket diary, Sunday’s page: eight head at four thousand, thirty-two thousand received, against the names of two Bhuj buyers and one from Anjar. The line above it reads permit charges, office, nil.",
+        "hi": "ट्रांसपोर्ट एजेंट की अपनी जेबी डायरी, रविवार का पन्ना: आठ जानवर, चार-चार हज़ार, बत्तीस हज़ार मिले — और सामने भुज के दो और अंजार के एक ख़रीदार के नाम। उसके ऊपर की पंक्ति में लिखा है: परमिट ख़र्च, दफ़्तर, शून्य।"
+      }
+    },
+    {
+      "id": "lotdouble",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "TWO NAMES, ONE LOT",
+        "hi": "दो नाम, एक लॉट"
+      },
+      "text": {
+        "en": "Four of the twelve trace back to lots the neelami bahi shows sold twice, on two days, to two buyers, at two prices. Both entries of each pair are in the auction clerk’s hand, and the earlier buyer of every pair is a name and an address that nobody at this fair can produce.",
+        "hi": "उन बारह में से चार ऐसे लॉट तक जाते हैं जिन्हें नीलामी बही दो बार बिका दिखाती है — दो दिन, दो ख़रीदार, दो दाम। हर जोड़ी की दोनों प्रविष्टियाँ नीलामी मुंशी के हाथ की हैं, और हर जोड़ी का पहला ख़रीदार ऐसा नाम और पता है जिसे इस मेले में कोई सामने नहीं ला सकता।"
+      }
+    },
+    {
+      "id": "gopalload",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "WHO LOADED ALL THREE",
+        "hi": "तीनों किसने लादे"
+      },
+      "text": {
+        "en": "Gopal Bishnoi, the gate coolie, walked animals up the ramp for all three trucks and took twenty rupees a head for it.",
+        "hi": "गेट का कुली गोपाल बिश्नोई तीनों ट्रकों के लिए जानवर रैंप पर चढ़ाता रहा और इसके बीस रुपए प्रति जानवर लिए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he loads eleven trucks a night on Purnima eve, has never been handed a paper at this gate, and cannot read the one that was carried past him three times",
+        "hi": "ख़ारिज — पूर्णिमा की रात वह ग्यारह ट्रक लादता है, इस गेट पर उसे कभी कोई काग़ज़ थमाया ही नहीं गया, और जो काग़ज़ उसके सामने से तीन बार गुज़रा उसे वह पढ़ ही नहीं सकता"
+      }
+    },
+    {
+      "id": "vetcerts",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO SIGNED THE TWELVE",
+        "hi": "बारह पर दस्तख़त किसके"
+      },
+      "text": {
+        "en": "Dr. Onkar Vyas signed eight movement certificates on Sunday and his book gave out twelve.",
+        "hi": "रविवार को डॉ. ओंकार व्यास ने आठ परिवहन प्रमाण-पत्रों पर दस्तख़त किए, और उसकी बही से बारह निकले।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he examines what is walked into the tent and signs for that; four of the twelve are on his forms in somebody else’s hand, which is a thing done to him rather than by him",
+        "hi": "ख़ारिज — तंबू में जो चलाकर लाया जाए वह उसकी जाँच करता है और उसी पर दस्तख़त करता है; बारह में से चार उसके फ़ॉर्मों पर किसी और के हाथ के हैं — यह उसके साथ हुआ है, उसने किया नहीं है"
+      }
+    },
+    {
+      "id": "ismailtruck",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE ELEVEN TWENTY TRUCK",
+        "hi": "ग्यारह बीस वाला ट्रक"
+      },
+      "text": {
+        "en": "The last of the three was Ismail Khan’s own truck, carrying his own four head, on his own permit.",
+        "hi": "तीनों में आख़िरी ट्रक इस्माइल ख़ान का अपना था, अपने ही चार जानवरों के साथ, अपने ही परमिट पर।"
+      },
+      "dismissNote": {
+        "en": "ruled out — his four are the only four the permit was ever written for; he paid the agent four thousand a head believing it was the office’s fee and drove eighty kilometres back to the gate when we sent for him",
+        "hi": "ख़ारिज — परमिट अगर किसी चार के लिए लिखा गया था तो उसी के चार के लिए; उसने एजेंट को चार हज़ार प्रति जानवर यह समझकर दिए कि यह दफ़्तर की फ़ीस है, और हमारे बुलाने पर अस्सी किलोमीटर लौटकर गेट पर आया"
+      }
+    },
+    {
+      "id": "shardamachine",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE OFFICE MACHINE",
+        "hi": "दफ़्तर की मशीन"
+      },
+      "text": {
+        "en": "All three letters of authority were typed on the sub-divisional office’s own machine, which stands on the public counter in the outer room.",
+        "hi": "तीनों मुख़्तारनामे उपखंड कार्यालय की उसी मशीन पर टाइप हुए, जो बाहरी कमरे के पब्लिक काउंटर पर रखी रहती है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the machine is public and the letters were typed after five; the office clerk signs out at half past four in a register a peon countersigns, and did on Saturday and Sunday both",
+        "hi": "ख़ारिज — मशीन सबके लिए खुली है और चिट्ठियाँ पाँच के बाद टाइप हुईं; दफ़्तर की बाबू साढ़े चार बजे उस बही में छुट्टी दर्ज कराती है जिस पर चपरासी प्रतिहस्ताक्षर करता है — और शनिवार-रविवार दोनों दिन उसने कराई"
+      }
+    },
+    {
+      "id": "night",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE GATE LAMP",
+        "hi": "गेट की बत्ती"
+      },
+      "text": {
+        "en": "The south gate’s lamp failed between eleven and half past, and the writing was done by torch.",
+        "hi": "दक्षिणी गेट की बत्ती ग्यारह से साढ़े ग्यारह के बीच बंद रही, और लिखत टॉर्च की रोशनी में हुई।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the eleven twenty counterfoil is written in a steady hand and reads clean; darkness did not do this, a number did",
+        "hi": "ख़ारिज — ग्यारह बीस का प्रतिपर्ण ठहरे हुए हाथ का है और साफ़ पढ़ा जाता है; यह अँधेरे ने नहीं किया, एक नंबर ने किया"
+      }
+    },
+    {
+      "id": "purnima",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE PURNIMA RUSH",
+        "hi": "पूर्णिमा की भीड़"
+      },
+      "text": {
+        "en": "Two hundred and six trucks went out of the south gate in eight hours, the heaviest evening of the fair.",
+        "hi": "आठ घंटे में दक्षिणी गेट से दो सौ छह ट्रक निकले — मेले की सबसे भारी शाम।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the rush is the cover and not the crime; all three of two fourteen’s crossings sit inside the three quietest half-hours of that log",
+        "hi": "ख़ारिज — भीड़ ओट है, अपराध नहीं; दो सौ चौदह के तीनों फेरे उसी बही के तीन सबसे सूने आधे-घंटों में बैठे हैं"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidservice",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE AGENT",
+        "hi": "बयान · एजेंट"
+      },
+      "text": {
+        "en": "“Every buyer at this fair wants to be home for Purnima and there is one office and one typewriter. I do not sell permits, madam. I sell not waiting.”",
+        "hi": "“इस मेले का हर ख़रीदार पूर्णिमा तक घर पहुँचना चाहता है, और दफ़्तर एक है और टाइपराइटर एक। मैं परमिट नहीं बेचता, मैडम। मैं इंतज़ार न करना बेचता हूँ।”"
+      }
+    },
+    {
+      "id": "saidtyped",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE OFFICE CLERK",
+        "hi": "बयान · दफ़्तर की बाबू"
+      },
+      "text": {
+        "en": "“I typed two fourteen once. One original, two carbons — one for the guard file and one for the vet. The guard file copy is not in the guard file, and the guard file has not been out of that room since Chaitra.”",
+        "hi": "“दो सौ चौदह मैंने एक ही बार टाइप किया। एक असल, दो कार्बन — एक गार्ड फ़ाइल के लिए और एक डॉक्टर के लिए। गार्ड फ़ाइल वाली कॉपी गार्ड फ़ाइल में नहीं है, और गार्ड फ़ाइल चैत से उस कमरे से बाहर गई ही नहीं है।”"
+      }
+    },
+    {
+      "id": "saidsigned",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE GATE WRITER",
+        "hi": "बयान · गेट का मुंशी"
+      },
+      "text": {
+        "en": "“A gate reads the number, and the number was right three times. If I had to read handwriting I would want a lamp and four minutes, and on Purnima eve there are forty trucks behind every truck.”",
+        "hi": "“गेट नंबर पढ़ता है, और नंबर तीनों बार सही था। अगर मुझे लिखावट पढ़नी पड़े तो बत्ती और चार मिनट चाहिए — और पूर्णिमा की रात हर ट्रक के पीछे चालीस ट्रक खड़े होते हैं।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ratan",
+      "name": {
+        "en": "Ratan Lal Sirvi",
+        "hi": "रतन लाल सीरवी"
+      },
+      "role": {
+        "en": "THE TRANSPORT AGENT",
+        "hi": "ट्रांसपोर्ट एजेंट"
+      },
+      "hook": {
+        "en": "sells three buyers the same paper and calls it a service",
+        "hi": "तीन ख़रीदारों को एक ही काग़ज़ बेचता है और उसे सेवा कहता है"
+      },
+      "confession": {
+        "en": "Lifted the guard file carbon of two fourteen from the outer room on Saturday evening, typed three letters of authority on the office’s own public machine after five, put a different man behind each of them, and ran twelve head out of the south gate on one permit at four thousand a head — thirty-two thousand for eight animals that had no paper of their own.",
+        "hi": "शनिवार शाम बाहरी कमरे से दो सौ चौदह की गार्ड फ़ाइल वाली कार्बन उठाई, पाँच बजे के बाद दफ़्तर की उसी खुली मशीन पर तीन मुख़्तारनामे टाइप किए, हर एक के पीछे एक अलग आदमी खड़ा किया, और एक परमिट पर बारह जानवर दक्षिणी गेट से बाहर निकलवा दिए — चार हज़ार प्रति जानवर, यानी उन आठ के बत्तीस हज़ार जिनका अपना कोई काग़ज़ ही नहीं था।"
+      }
+    },
+    {
+      "id": "mohar",
+      "name": {
+        "en": "Mohar Singh Rawat",
+        "hi": "मोहर सिंह रावत"
+      },
+      "role": {
+        "en": "THE GATE WRITER",
+        "hi": "गेट का मुंशी"
+      },
+      "hook": {
+        "en": "wrote all three counterfoils himself",
+        "hi": "तीनों प्रतिपर्ण उसी ने लिखे"
+      },
+      "alibi": {
+        "en": "He wrote three honest counterfoils against a number that was right all three times, and he wrote them in his own book where anybody auditing would find them side by side. The gate has never been given a way to know a permit has already been used.",
+        "hi": "उसने तीन सच्चे प्रतिपर्ण उस नंबर पर लिखे जो तीनों बार सही था, और अपनी ही बही में लिखे — जहाँ जाँच करने वाले को वे तीनों एक साथ मिलते हैं। गेट को यह जानने का तरीक़ा कभी दिया ही नहीं गया कि कोई परमिट पहले बरता जा चुका है।"
+      }
+    },
+    {
+      "id": "onkar",
+      "name": {
+        "en": "Dr. Onkar Vyas",
+        "hi": "डॉ. ओंकार व्यास"
+      },
+      "role": {
+        "en": "THE VETERINARY OFFICER",
+        "hi": "पशु चिकित्सा अधिकारी"
+      },
+      "hook": {
+        "en": "twelve certificates left his book and he examined eight",
+        "hi": "बही से बारह प्रमाण-पत्र निकले, जाँच उसने आठ की"
+      },
+      "alibi": {
+        "en": "He examined eight animals and signed for eight, and the four extra are on his forms in a hand that is not his. His pad sits on a counter in an open tent because owners have to fill their own names in, and it has sat there for eleven fairs.",
+        "hi": "उसने आठ जानवरों की जाँच की और आठ पर दस्तख़त किए, और बाक़ी चार उसके फ़ॉर्मों पर किसी और के हाथ के हैं। उसका पैड खुले तंबू के काउंटर पर पड़ा रहता है क्योंकि मालिकों को अपने नाम ख़ुद भरने होते हैं — और ग्यारह मेलों से वहीं पड़ा है।"
+      }
+    },
+    {
+      "id": "sharda",
+      "name": {
+        "en": "Sharda Meena",
+        "hi": "शारदा मीना"
+      },
+      "role": {
+        "en": "THE SUB-DIVISIONAL OFFICE CLERK",
+        "hi": "उपखंड कार्यालय की बाबू"
+      },
+      "hook": {
+        "en": "typed the permit and the machine is hers",
+        "hi": "परमिट उसी ने टाइप किया और मशीन उसी की है"
+      },
+      "alibi": {
+        "en": "She typed two fourteen once and signed out at half past four on both days in a register a peon countersigns. The letters of authority were typed after five on a machine that stands on a public counter, and she is the one who reported the guard file copy missing.",
+        "hi": "दो सौ चौदह उसने एक ही बार टाइप किया और दोनों दिन साढ़े चार बजे उस बही में छुट्टी दर्ज कराई जिस पर चपरासी प्रतिहस्ताक्षर करता है। मुख़्तारनामे पाँच बजे के बाद उस मशीन पर टाइप हुए जो पब्लिक काउंटर पर रखी है — और गार्ड फ़ाइल की कॉपी ग़ायब होने की ख़बर उसी ने दी थी।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "ismail",
+      "name": {
+        "en": "Ismail Khan",
+        "hi": "इस्माइल ख़ान"
+      },
+      "role": {
+        "en": "THE BHUJ BUYER",
+        "hi": "भुज का ख़रीदार"
+      },
+      "hook": {
+        "en": "the permit is in his name and so are the three letters",
+        "hi": "परमिट उसके नाम, और तीनों चिट्ठियाँ भी"
+      },
+      "alibi": {
+        "en": "He cannot use a typewriter and writes in Kutchi and Gujarati, and all three letters are typed in English. He paid the agent four thousand a head believing it was the office’s charge, and drove eighty kilometres back to this gate when we sent for him.",
+        "hi": "उसे टाइपराइटर चलाना नहीं आता और वह कच्छी और गुजराती में लिखता है, जबकि तीनों चिट्ठियाँ अंग्रेज़ी में टाइप हैं। उसने एजेंट को चार हज़ार प्रति जानवर यह समझकर दिए कि यह दफ़्तर का ख़र्च है, और हमारे बुलाने पर अस्सी किलोमीटर लौटकर इसी गेट पर आया।"
+      }
+    },
+    {
+      "id": "gopal",
+      "name": {
+        "en": "Gopal Bishnoi",
+        "hi": "गोपाल बिश्नोई"
+      },
+      "role": {
+        "en": "THE GATE COOLIE",
+        "hi": "गेट का कुली"
+      },
+      "hook": {
+        "en": "walked all twelve up the ramp himself",
+        "hi": "बारहों को रैंप पर उसी ने चढ़ाया"
+      },
+      "alibi": {
+        "en": "He loads eleven trucks a night for twenty rupees a head and has never been handed a paper at this gate in six years. He cannot read the one that went past him three times.",
+        "hi": "बीस रुपए प्रति जानवर पर वह रात में ग्यारह ट्रक लादता है, और छह साल में इस गेट पर उसे कोई काग़ज़ थमाया ही नहीं गया। जो काग़ज़ उसके सामने से तीन बार गुज़रा, उसे वह पढ़ भी नहीं सकता।"
+      }
+    }
+  ],
+  "culpritId": "ratan",
+  "interrogations": [
+    {
+      "suspectId": "sharda",
+      "setting": {
+        "en": "The outer room of the sub-divisional office on Monday, the guard file open on the table with one gap in a run of numbers.",
+        "hi": "सोमवार को उपखंड कार्यालय का बाहरी कमरा, मेज़ पर खुली गार्ड फ़ाइल — और नंबरों के सिलसिले में एक ख़ाली जगह।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "How many copies of two fourteen exist?",
+            "hi": "दो सौ चौदह की कितनी कॉपियाँ हैं?"
+          },
+          "answer": {
+            "en": "“Three, and I made all three at once. That is what a carbon is for — one paper, one hour, one hand.”",
+            "hi": "“तीन, और तीनों मैंने एक ही बार में बनाईं। कार्बन इसी के लिए होता है — एक काग़ज़, एक घंटा, एक हाथ।”"
+          },
+          "note": {
+            "en": "One hand made three copies, which is why three copies look identical under a glass.",
+            "hi": "तीनों कॉपियाँ एक ही हाथ ने बनाईं — इसीलिए शीशे के नीचे तीनों एक जैसी दिखती हैं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Two of the three papers presented at the gate are carbons.",
+            "hi": "गेट पर पेश तीन काग़ज़ों में से दो कार्बन हैं।"
+          },
+          "answer": {
+            "en": "“I typed two fourteen once. One original, two carbons — one for the guard file and one for the vet. The guard file copy is not in the guard file, and the guard file has not been out of that room since Chaitra.”",
+            "hi": "“दो सौ चौदह मैंने एक ही बार टाइप किया। एक असल, दो कार्बन — एक गार्ड फ़ाइल के लिए और एक डॉक्टर के लिए। गार्ड फ़ाइल वाली कॉपी गार्ड फ़ाइल में नहीं है, और गार्ड फ़ाइल चैत से उस कमरे से बाहर गई ही नहीं है।”"
+          },
+          "needsClueId": "carbons",
+          "lockedHint": {
+            "en": "Pin the carbons. She will keep explaining her own procedure until somebody tells her two of her copies are out on the road.",
+            "hi": "कार्बन कॉपियाँ टाँगो। जब तक कोई उसे यह न बताए कि उसकी दो कॉपियाँ सड़क पर घूम रही हैं, वह अपना ही तरीक़ा समझाती रहेगी।"
+          },
+          "unlocksClueId": "saidtyped",
+          "note": {
+            "en": "The file never left the room, so somebody came into the room. That is a much shorter list.",
+            "hi": "फ़ाइल कमरे से बाहर गई ही नहीं — यानी कोई कमरे के भीतर आया। यह सूची बहुत छोटी है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Three letters of authority came off your machine after five.",
+            "hi": "आपकी मशीन से पाँच बजे के बाद तीन मुख़्तारनामे निकले।"
+          },
+          "answer": {
+            "en": "“That machine is on the public counter. Half the applications in this subdivision are typed on it by the people applying. That is not carelessness, it is the only way four hundred permits get typed in a week.”",
+            "hi": "“वह मशीन पब्लिक काउंटर पर है। इस उपखंड के आधे आवेदन उस पर आवेदक ख़ुद टाइप करते हैं। यह लापरवाही नहीं है — हफ़्ते में चार सौ परमिट टाइप होने का यही एक तरीक़ा है।”"
+          },
+          "needsClueId": "authority",
+          "lockedHint": {
+            "en": "Pin the letters of authority. Ask her about her machine only when you can put on the table what came off it.",
+            "hi": "मुख़्तारनामे टाँगो। उसकी मशीन के बारे में तभी पूछो जब उससे निकला काग़ज़ मेज़ पर रख सको।"
+          },
+          "note": {
+            "en": "The machine is not a lock and was never meant to be one. What was meant to be the lock is a file in a locked room.",
+            "hi": "मशीन ताला नहीं है और उसे कभी ताला बनाया ही नहीं गया। ताला जिसे होना था, वह बंद कमरे में रखी एक फ़ाइल है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "mohar",
+      "setting": {
+        "en": "The south gate at dawn, the counterfoil book still open, three stubs for two fourteen curling in the same damp.",
+        "hi": "भोर का दक्षिणी गेट, अब तक खुली प्रतिपर्ण बही, और दो सौ चौदह के तीनों टुकड़े उसी नमी में मुड़े हुए।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "The same number, three times in one evening.",
+            "hi": "एक ही नंबर, एक ही शाम में तीन बार।"
+          },
+          "answer": {
+            "en": "“A gate reads the number, and the number was right three times. If I had to read handwriting I would want a lamp and four minutes, and on Purnima eve there are forty trucks behind every truck.”",
+            "hi": "“गेट नंबर पढ़ता है, और नंबर तीनों बार सही था। अगर मुझे लिखावट पढ़नी पड़े तो बत्ती और चार मिनट चाहिए — और पूर्णिमा की रात हर ट्रक के पीछे चालीस ट्रक खड़े होते हैं।”"
+          },
+          "needsClueId": "counterfoils",
+          "lockedHint": {
+            "en": "Pin the counterfoils. He is not going to argue with his own book, but he has to be looking at all three stubs at once.",
+            "hi": "प्रतिपर्ण टाँगो। अपनी ही बही से वह बहस नहीं करेगा — पर तीनों टुकड़े उसे एक साथ दिखने चाहिए।"
+          },
+          "unlocksClueId": "saidsigned",
+          "note": {
+            "en": "He wrote three honest stubs and put them in one book, in order, where we would find them. That is the opposite of hiding.",
+            "hi": "उसने तीन सच्चे टुकड़े लिखे और एक ही बही में, क्रम से रखे — जहाँ हमें मिल ही जाते। यह छिपाने का उल्टा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Four of the twelve tokens belong to animals still on the ground.",
+            "hi": "बारह टोकनों में से चार उन जानवरों के हैं जो अब भी मैदान पर हैं।"
+          },
+          "answer": {
+            "en": "“Then four animals went out on somebody else’s token. I write the token the driver reads out to me. There is no man at this gate whose work is to walk down a truck and count.”",
+            "hi": "“तो चार जानवर किसी और के टोकन पर बाहर गए। ड्राइवर जो टोकन बोलता है, मैं वही लिखता हूँ। इस गेट पर एक भी आदमी ऐसा नहीं है जिसका काम ट्रक के साथ चलकर गिनना हो।”"
+          },
+          "needsClueId": "exitslips",
+          "lockedHint": {
+            "en": "Pin the exit slips. Twelve slips against twelve tokens sounds correct until four of the tokens are standing in front of you chewing.",
+            "hi": "निर्गम पर्चियाँ टाँगो। बारह टोकनों पर बारह पर्चियाँ ठीक लगती हैं — जब तक उनमें से चार टोकन आपके सामने खड़े जुगाली न कर रहे हों।"
+          },
+          "note": {
+            "en": "The gate counts paper and the ramp counts animals, and no rule has ever asked the two to meet.",
+            "hi": "गेट काग़ज़ गिनता है और रैंप जानवर, और किसी नियम ने आज तक इन दोनों को आपस में मिलने को नहीं कहा।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ismail",
+      "setting": {
+        "en": "The gate office at eight in the morning, a Bhuj truck standing outside with four camels still on it.",
+        "hi": "सुबह आठ बजे का गेट दफ़्तर, बाहर खड़ा भुज का ट्रक — और उस पर अब भी चार ऊँट।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Did you write these three letters?",
+            "hi": "ये तीन चिट्ठियाँ आपने लिखी हैं?"
+          },
+          "answer": {
+            "en": "“In English, on a machine? I write in Kutchi and I sign in Gujarati. Bring me the man who taught me to type and I will confess to everything he says.”",
+            "hi": "“अंग्रेज़ी में, मशीन पर? मैं कच्छी में लिखता हूँ और गुजराती में दस्तख़त करता हूँ। जो मुझे टाइप करना सिखाया हो, उसे ले आइए — वह जो कहे मैं मान लूँगा।”"
+          },
+          "note": {
+            "en": "Three men moved animals as his agent and he has met one of them.",
+            "hi": "तीन आदमी उसका मुख़्तार बनकर जानवर ले गए, और उनमें से एक से ही वह मिला है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Four thousand a head. Who did you pay it to?",
+            "hi": "चार हज़ार प्रति जानवर। यह किसे दिए?"
+          },
+          "answer": {
+            "en": "“To the transport man, at the truck stand, and I asked him for a receipt. He said the office does not give receipts on a Sunday. I have bought camels here for nineteen years and I have never once been inside that office.”",
+            "hi": "“ट्रांसपोर्ट वाले को, ट्रक स्टैंड पर — और मैंने रसीद भी माँगी। उसने कहा रविवार को दफ़्तर रसीद नहीं देता। उन्नीस साल से यहाँ ऊँट ख़रीद रहा हूँ और एक बार भी उस दफ़्तर के भीतर नहीं गया।”"
+          },
+          "needsClueId": "money",
+          "lockedHint": {
+            "en": "Pin the diary page. He will only remember the exact figure once he is looking at it in somebody else’s handwriting.",
+            "hi": "डायरी का पन्ना टाँगो। रक़म उसे ठीक-ठीक तभी याद आएगी जब वह किसी और की लिखावट में उसके सामने हो।"
+          },
+          "note": {
+            "en": "Nineteen years of buying camels and never once inside the office. That is the whole business the agent is in.",
+            "hi": "उन्नीस साल ऊँट ख़रीदे और एक बार भी दफ़्तर के भीतर नहीं गया। एजेंट का पूरा धंधा यही है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "ratan",
+      "setting": {
+        "en": "The truck stand at ten, a plastic chair, a pocket diary face down on it, and eleven drivers pretending not to listen.",
+        "hi": "दस बजे का ट्रक स्टैंड, एक प्लास्टिक कुर्सी, उस पर औंधी पड़ी जेबी डायरी, और सुनने का दिखावा न करते ग्यारह ड्राइवर।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Thirty-two thousand on Sunday, and permit charges to the office written as nil.",
+            "hi": "रविवार को बत्तीस हज़ार, और दफ़्तर को परमिट ख़र्च लिखा हुआ — शून्य।"
+          },
+          "answer": {
+            "en": "“Every buyer at this fair wants to be home for Purnima and there is one office and one typewriter. I do not sell permits, madam. I sell not waiting.”",
+            "hi": "“इस मेले का हर ख़रीदार पूर्णिमा तक घर पहुँचना चाहता है, और दफ़्तर एक है और टाइपराइटर एक। मैं परमिट नहीं बेचता, मैडम। मैं इंतज़ार न करना बेचता हूँ।”"
+          },
+          "needsClueId": "money",
+          "lockedHint": {
+            "en": "Pin his own diary page. The sentence he has ready for this only becomes a confession beside a figure in his own hand.",
+            "hi": "उसकी अपनी डायरी का पन्ना टाँगो। इसके लिए तैयार रखा उसका वाक्य तभी इक़बाल बनता है जब उसके ही हाथ की रक़म साथ रखी हो।"
+          },
+          "unlocksClueId": "saidservice",
+          "note": {
+            "en": "Nil to the office and thirty-two thousand to him. He has told us exactly what he was selling and priced it himself.",
+            "hi": "दफ़्तर को शून्य और उसे बत्तीस हज़ार। उसने ख़ुद बता दिया कि वह क्या बेच रहा था — और दाम भी ख़ुद लगा दिया।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The guard file has not left that room since Chaitra.",
+            "hi": "गार्ड फ़ाइल चैत से उस कमरे से बाहर नहीं गई।"
+          },
+          "answer": {
+            "en": "“Then whoever took the copy stood in the room. I stand at a truck stand. I am there every day of my life and four hundred people will tell you so.”",
+            "hi": "“तो जिसने कॉपी उठाई वह कमरे में खड़ा था। मैं ट्रक स्टैंड पर खड़ा रहता हूँ। ज़िंदगी का हर दिन वहीं होता हूँ और चार सौ आदमी यह बता देंगे।”"
+          },
+          "note": {
+            "en": "He is at the truck stand every day, and the office is nine minutes from it, and Saturday evening he was not.",
+            "hi": "वह हर दिन ट्रक स्टैंड पर होता है, दफ़्तर वहाँ से नौ मिनट का है — और शनिवार शाम वह वहाँ नहीं था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Four of your twelve went out on tokens that are still standing on the ground.",
+            "hi": "आपके बारह में से चार उन टोकनों पर बाहर गए जो अब भी मैदान पर खड़े हैं।"
+          },
+          "answer": {
+            "en": "“A token is a piece of brass on a rope. If a buyer has no token, somebody reads him a number. Nobody at that gate has ever asked to see the rope.”",
+            "hi": "“टोकन तो रस्सी पर लटका पीतल का टुकड़ा है। अगर ख़रीदार के पास टोकन नहीं है तो कोई उसे एक नंबर पढ़ा देता है। उस गेट पर आज तक किसी ने रस्सी देखने को नहीं कहा।”"
+          },
+          "needsClueId": "exitslips",
+          "lockedHint": {
+            "en": "Pin the exit slips. He will keep the tokens abstract until four of them are named as animals with owners standing beside them.",
+            "hi": "निर्गम पर्चियाँ टाँगो। जब तक उनमें से चार टोकन ऐसे जानवरों के नाम न बन जाएँ जिनके मालिक बग़ल में खड़े हों, वह टोकन की बात हवा में रखेगा।"
+          },
+          "note": {
+            "en": "He knows the gate does not walk down a truck, and he knows it because he has been counting on it for eleven fairs.",
+            "hi": "वह जानता है कि गेट ट्रक के साथ चलकर नहीं गिनता — और यह जानता है क्योंकि ग्यारह मेलों से उसका पूरा भरोसा इसी पर है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "money",
+      "correction": {
+        "en": "The gate writer earns a salary, the coolie twenty rupees a head, and the buyer paid out rather than took in. One man wrote thirty-two thousand received against eight animals in his own pocket diary, on the same page as permit charges, office, nil.",
+        "hi": "गेट मुंशी को तनख़्वाह मिलती है, कुली को बीस रुपए प्रति जानवर, और ख़रीदार ने दिया है, लिया नहीं। एक ही आदमी ने अपनी जेबी डायरी में आठ जानवरों के बत्तीस हज़ार ‘मिले’ लिखे — उसी पन्ने पर, जहाँ लिखा है: परमिट ख़र्च, दफ़्तर, शून्य।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidtyped",
+      "correction": {
+        "en": "Nothing here was forged and no signature was copied. Two fourteen was typed once with two carbons, and the copy meant for the guard file walked out of a room the guard file has not left since Chaitra — so the opening was a room, not a machine.",
+        "hi": "यहाँ कुछ जाली नहीं बना और किसी दस्तख़त की नक़ल नहीं हुई। दो सौ चौदह एक ही बार दो कार्बन के साथ टाइप हुआ, और गार्ड फ़ाइल के लिए बनी कॉपी उस कमरे से बाहर चली गई, जिससे गार्ड फ़ाइल चैत से बाहर नहीं गई — यानी दरार एक कमरा था, कोई मशीन नहीं।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidsigned",
+      "correction": {
+        "en": "Twelve animals went out through a lit gate in front of a writer, a coolie and forty waiting trucks. The gate reads a number and has never been given any way to know a number has already been used — three different hands signed for the same permit and the book took all three.",
+        "hi": "बारह जानवर एक रोशन गेट से, एक मुंशी, एक कुली और चालीस खड़े ट्रकों के सामने से बाहर गए। गेट नंबर पढ़ता है और उसे यह जानने का कोई तरीक़ा कभी दिया ही नहीं गया कि नंबर पहले बरता जा चुका है — एक ही परमिट पर तीन अलग हाथों ने दस्तख़त किए और बही ने तीनों ले लिए।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "counterfoils",
+    "toClueId": "carbons",
+    "text": {
+      "en": "Three stubs against one number means the paper was in three places in one evening, and one paper cannot be. Stop counting the crossings and count the copies.",
+      "hi": "एक नंबर पर तीन टुकड़े यानी वह काग़ज़ एक ही शाम में तीन जगह था — और एक काग़ज़ तीन जगह नहीं हो सकता। फेरे गिनना छोड़िए, कॉपियाँ गिनिए।"
+    }
+  },
+  "bankedClue": {
+    "en": "An exit slip whose lot the sale book shows sold twice, on two days, to two buyers",
+    "hi": "एक निर्गम पर्ची, जिसका लॉट नीलामी बही दो बार बिका दिखाती है — दो दिन, दो ख़रीदार"
+  }
+}

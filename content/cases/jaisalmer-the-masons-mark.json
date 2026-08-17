@@ -1,0 +1,414 @@
+{
+  "id": "jaisalmer-the-masons-mark",
+  "schema": 1,
+  "city": "jaisalmer",
+  "genre": "forgery",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jaisalmer-havelis",
+    "caseNumber": 2
+  },
+  "title": {
+    "en": "The Mason’s Mark",
+    "hi": "सिलावट की छाप"
+  },
+  "place": {
+    "en": "The carving shed, north court · Ashwin 4, 10:40 AM",
+    "hi": "तराशी का छप्पर, उत्तरी आँगन · आश्विन 4, 10:40 AM"
+  },
+  "brief": {
+    "en": "The new jali fitted into the north jharokha this Shravan carries a mason’s mark on its back face, a five-petalled flower with a dot at the centre, which is the chhap of Ustad Hasan Silawat. Ustad Hasan cut his last stone in this haveli in 1974 and died in 1996. This jali was cut nine weeks ago, out of Habur bed, by men who are on the site this morning. Somebody in the carving shed is putting a dead master’s name on new work.",
+    "hi": "इस सावन में उत्तरी झरोखे में लगी नई जाली की पिछली सतह पर एक सिलावट की छाप है — बीच में बिंदु लिए पाँच पंखुड़ियों का फूल, यानी उस्ताद हसन सिलावट की छाप। उस्ताद हसन ने इस हवेली का अपना आख़िरी पत्थर 1974 में तराशा था और 1996 में उनका देहांत हुआ। यह जाली नौ हफ़्ते पहले हाबूर की परत से, उन्हीं आदमियों ने तराशी है जो आज सुबह साइट पर हैं। तराशी के छप्पर में कोई नए काम पर मरे हुए उस्ताद का नाम गोद रहा है।"
+  },
+  "photoCaption": {
+    "en": "the back face, north jharokha",
+    "hi": "उत्तरी झरोखा, पिछली सतह"
+  },
+  "iraNote": {
+    "en": "“A mason’s mark is not a signature, it is a receipt — it tells the next man in three hundred years whose hands were here. Somebody has worked out that a receipt can be sold.”",
+    "hi": "“सिलावट की छाप दस्तख़त नहीं, रसीद होती है — वह तीन सौ साल बाद आने वाले को बताती है कि यहाँ किसके हाथ थे। किसी ने पता लगा लिया है कि रसीद बेची भी जा सकती है।”"
+  },
+  "clues": [
+    {
+      "id": "mark",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE MARK ON THE BACK FACE",
+        "hi": "पिछली सतह की छाप"
+      },
+      "text": {
+        "en": "Five petals and a centre dot, cut a thumb’s width deep on the face that faces the wall. On a fitted stone that face is never seen again — but on a stone that is going to be sold, the back is the first thing a buyer turns over.",
+        "hi": "पाँच पंखुड़ियाँ और बीच में एक बिंदु, अंगूठे भर गहरी — और उसी सतह पर जो दीवार की तरफ़ रहती है। जो पत्थर चिन दिया गया हो, उसकी वह सतह फिर कभी नहीं दिखती — पर जो पत्थर बिकने जा रहा हो, ख़रीदार सबसे पहले उसी की पीठ पलटकर देखता है।"
+      }
+    },
+    {
+      "id": "hand",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHICH WAY THE PETALS LIE",
+        "hi": "पंखुड़ियाँ किस तरफ़ लेटी हैं"
+      },
+      "text": {
+        "en": "On every one of Ustad Hasan’s 1974 stones a floor below, the petals overlap left over right, because he cut left-handed and a chisel goes where the shoulder is. On this jali they overlap right over left, in all eleven marks the shed has produced this season.",
+        "hi": "एक मंज़िल नीचे उस्ताद हसन के 1974 वाले हर पत्थर पर पंखुड़ियाँ बाएँ से दाएँ चढ़ती हैं, क्योंकि वे बाएँ हाथ से तराशते थे और टाँकी वहीं जाती है जहाँ कंधा हो। इस जाली पर वे दाएँ से बाएँ चढ़ती हैं — और इस मौसम में छप्पर से निकली ग्यारहों छापों पर वैसे ही।"
+      }
+    },
+    {
+      "id": "dust",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "IN THE GROOVES",
+        "hi": "खाँचों के भीतर"
+      },
+      "text": {
+        "en": "Pale stone flour, no lichen and no grime. The 1974 marks a floor below are black to the bottom of the cut, and nothing in Jaisalmer keeps a groove clean for twenty-nine years.",
+        "hi": "हल्का पत्थर का चूरा, न काई, न मैल। एक मंज़िल नीचे 1974 वाली छापें कटाव की तह तक काली हैं, और जैसलमेर में कोई खाँचा उनतीस साल साफ़ नहीं रहता।"
+      }
+    },
+    {
+      "id": "point",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE TOOL REGISTER",
+        "hi": "औज़ार पंजी"
+      },
+      "text": {
+        "en": "There is one tungsten-tipped point on this site and it lives in the store, entered out and in by Rewat Singh Bhati. It was drawn on eleven evenings of Shravan, always after six, always against the same thumb, and always returned before the shed opened next morning.",
+        "hi": "इस साइट पर टंगस्टन नोक वाली एक ही सुई है और वह भंडार में रहती है, जिसकी निकासी और वापसी रेवत सिंह भाटी दर्ज करता है। सावन की ग्यारह शामों को वह निकाली गई — हर बार छह बजे के बाद, हर बार उसी अंगूठे पर, और हर बार अगली सुबह छप्पर खुलने से पहले लौटा दी गई।"
+      }
+    },
+    {
+      "id": "price",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "WHAT A MARK IS WORTH",
+        "hi": "छाप की क़ीमत"
+      },
+      "text": {
+        "en": "A salvage yard’s rate card off the Nagaur road at Jodhpur: new Jaisalmer jali, eighteen thousand; old work, marked, seventy-two thousand. Nothing on the card asks what the mark is or who is supposed to have cut it.",
+        "hi": "जोधपुर में नागौर रोड के एक सलवेज यार्ड का भाव-पत्रक: नई जैसलमेर जाली, अठारह हज़ार; पुराना काम, छाप वाला, बहत्तर हज़ार। पत्रक में कहीं यह नहीं पूछा गया कि छाप क्या है या किसने गोदी मानी जाए।"
+      }
+    },
+    {
+      "id": "chit",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "TWO HUNDRED A STONE",
+        "hi": "दो सौ प्रति पत्थर"
+      },
+      "text": {
+        "en": "A folded chit in the helper’s tool roll: eleven strokes, two hundred against each, twenty-two hundred underlined, and a Jodhpur telephone number with no name beside it.",
+        "hi": "कारीगर के औज़ार-बंडल में मुड़ी हुई एक चिट: ग्यारह लकीरें, हर एक के सामने दो सौ, नीचे बाईस सौ रेखांकित, और बिना नाम के एक जोधपुर का फ़ोन नंबर।"
+      }
+    },
+    {
+      "id": "issue",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "STORE ISSUE · NORTH JHAROKHA",
+        "hi": "भंडार निर्गम · उत्तरी झरोखा"
+      },
+      "text": {
+        "en": "One line in the issue register reads jali, reproduction, north jharokha — and two jalis went out of that store against it, on two dates, eight days apart. Only one of them is in the jharokha.",
+        "hi": "निर्गम पंजी की एक पंक्ति में लिखा है: जाली, प्रतिकृति, उत्तरी झरोखा — और उसी एक पंक्ति पर उस भंडार से दो जालियाँ बाहर गईं, दो तारीख़ों को, आठ दिन के फ़ासले पर। झरोखे में उनमें से एक ही है।"
+      }
+    },
+    {
+      "id": "bhojashed",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "WHO CUT THE JALI",
+        "hi": "जाली किसने तराशी"
+      },
+      "text": {
+        "en": "Bhoja Ram Silawat cut this jali and every replacement stone on this site, from the drawing to the last rub.",
+        "hi": "यह जाली और इस साइट का हर प्रतिस्थापन पत्थर भोजा राम सिलावट ने तराशा है — नक़्शे से लेकर आख़िरी घिसाई तक।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the jali is his and the mark is not; he has cut fourteen years of restoration stone and never once marked any of it, because he says a repair stone has no business claiming a hand",
+        "hi": "ख़ारिज — जाली उसकी है, छाप उसकी नहीं; चौदह साल से मरम्मत का पत्थर तराशते हुए उसने एक पर भी छाप नहीं लगाई, क्योंकि उसका कहना है कि मरम्मत के पत्थर को किसी हाथ का दावा करने का हक़ नहीं"
+      }
+    },
+    {
+      "id": "gumana",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE BUYER WHO CAME TWICE",
+        "hi": "दो बार आया ख़रीदार"
+      },
+      "text": {
+        "en": "Gumana Ram, a salvage buyer from Jodhpur, was inside this haveli twice in Shravan.",
+        "hi": "जोधपुर का सलवेज ख़रीदार गुमाना राम सावन में दो बार इस हवेली के भीतर आया।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a buyer buys and does not cut; both visits are in the caretaker’s book, both in daylight, and the engineer walked beside him on each",
+        "hi": "ख़ारिज — ख़रीदार ख़रीदता है, गोदता नहीं; दोनों बार की हाज़िरी देखभाल वाली की बही में है, दोनों बार दिन में, और दोनों बार इंजीनियर उसके साथ-साथ चला"
+      }
+    },
+    {
+      "id": "hasanson",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE MARK’S OWN HEIR",
+        "hi": "छाप का अपना वारिस"
+      },
+      "text": {
+        "en": "Ustad Hasan’s son still cuts stone at Barmer and uses his father’s flower by right of inheritance.",
+        "hi": "उस्ताद हसन का बेटा आज भी बाड़मेर में पत्थर तराशता है और विरासत के हक़ से अपने पिता का फूल इस्तेमाल करता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he has not been inside this fort in four years, and his petals run left over right too, because the man who taught him held the chisel in his left hand",
+        "hi": "ख़ारिज — चार साल से वह इस क़िले के भीतर आया ही नहीं, और उसकी पंखुड़ियाँ भी बाएँ से दाएँ चढ़ती हैं, क्योंकि जिसने उसे सिखाया वह टाँकी बाएँ हाथ में पकड़ता था"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saideleven",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE HELPER",
+        "hi": "बयान · कारीगर लड़का"
+      },
+      "text": {
+        "en": "“Eleven stones. He told me a mark is only a flower and a flower is not a signature. I cut flowers all day, sahib. That is my whole trade.”",
+        "hi": "“ग्यारह पत्थर। उसने कहा था कि छाप तो बस एक फूल है, और फूल दस्तख़त नहीं होता। साहब, मैं दिन भर फूल ही गोदता हूँ। मेरा तो पूरा काम ही यही है।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "pema",
+      "name": {
+        "en": "Pema Ram",
+        "hi": "पेमा राम"
+      },
+      "role": {
+        "en": "THE CARVER’S HELPER",
+        "hi": "तराशी का कारीगर लड़का"
+      },
+      "hook": {
+        "en": "drew the only tungsten point on eleven evenings",
+        "hi": "इकलौती टंगस्टन सुई ग्यारह शामों को उसी ने निकाली"
+      },
+      "confession": {
+        "en": "Cut Ustad Hasan’s flower into the back face of eleven stones on eleven evenings of Shravan after the shed emptied, with the store’s tungsten point, right-handed, for two hundred rupees a stone from a yard off the Nagaur road that pays eighteen thousand for a new jali and seventy-two for a marked one.",
+        "hi": "सावन की ग्यारह शामों को छप्पर ख़ाली होने के बाद, भंडार की टंगस्टन सुई से, दाएँ हाथ से, ग्यारह पत्थरों की पिछली सतह पर उस्ताद हसन का फूल गोदा — नागौर रोड के उस यार्ड के लिए, दो सौ रुपए प्रति पत्थर, जो नई जाली के अठारह हज़ार देता है और छाप वाली के बहत्तर।"
+      }
+    },
+    {
+      "id": "bhoja",
+      "name": {
+        "en": "Bhoja Ram Silawat",
+        "hi": "भोजा राम सिलावट"
+      },
+      "role": {
+        "en": "THE STONE CARVER",
+        "hi": "सिलावट"
+      },
+      "hook": {
+        "en": "every replacement on this site came off his chisel",
+        "hi": "इस साइट का हर प्रतिस्थापन उसी की टाँकी से निकला"
+      },
+      "alibi": {
+        "en": "Fourteen years of restoration stone and not one mark on any of it — he holds that a repair stone has no business claiming a hand. He cuts right-handed, and so does the man who cut these, which is the one place his defence gets uncomfortable and still holds.",
+        "hi": "चौदह साल की मरम्मत का पत्थर और उनमें से एक पर भी छाप नहीं — उसका मानना है कि मरम्मत के पत्थर को किसी हाथ का दावा करने का हक़ नहीं। वह दाएँ हाथ से तराशता है, और जिसने ये गोदी हैं वह भी — यही एक जगह है जहाँ उसकी सफ़ाई असहज होती है, और फिर भी टिकती है।"
+      }
+    },
+    {
+      "id": "rewat",
+      "name": {
+        "en": "Rewat Singh Bhati",
+        "hi": "रेवत सिंह भाटी"
+      },
+      "role": {
+        "en": "THE SITE STOREKEEPER",
+        "hi": "साइट भंडारी"
+      },
+      "hook": {
+        "en": "the point and both jalis went through his hands",
+        "hi": "सुई और दोनों जालियाँ उसी के हाथ से गुज़रीं"
+      },
+      "alibi": {
+        "en": "He wrote every one of the eleven evening draws in the tool register, with the hour and the thumb, and locked the store behind him each night at seven. A man cutting flowers after dark does not first write down eleven times that he was there.",
+        "hi": "उन ग्यारहों शाम की निकासी उसने औज़ार पंजी में घड़ी और अंगूठे सहित लिखी, और हर रात सात बजे भंडार बंद करके गया। अँधेरे में फूल गोदने वाला पहले ग्यारह बार यह नहीं लिखता कि वह वहाँ था।"
+      }
+    },
+    {
+      "id": "gumana",
+      "name": {
+        "en": "Gumana Ram",
+        "hi": "गुमाना राम"
+      },
+      "role": {
+        "en": "THE SALVAGE BUYER",
+        "hi": "सलवेज ख़रीदार"
+      },
+      "hook": {
+        "en": "his yard pays four times for a marked stone",
+        "hi": "छाप वाले पत्थर के उसका यार्ड चौगुना देता है"
+      },
+      "alibi": {
+        "en": "He was inside this haveli twice, in daylight, with the engineer at his elbow, and both entries are in the caretaker’s book. Paying more for a marked stone is a rate card, and a rate card is not a chisel.",
+        "hi": "वह दो बार इस हवेली में आया — दिन में, इंजीनियर उसके साथ, और दोनों प्रविष्टियाँ देखभाल वाली की बही में हैं। छाप वाले पत्थर के ज़्यादा देना भाव-पत्रक है, और भाव-पत्रक टाँकी नहीं होता।"
+      }
+    }
+  ],
+  "culpritId": "pema",
+  "interrogations": [
+    {
+      "suspectId": "bhoja",
+      "setting": {
+        "en": "The carving shed at eleven, four men on four stones, and a wall of paper templates pinned in date order.",
+        "hi": "ग्यारह बजे का तराशी छप्पर, चार पत्थरों पर चार आदमी, और तारीख़ के क्रम में टँके काग़ज़ के नमूनों से भरी दीवार।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Do you mark your stones?",
+            "hi": "आप अपने पत्थरों पर छाप लगाते हैं?"
+          },
+          "answer": {
+            "en": "“Never. A stone I cut for a repair is standing in for a stone that was cut better than mine. Putting my flower on it would be putting my name under somebody else’s drawing.”",
+            "hi": "“कभी नहीं। मरम्मत के लिए मैं जो पत्थर तराशता हूँ, वह उस पत्थर की जगह खड़ा होता है जो मुझसे बेहतर तराशा गया था। उस पर अपना फूल लगाना किसी और के नक़्शे के नीचे अपना नाम लिखने जैसा है।”"
+          },
+          "note": {
+            "en": "Fourteen years of unmarked stone on this fort, and it is checkable, and it checks.",
+            "hi": "इस क़िले पर चौदह साल का बिना छाप वाला पत्थर — जाँचा जा सकता है, और जाँच में खरा उतरता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "These petals run right over left, like yours would.",
+            "hi": "इन पंखुड़ियों की चढ़ाई दाएँ से बाएँ है — जैसी आपकी होती।"
+          },
+          "answer": {
+            "en": "“Like mine, and like every right-handed cutter in this town. Ustad Hasan’s ran the other way and everybody in the shed has seen his stones downstairs. Whoever did this looked at the flower and not at the hand.”",
+            "hi": "“मेरी जैसी, और इस शहर के हर दाएँ हाथ वाले तराश की जैसी। उस्ताद हसन की उल्टी चलती थी और छप्पर के हर आदमी ने नीचे उनके पत्थर देखे हैं। जिसने यह किया उसने फूल देखा, हाथ नहीं देखा।”"
+          },
+          "needsClueId": "hand",
+          "lockedHint": {
+            "en": "Pin which way the petals lie. He will not discuss a mark he cannot see the direction of.",
+            "hi": "पंखुड़ियों की चढ़ाई टाँगो। जिस छाप की दिशा उसे दिख न रही हो, उस पर वह बात ही नहीं करेगा।"
+          },
+          "note": {
+            "en": "He has just narrowed it to a right-handed cutter who has never studied the stones a floor below. That is not a master.",
+            "hi": "उसने अभी दायरा उस दाएँ हाथ वाले तराश तक ला दिया जिसने एक मंज़िल नीचे के पत्थर कभी ध्यान से देखे ही नहीं। वह उस्ताद नहीं होता।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "pema",
+      "setting": {
+        "en": "The shed’s far corner at dusk, a tool roll open on a sack, and stone flour still in the seams of it.",
+        "hi": "शाम ढले छप्पर का दूर वाला कोना, बोरी पर खुला औज़ार-बंडल, और उसकी सिलवटों में अब तक भरा पत्थर का चूरा।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Eleven evenings, and you drew the point every one of them.",
+            "hi": "ग्यारह शामें, और हर एक को सुई आपने ही निकाली।"
+          },
+          "answer": {
+            "en": "“I finish after the others. My hands are slow and I am paid the same as the fast ones, so I stay. Ask anybody in the shed.”",
+            "hi": "“मैं बाक़ियों के बाद ख़त्म करता हूँ। मेरे हाथ धीमे हैं और पैसा तेज़ वालों के बराबर मिलता है, इसलिए रुक जाता हूँ। छप्पर में किसी से भी पूछ लीजिए।”"
+          },
+          "needsClueId": "point",
+          "lockedHint": {
+            "en": "Pin the tool register. Eleven late evenings is a habit; eleven late evenings against one tool is a pattern.",
+            "hi": "औज़ार पंजी टाँगो। ग्यारह देर शामें आदत हैं; एक ही औज़ार पर ग्यारह देर शामें ढर्रा हैं।"
+          },
+          "note": {
+            "en": "A slow hand does not need a tungsten point. A tungsten point is for cutting hard and fast in the dark.",
+            "hi": "धीमे हाथ को टंगस्टन सुई की ज़रूरत नहीं होती। टंगस्टन सुई अँधेरे में सख़्त और तेज़ गोदने के लिए होती है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eleven strokes at two hundred each, and a Jodhpur number.",
+            "hi": "ग्यारह लकीरें, हर एक पर दो सौ, और एक जोधपुर नंबर।"
+          },
+          "answer": {
+            "en": "“Eleven stones. He told me a mark is only a flower and a flower is not a signature. I cut flowers all day, sahib. That is my whole trade.”",
+            "hi": "“ग्यारह पत्थर। उसने कहा था कि छाप तो बस एक फूल है, और फूल दस्तख़त नहीं होता। साहब, मैं दिन भर फूल ही गोदता हूँ। मेरा तो पूरा काम ही यही है।”"
+          },
+          "needsClueId": "chit",
+          "lockedHint": {
+            "en": "Pin the chit. He counts in stones and not in rupees, and the chit is the only place both numbers stand together.",
+            "hi": "चिट टाँगो। वह पत्थरों में गिनता है, रुपयों में नहीं — और चिट अकेली जगह है जहाँ दोनों आँकड़े साथ खड़े हैं।"
+          },
+          "unlocksClueId": "saideleven",
+          "note": {
+            "en": "He is not wrong about the flower and he is entirely wrong about the receipt. Twenty-two hundred rupees for fifty-four thousand a stone.",
+            "hi": "फूल के बारे में वह ग़लत नहीं है, और रसीद के बारे में पूरी तरह ग़लत है। पत्थर पर चौवन हज़ार के बदले बाईस सौ रुपए।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who told you a flower is not a signature?",
+            "hi": "यह किसने कहा कि फूल दस्तख़त नहीं होता?"
+          },
+          "answer": {
+            "en": "“A man at the yard, on the phone. I have never seen his face. He said if the stone is new, nobody is cheated, and I could not find the hole in it and I still cannot.”",
+            "hi": "“यार्ड का एक आदमी, फ़ोन पर। उसका चेहरा मैंने कभी नहीं देखा। उसने कहा कि पत्थर नया है तो किसी के साथ धोखा हुआ ही नहीं — और मुझे इसमें छेद तब नहीं मिला, आज भी नहीं मिलता।”"
+          },
+          "note": {
+            "en": "The hole is that the next hundred years will read those eleven stones as Hasan’s, and Hasan is not here to say otherwise.",
+            "hi": "छेद यह है कि अगले सौ साल उन ग्यारह पत्थरों को हसन का पढ़ेंगे — और हसन यह कहने के लिए मौजूद नहीं हैं कि नहीं।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "chit",
+      "correction": {
+        "en": "The carver has refused to mark a stone for fourteen years and the buyer pays a rate card from two hundred kilometres away. One man in this shed had eleven strokes at two hundred rupees each folded into his tool roll.",
+        "hi": "सिलावट चौदह साल से किसी पत्थर पर छाप लगाने से इनकार करता आया है और ख़रीदार दो सौ किलोमीटर दूर से भाव-पत्रक चलाता है। इस छप्पर में एक ही आदमी था जिसके औज़ार-बंडल में दो सौ रुपए वाली ग्यारह लकीरें मुड़ी पड़ी थीं।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "point",
+      "correction": {
+        "en": "A flower a thumb deep in Habur stone is not cut with a shed chisel in daylight in front of four men. There is one tungsten point on this site, it was drawn on eleven evenings after six against one thumb, and it was back before the shed opened.",
+        "hi": "हाबूर के पत्थर में अंगूठे भर गहरा फूल दिन में चार आदमियों के सामने छप्पर की टाँकी से नहीं गुदता। इस साइट पर टंगस्टन सुई एक ही है, वह ग्यारह शामों को छह बजे के बाद एक ही अंगूठे पर निकली, और छप्पर खुलने से पहले वापस भी आ गई।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "price",
+      "correction": {
+        "en": "Nothing had to be smuggled anywhere. Eleven new stones walked out of a carving shed as new stones and turned into old ones the moment a dead man’s flower was on the back — eighteen thousand becomes seventy-two on a rate card that never asks whose flower it is.",
+        "hi": "यहाँ कुछ कहीं छिपाकर ले जाने की ज़रूरत ही नहीं थी। ग्यारह नए पत्थर तराशी के छप्पर से नए पत्थर बनकर निकले और पीठ पर मरे हुए आदमी का फूल आते ही पुराने हो गए — उस भाव-पत्रक पर अठारह हज़ार बहत्तर बन जाते हैं, जो कभी नहीं पूछता कि फूल किसका है।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "mark",
+    "toClueId": "hand",
+    "text": {
+      "en": "The flower is right in every petal and every proportion, which means somebody copied it carefully off a stone downstairs. Copying tells you what a mark looked like and never tells you which shoulder made it.",
+      "hi": "फूल की हर पंखुड़ी और हर नाप सही है — यानी किसी ने उसे नीचे के पत्थर से ध्यान से उतारा है। नक़ल बताती है कि छाप दिखती कैसी थी, और यह कभी नहीं बताती कि उसे किस कंधे ने बनाया।"
+    }
+  },
+  "bankedClue": {
+    "en": "A store issue for one reproduction jali, against which two jalis left the store",
+    "hi": "एक प्रतिकृति जाली का भंडार निर्गम, जिस पर भंडार से दो जालियाँ बाहर गईं"
+  }
+}
