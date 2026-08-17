@@ -1,0 +1,412 @@
+{
+  "id": "jodhpur-clocktower-scales",
+  "schema": 1,
+  "city": "jodhpur",
+  "genre": "fraud",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "title": {
+    "en": "Clocktower Scales",
+    "hi": "घंटाघर का तराज़ू"
+  },
+  "place": {
+    "en": "Sardar Market · under the clocktower · Tuesday, 2:30 PM",
+    "hi": "सरदार मार्केट · घंटाघर के नीचे · मंगलवार, 2:30 PM"
+  },
+  "brief": {
+    "en": "Buy a kilo of haldi at this stall in the morning and you get a kilo. Buy it after noon and you get nine hundred and thirty grams. Same beam, same brass, same shop, same smiling face — and a market that has been muttering about it for six weeks without one person being able to say what changes at lunchtime.",
+    "hi": "इस दुकान से सुबह किलो भर हल्दी लो तो पूरा किलो मिलता है। दोपहर बाद लो तो नौ सौ तीस ग्राम। वही तराज़ू, वही पीतल, वही दुकान, वही मुस्कुराता चेहरा — और छह हफ़्ते से बुदबुदाता बाज़ार, जिसमें एक आदमी भी यह नहीं बता पाया कि दोपहर में बदलता क्या है।"
+  },
+  "photoCaption": {
+    "en": "the beam, half past two",
+    "hi": "तराज़ू, ढाई बजे"
+  },
+  "iraNote": {
+    "en": "“A weight is a promise cast in brass. When a promise only breaks after lunch, stop looking at the brass and look at who is holding it after lunch.”",
+    "hi": "“बाट पीतल में ढला हुआ वादा होता है। जब वादा सिर्फ़ दोपहर बाद टूटे, तो पीतल देखना छोड़ो और यह देखो कि दोपहर बाद उसे पकड़ता कौन है।”"
+  },
+  "teaser": {
+    "en": "A spice market’s scales weigh light, but only after noon.",
+    "hi": "मसाला बाज़ार का तराज़ू कम तोलता है — पर सिर्फ़ दोपहर बाद।"
+  },
+  "clues": [
+    {
+      "id": "weights",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE BRASS WEIGHTS",
+        "hi": "पीतल के बाट"
+      },
+      "text": {
+        "en": "Three of the counter set are drilled from underneath and packed with wax. The 500 g runs 465. The 1 kg runs 930.",
+        "hi": "काउंटर वाले सेट के तीन बाट नीचे से ड्रिल करके मोम भरे हुए हैं। 500 ग्राम वाला 465 निकलता है। किलो वाला 930।"
+      }
+    },
+    {
+      "id": "stamp",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE VERIFICATION STAMP",
+        "hi": "सत्यापन की मुहर"
+      },
+      "text": {
+        "en": "Legal Metrology stamped this shop’s set in Chaitra and the stamped set is in the drawer, wrapped in newspaper, unused since Jyeshtha. The set on the counter carries no current stamp at all.",
+        "hi": "विधिक माप-तौल विभाग ने इस दुकान का सेट चैत्र में मुहरबंद किया था — और वह सेट दराज़ में, अख़बार में लिपटा, ज्येष्ठ से अछूता पड़ा है। काउंटर पर रखे सेट पर इस साल की कोई मुहर है ही नहीं।"
+      }
+    },
+    {
+      "id": "daybook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE STALL’S DAY BOOK",
+        "hi": "दुकान की रोज़नामचा"
+      },
+      "text": {
+        "en": "Against the same money, the afternoon sends out nine per cent less haldi than the morning does. Every day. For six weeks.",
+        "hi": "उतने ही पैसे के बदले दोपहर में सुबह से नौ प्रतिशत कम हल्दी बाहर जाती है। हर दिन। छह हफ़्ते से।"
+      }
+    },
+    {
+      "id": "second",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE SACK TO NAI SARAK",
+        "hi": "नई सड़क जाने वाली बोरी"
+      },
+      "text": {
+        "en": "A sack of the same grade, carrying this market’s own bale mark, goes to a stall in Nai Sarak on a scooter every Saturday evening.",
+        "hi": "उसी क्वालिटी की एक बोरी, इसी बाज़ार के गट्ठर के निशान के साथ, हर शनिवार शाम स्कूटर पर नई सड़क की एक दुकान तक जाती है।"
+      }
+    },
+    {
+      "id": "cash",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE BACK OF A CALENDAR",
+        "hi": "कैलेंडर के पीछे का हिसाब"
+      },
+      "text": {
+        "en": "₹19,400 short, worked out in pencil in the salesman’s own hand, on the back of last year’s calendar in his tin.",
+        "hi": "₹19,400 की कमी, सेल्समैन के अपने हाथ की पेंसिल से जोड़ी हुई — उसके डिब्बे में रखे पिछले साल के कैलेंडर के पीछे।"
+      }
+    },
+    {
+      "id": "lunch",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "WHO IS AT THE COUNTER AT ONE",
+        "hi": "एक बजे काउंटर पर कौन"
+      },
+      "text": {
+        "en": "Jethmal goes home at one and returns at four, and has for thirty years. Between those hours the counter belongs to one man.",
+        "hi": "जेठमल एक बजे घर जाते हैं और चार बजे लौटते हैं — तीस साल से। उन घंटों में काउंटर एक ही आदमी का होता है।"
+      }
+    },
+    {
+      "id": "mechanic",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE SCALE MECHANIC’S ROUND",
+        "hi": "तराज़ू मिस्त्री का चक्कर"
+      },
+      "text": {
+        "en": "Sohan serviced this beam in Ashadh, filed the knife edges and took forty rupees.",
+        "hi": "सोहन ने आषाढ़ में यह तराज़ू ठीक किया, धार वाली फाँकें रेती से घिसीं और चालीस रुपए लिए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — he serviced eleven beams in this market that week and exactly one of them started weighing light",
+        "hi": "ख़ारिज — उस हफ़्ते उसने इसी बाज़ार के ग्यारह तराज़ू ठीक किए, और कम सिर्फ़ एक तोलने लगा"
+      }
+    },
+    {
+      "id": "zubeda",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE NEXT STALL",
+        "hi": "फ़ोटो · बग़ल की दुकान"
+      },
+      "text": {
+        "en": "Zubeda’s stall has been three deep in customers all month.",
+        "hi": "ज़ुबैदा की दुकान पर पूरे महीने तीन-तीन क़तारें लगी हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she gained them because word got round that this stall weighs light, which makes her the effect and not the cause",
+        "hi": "ख़ारिज — भीड़ इसलिए बढ़ी कि बात फैल गई कि यह दुकान कम तोलती है; यानी वह नतीजा है, वजह नहीं"
+      }
+    },
+    {
+      "id": "damp",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · THE HALDI",
+        "hi": "लैब पर्ची · हल्दी"
+      },
+      "text": {
+        "en": "The afternoon’s haldi carries more moisture than the morning’s.",
+        "hi": "दोपहर की हल्दी में सुबह की हल्दी से ज़्यादा नमी है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the sack is opened at noon and Jodhpur’s afternoon is what it is; damp weighs more, which would cheat the shop and not the customer",
+        "hi": "ख़ारिज — बोरी दोपहर में खुलती है और जोधपुर की दोपहर जैसी है वैसी है; नमी वज़न बढ़ाती है, यानी नुक़सान दुकान का होता, ग्राहक का नहीं"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidshort",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE SALESMAN",
+        "hi": "बयान · सेल्समैन"
+      },
+      "text": {
+        "en": "“Nineteen thousand four hundred. I did not take money, I took weight — I told myself weight is not money. Six weeks, and I have not put back one rupee of it.”",
+        "hi": "“उन्नीस हज़ार चार सौ। मैंने पैसा नहीं लिया, वज़न लिया — ख़ुद को समझाता रहा कि वज़न पैसा नहीं होता। छह हफ़्ते हो गए, और एक रुपया भी वापस नहीं डाल पाया।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "devilal",
+      "name": {
+        "en": "Devi Lal",
+        "hi": "देवी लाल"
+      },
+      "role": {
+        "en": "THE SALESMAN",
+        "hi": "सेल्समैन"
+      },
+      "hook": {
+        "en": "alone at the counter from one to four",
+        "hi": "एक से चार तक काउंटर पर अकेला"
+      },
+      "confession": {
+        "en": "Swapped a drilled, unstamped set of weights onto the beam every afternoon while the owner was at home, took the nine per cent out in goods rather than cash, and moved it out on a scooter to Nai Sarak on Saturdays — to fill a ₹19,400 hole he had already worked out in pencil.",
+        "hi": "मालिक के घर रहने के वक़्त हर दोपहर तराज़ू पर ड्रिल किया हुआ, बिना मुहर का सेट चढ़ा दिया, नौ प्रतिशत नक़द नहीं बल्कि माल में निकाला, और शनिवार को स्कूटर से नई सड़क भिजवाता रहा — उस ₹19,400 के गड्ढे को भरने के लिए, जिसका हिसाब वह पहले ही पेंसिल से जोड़ चुका था।"
+      }
+    },
+    {
+      "id": "jethmal",
+      "name": {
+        "en": "Jethmal",
+        "hi": "जेठमल"
+      },
+      "role": {
+        "en": "THE STALL OWNER",
+        "hi": "दुकान मालिक"
+      },
+      "hook": {
+        "en": "thirty years under this clocktower",
+        "hi": "इस घंटाघर के नीचे तीस साल"
+      },
+      "alibi": {
+        "en": "The stamped set is in his drawer where he put it, and the loss is his own stock walking out of his own shop. Nobody robs himself nine per cent at a time and then complains to the market about it.",
+        "hi": "मुहर वाला सेट उसी की दराज़ में, वहीं जहाँ उसने रखा था — और घाटा उसकी अपनी दुकान से निकलते अपने ही माल का है। कोई ख़ुद को नौ-नौ प्रतिशत करके नहीं लूटता, और फिर बाज़ार में उसकी शिकायत नहीं करता।"
+      }
+    },
+    {
+      "id": "sohan",
+      "name": {
+        "en": "Sohan",
+        "hi": "सोहन"
+      },
+      "role": {
+        "en": "THE SCALE MECHANIC",
+        "hi": "तराज़ू मिस्त्री"
+      },
+      "hook": {
+        "en": "files and trues every beam in this market",
+        "hi": "इस बाज़ार का हर तराज़ू वही रेतता और सीधा करता है"
+      },
+      "alibi": {
+        "en": "He touched eleven beams that week and ten of them still weigh true. A man who drills weights for a living does not drill three and leave the stamped set lying in the same shop.",
+        "hi": "उस हफ़्ते उसने ग्यारह तराज़ू छुए और दस आज भी ठीक तोलते हैं। जो बाट ड्रिल करके कमाता हो, वह तीन ड्रिल करके मुहर वाला सेट उसी दुकान में पड़ा नहीं छोड़ता।"
+      }
+    },
+    {
+      "id": "zubeda",
+      "name": {
+        "en": "Zubeda",
+        "hi": "ज़ुबैदा"
+      },
+      "role": {
+        "en": "THE NEIGHBOURING STALL",
+        "hi": "बग़ल की दुकानदार"
+      },
+      "hook": {
+        "en": "every customer this shop lost, she gained",
+        "hi": "इस दुकान का खोया हर ग्राहक उसे मिला"
+      },
+      "alibi": {
+        "en": "She has no way to reach that drawer and every reason to want the story to run and run. Ruining a rival’s weights is a thing you do quietly; she has been shouting about it in the lane for a month.",
+        "hi": "उस दराज़ तक उसका हाथ पहुँच ही नहीं सकता, और चाहत उसकी यही है कि बात चलती रहे। पड़ोसी के बाट बिगाड़ने का काम चुपचाप किया जाता है; वह तो महीने भर से गली में चिल्ला रही है।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "devilal",
+  "interrogations": [
+    {
+      "suspectId": "jethmal",
+      "setting": {
+        "en": "The stall at four, the owner back on his gaddi, the drawer open on his knee.",
+        "hi": "चार बजे की दुकान, गद्दी पर लौटा मालिक, और घुटने पर खुली दराज़।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Where is your stamped set?",
+            "hi": "आपका मुहर वाला सेट कहाँ है?"
+          },
+          "answer": {
+            "en": "“In the drawer. In newspaper. Where a man keeps a thing he does not want chipped.”",
+            "hi": "“दराज़ में। अख़बार में। जहाँ आदमी वह चीज़ रखता है जिसे वह टूटने नहीं देना चाहता।”"
+          },
+          "needsClueId": "stamp",
+          "lockedHint": {
+            "en": "Pin the verification stamp. He will not open that drawer for a question; he will open it for a finding.",
+            "hi": "सत्यापन की मुहर टाँगो। सवाल पर वह दराज़ नहीं खोलेगा; नतीजे पर खोलेगा।"
+          },
+          "note": {
+            "en": "So the honest brass has been wrapped up since Jyeshtha — and nobody at this counter has missed it.",
+            "hi": "यानी ईमानदार पीतल ज्येष्ठ से लिपटा पड़ा है — और इस काउंटर पर किसी को उसकी कमी खली तक नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You go home at one.",
+            "hi": "आप एक बजे घर चले जाते हैं।"
+          },
+          "answer": {
+            "en": "“One to four, since my father’s time. In this heat a man at a counter is no use to anybody after one.”",
+            "hi": "“एक से चार, पिताजी के ज़माने से। इस गर्मी में एक बजे के बाद काउंटर पर बैठा आदमी किसी काम का नहीं रहता।”"
+          },
+          "note": {
+            "en": "Thirty years of a habit the whole market can set its watch by. Including the one man left behind it.",
+            "hi": "तीस साल की ऐसी आदत, जिससे पूरा बाज़ार अपनी घड़ी मिला सकता है। और वह आदमी भी, जो उसके पीछे बचता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Your stock is going out faster than your cash comes in.",
+            "hi": "आपका माल आपके पैसे से तेज़ जा रहा है।"
+          },
+          "answer": {
+            "en": "“Nine per cent. I have counted it eleven times and put it down to the sack. Sacks do not walk to Nai Sarak on a scooter.”",
+            "hi": "“नौ प्रतिशत। ग्यारह बार गिन चुका हूँ और हर बार बोरी के मत्थे मढ़ दिया। बोरियाँ स्कूटर पर नई सड़क नहीं जातीं।”"
+          },
+          "note": {
+            "en": "He has known the shape of it for weeks and could not make himself finish the sentence.",
+            "hi": "हफ़्तों से उसे इसकी शक्ल पता है, और वह ख़ुद से यह वाक्य पूरा नहीं करवा पाया।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "devilal",
+      "setting": {
+        "en": "The back of the stall, sacks to the shoulder, a tin box with a calendar folded on top of it.",
+        "hi": "दुकान का पिछवाड़ा, कंधे तक चढ़ी बोरियाँ, और ऊपर मुड़ा कैलेंडर रखे एक टीन का डिब्बा।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Which set is on the beam right now?",
+            "hi": "अभी तराज़ू पर कौन सा सेट है?"
+          },
+          "answer": {
+            "en": "“The shop’s set. There is one set. Why would a shop keep two?”",
+            "hi": "“दुकान का सेट। एक ही सेट है। दुकान दो सेट क्यों रखेगी?”"
+          },
+          "note": {
+            "en": "Why indeed. There are two, and he is standing between us and the drawer.",
+            "hi": "सवाल तो सही है। सेट दो हैं, और वह हमारे और दराज़ के बीच खड़ा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "These three are drilled and waxed.",
+            "hi": "इन तीनों में ड्रिल करके मोम भरा है।"
+          },
+          "answer": {
+            "en": "“Old brass wears. Everything in this market is older than me.”",
+            "hi": "“पुराना पीतल घिसता है। इस बाज़ार की हर चीज़ मुझसे पुरानी है।”"
+          },
+          "needsClueId": "weights",
+          "lockedHint": {
+            "en": "Pin the weights. Wear does not leave a drill mark under a foot, and he needs to see that somebody turned one over.",
+            "hi": "बाट टाँगो। घिसाई से तले पर ड्रिल का निशान नहीं पड़ता — और उसे दिखना चाहिए कि किसी ने बाट उलटकर देख लिया है।"
+          },
+          "note": {
+            "en": "Wear takes brass off the top, where hands are. This was taken out of the bottom, where nobody looks.",
+            "hi": "घिसाई पीतल ऊपर से घटाती है, जहाँ हाथ लगते हैं। यह नीचे से निकाला गया है, जहाँ कोई नहीं देखता।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Nineteen thousand four hundred, in your own pencil.",
+            "hi": "उन्नीस हज़ार चार सौ, आपकी ही पेंसिल से।"
+          },
+          "answer": {
+            "en": "“Nineteen thousand four hundred. I did not take money, I took weight — I told myself weight is not money. Six weeks, and I have not put back one rupee of it.”",
+            "hi": "“उन्नीस हज़ार चार सौ। मैंने पैसा नहीं लिया, वज़न लिया — ख़ुद को समझाता रहा कि वज़न पैसा नहीं होता। छह हफ़्ते हो गए, और एक रुपया भी वापस नहीं डाल पाया।”"
+          },
+          "needsClueId": "cash",
+          "lockedHint": {
+            "en": "Pin the calendar. The figure is his own arithmetic — he cannot argue with a sum he did himself.",
+            "hi": "कैलेंडर टाँगो। आँकड़ा उसका अपना जोड़ है — अपने ही जोड़ से वह बहस नहीं कर सकता।"
+          },
+          "unlocksClueId": "saidshort",
+          "note": {
+            "en": "He kept the sum where he could see it every day. People who mean to stop keep the number. People who have stopped throw it away.",
+            "hi": "उसने वह जोड़ वहीं रखा जहाँ रोज़ नज़र पड़े। जो रुकना चाहते हैं वे आँकड़ा सँभालकर रखते हैं। जो रुक चुके हैं वे उसे फेंक देते हैं।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "cash",
+      "correction": {
+        "en": "The neighbouring stall gained customers and the mechanic gained forty rupees. Nineteen thousand four hundred, worked out in pencil and carried in a tin box, is what a man does the arithmetic of at night.",
+        "hi": "बग़ल की दुकान को ग्राहक मिले और मिस्त्री को चालीस रुपए। उन्नीस हज़ार चार सौ — पेंसिल से जोड़े और टीन के डिब्बे में रखे — वह हिसाब है जो आदमी रात को करता है।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "lunch",
+      "correction": {
+        "en": "The whole market can reach that beam. Only one person can change what hangs on it, sell all afternoon on it, and put the honest brass back in the drawer before four o’clock.",
+        "hi": "उस तराज़ू तक पूरा बाज़ार पहुँच सकता है। पर उस पर टँगी चीज़ बदलकर, पूरी दोपहर उसी से बेचकर, चार बजे से पहले ईमानदार पीतल दराज़ में लौटा देना एक ही आदमी के बस का है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "second",
+      "correction": {
+        "en": "Nine per cent a day has to go somewhere, and it did not go into the till. It went out of the back on a scooter every Saturday, wearing this market’s own bale mark.",
+        "hi": "रोज़ का नौ प्रतिशत कहीं तो जाएगा, और गल्ले में तो गया नहीं। वह हर शनिवार पिछवाड़े से स्कूटर पर निकला — इसी बाज़ार के गट्ठर का निशान पहने हुए।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "weights",
+    "toClueId": "stamp",
+    "text": {
+      "en": "Brass this wrong would never have passed an inspection. So find the set that did pass one, and ask why it is not the set on the beam.",
+      "hi": "इतना ग़लत पीतल किसी जाँच में पास नहीं होता। तो वह सेट ढूँढ़ो जो पास हुआ था, और पूछो कि तराज़ू पर वही क्यों नहीं है।"
+    }
+  }
+}

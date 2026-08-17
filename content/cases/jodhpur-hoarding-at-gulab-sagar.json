@@ -1,0 +1,552 @@
+{
+  "id": "jodhpur-hoarding-at-gulab-sagar",
+  "schema": 1,
+  "city": "jodhpur",
+  "genre": "sabotage",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jodhpur-blue-house-register",
+    "caseNumber": 5
+  },
+  "title": {
+    "en": "The Hoarding at Gulab Sagar",
+    "hi": "गुलाब सागर की टीन की दीवार"
+  },
+  "place": {
+    "en": "Navchokiya · the lane mouth · Saturday, 6:50 AM",
+    "hi": "नवचौकिया · गली का मुहाना · शनिवार, 6:50 AM"
+  },
+  "brief": {
+    "en": "Fifty-one feet of contractor’s tin went across the mouth of this lane six weeks before any order allowed it. Four days later the Blue House had no water — no leak, no repair, no disconnection order, just nothing out of the tap. Kamla Devi has made papad in the back courtyard for twenty-six years and papad cannot be made without water. She is now in a dharamshala at Mandore.",
+    "hi": "किसी आदेश की इजाज़त से छह हफ़्ते पहले, ठेकेदार की इक्यावन फुट टीन इस गली के मुहाने पर खड़ी हो गई। चार दिन बाद नीले मकान का पानी बंद — न लीकेज, न मरम्मत, न कोई कटौती का आदेश; बस नल से कुछ नहीं आता। कमला देवी छब्बीस साल से पिछले आँगन में पापड़ बनाती आई हैं, और पापड़ पानी के बिना नहीं बनते। अब वे मंडोर की एक धर्मशाला में हैं।"
+  },
+  "photoCaption": {
+    "en": "the tin, the lane mouth, first light",
+    "hi": "टीन, गली का मुहाना, पहली रोशनी"
+  },
+  "iraNote": {
+    "en": "“Nobody threatened anybody here. They just took away water, which in this city is the same sentence said politely.”",
+    "hi": "“यहाँ किसी ने किसी को धमकाया नहीं। बस पानी हटा दिया — और इस शहर में यह वही बात है, बस शराफ़त से कही हुई।”"
+  },
+  "clues": [
+    {
+      "id": "board",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE HOARDING’S OWN BOARD",
+        "hi": "टीन की दीवार का अपना बोर्ड"
+      },
+      "text": {
+        "en": "Every hoarding must carry the work order it belongs to. This one carries WO 41/24 — a drain relining job at Bambamool, four streets away.",
+        "hi": "हर टीन की दीवार पर उसका वर्क ऑर्डर लिखा होना ज़रूरी है। इस पर लिखा है WO 41/24 — बंबामूल में नाली की लाइनिंग का काम, चार गलियाँ दूर।"
+      }
+    },
+    {
+      "id": "ferrule",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE CAPPED FERRULE",
+        "hi": "लैब पर्ची · बंद किया फेरूल"
+      },
+      "text": {
+        "en": "The Blue House ferrule at the main is shut with a brass plug, and the earth over it was turned inside the fortnight. No leak, no repair. Somebody plugged it.",
+        "hi": "मेन लाइन पर नीले मकान का फेरूल पीतल के डाट से बंद है, और ऊपर की मिट्टी इसी पखवाड़े पलटी गई है। न लीकेज, न मरम्मत। किसी ने डाट ठोका है।"
+      }
+    },
+    {
+      "id": "workslip",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE DIGGING WORK SLIP",
+        "hi": "खुदाई की वर्क स्लिप"
+      },
+      "text": {
+        "en": "₹240 for “excavation, 4 ft, near Gulab Sagar”, on the contractor’s letterhead, booked against WO 41/24, with a beldar’s thumb at the foot of it.",
+        "hi": "“खुदाई, 4 फुट, गुलाब सागर के पास” के ₹240 — ठेकेदार के लेटरहेड पर, WO 41/24 के खाते में, और नीचे बेलदार का अंगूठा।"
+      }
+    },
+    {
+      "id": "phed",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE WATER BOARD REGISTER",
+        "hi": "जलदाय विभाग का रजिस्टर"
+      },
+      "text": {
+        "en": "The Blue House reported no water on the 12th. There is no disconnection order for that connection anywhere in the file — it is live, and eleven months in credit.",
+        "hi": "12 तारीख़ को नीले मकान ने पानी न आने की शिकायत दर्ज कराई। फ़ाइल में उस कनेक्शन का कोई कटौती आदेश है ही नहीं — कनेक्शन चालू है, और ग्यारह महीने का पैसा पहले से जमा।"
+      }
+    },
+    {
+      "id": "scrap",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE OLD LEAD PIPE",
+        "hi": "पुराना सीसे का पाइप"
+      },
+      "text": {
+        "en": "Nine feet of old lead service pipe lifted out of that trench and weighed in at Siwanchi Gate — in the fitter’s own name, on the 13th.",
+        "hi": "उसी खाई से निकाला गया नौ फुट पुराना सीसे का पाइप, 13 तारीख़ को सिवांची गेट पर तौला गया — और वह भी फ़िटर के अपने नाम से।"
+      }
+    },
+    {
+      "id": "roster",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE VALVE-MAN’S ROSTER",
+        "hi": "वाल्वमैन की ड्यूटी सूची"
+      },
+      "text": {
+        "en": "Hariram’s zone is 4. The Gulab Sagar main is zone 6. On the 12th he signed out of zone 4 at 11:40 and signed back at 2:05.",
+        "hi": "हरिराम का ज़ोन 4 है। गुलाब सागर की मेन लाइन ज़ोन 6 में है। 12 तारीख़ को उसने ज़ोन 4 से 11:40 पर निकासी लिखी और 2:05 पर वापसी।"
+      }
+    },
+    {
+      "id": "kamla",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHERE KAMLA DEVI WENT",
+        "hi": "कमला देवी कहाँ गईं"
+      },
+      "text": {
+        "en": "Mandore dharamshala, room 11, since the 19th. Twenty-six years of papad in that courtyard, and a tanker load quoted at ₹400 she could not pay twice a week.",
+        "hi": "19 तारीख़ से मंडोर धर्मशाला, कमरा 11। उस आँगन में छब्बीस साल के पापड़, और टैंकर का एक फेरा ₹400 — जो हफ़्ते में दो बार वे चुका नहीं सकती थीं।"
+      }
+    },
+    {
+      "id": "tanker",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE TANKER",
+        "hi": "फ़ोटो · पानी का टैंकर"
+      },
+      "text": {
+        "en": "Mangi Lal’s tanker in the lane on the 13th, the 14th and the 15th.",
+        "hi": "मांगी लाल का टैंकर गली में — 13, 14 और 15 तारीख़ को।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a tanker goes where the water is not; he arrived after, and he charged this lane the rate he charges every lane",
+        "hi": "ख़ारिज — टैंकर वहीं जाता है जहाँ पानी नहीं होता; वह बाद में आया, और उसने इस गली से वही भाव लिया जो हर गली से लेता है"
+      }
+    },
+    {
+      "id": "mainbreak",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "LAST YEAR’S BURST MAIN",
+        "hi": "पिछले साल की फूटी लाइन"
+      },
+      "text": {
+        "en": "A main burst in Navchokiya in Bhadra last year and the lane was dry for two days.",
+        "hi": "पिछले साल भाद्रपद में नवचौकिया की मेन लाइन फूटी थी और गली दो दिन सूखी रही।"
+      },
+      "dismissNote": {
+        "en": "ruled out — repaired in two days with a file, a bill and photographs, which is exactly what this one does not have",
+        "hi": "ख़ारिज — दो दिन में मरम्मत, फ़ाइल, बिल और फ़ोटो के साथ — यानी ठीक वह सब, जो इस बार है ही नहीं"
+      }
+    },
+    {
+      "id": "letter",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE LETTERS FROM MANDORE",
+        "hi": "मंडोर से आई चिट्ठियाँ"
+      },
+      "text": {
+        "en": "Chandrakala wrote three times asking Kamla Devi to come and live with them.",
+        "hi": "चंद्रकला ने तीन बार लिखा कि कमला देवी उनके पास आकर रहें।"
+      },
+      "dismissNote": {
+        "en": "ruled out — asked in writing, in her own name, with the bus fare folded into the third letter; that is an invitation, not a plan",
+        "hi": "ख़ारिज — लिखकर, अपने ही नाम से, और तीसरी चिट्ठी में बस का किराया मोड़कर रखा हुआ; यह न्योता है, साज़िश नहीं"
+      }
+    },
+    {
+      "id": "attendance",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "THE SITE OFFICE ATTENDANCE BOOK",
+        "hi": "साइट दफ़्तर की हाज़िरी बही"
+      },
+      "text": {
+        "en": "Girdhari Vyas signed into this site office four times in the fortnight, and twice the contractor was not in it.",
+        "hi": "गिरधारी व्यास ने उस पखवाड़े इस साइट दफ़्तर में चार बार हाज़िरी लिखी, और दो बार ठेकेदार वहाँ था ही नहीं।"
+      },
+      "dismissNote": {
+        "en": "ruled out for this — an amin signs into every site office in his ward, and the book puts him near a shed, not in a trench",
+        "hi": "इस केस में ख़ारिज — अमीन अपने वार्ड के हर साइट दफ़्तर में हाज़िरी लिखता है, और यह बही उसे छप्पर के पास खड़ा करती है, खाई में नहीं"
+      }
+    },
+    {
+      "id": "shuttering",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE COURTYARD",
+        "hi": "फ़ोटो · आँगन"
+      },
+      "text": {
+        "en": "The contractor’s shuttering plates stacked in the Blue House courtyard since Asadh.",
+        "hi": "आषाढ़ से नीले मकान के आँगन में चिने हुए ठेकेदार के शटरिंग प्लेट।"
+      },
+      "dismissNote": {
+        "en": "ruled out — stacked with the owner’s written permission at ₹300 a month, and she has the receipts in the same book as everything else",
+        "hi": "ख़ारिज — मालकिन की लिखित इजाज़त से, ₹300 महीने पर रखे हैं, और उसकी रसीदें उसी बही में हैं जिसमें बाक़ी सब"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidcapped",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE FITTER",
+        "hi": "बयान · जलदाय फ़िटर"
+      },
+      "text": {
+        "en": "“Five hundred rupees and the old lead. I was shown a slip, and a slip is a slip. Nobody told me the house had people still living in it.”",
+        "hi": "“पाँच सौ रुपए और पुराना सीसा। मुझे एक पर्ची दिखाई गई, और पर्ची तो पर्ची होती है। यह किसी ने नहीं बताया कि मकान में अब भी लोग रहते हैं।”"
+      }
+    },
+    {
+      "id": "saidslip",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE CONTRACTOR",
+        "hi": "बयान · ठेकेदार"
+      },
+      "text": {
+        "en": "“WO 41/24 is Bambamool. Somebody wrote a Gulab Sagar line into my slip book and my own beldar put his thumb to it. I want that name more than you do.”",
+        "hi": "“WO 41/24 बंबामूल का है। किसी ने मेरी पर्ची-बही में गुलाब सागर की लाइन लिख दी और मेरे ही बेलदार ने उस पर अंगूठा लगा दिया। वह नाम मुझे आपसे ज़्यादा चाहिए।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "hariram",
+      "name": {
+        "en": "Hariram",
+        "hi": "हरिराम"
+      },
+      "role": {
+        "en": "THE WATER BOARD FITTER",
+        "hi": "जलदाय विभाग का फ़िटर"
+      },
+      "hook": {
+        "en": "knows where every ferrule in this ward sits",
+        "hi": "इस वार्ड का हर फेरूल कहाँ है, उसे पता है"
+      },
+      "confession": {
+        "en": "Left his own zone for two and a half hours, capped a live, paid-up domestic ferrule with a brass plug on a work slip that was never a disconnection order, and carried nine feet of the house’s lead pipe to the scrap weighbridge in his own name.",
+        "hi": "ढाई घंटे अपना ज़ोन छोड़ा, एक चालू और पूरा भुगतान किए हुए घरेलू फेरूल पर पीतल का डाट ठोका — उस पर्ची के दम पर जो कटौती का आदेश थी ही नहीं — और उसी मकान का नौ फुट सीसे का पाइप अपने ही नाम से कबाड़ के काँटे पर ले गया।"
+      }
+    },
+    {
+      "id": "tejmal",
+      "name": {
+        "en": "Tejmal Purohit",
+        "hi": "तेजमल पुरोहित"
+      },
+      "role": {
+        "en": "THE CONTRACTOR",
+        "hi": "ठेकेदार"
+      },
+      "hook": {
+        "en": "the tin, the letterhead and the work order are his",
+        "hi": "टीन, लेटरहेड और वर्क ऑर्डर — तीनों उसी के"
+      },
+      "alibi": {
+        "en": "His paper is all over this and his hands are not. The trench was dug by a beldar he did not send, on a line written into his book by somebody with an hour alone in his site office.",
+        "hi": "काग़ज़ हर जगह उसका है, हाथ कहीं नहीं। खाई उस बेलदार ने खोदी जिसे उसने भेजा ही नहीं, और वह लाइन उसकी बही में किसी ऐसे ने लिखी जिसे उसके साइट दफ़्तर में एक घंटा अकेले मिला।"
+      }
+    },
+    {
+      "id": "mangilal",
+      "name": {
+        "en": "Mangi Lal",
+        "hi": "मांगी लाल"
+      },
+      "role": {
+        "en": "THE TANKER OWNER",
+        "hi": "टैंकर मालिक"
+      },
+      "hook": {
+        "en": "sells water to lanes that have none",
+        "hi": "जिन गलियों में पानी नहीं, उन्हें पानी बेचता है"
+      },
+      "alibi": {
+        "en": "He gains four hundred rupees a load and lost the lane inside a week: he came on the 13th, after the tap went dry, and his rate here is the rate on his board.",
+        "hi": "उसे एक फेरे के चार सौ मिलते हैं और गली उसने हफ़्ते भर में खो दी: वह 13 को आया, यानी नल सूखने के बाद — और यहाँ का भाव वही है जो उसके बोर्ड पर लिखा है।"
+      }
+    },
+    {
+      "id": "girdhari",
+      "name": {
+        "en": "Girdhari Vyas",
+        "hi": "गिरधारी व्यास"
+      },
+      "role": {
+        "en": "THE SURVEY AMIN",
+        "hi": "सर्वे अमीन"
+      },
+      "hook": {
+        "en": "signs the ward’s site-office attendance book",
+        "hi": "वार्ड की साइट-दफ़्तर हाज़िरी बही पर उसके दस्तख़त"
+      },
+      "alibi": {
+        "en": "He did not dig, plug, weigh or drive anything. Everything he is accused of here is a signature in a book he is required to sign.",
+        "hi": "उसने न खोदा, न डाट ठोका, न तौला, न कुछ चलाया। यहाँ जिन-जिन बातों का इल्ज़ाम उस पर है, वे सब उसी बही के दस्तख़त हैं जिस पर दस्तख़त करना उसका काम है।"
+      }
+    },
+    {
+      "id": "chandrakala",
+      "name": {
+        "en": "Chandrakala",
+        "hi": "चंद्रकला"
+      },
+      "role": {
+        "en": "KAMLA DEVI’S DAUGHTER-IN-LAW",
+        "hi": "कमला देवी की बहू"
+      },
+      "hook": {
+        "en": "has wanted her in Mandore for two years",
+        "hi": "दो साल से उन्हें मंडोर बुलाना चाहती है"
+      },
+      "alibi": {
+        "en": "She asked three times in writing and sent the bus fare in the third letter. Somebody who wants a woman moved does not spend two years asking politely and then cut a pipe she has never seen.",
+        "hi": "उसने तीन बार लिखकर कहा और तीसरी चिट्ठी में बस का किराया भेजा। किसी को हटवाना हो तो दो साल तक विनती नहीं की जाती, और फिर वह पाइप नहीं काटा जाता जिसे उसने कभी देखा ही नहीं।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "hariram",
+  "interrogations": [
+    {
+      "suspectId": "tejmal",
+      "setting": {
+        "en": "The site office behind the tin, a slip book on a nail, the kettle going.",
+        "hi": "टीन के पीछे का साइट दफ़्तर, कील पर टँगी पर्ची-बही, और चढ़ी हुई केतली।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Your hoarding is up six weeks early.",
+            "hi": "आपकी टीन छह हफ़्ते पहले खड़ी है।"
+          },
+          "answer": {
+            "en": "“Tin is cheap and lanes are not. I put it where I am told the road is going. If I wait for the order I am bidding against four men who did not wait.”",
+            "hi": "“टीन सस्ती है, गली नहीं। जहाँ बताया जाता है कि सड़क जाएगी, मैं वहीं खड़ी कर देता हूँ। आदेश का इंतज़ार करूँ तो उन चार लोगों से भिड़ना पड़ेगा जिन्होंने इंतज़ार नहीं किया।”"
+          },
+          "note": {
+            "en": "Told by whom, again. He does not seem to find the question interesting.",
+            "hi": "फिर वही — बताया किसने। यह सवाल उसे दिलचस्प नहीं लगता।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The digging near Gulab Sagar was booked to your work order.",
+            "hi": "गुलाब सागर के पास की खुदाई आपके वर्क ऑर्डर में चढ़ी है।"
+          },
+          "answer": {
+            "en": "“WO 41/24 is Bambamool. Somebody wrote a Gulab Sagar line into my slip book and my own beldar put his thumb to it. I want that name more than you do.”",
+            "hi": "“WO 41/24 बंबामूल का है। किसी ने मेरी पर्ची-बही में गुलाब सागर की लाइन लिख दी और मेरे ही बेलदार ने उस पर अंगूठा लगा दिया। वह नाम मुझे आपसे ज़्यादा चाहिए।”"
+          },
+          "needsClueId": "workslip",
+          "lockedHint": {
+            "en": "Pin the work slip. He will not admit a line exists in his own book until it is put on the table in front of him.",
+            "hi": "वर्क स्लिप टाँगो। जब तक वह लाइन उसके सामने मेज़ पर न रखी जाए, वह मानेगा ही नहीं कि उसकी बही में ऐसी कोई लाइन है।"
+          },
+          "unlocksClueId": "saidslip",
+          "note": {
+            "en": "The book hangs on a nail in a shed with no lock, four feet from a kettle everybody in this ward drinks out of.",
+            "hi": "बही एक बिना ताले के छप्पर में कील पर टँगी है, उस केतली से चार फुट दूर जिससे इस वार्ड का हर आदमी चाय पीता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who told you where the road is going?",
+            "hi": "आपको किसने बताया कि सड़क कहाँ से जाएगी?"
+          },
+          "answer": {
+            "en": "“In this trade you are told by everybody and by nobody. A man says east, you buy east.”",
+            "hi": "“इस धंधे में सब बताते हैं और कोई नहीं बताता। एक आदमी कहता है पूरब, आप पूरब ख़रीद लेते हैं।”"
+          },
+          "note": {
+            "en": "A man said east. His sister’s husband bought east. Nobody says east for free.",
+            "hi": "एक आदमी ने पूरब कहा। उसके बहनोई ने पूरब ख़रीदा। पूरब कोई मुफ़्त में नहीं कहता।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "mangilal",
+      "setting": {
+        "en": "The tanker stand by the lake wall, the pump ticking as it cools.",
+        "hi": "झील की दीवार के पास टैंकर का अड्डा, और ठंडा होता हुआ ठक-ठक करता पंप।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You did well out of this lane.",
+            "hi": "इस गली से आपकी अच्छी कमाई हुई।"
+          },
+          "answer": {
+            "en": "“Three loads. Then the old lady left and the rest of them started walking to the stand-post. Three loads is not a business, it is a Tuesday.”",
+            "hi": "“तीन फेरे। फिर बुढ़िया चली गई और बाक़ी लोग सार्वजनिक नल तक पैदल जाने लगे। तीन फेरे धंधा नहीं होते, एक मंगलवार होते हैं।”"
+          },
+          "note": {
+            "en": "He is right, and he is annoyed about it, which is hard to fake.",
+            "hi": "बात सही है, और उसे इसका मलाल भी है — यह नक़ली करना मुश्किल होता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Four hundred a load is steep.",
+            "hi": "एक फेरे के चार सौ ज़्यादा हैं।"
+          },
+          "answer": {
+            "en": "“It is painted on the tank. It has been painted on the tank since Holi and the paint is older than your file.”",
+            "hi": "“टंकी पर लिखा है। होली से लिखा है, और वह रंग आपकी फ़ाइल से पुराना है।”"
+          },
+          "note": {
+            "en": "Painted, public and unchanged. A man raising a price for one dry lane repaints the tank.",
+            "hi": "लिखा हुआ, सबके सामने, और बदला नहीं। एक सूखी गली के लिए दाम बढ़ाने वाला आदमी टंकी दोबारा रंगवाता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who did you see at the trench?",
+            "hi": "खाई पर आपने किसे देखा?"
+          },
+          "answer": {
+            "en": "“A department man in a department shirt, on a department cycle, at noon. If I stopped for every one of those I would deliver nothing.”",
+            "hi": "“विभाग की क़मीज़ में विभाग का आदमी, विभाग की साइकिल पर, दोपहर को। ऐसे हर आदमी के लिए रुकूँ तो एक फेरा भी पूरा न हो।”"
+          },
+          "note": {
+            "en": "Noon. Zone 4’s valve-man signed out of zone 4 at 11:40.",
+            "hi": "दोपहर। ज़ोन 4 का वाल्वमैन 11:40 पर ज़ोन 4 से निकला था।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "hariram",
+      "setting": {
+        "en": "The zone 4 chowki, a pipe wrench on the bench, the roster nailed to the wall behind him.",
+        "hi": "ज़ोन 4 की चौकी, बेंच पर पड़ा पाइप रिंच, और पीछे दीवार पर ठुकी ड्यूटी सूची।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Where were you on the 12th at noon?",
+            "hi": "12 तारीख़ को दोपहर आप कहाँ थे?"
+          },
+          "answer": {
+            "en": "“Zone 4. I am always zone 4. Twelve years, zone 4.”",
+            "hi": "“ज़ोन 4। मैं हमेशा ज़ोन 4 में रहता हूँ। बारह साल से, ज़ोन 4।”"
+          },
+          "needsClueId": "roster",
+          "lockedHint": {
+            "en": "Pin the roster. His own department wrote down the two and a half hours he is denying.",
+            "hi": "ड्यूटी सूची टाँगो। जिन ढाई घंटों से वह मुकर रहा है, उन्हें उसके अपने विभाग ने लिख रखा है।"
+          },
+          "note": {
+            "en": "Out at 11:40, back at 2:05, and the trench is eleven minutes away on a cycle.",
+            "hi": "11:40 पर निकला, 2:05 पर लौटा — और खाई साइकिल से ग्यारह मिनट दूर है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "There is no disconnection order for this house.",
+            "hi": "इस मकान का कोई कटौती आदेश है ही नहीं।"
+          },
+          "answer": {
+            "en": "“Five hundred rupees and the old lead. I was shown a slip, and a slip is a slip. Nobody told me the house had people still living in it.”",
+            "hi": "“पाँच सौ रुपए और पुराना सीसा। मुझे एक पर्ची दिखाई गई, और पर्ची तो पर्ची होती है। यह किसी ने नहीं बताया कि मकान में अब भी लोग रहते हैं।”"
+          },
+          "needsClueId": "phed",
+          "lockedHint": {
+            "en": "Pin the water board register. He will keep calling it official work until the department says in writing that it was not.",
+            "hi": "जलदाय रजिस्टर टाँगो। जब तक विभाग लिखकर न कहे कि यह सरकारी काम नहीं था, वह इसे सरकारी काम ही कहता रहेगा।"
+          },
+          "unlocksClueId": "saidcapped",
+          "note": {
+            "en": "A fitter of twelve years knows the difference between a disconnection order and a contractor’s digging slip. He is telling us he chose not to.",
+            "hi": "बारह साल का फ़िटर कटौती आदेश और ठेकेदार की खुदाई पर्ची का फ़र्क़ जानता है। वह हमें बता रहा है कि उसने न जानना चुना।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Nine feet of lead, weighed in your name.",
+            "hi": "नौ फुट सीसा, आपके ही नाम से तौला हुआ।"
+          },
+          "answer": {
+            "en": "“Old line is departmental scrap. Everybody lifts old line.”",
+            "hi": "“पुरानी लाइन विभाग का कबाड़ होती है। पुरानी लाइन सब उठाते हैं।”"
+          },
+          "needsClueId": "scrap",
+          "lockedHint": {
+            "en": "Pin the scrap entry. He signed the weighbridge slip himself — that is not a thing he can share with ‘everybody’.",
+            "hi": "कबाड़ की प्रविष्टि टाँगो। काँटे की पर्ची उसने ख़ुद भरी है — यह ‘सब’ के साथ बाँटी नहीं जा सकती।"
+          },
+          "note": {
+            "en": "Departmental scrap goes to the departmental store on a departmental challan. This went to Siwanchi Gate in his own name.",
+            "hi": "विभाग का कबाड़ विभाग के चालान पर विभाग के स्टोर जाता है। यह उसके अपने नाम से सिवांची गेट गया।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "scrap",
+      "correction": {
+        "en": "The tanker man earned three loads and lost a lane. The reason is smaller and heavier than that: five hundred rupees and nine feet of lead pipe, weighed in at Siwanchi Gate the next morning.",
+        "hi": "टैंकर वाले ने तीन फेरे कमाए और एक गली गँवाई। वजह इससे छोटी और भारी है: पाँच सौ रुपए और नौ फुट सीसे का पाइप, जो अगली सुबह सिवांची गेट के काँटे पर चढ़ा।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "roster",
+      "correction": {
+        "en": "Anybody can dig a hole in a lane. Only the man who knows which ferrule belongs to which house can shut one and leave the rest of the street in water — and his own department timed him out of his zone to do it.",
+        "hi": "गली में गड्ढा कोई भी खोद सकता है। पर किस मकान का कौन सा फेरूल है, यह जानने वाला ही एक को बंद करके बाक़ी गली का पानी चालू रख सकता है — और उसे ज़ोन से बाहर जाते हुए उसके अपने विभाग ने समय के साथ लिख रखा है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "saidslip",
+      "correction": {
+        "en": "Nothing was hidden and nobody ran. A private plug on a live connection was made to look like municipal work by a line written into a contractor’s slip book — which is how a crime walks past a whole lane in daylight in a department shirt.",
+        "hi": "न कुछ छिपाया गया, न कोई भागा। चालू कनेक्शन पर लगा निजी डाट सरकारी काम जैसा इसलिए दिखा क्योंकि ठेकेदार की पर्ची-बही में एक लाइन लिख दी गई — और इसी तरह कोई जुर्म विभाग की क़मीज़ पहनकर, दिन के उजाले में, पूरी गली के सामने से निकल जाता है।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "phed",
+    "toClueId": "ferrule",
+    "text": {
+      "en": "The department did not turn this water off, and the bill is paid to date. So something in the ground is stopping it — go and dig where the water stops.",
+      "hi": "विभाग ने यह पानी बंद नहीं किया, और बिल भी चुका हुआ है। यानी ज़मीन के नीचे कुछ है जो उसे रोक रहा है — वहीं खोदो जहाँ पानी रुकता है।"
+    }
+  },
+  "bankedClue": {
+    "en": "A hoarding up six weeks before any order, and a ferrule capped on his own work slip",
+    "hi": "किसी आदेश से छह हफ़्ते पहले खड़ी टीन, और उसी की वर्क स्लिप पर बंद किया गया फेरूल"
+  }
+}

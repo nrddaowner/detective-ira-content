@@ -66,6 +66,31 @@
       ]
     },
     {
+      "id": "jodhpur",
+      "region": "rajasthan",
+      "label": {
+        "en": "Jodhpur",
+        "hi": "जोधपुर"
+      },
+      "blurb": {
+        "en": "blue lanes & ward files",
+        "hi": "नीली गलियाँ और वार्ड फ़ाइलें"
+      },
+      "paletteA": "#8AA9E6",
+      "paletteB": "#B4C8F0",
+      "paletteInk": "#2E4680",
+      "skyline": {
+        "en": "jodhpur blue houses under mehrangarh art"
+      },
+      "faceHeadwear": [
+        "safa",
+        "none",
+        "odhni",
+        "topi",
+        "ghoonghat"
+      ]
+    },
+    {
       "id": "mumbai",
       "region": "deccan",
       "label": {
@@ -202,6 +227,23 @@
       }
     },
     {
+      "id": "jodhpur-blue-house-register",
+      "region": "rajasthan",
+      "city": "jodhpur",
+      "number": 2,
+      "caseCount": 6,
+      "difficulty": "quick",
+      "unlockStars": 8,
+      "title": {
+        "en": "The Blue House Register",
+        "hi": "नीले मकान का रजिस्टर"
+      },
+      "blurb": {
+        "en": "6 cases · a lodging register, three tenants written in as guests, a road that moves eleven feet",
+        "hi": "6 केस · एक सराय-रजिस्टर, मेहमान लिखे गए तीन किरायेदार, और ग्यारह फुट खिसकती सड़क"
+      }
+    },
+    {
       "id": "kolkata-howrah-ledger",
       "region": "bengal",
       "city": "kolkata",
@@ -240,6 +282,34 @@
       },
       "teaser": {
         "en": "Twelve cups were set for the second-flush tasting at half six."
+      }
+    },
+    {
+      "id": "jaipur-blue-pottery-kiln",
+      "city": "jaipur",
+      "genre": "theft",
+      "difficulty": "quick",
+      "title": {
+        "en": "The Blue Pottery Kiln",
+        "hi": "नीली मिट्टी का भट्ठा"
+      },
+      "teaser": {
+        "en": "A kiln’s finished pieces are counted twice and shipped once.",
+        "hi": "भट्ठे का तैयार माल दो बार गिना जाता है और एक बार भेजा जाता है।"
+      }
+    },
+    {
+      "id": "jodhpur-clocktower-scales",
+      "city": "jodhpur",
+      "genre": "fraud",
+      "difficulty": "quick",
+      "title": {
+        "en": "Clocktower Scales",
+        "hi": "घंटाघर का तराज़ू"
+      },
+      "teaser": {
+        "en": "A spice market’s scales weigh light, but only after noon.",
+        "hi": "मसाला बाज़ार का तराज़ू कम तोलता है — पर सिर्फ़ दोपहर बाद।"
       }
     },
     {

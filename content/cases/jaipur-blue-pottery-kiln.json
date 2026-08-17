@@ -1,0 +1,412 @@
+{
+  "id": "jaipur-blue-pottery-kiln",
+  "schema": 1,
+  "city": "jaipur",
+  "genre": "theft",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "title": {
+    "en": "The Blue Pottery Kiln",
+    "hi": "नीली मिट्टी का भट्ठा"
+  },
+  "place": {
+    "en": "Sanganer road · the kiln shed · Thursday, 6:15 AM",
+    "hi": "सांगानेर रोड · भट्ठे का शेड · गुरुवार, 6:15 AM"
+  },
+  "brief": {
+    "en": "The Thursday firing was drawn at four in the morning and chalked up on the shed wall: two hundred and sixty-eight pieces, sound. The packing list says two hundred and forty. The emporium received two hundred and forty and signed for two hundred and forty. Twenty-eight pieces of cobalt-blue pottery were counted alive in this shed and never left it, and the breakage bin is not nearly full enough to explain them.",
+    "hi": "गुरुवार की भट्ठी सुबह चार बजे खोली गई और शेड की दीवार पर चॉक से लिख दी गई: दो सौ अड़सठ नग, साबुत। पैकिंग सूची कहती है दो सौ चालीस। एम्पोरियम को दो सौ चालीस मिले और उसने दो सौ चालीस की रसीद दी। नीली मिट्टी के अट्ठाईस नग इस शेड में ज़िंदा गिने गए और यहाँ से कभी निकले नहीं — और टूट-फूट की टोकरी इतनी भरी नहीं है कि उनका हिसाब दे सके।"
+  },
+  "photoCaption": {
+    "en": "the draw, four in the morning",
+    "hi": "भट्ठी की खुदाई, सुबह चार बजे"
+  },
+  "iraNote": {
+    "en": "“Everybody accepts breakage, which is exactly why breakage is where you look. Count the shards, not the excuses.”",
+    "hi": "“टूट-फूट सब मान लेते हैं — और इसीलिए देखना वहीं चाहिए। बहाने मत गिनो, ठीकरे गिनो।”"
+  },
+  "teaser": {
+    "en": "A kiln’s finished pieces are counted twice and shipped once.",
+    "hi": "भट्ठे का तैयार माल दो बार गिना जाता है और एक बार भेजा जाता है।"
+  },
+  "clues": [
+    {
+      "id": "drawlist",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE DRAW, CHALKED ON THE WALL",
+        "hi": "दीवार पर चॉक से लिखी गिनती"
+      },
+      "text": {
+        "en": "268 sound out of the Thursday firing, in the kiln man’s chalk, with the shapes tallied in fives the way he has tallied them for nineteen years.",
+        "hi": "गुरुवार की भट्ठी से 268 साबुत, भट्ठे वाले की चॉक में — और आकृतियों की गिनती पाँच-पाँच के गुटों में, जैसे वह उन्नीस साल से गिनता आया है।"
+      }
+    },
+    {
+      "id": "packing",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE PACKING LIST",
+        "hi": "पैकिंग सूची"
+      },
+      "text": {
+        "en": "240 pieces, in the packer’s hand, signed off by the driver. The emporium received 240 and signed for 240 without a word.",
+        "hi": "240 नग, पैकर के हाथ की लिखावट, ड्राइवर के दस्तख़त के साथ। एम्पोरियम को 240 मिले और उसने बिना कुछ कहे 240 की रसीद दे दी।"
+      }
+    },
+    {
+      "id": "shards",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE BREAKAGE BIN",
+        "hi": "टूट-फूट की टोकरी"
+      },
+      "text": {
+        "en": "The bin holds the shards of nine pieces, not twenty-eight — and every shard is a rim of the same shape. That is a shelf going over, not a firing loss.",
+        "hi": "टोकरी में नौ नग के ठीकरे हैं, अट्ठाईस के नहीं — और हर ठीकरा एक ही आकृति का किनारा है। यह तख़्ता गिरने का निशान है, भट्ठी के नुक़सान का नहीं।"
+      }
+    },
+    {
+      "id": "seconds",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "PHOTO · CHANDPOL, SUNDAY",
+        "hi": "फ़ोटो · चाँदपोल, रविवार"
+      },
+      "text": {
+        "en": "Twenty-two pieces on a dhurrie, first-quality glaze, no crazing, no warp — laid out and sold as seconds at a third of the price.",
+        "hi": "दरी पर बाईस नग, पहली दर्जे की चमक, न दरार, न टेढ़ापन — और बिछाकर एक-तिहाई दाम पर ‘सेकंड’ कहकर बेचे जा रहे हैं।"
+      }
+    },
+    {
+      "id": "mark",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · UNDER THE FOOT",
+        "hi": "लैब पर्ची · तले के नीचे"
+      },
+      "text": {
+        "en": "Every piece thrown for this order carries a scored mark under the foot before the glaze goes on. All twenty-two on that dhurrie carry it.",
+        "hi": "इस ऑर्डर के हर नग के तले पर, चमक चढ़ने से पहले, एक खरोंच का निशान लगाया जाता है। दरी वाले बाईसों नग पर वही निशान है।"
+      }
+    },
+    {
+      "id": "advance",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE PACKER’S ADVANCE",
+        "hi": "पैकर का अग्रिम"
+      },
+      "text": {
+        "en": "₹6,000 taken against wages in Jyeshtha for a daughter’s school fee, repayable at ₹500 a month. Nothing has been repaid and nothing has been asked for.",
+        "hi": "ज्येष्ठ में बेटी की फ़ीस के लिए मज़दूरी के बदले ₹6,000 अग्रिम, ₹500 महीने में लौटाने की शर्त पर। न कुछ लौटा है, न किसी ने माँगा है।"
+      }
+    },
+    {
+      "id": "glaze",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · THE CRAZED FOUR",
+        "hi": "लैब पर्ची · चार दरार वाले"
+      },
+      "text": {
+        "en": "Four pieces in the emporium consignment have crazed glaze.",
+        "hi": "एम्पोरियम की खेप के चार नग की चमक में बाल आ गए हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — crazing is a firing fault, the emporium’s own allowance covers four, and a crazed pot is a loss, not a theft",
+        "hi": "ख़ारिज — बाल आना भट्ठी की ख़राबी है, एम्पोरियम की अपनी छूट में चार आ जाते हैं, और दरार वाला बर्तन नुक़सान होता है, चोरी नहीं"
+      }
+    },
+    {
+      "id": "tempo",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE TEMPO’S LOG",
+        "hi": "टेंपो का लॉग"
+      },
+      "text": {
+        "en": "Feroze made an unscheduled stop on Amer Road on the way in.",
+        "hi": "फ़िरोज़ ने आते वक़्त आमेर रोड पर बिना बताए एक जगह गाड़ी रोकी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a puncture, with a tyre shop receipt and eleven minutes of it, and the load was roped when he stopped and roped when he started",
+        "hi": "ख़ारिज — पंचर था, टायर दुकान की रसीद और कुल ग्यारह मिनट; रुकते वक़्त भी माल रस्सी से बँधा था और चलते वक़्त भी"
+      }
+    },
+    {
+      "id": "painter",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE PAINTER’S COMPLAINT",
+        "hi": "चित्रकार की शिकायत"
+      },
+      "text": {
+        "en": "Sadhna asked to be paid by the piece instead of by the day.",
+        "hi": "साधना ने कहा कि उसे दिहाड़ी की जगह प्रति नग मज़दूरी दी जाए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she asked in front of the whole shed, and she asks every year in the month before Diwali",
+        "hi": "ख़ारिज — उसने पूरे शेड के सामने कहा, और दिवाली से पहले वाले महीने में वह हर साल यही कहती है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidtook",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE PACKER",
+        "hi": "बयान · पैकर"
+      },
+      "text": {
+        "en": "“Twenty-eight. I wrote them broken because broken is a word nobody counts. Six thousand rupees and a school fee, and I told myself I would put them back one firing at a time.”",
+        "hi": "“अट्ठाईस। मैंने उन्हें टूटा लिख दिया, क्योंकि ‘टूटा’ ऐसा शब्द है जिसे कोई गिनता नहीं। छह हज़ार रुपए और एक स्कूल की फ़ीस — और ख़ुद से कहता रहा कि एक-एक भट्ठी करके वापस रख दूँगा।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "nathu",
+      "name": {
+        "en": "Nathu",
+        "hi": "नाथू"
+      },
+      "role": {
+        "en": "THE PACKER",
+        "hi": "पैकर"
+      },
+      "hook": {
+        "en": "the only man who counts the pieces twice",
+        "hi": "नग दो बार गिनने वाला अकेला आदमी"
+      },
+      "confession": {
+        "en": "Took twenty-eight sound pieces off the drawing bench, entered them as breakage in a list nobody checks against the kiln man’s chalk, and sold them as seconds on a dhurrie at Chandpol — against a six-thousand-rupee advance he could not repay.",
+        "hi": "खुदाई की मेज़ से अट्ठाईस साबुत नग हटाए, उन्हें उस सूची में ‘टूटा’ लिख दिया जिसे कोई भट्ठे वाले की चॉक से मिलाता ही नहीं, और चाँदपोल में दरी बिछाकर ‘सेकंड’ कहकर बेच दिया — उस छह हज़ार के अग्रिम के बदले, जो वह चुका नहीं पा रहा था।"
+      }
+    },
+    {
+      "id": "kriparam",
+      "name": {
+        "en": "Kripa Ram",
+        "hi": "कृपा राम"
+      },
+      "role": {
+        "en": "THE MASTER POTTER",
+        "hi": "मुख्य कुम्हार"
+      },
+      "hook": {
+        "en": "the kiln, the order and the loss are all his",
+        "hi": "भट्ठा, ऑर्डर और घाटा — तीनों उसी के"
+      },
+      "alibi": {
+        "en": "The missing twenty-eight are his own stock against his own order, and the scored mark that catches them is a thing he insisted on eleven years ago against everybody’s advice.",
+        "hi": "ग़ायब अट्ठाईस उसके ही ऑर्डर का उसका ही माल हैं — और तले का जो निशान उन्हें पकड़वाता है, उसे उसने ग्यारह साल पहले सबकी सलाह के ख़िलाफ़ लागू करवाया था।"
+      }
+    },
+    {
+      "id": "sadhna",
+      "name": {
+        "en": "Sadhna",
+        "hi": "साधना"
+      },
+      "role": {
+        "en": "THE PAINTER",
+        "hi": "चित्रकार"
+      },
+      "hook": {
+        "en": "every cobalt line on this order is hers",
+        "hi": "इस ऑर्डर की हर नीली लकीर उसी की"
+      },
+      "alibi": {
+        "en": "She paints before the firing and goes home before the draw. The pieces she is accused of taking did not exist as finished pots until nine hours after she left.",
+        "hi": "वह भट्ठी चढ़ने से पहले रंगती है और भट्ठी खुलने से पहले घर चली जाती है। जिन नगों की चोरी का इल्ज़ाम है, वे उसके जाने के नौ घंटे बाद तक तैयार बर्तन बने ही नहीं थे।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "feroze",
+      "name": {
+        "en": "Feroze",
+        "hi": "फ़िरोज़"
+      },
+      "role": {
+        "en": "THE TEMPO DRIVER",
+        "hi": "टेंपो ड्राइवर"
+      },
+      "hook": {
+        "en": "carries the load from shed to emporium",
+        "hi": "शेड से एम्पोरियम तक माल वही ले जाता है"
+      },
+      "alibi": {
+        "en": "He signed for 240 and delivered 240, which is the one honest pair of numbers in this file. The pieces were already gone before the rope went over them.",
+        "hi": "उसने 240 की रसीद दी और 240 पहुँचाए — इस पूरी फ़ाइल में यही एक जोड़ी आँकड़े ईमानदार हैं। नग तो माल पर रस्सी पड़ने से पहले ही जा चुके थे।"
+      }
+    }
+  ],
+  "culpritId": "nathu",
+  "interrogations": [
+    {
+      "suspectId": "kriparam",
+      "setting": {
+        "en": "The shed at seven, the kiln still ticking as it cools, chalk dust on his sleeve.",
+        "hi": "सात बजे का शेड, ठंडा होता हुआ ठक-ठक करता भट्ठा, और आस्तीन पर चॉक की धूल।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who counts a firing?",
+            "hi": "भट्ठी की गिनती कौन करता है?"
+          },
+          "answer": {
+            "en": "“The kiln man counts what comes out. The packer counts what goes in the crate. Two counts, so that neither of them can be lazy.”",
+            "hi": "“भट्ठे वाला गिनता है कि निकला क्या। पैकर गिनता है कि पेटी में गया क्या। दो गिनतियाँ, ताकि दोनों में से कोई ढील न कर सके।”"
+          },
+          "note": {
+            "en": "Two counts, and nobody whose job it is to lay them side by side.",
+            "hi": "दो गिनतियाँ — और कोई ऐसा नहीं जिसका काम उन्हें आमने-सामने रखना हो।"
+          }
+        },
+        {
+          "ask": {
+            "en": "What is a normal breakage?",
+            "hi": "आम तौर पर कितना टूटता है?"
+          },
+          "answer": {
+            "en": "“Nine, ten in a firing of this size. Twenty-eight would be a bad kiln and I would have smelt a bad kiln from the road.”",
+            "hi": "“इतनी बड़ी भट्ठी में नौ-दस। अट्ठाईस का मतलब है भट्ठी बिगड़ी — और बिगड़ी भट्ठी की गंध मुझे सड़क से आ जाती।”"
+          },
+          "needsClueId": "shards",
+          "lockedHint": {
+            "en": "Pin the breakage bin. He will guess at a number all morning; make him count the shards that are actually in it.",
+            "hi": "टूट-फूट की टोकरी टाँगो। वह सुबह भर अंदाज़े लगाता रहेगा; उसे वही ठीकरे गिनवाओ जो सचमुच उसमें हैं।"
+          },
+          "note": {
+            "en": "Nine in the bin. Nine is exactly what a normal firing loses, and twenty-eight is what the list claims.",
+            "hi": "टोकरी में नौ। आम भट्ठी में नुक़सान भी नौ का ही होता है — और सूची अट्ठाईस बताती है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Could a piece from this order be sold anywhere else?",
+            "hi": "क्या इस ऑर्डर का कोई नग कहीं और बिक सकता है?"
+          },
+          "answer": {
+            "en": "“Not without me knowing it. There is a mark under the foot, scored before the glaze. I put it there in 2013 and everybody laughed.”",
+            "hi": "“मेरे जाने बिना नहीं। तले के नीचे निशान होता है, चमक चढ़ने से पहले खरोंचा हुआ। मैंने 2013 में लगवाया था और सब हँसे थे।”"
+          },
+          "note": {
+            "en": "So the pieces cannot be laundered. They can only be sold to somebody who does not turn a pot over.",
+            "hi": "यानी इन नगों को साफ़ नहीं किया जा सकता। ये सिर्फ़ उसे बिक सकते हैं जो बर्तन उलटकर नहीं देखता।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "nathu",
+      "setting": {
+        "en": "The packing corner, straw to the knee, a crate half-roped and a list on a nail.",
+        "hi": "पैकिंग का कोना, घुटनों तक भूसा, आधी बँधी एक पेटी और कील पर टँगी सूची।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Your list says 240. The wall says 268.",
+            "hi": "आपकी सूची कहती है 240। दीवार कहती है 268।"
+          },
+          "answer": {
+            "en": "“The wall is chalk. Chalk is not a document. Ask the man who wrote it what he had drunk.”",
+            "hi": "“दीवार पर चॉक है। चॉक कोई दस्तावेज़ नहीं। जिसने लिखा है उससे पूछिए कि उसने पी क्या रखी थी।”"
+          },
+          "needsClueId": "drawlist",
+          "lockedHint": {
+            "en": "Pin the chalked draw. He is dismissing a number he has not been made to stand in front of.",
+            "hi": "चॉक वाली गिनती टाँगो। जिस आँकड़े के सामने उसे खड़ा नहीं किया गया, वह उसी को हवा में उड़ा रहा है।"
+          },
+          "note": {
+            "en": "Nineteen years of that chalk, tallied in fives, never once out by more than one. He knows that better than we do.",
+            "hi": "उन्नीस साल से वही चॉक, पाँच-पाँच के गुटों में, और एक से ज़्यादा का फ़र्क़ कभी नहीं आया। यह बात वह हमसे बेहतर जानता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Twenty-two of these were on a dhurrie at Chandpol on Sunday.",
+            "hi": "इनमें से बाईस रविवार को चाँदपोल में एक दरी पर पड़े थे।"
+          },
+          "answer": {
+            "en": "“Seconds. Half of Jaipur sells seconds on a Sunday.”",
+            "hi": "“सेकंड माल। आधा जयपुर रविवार को सेकंड माल बेचता है।”"
+          },
+          "needsClueId": "mark",
+          "lockedHint": {
+            "en": "Pin the foot mark. Seconds is a word; the scored mark under the foot is not.",
+            "hi": "तले का निशान टाँगो। ‘सेकंड’ बस एक शब्द है; तले की खरोंच शब्द नहीं है।"
+          },
+          "unlocksClueId": "saidtook",
+          "note": {
+            "en": "Seconds do not carry an order mark, because a second never gets one. Every piece on that dhurrie had one.",
+            "hi": "सेकंड माल पर ऑर्डर का निशान नहीं होता, क्योंकि सेकंड को निशान मिलता ही नहीं। उस दरी के हर नग पर था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Six thousand rupees, and not one instalment back.",
+            "hi": "छह हज़ार रुपए, और एक क़िस्त भी वापस नहीं।"
+          },
+          "answer": {
+            "en": "“He never asked. That is worse than asking. Every month he does not ask, I owe him a little more than money.”",
+            "hi": "“उसने कभी माँगा ही नहीं। न माँगना माँगने से बुरा है। जिस-जिस महीने वह नहीं माँगता, मुझ पर पैसे से थोड़ा ज़्यादा चढ़ जाता है।”"
+          },
+          "note": {
+            "en": "He is not wrong about that, and it does not give him twenty-eight pots.",
+            "hi": "इस बात में वह ग़लत नहीं है — और इससे उसे अट्ठाईस बर्तन नहीं मिल जाते।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "advance",
+      "correction": {
+        "en": "The painter wanted a better rate and asked out loud for it. Six thousand rupees owed to a man who will never send for it is the debt that gets paid in pots.",
+        "hi": "चित्रकार बेहतर दर चाहती थी और उसने खुलकर माँगी भी। असली क़र्ज़ वह छह हज़ार है, जो ऐसे आदमी का है जो कभी तक़ाज़ा नहीं करेगा — और वैसा क़र्ज़ बर्तनों में चुकाया जाता है।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "shards",
+      "correction": {
+        "en": "The driver never opened the crates and the painter had gone home nine hours before. Twenty-eight pieces were written off as breakage in a shed where the breakage bin holds nine.",
+        "hi": "ड्राइवर ने पेटियाँ खोलीं ही नहीं और चित्रकार नौ घंटे पहले घर जा चुकी थी। अट्ठाईस नग उस शेड में ‘टूटे’ लिखे गए, जहाँ टूट-फूट की टोकरी में नौ हैं।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "mark",
+      "correction": {
+        "en": "Nothing was smuggled anywhere. They were laid out in the open on a Sunday, priced as rejects — and rejects do not carry a mark that is scored on before the glaze.",
+        "hi": "कहीं कुछ चोरी-छिपे नहीं गया। सब रविवार को खुले में बिछाया गया, रद्दी के भाव पर — और रद्दी माल पर वह निशान नहीं होता जो चमक चढ़ने से पहले खरोंचा जाता है।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "drawlist",
+    "toClueId": "packing",
+    "text": {
+      "en": "Two people counted this firing and neither of them was lying. Put the two counts side by side — nobody in that shed ever does.",
+      "hi": "इस भट्ठी को दो लोगों ने गिना और दोनों झूठ नहीं बोल रहे। दोनों गिनतियाँ आमने-सामने रखो — उस शेड में यह काम कोई नहीं करता।"
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "id": "jodhpur-three-arrivals",
+  "schema": 1,
+  "city": "jodhpur",
+  "genre": "impersonation",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jodhpur-blue-house-register",
+    "caseNumber": 3
+  },
+  "title": {
+    "en": "Three Arrivals, No Departure",
+    "hi": "तीन आमद, कोई रवानगी नहीं"
+  },
+  "place": {
+    "en": "The Blue House · the front desk · Monday, 10:05 PM",
+    "hi": "नीला मकान · सामने का काउंटर · सोमवार, 10:05 PM"
+  },
+  "brief": {
+    "en": "Serials 812, 813 and 814 of the lodging register say that three people walked in off the lane in Shravan and have not walked out since. All three are tenants of this house — one for thirty-one years, one for twenty-six, one for thirty-four. None of them ever checked in anywhere in their lives. Somebody turned four decades of tenancy into three nights of lodging with a pen, and the thana was never told a soul had arrived.",
+    "hi": "सराय-रजिस्टर की क्रम संख्या 812, 813 और 814 कहती हैं कि श्रावण में तीन लोग गली से चलकर अंदर आए और तब से बाहर नहीं गए। तीनों इसी मकान के किरायेदार हैं — एक इकतीस साल से, एक छब्बीस से, एक चौंतीस से। इनमें से किसी ने ज़िंदगी में कहीं ‘चेक इन’ किया ही नहीं। किसी ने एक क़लम से चार दशक की किरायेदारी को तीन रातों की सराय बना दिया, और थाने को यह ख़बर तक नहीं गई कि कोई आया है।"
+  },
+  "photoCaption": {
+    "en": "the register, serials 812–814",
+    "hi": "रजिस्टर, क्रम 812–814"
+  },
+  "iraNote": {
+    "en": "“A register is columns before it is names. Read across a line instead of down the page, and the wrong column will answer a question nobody asked it.”",
+    "hi": "“रजिस्टर नामों से पहले ख़ानों का होता है। पन्ने पर नीचे की जगह लाइन के आर-पार पढ़ो, और कोई एक ख़ाना ऐसे सवाल का जवाब देता मिलेगा जो उससे पूछा ही नहीं गया।”"
+  },
+  "clues": [
+    {
+      "id": "register",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE LODGING REGISTER · SHRAVAN",
+        "hi": "सराय रजिस्टर · श्रावण"
+      },
+      "text": {
+        "en": "Serials 812, 813, 814. Three arrivals on one date, departure column blank on all three. Every other line on the page is spaced apart by hours. These three are spaced apart by nothing.",
+        "hi": "क्रम 812, 813, 814। एक ही तारीख़ की तीन आमद, और तीनों का रवानगी ख़ाना कोरा। पन्ने की बाक़ी हर लाइन के बीच घंटों का फ़ासला है। इन तीनों के बीच कोई फ़ासला नहीं।"
+      }
+    },
+    {
+      "id": "ink",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE THREE LINES",
+        "hi": "लैब पर्ची · तीनों लाइनें"
+      },
+      "text": {
+        "en": "One pen, one sitting, one steady pressure. The entries above and below them were laid down on four different nights.",
+        "hi": "एक क़लम, एक बैठक, एक जैसा दबाव। इनके ऊपर और नीचे की प्रविष्टियाँ चार अलग-अलग रातों में लिखी गईं।"
+      }
+    },
+    {
+      "id": "ration",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "WHERE THE ID NUMBERS CAME FROM",
+        "hi": "पहचान नंबर आए कहाँ से"
+      },
+      "text": {
+        "en": "The three identity numbers are off ration cards surrendered in 2016, when the family cards were redone. No guest could have put those numbers on a desk — they have not existed for eight years.",
+        "hi": "तीनों पहचान नंबर उन राशन कार्डों के हैं जो 2016 में, परिवार कार्ड नए बनते वक़्त, जमा करा दिए गए थे। कोई मेहमान वे नंबर काउंटर पर रख ही नहीं सकता — वे आठ साल से हैं ही नहीं।"
+      }
+    },
+    {
+      "id": "tariff",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE TARIFF COLUMN",
+        "hi": "किराया दर वाला ख़ाना"
+      },
+      "text": {
+        "en": "All three entered at ₹32 a night. Nobody has paid ₹32 a night in the front rooms since 2004. Three tenants at the back pay ₹32 a month, on receipts written in Rukmani Bhati’s own hand.",
+        "hi": "तीनों ₹32 प्रति रात पर दर्ज। आगे के कमरों में 2004 से किसी ने ₹32 रात नहीं दी। पीछे के तीन किरायेदार ₹32 महीना देते हैं, और उसकी रसीदें रुक्मणी भाटी के अपने हाथ की लिखी हैं।"
+      }
+    },
+    {
+      "id": "arrival",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE DAILY ARRIVAL REPORT",
+        "hi": "रोज़ की आमद रिपोर्ट"
+      },
+      "text": {
+        "en": "Navchokiya thana’s inward register: the Blue House reported every single day of Jyeshtha, and then nothing at all for the fortnight these three arrived in.",
+        "hi": "नवचौकिया थाने का आवक रजिस्टर: नीले मकान ने ज्येष्ठ का एक-एक दिन रिपोर्ट किया, और फिर ठीक उसी पखवाड़े कुछ नहीं भेजा जिसमें ये तीनों ‘आए’।"
+      }
+    },
+    {
+      "id": "promise",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE STOREROOM, PROMISED",
+        "hi": "भंडार का वादा"
+      },
+      "text": {
+        "en": "Torn half-sheet in the clerk’s trunk: a room in the new building, with a window and a door of its own. No letterhead, no signature, and a hand that presses hard on the downstrokes.",
+        "hi": "मुंशी के बक्से में फटा आधा काग़ज़: नई इमारत में एक कमरा, अपनी खिड़की और अपने दरवाज़े के साथ। न लेटरहेड, न दस्तख़त — और नीचे की ओर जाती लकीरों पर बहुत ज़ोर देती लिखावट।"
+      }
+    },
+    {
+      "id": "camera",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE DOOR CAMERA",
+        "hi": "फ़ोटो · दरवाज़े का कैमरा"
+      },
+      "text": {
+        "en": "The camera over the front door, hanging by its cable, unplugged.",
+        "hi": "सामने के दरवाज़े का कैमरा, तार के सहारे लटका, प्लग निकला हुआ।"
+      },
+      "dismissNote": {
+        "en": "ruled out — unplugged four months before these lines were written, by a lineman with a work slip and a reason",
+        "hi": "ख़ारिज — ये लाइनें लिखे जाने से चार महीने पहले, वर्क स्लिप और वजह वाले लाइनमैन ने प्लग निकाला था"
+      }
+    },
+    {
+      "id": "cform",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "A C-FORM IN THE FILE",
+        "hi": "फ़ाइल में एक सी-फ़ॉर्म"
+      },
+      "text": {
+        "en": "One C-form for a Belgian couple, filled in and forwarded on the same day.",
+        "hi": "एक बेल्जियन दंपति का सी-फ़ॉर्म, उसी दिन भरा और उसी दिन आगे भेजा हुआ।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the one paper in this house done exactly right, and the only guests here nobody had any reason to invent",
+        "hi": "ख़ारिज — इस मकान का इकलौता काग़ज़ जो पूरी तरह ठीक भरा गया, और यही वे मेहमान हैं जिन्हें गढ़ने की किसी को ज़रूरत नहीं थी"
+      }
+    },
+    {
+      "id": "visitor",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "A WARD OFFICE VISITOR’S SLIP",
+        "hi": "वार्ड दफ़्तर की आगंतुक पर्ची"
+      },
+      "text": {
+        "en": "Made out to the Blue House on the 9th.",
+        "hi": "9 तारीख़ को नीले मकान के नाम काटी गई।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a mosquito-fogging round, and every door in the lane got one that week",
+        "hi": "ख़ारिज — मच्छर मारने की फ़ॉगिंग का दौरा था, और उस हफ़्ते गली के हर दरवाज़े को यही पर्ची मिली"
+      }
+    },
+    {
+      "id": "diary",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE STATION DIARY",
+        "hi": "थाने की रोज़नामचा"
+      },
+      "text": {
+        "en": "Head Constable Bhoma Ram entered three reminders asking why the Blue House had stopped sending its report.",
+        "hi": "हेड कांस्टेबल भोमा राम ने तीन बार लिखा कि नीले मकान ने रिपोर्ट भेजनी क्यों बंद कर दी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a man burying a report does not write himself three reminders about it in a book his SHO reads every morning",
+        "hi": "ख़ारिज — रिपोर्ट दबाने वाला आदमी उसी बारे में तीन याददाश्तें उस बही में नहीं लिखता जिसे थानाध्यक्ष रोज़ सुबह पढ़ता है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidwrote",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE NIGHT CLERK",
+        "hi": "बयान · रात का मुंशी"
+      },
+      "text": {
+        "en": "“Five hundred rupees and a room with a window of my own in the new building. I wrote three lines. Three lines is not a crime, he said. They are all still alive, he said.”",
+        "hi": "“पाँच सौ रुपए और नई इमारत में अपनी खिड़की वाला एक कमरा। मैंने तीन लाइनें लिखीं। तीन लाइनें कोई जुर्म नहीं, उसने कहा था। वे तीनों तो ज़िंदा हैं ही, उसने कहा था।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "pukhraj",
+      "name": {
+        "en": "Pukhraj Solanki",
+        "hi": "पुखराज सोलंकी"
+      },
+      "role": {
+        "en": "THE NIGHT CLERK",
+        "hi": "रात का मुंशी"
+      },
+      "hook": {
+        "en": "the register is in his hand from eight to six",
+        "hi": "आठ से छह तक रजिस्टर उसी के हाथ में"
+      },
+      "confession": {
+        "en": "Wrote three tenants into the guest register in a single sitting, copied their identity numbers off ration cards surrendered eight years ago, and held back a fortnight of arrival reports so the thana would never read the page — for five hundred rupees and a promise of a room with a window.",
+        "hi": "एक ही बैठक में तीन किरायेदारों को मेहमानों के रजिस्टर में लिख दिया, उनके पहचान नंबर आठ साल पहले जमा हुए राशन कार्डों से उतारे, और पखवाड़े भर की आमद रिपोर्टें रोक लीं ताकि थाना वह पन्ना कभी पढ़े ही नहीं — पाँच सौ रुपए और खिड़की वाले एक कमरे के वादे पर।"
+      }
+    },
+    {
+      "id": "girdhari",
+      "name": {
+        "en": "Girdhari Vyas",
+        "hi": "गिरधारी व्यास"
+      },
+      "role": {
+        "en": "THE SURVEY AMIN",
+        "hi": "सर्वे अमीन"
+      },
+      "hook": {
+        "en": "asked for this house’s occupancy in writing, twice",
+        "hi": "इस मकान की आबादी की जानकारी दो बार लिखकर माँगी"
+      },
+      "alibi": {
+        "en": "His name is nowhere in this register and his hand is on none of the three lines. Every paper he has touched in this lane is a paper he was entitled to touch.",
+        "hi": "इस रजिस्टर में उसका नाम कहीं नहीं और तीनों लाइनों में से किसी पर उसका हाथ नहीं। इस गली में उसने जो भी काग़ज़ छुआ है, उसे छूने का हक़ उसे था।"
+      }
+    },
+    {
+      "id": "rukmani",
+      "name": {
+        "en": "Rukmani Bhati",
+        "hi": "रुक्मणी भाटी"
+      },
+      "role": {
+        "en": "THE HOUSE OWNER",
+        "hi": "मकान मालकिन"
+      },
+      "hook": {
+        "en": "the register is hers, and so is the licence under it",
+        "hi": "रजिस्टर उसका है, और उसके नीचे का लाइसेंस भी"
+      },
+      "alibi": {
+        "en": "The entries destroy the one thing that protects her building. A tenancy of thirty years is what stops a road; a guest who stayed three nights stops nothing at all.",
+        "hi": "ये प्रविष्टियाँ ठीक उसी चीज़ को मिटाती हैं जो उसकी इमारत को बचाती है। तीस साल की किरायेदारी सड़क रोकती है; तीन रात रुका मेहमान कुछ नहीं रोकता।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "bhoma",
+      "name": {
+        "en": "Bhoma Ram",
+        "hi": "भोमा राम"
+      },
+      "role": {
+        "en": "THE HEAD CONSTABLE",
+        "hi": "हेड कांस्टेबल"
+      },
+      "hook": {
+        "en": "the arrival reports land on his desk",
+        "hi": "आमद रिपोर्टें उसी की मेज़ पर आती हैं"
+      },
+      "alibi": {
+        "en": "He is the reason anybody noticed. Three reminders in the station diary, in his hand, asking where the Blue House’s reports had gone.",
+        "hi": "किसी की नज़र पड़ी ही उसकी वजह से। रोज़नामचे में उसी के हाथ की तीन याददाश्तें, पूछती हुईं कि नीले मकान की रिपोर्टें कहाँ गईं।"
+      }
+    }
+  ],
+  "culpritId": "pukhraj",
+  "interrogations": [
+    {
+      "suspectId": "girdhari",
+      "setting": {
+        "en": "The ward office after hours, a survey register squared to the edge of the table, tea sent for before the first question.",
+        "hi": "छुट्टी के बाद का वार्ड दफ़्तर, मेज़ के किनारे से बिल्कुल सीध में रखा सर्वे रजिस्टर, और पहला सवाल पूछे जाने से पहले ही मँगा ली गई चाय।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You asked this house for its occupancy. Twice.",
+            "hi": "आपने इस मकान से उसकी आबादी की जानकारी माँगी। दो बार।"
+          },
+          "answer": {
+            "en": "“In writing, on the ward’s letterhead, with a copy to the owner. A survey without occupancy is a survey of walls. You may read both letters.”",
+            "hi": "“लिखकर, वार्ड के लेटरहेड पर, और एक प्रति मालकिन को। आबादी के बिना सर्वे सिर्फ़ दीवारों का सर्वे होता है। दोनों चिट्ठियाँ आप पढ़ सकती हैं।”"
+          },
+          "note": {
+            "en": "Everything he has done is on paper he was allowed to write. That is either an honest man or a very careful one.",
+            "hi": "उसने जो कुछ किया, वह उसी काग़ज़ पर है जिसे लिखने की उसे इजाज़त थी। यह या तो ईमानदार आदमी है, या बहुत सावधान।"
+          }
+        },
+        {
+          "ask": {
+            "en": "What does a tenancy of thirty years do to a road?",
+            "hi": "तीस साल की किरायेदारी सड़क का क्या बिगाड़ती है?"
+          },
+          "answer": {
+            "en": "“It slows it. It does not stop it. People think a protected tenant is a wall. A protected tenant is a delay and a compensation figure.”",
+            "hi": "“धीमा करती है। रोकती नहीं। लोग समझते हैं संरक्षित किरायेदार दीवार होता है। संरक्षित किरायेदार एक देरी होता है और एक मुआवज़े का आँकड़ा।”"
+          },
+          "note": {
+            "en": "That is the exact answer of a man who has looked it up. Nobody who has not needed to know says “compensation figure”.",
+            "hi": "यह ठीक उस आदमी का जवाब है जिसने जाकर पढ़ा हो। जिसे जानने की ज़रूरत न पड़ी हो, वह “मुआवज़े का आँकड़ा” नहीं कहता।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Did you ever meet the night clerk?",
+            "hi": "क्या आप कभी रात के मुंशी से मिले?"
+          },
+          "answer": {
+            "en": "“I have met every clerk in this ward. It is fourteen streets and I am one amin. Meeting is not instructing.”",
+            "hi": "“इस वार्ड के हर मुंशी से मिला हूँ। चौदह गलियाँ हैं और अमीन एक। मिलना हुक्म देना नहीं होता।”"
+          },
+          "note": {
+            "en": "True, and useless, and he knows both.",
+            "hi": "सच भी, बेकार भी — और वह दोनों बातें जानता है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "pukhraj",
+      "setting": {
+        "en": "The storeroom behind the desk — a cot, a trunk, no window, the register still open on the counter outside.",
+        "hi": "काउंटर के पीछे का भंडार — एक खाट, एक बक्सा, कोई खिड़की नहीं, और बाहर काउंटर पर अब भी खुला पड़ा रजिस्टर।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Where did these identity numbers come from?",
+            "hi": "ये पहचान नंबर कहाँ से आए?"
+          },
+          "answer": {
+            "en": "“Guests give numbers. I write what is given.”",
+            "hi": "“मेहमान नंबर देते हैं। जो दिया जाता है मैं लिख देता हूँ।”"
+          },
+          "needsClueId": "ration",
+          "lockedHint": {
+            "en": "Pin the ration card finding. He will keep saying ‘guests give numbers’ until somebody proves the numbers were dead before the guests arrived.",
+            "hi": "राशन कार्ड वाली बात टाँगो। जब तक कोई साबित न कर दे कि नंबर मेहमानों के आने से पहले ही मर चुके थे, वह ‘मेहमान नंबर देते हैं’ दोहराता रहेगा।"
+          },
+          "note": {
+            "en": "Surrendered in 2016. Nobody handed those across a counter in Shravan.",
+            "hi": "2016 में जमा हो चुके। श्रावण में वे नंबर किसी ने काउंटर पर नहीं थमाए।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Thirty-two rupees a night?",
+            "hi": "बत्तीस रुपए प्रति रात?"
+          },
+          "answer": {
+            "en": "“A rate is a rate.”",
+            "hi": "“दर तो दर होती है।”"
+          },
+          "needsClueId": "tariff",
+          "lockedHint": {
+            "en": "Pin the tariff column. The number is the confession — he needs to see that somebody else has read it.",
+            "hi": "किराया दर वाला ख़ाना टाँगो। इक़बाल उसी आँकड़े में है — उसे बस दिखना चाहिए कि किसी और ने भी उसे पढ़ लिया है।"
+          },
+          "unlocksClueId": "saidwrote",
+          "note": {
+            "en": "He copied the rent into the tariff column without thinking, because in his head those three have always paid thirty-two. It is the one line he wrote as himself.",
+            "hi": "उसने बिना सोचे किराया दर वाले ख़ाने में उतार दिया, क्योंकि उसके दिमाग़ में वे तीनों हमेशा से बत्तीस ही देते आए हैं। पूरे पन्ने पर यही एक लाइन उसने ख़ुद बनकर लिखी।"
+          }
+        },
+        {
+          "ask": {
+            "en": "And a fortnight of reports never reached the thana.",
+            "hi": "और पखवाड़े भर की रिपोर्टें थाने पहुँचीं ही नहीं।"
+          },
+          "answer": {
+            "en": "“They were written. They sat in the drawer. Some weeks the boy does not come.”",
+            "hi": "“लिखी तो गई थीं। दराज़ में पड़ी रहीं। कुछ हफ़्ते लड़का आता ही नहीं।”"
+          },
+          "note": {
+            "en": "The boy came every day of Jyeshtha. He came every day of Bhadra. He only failed to come for exactly the fortnight that matters.",
+            "hi": "लड़का ज्येष्ठ के हर दिन आया। भाद्रपद के हर दिन आया। न आया तो ठीक उसी पखवाड़े, जिस पर सब टिका है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "promise",
+      "correction": {
+        "en": "The owner loses the one thing protecting her house and the amin is not in this register at all. One man here was promised a room with a window, and he sleeps in a storeroom that has none.",
+        "hi": "मालकिन का वही जाता है जो उसके मकान को बचाता है, और अमीन इस रजिस्टर में है ही नहीं। यहाँ एक आदमी को खिड़की वाले कमरे का वादा मिला था, और वह सोता उस भंडार में है जिसमें खिड़की नहीं।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "ink",
+      "correction": {
+        "en": "Anybody can lean over a counter. Only the hand that holds that register for ten hours a night can lay three lines down in one sitting and have the page still look like a page.",
+        "hi": "काउंटर पर झुक तो कोई भी सकता है। पर तीन लाइनें एक बैठक में लिखकर पन्ने को पन्ना ही बनाए रखना उसी हाथ के बस का है जो रोज़ दस घंटे वह रजिस्टर पकड़ता है।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "arrival",
+      "correction": {
+        "en": "Nobody ran anywhere. The escape was a fortnight of arrival reports that stayed in a drawer, so that the one office in Jodhpur that reads this register every morning never saw the page at all.",
+        "hi": "कोई कहीं भागा ही नहीं। भागने की जगह पखवाड़े भर की आमद रिपोर्टें दराज़ में पड़ी रहीं, ताकि जोधपुर का वह इकलौता दफ़्तर, जो यह रजिस्टर रोज़ सुबह पढ़ता है, वह पन्ना कभी देखे ही नहीं।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "register",
+    "toClueId": "tariff",
+    "text": {
+      "en": "Read across the line instead of down the page. Every column in a register has a right answer, and one of these columns is answering a question nobody asked it.",
+      "hi": "पन्ने पर नीचे की जगह लाइन के आर-पार पढ़ो। रजिस्टर के हर ख़ाने का एक सही जवाब होता है, और इनमें से एक ख़ाना ऐसे सवाल का जवाब दे रहा है जो उससे पूछा ही नहीं गया।"
+    }
+  },
+  "bankedClue": {
+    "en": "Three tenants entered as arriving guests in one sitting, and no arrival report to the thana",
+    "hi": "तीन किरायेदार एक ही बैठक में आए हुए मेहमान लिखे गए, और थाने को कोई आमद रिपोर्ट नहीं"
+  }
+}

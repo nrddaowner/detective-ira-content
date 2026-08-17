@@ -1,0 +1,416 @@
+{
+  "id": "jodhpur-room-four-is-empty",
+  "schema": 1,
+  "city": "jodhpur",
+  "genre": "missing-person",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jodhpur-blue-house-register",
+    "caseNumber": 2
+  },
+  "title": {
+    "en": "Room Four Is Empty",
+    "hi": "कमरा नंबर चार ख़ाली है"
+  },
+  "place": {
+    "en": "The Blue House · the back courtyard · Friday, 7:20 AM",
+    "hi": "नीला मकान · पिछला आँगन · शुक्रवार, 7:20 AM"
+  },
+  "brief": {
+    "en": "Sohan Lal Suthar, carpenter, has had room four at the back of the Blue House for thirty-one years. Sometime after the danger notice went up, room four was cleared to its walls — chest, tools, bedding, the lot — and the house’s register now shows him as a guest who arrived in Shravan and never checked out. Find the man. Then find who emptied his room, because it was not him.",
+    "hi": "सोहन लाल सुथार, बढ़ई, इकतीस साल से नीले मकान के पीछे वाले कमरा नंबर चार में हैं। ख़तरे का नोटिस चिपकने के कुछ दिन बाद कमरा चार दीवारों तक ख़ाली कर दिया गया — संदूक, औज़ार, बिस्तर, सब। और मकान का रजिस्टर अब उन्हें ऐसा मेहमान बताता है जो श्रावण में आया और कभी गया ही नहीं। पहले आदमी को ढूँढ़ो। फिर उसे, जिसने कमरा ख़ाली किया — क्योंकि वह ख़ुद सोहन लाल नहीं थे।"
+  },
+  "photoCaption": {
+    "en": "room four, cleared to the walls",
+    "hi": "कमरा चार, दीवारों तक ख़ाली"
+  },
+  "iraNote": {
+    "en": "“Nobody vanishes. Things get carried, and everything carried is bought by somebody who keeps a book. Find the book.”",
+    "hi": "“कोई हवा में नहीं मिटता। सामान उठाया जाता है, और उठाया हुआ हर सामान कोई ऐसा ख़रीदता है जो बही रखता है। बही ढूँढ़ो।”"
+  },
+  "clues": [
+    {
+      "id": "roomfour",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "PHOTO · ROOM FOUR",
+        "hi": "फ़ोटो · कमरा नंबर चार"
+      },
+      "text": {
+        "en": "Bare to the plaster. One rectangle of unfaded blue on the wall where a tool chest stood for thirty-one years.",
+        "hi": "पलस्तर तक नंगा। दीवार पर एक चौकोर हिस्सा जहाँ नीला रंग फीका नहीं पड़ा — इकतीस साल वहीं औज़ारों का संदूक खड़ा रहा।"
+      }
+    },
+    {
+      "id": "purchasebook",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "PURCHASE REGISTER · SIWANCHI GATE",
+        "hi": "ख़रीद रजिस्टर · सिवांची गेट"
+      },
+      "text": {
+        "en": "One room lot, ₹1,200. The seller is entered as “Sohan Lal Suthar”, in the dealer’s own hand, with a thumb impression that matches nothing on any paper Sohan Lal has ever signed.",
+        "hi": "एक कमरे का पूरा सामान, ₹1,200। बेचने वाले के ख़ाने में “सोहन लाल सुथार” — दुकानदार की अपनी लिखावट में — और साथ में ऐसा अंगूठा, जो सोहन लाल के किसी भी काग़ज़ से नहीं मिलता।"
+      }
+    },
+    {
+      "id": "chest",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE TOOL CHEST",
+        "hi": "औज़ारों का संदूक"
+      },
+      "text": {
+        "en": "A carpenter’s chest with a false bottom he cut for himself. Under the boards: thirty-one years of rent counterfoils and a tenancy card issued in 1994.",
+        "hi": "बढ़ई का संदूक, जिसमें उसने ख़ुद दोहरा तला बनाया था। तख़्तों के नीचे — इकतीस साल की किराया रसीदें और 1994 का किरायेदारी कार्ड।"
+      }
+    },
+    {
+      "id": "counterfoils",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE RENT COUNTERFOILS",
+        "hi": "किराए की रसीदें"
+      },
+      "text": {
+        "en": "₹32 a month, unbroken since 1994, every single one in the owner’s hand. They stop in Jyeshtha — three months before the room emptied.",
+        "hi": "₹32 महीना, 1994 से बिना नागा, और हर एक मालकिन के अपने हाथ की। ज्येष्ठ में रुक जाती हैं — कमरा ख़ाली होने से तीन महीने पहले।"
+      }
+    },
+    {
+      "id": "pension",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "PENSION SLIP · REDIRECTED",
+        "hi": "पेंशन पर्ची · पता बदला हुआ"
+      },
+      "text": {
+        "en": "His carpenters’ welfare pension was redirected to a Chopasni Housing Board address in Ashadh. He filled the form at the post office counter himself, in his own hand, and the clerk remembers the shirt.",
+        "hi": "उनकी बढ़ई कल्याण पेंशन आषाढ़ में चोपासनी हाउसिंग बोर्ड के पते पर भेजी जाने लगी। फ़ॉर्म उन्होंने डाकघर के काउंटर पर ख़ुद, अपने हाथ से भरा — और बाबू को उनकी क़मीज़ तक याद है।"
+      }
+    },
+    {
+      "id": "valuation",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "VALUATION · THE TOOLS",
+        "hi": "मूल्यांकन · औज़ार"
+      },
+      "text": {
+        "en": "Twenty-two hand tools, four of them older than the country, nine thousand rupees at the lowest honest guess. The lot was written down as twelve hundred.",
+        "hi": "बाईस हाथ के औज़ार, जिनमें चार देश से भी पुराने — सबसे कम ईमानदार अंदाज़ा नौ हज़ार रुपए। बही में पूरा लॉट बारह सौ लिखा गया।"
+      }
+    },
+    {
+      "id": "handcart",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE BACK GATE, 11:30 PM",
+        "hi": "फ़ोटो · पिछला गेट, रात 11:30"
+      },
+      "text": {
+        "en": "A handcart standing in the lane with its shafts down.",
+        "hi": "गली में खड़ा एक ठेला, बल्लियाँ ज़मीन पर टिकी हुईं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — Devkaran hauls for the vegetable market and that lane is his short cut at every hour of every night",
+        "hi": "ख़ारिज — देवकरण सब्ज़ी मंडी का माल ढोता है और वह गली रात के हर पहर उसका छोटा रास्ता है"
+      }
+    },
+    {
+      "id": "keys",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE HANDYMAN’S BUNCH",
+        "hi": "कारीगर का चाबी गुच्छा"
+      },
+      "text": {
+        "en": "Kanhaiya carries a key to every room in this house, room four included.",
+        "hi": "कन्हैया के पास इस मकान के हर कमरे की चाबी है, कमरा चार की भी।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nine years he has carried them, and room four’s lock was never opened; the bolt was drawn through a window catch that has not held since the rains",
+        "hi": "ख़ारिज — नौ साल से रखता आया है, और कमरा चार का ताला खुला ही नहीं; सिटकनी खिड़की की उस चटख़नी से खींची गई जो बारिश के बाद से टिकती नहीं"
+      }
+    },
+    {
+      "id": "quarrel",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE LANE REMEMBERS A QUARREL",
+        "hi": "गली को एक झगड़ा याद है"
+      },
+      "text": {
+        "en": "Sohan Lal and Pukhraj Solanki, the night clerk, shouting at each other across the courtyard in Chaitra.",
+        "hi": "चैत्र में सोहन लाल और रात का मुंशी पुखराज सोलंकी, आँगन के आर-पार एक-दूसरे पर चिल्लाते हुए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — about a radio played at two in the morning, and the radio is the clerk’s",
+        "hi": "ख़ारिज — झगड़ा रात दो बजे बजते रेडियो पर था, और रेडियो मुंशी का है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidbought",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DEALER",
+        "hi": "बयान · कबाड़ी दुकानदार"
+      },
+      "text": {
+        "en": "“A room lot is a room lot. A man came with a cart and a price and I wrote down the name he gave me. I am not asked to make a man prove he is himself.”",
+        "hi": "“कमरे का लॉट कमरे का लॉट होता है। एक आदमी ठेला और भाव लेकर आया, उसने जो नाम बताया मैंने लिख लिया। यह साबित कराना मेरा काम नहीं कि वह ख़ुद ही है।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "israr",
+      "name": {
+        "en": "Israr Khan",
+        "hi": "इसरार ख़ान"
+      },
+      "role": {
+        "en": "THE SECOND-HAND DEALER",
+        "hi": "पुराने सामान का दुकानदार"
+      },
+      "hook": {
+        "en": "buys rooms by the lot at Siwanchi Gate",
+        "hi": "सिवांची गेट पर पूरे कमरे का सामान थोक में ख़रीदता है"
+      },
+      "confession": {
+        "en": "Bought a tenanted room he knew was not for sale, cleared it himself before light, and wrote the tenant’s own name into his purchase register as the seller — nine thousand rupees of tools for twelve hundred, and a book that says the man sold up and left.",
+        "hi": "जानते-बूझते ऐसा किरायेदारी वाला कमरा ख़रीदा जो बिकाऊ था ही नहीं, उजाला होने से पहले ख़ुद ख़ाली किया, और अपनी ख़रीद बही में बेचने वाले के ख़ाने में उसी किरायेदार का नाम लिख दिया — नौ हज़ार के औज़ार बारह सौ में, और एक बही जो कहती है कि आदमी सब बेचकर चला गया।"
+      }
+    },
+    {
+      "id": "rukmani",
+      "name": {
+        "en": "Rukmani Bhati",
+        "hi": "रुक्मणी भाटी"
+      },
+      "role": {
+        "en": "THE HOUSE OWNER",
+        "hi": "मकान मालकिन"
+      },
+      "hook": {
+        "en": "wrote every receipt in that book for thirty-one years",
+        "hi": "इकतीस साल से उस बही की हर रसीद उसी के हाथ की"
+      },
+      "alibi": {
+        "en": "She went twice to the Chopasni flat with rent she was no longer permitted to receipt, and came back both times with it still in her hand. A woman clearing a tenant out does not chase him across town to give him a receipt.",
+        "hi": "वह दो बार चोपासनी वाले फ़्लैट तक गई, वह किराया लेकर जिसकी रसीद अब उसे लिखने नहीं दी जा रही थी, और दोनों बार वही किराया हाथ में लिए लौटी। किरायेदार को निकालने वाली औरत उसके पीछे आधा शहर पार करके रसीद देने नहीं जाती।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "pukhraj",
+      "name": {
+        "en": "Pukhraj Solanki",
+        "hi": "पुखराज सोलंकी"
+      },
+      "role": {
+        "en": "THE NIGHT CLERK",
+        "hi": "रात का मुंशी"
+      },
+      "hook": {
+        "en": "on the desk from eight to six, every night",
+        "hi": "हर रात आठ से छह तक काउंटर पर"
+      },
+      "alibi": {
+        "en": "The front desk faces the front. Room four empties through a back gate he cannot see from his chair, and the register in his hand that night has eleven entries in it, timed.",
+        "hi": "काउंटर का मुँह आगे की तरफ़ है। कमरा चार पिछले गेट से ख़ाली हुआ, जो उसकी कुर्सी से दिखता ही नहीं — और उस रात उसके हाथ के रजिस्टर में ग्यारह प्रविष्टियाँ हैं, समय के साथ।"
+      }
+    },
+    {
+      "id": "kanhaiya",
+      "name": {
+        "en": "Kanhaiya",
+        "hi": "कन्हैया"
+      },
+      "role": {
+        "en": "THE HOUSE HANDYMAN",
+        "hi": "मकान का कारीगर"
+      },
+      "hook": {
+        "en": "holds a key to every door here",
+        "hi": "यहाँ के हर दरवाज़े की चाबी उसी के पास"
+      },
+      "alibi": {
+        "en": "He holds the keys and the keys were not used. Whoever went in went through the window catch, which is the one way into that room a man with a key would never bother with.",
+        "hi": "चाबियाँ उसके पास हैं और चाबियाँ चलीं ही नहीं। जो अंदर गया, वह खिड़की की चटख़नी से गया — और उस कमरे में जाने का यही एक रास्ता है जिसे चाबी वाला आदमी कभी नहीं चुनेगा।"
+      }
+    }
+  ],
+  "culpritId": "israr",
+  "interrogations": [
+    {
+      "suspectId": "rukmani",
+      "setting": {
+        "en": "The house office, the receipt book open at a page that stops in the middle of a year.",
+        "hi": "मकान का दफ़्तर, और रसीद बही उस पन्ने पर खुली जहाँ साल बीच में ही रुक जाता है।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Why does the book stop in Jyeshtha?",
+            "hi": "यह बही ज्येष्ठ में क्यों रुक जाती है?"
+          },
+          "answer": {
+            "en": "“I was told the back rooms were under survey and that a receipt written during a survey would ‘complicate the record’. I have taken his rent since. I have not been able to write it down.”",
+            "hi": "“मुझसे कहा गया कि पीछे के कमरे सर्वे में हैं और सर्वे के दौरान लिखी रसीद ‘रिकॉर्ड को उलझा देगी’। उसके बाद भी किराया मैंने लिया है। लिख नहीं पाई।”"
+          },
+          "needsClueId": "counterfoils",
+          "lockedHint": {
+            "en": "Pin the counterfoils. She will not volunteer a gap in her own book — show her where it stops.",
+            "hi": "रसीदें टाँगो। अपनी ही बही का ख़ालीपन वह ख़ुद नहीं बताएगी — उसे दिखाओ कि वह कहाँ रुकती है।"
+          },
+          "note": {
+            "en": "Told by whom, is the question underneath. A receipt is what makes a tenant a tenant, and somebody knew that.",
+            "hi": "असली सवाल नीचे दबा है — कहा किसने। रसीद ही किरायेदार को किरायेदार बनाती है, और यह किसी को अच्छी तरह पता था।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who could clear a room in this house?",
+            "hi": "इस मकान में कोई कमरा ख़ाली कर कौन सकता है?"
+          },
+          "answer": {
+            "en": "“Nobody. That is what a lock is. But room four’s window catch has been loose since the rains and I have been telling Kanhaiya about it since the rains.”",
+            "hi": "“कोई नहीं। ताला इसीलिए होता है। पर कमरा चार की खिड़की की चटख़नी बारिश से ढीली है, और बारिश से ही मैं कन्हैया से कहती आ रही हूँ।”"
+          },
+          "note": {
+            "en": "A loose catch anybody in the lane could name. That widens the door and narrows nothing.",
+            "hi": "ढीली चटख़नी, जिसका नाम गली का कोई भी बता देगा। इससे दरवाज़ा चौड़ा होता है, दायरा नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Is Sohan Lal a guest of yours?",
+            "hi": "क्या सोहन लाल आपके मेहमान हैं?"
+          },
+          "answer": {
+            "en": "“He is a tenant of thirty-one years. He is in my register as a guest and I did not put him there, and I want to know who did as much as you do.”",
+            "hi": "“वे इकतीस साल के किरायेदार हैं। मेरे रजिस्टर में मेहमान लिखे हैं, और वहाँ मैंने नहीं लिखा — किसने लिखा, यह जानने की जल्दी मुझे आपसे कम नहीं है।”"
+          },
+          "note": {
+            "en": "She is angrier about the register than about the tools. So she knows exactly what the register does.",
+            "hi": "औज़ारों से ज़्यादा ग़ुस्सा उसे रजिस्टर पर है। यानी उसे ठीक-ठीक पता है कि रजिस्टर करता क्या है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "israr",
+      "setting": {
+        "en": "The shop at Siwanchi Gate, cupboards stacked to the ceiling, a carpenter’s chest on the pavement with its lid off.",
+        "hi": "सिवांची गेट की दुकान, छत तक चढ़ी अलमारियाँ, और फ़ुटपाथ पर बिना ढक्कन का एक बढ़ई का संदूक।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Whose chest is that?",
+            "hi": "वह संदूक किसका है?"
+          },
+          "answer": {
+            "en": "“Mine. Bought and paid. Everything on this pavement is bought and paid.”",
+            "hi": "“मेरा। ख़रीदा हुआ, पैसा चुकाया हुआ। इस फ़ुटपाथ की हर चीज़ ख़रीदी हुई है।”"
+          },
+          "note": {
+            "en": "Bought from whom, is what he answers by not answering.",
+            "hi": "किससे ख़रीदा — इसका जवाब वह जवाब न देकर देता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You wrote Sohan Lal down as the seller.",
+            "hi": "आपने बेचने वाले के ख़ाने में सोहन लाल लिखा है।"
+          },
+          "answer": {
+            "en": "“A room lot is a room lot. A man came with a cart and a price and I wrote down the name he gave me. I am not asked to make a man prove he is himself.”",
+            "hi": "“कमरे का लॉट कमरे का लॉट होता है। एक आदमी ठेला और भाव लेकर आया, उसने जो नाम बताया मैंने लिख लिया। यह साबित कराना मेरा काम नहीं कि वह ख़ुद ही है।”"
+          },
+          "needsClueId": "purchasebook",
+          "lockedHint": {
+            "en": "Pin the purchase register. He will not discuss a page he has not been shown he wrote.",
+            "hi": "ख़रीद रजिस्टर टाँगो। जब तक उसे न दिखाया जाए कि पन्ना उसी का लिखा है, वह उस पर बात नहीं करेगा।"
+          },
+          "unlocksClueId": "saidbought",
+          "note": {
+            "en": "The thumb impression beside that name belongs to nobody in this file — and a dealer who takes a thumb knows exactly why he takes one.",
+            "hi": "उस नाम के बग़ल का अंगूठा इस फ़ाइल के किसी का नहीं — और जो दुकानदार अंगूठा लगवाता है, उसे ठीक पता होता है कि क्यों लगवाता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Twelve hundred for nine thousand rupees of tools.",
+            "hi": "नौ हज़ार के औज़ार, और दाम बारह सौ।"
+          },
+          "answer": {
+            "en": "“Old iron is old iron. Who buys a plane in this market? Nobody planes anything any more.”",
+            "hi": "“पुराना लोहा पुराना लोहा है। इस बाज़ार में रंदा कौन ख़रीदता है? अब कोई लकड़ी छीलता ही नहीं।”"
+          },
+          "needsClueId": "valuation",
+          "lockedHint": {
+            "en": "Pin the valuation. He will price the lot at whatever he likes until somebody else prices it first.",
+            "hi": "मूल्यांकन टाँगो। जब तक कोई और दाम नहीं लगाता, वह अपनी मर्ज़ी का दाम बोलता रहेगा।"
+          },
+          "note": {
+            "en": "He kept four pre-war chisels off the pavement and in the back room. Old iron nobody buys, put somewhere nobody sees.",
+            "hi": "चार बहुत पुरानी छेनियाँ उसने फ़ुटपाथ पर नहीं, पिछले कमरे में रखीं। जिस पुराने लोहे को कोई नहीं ख़रीदता, उसे वहाँ रखा जहाँ कोई देखता नहीं।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "valuation",
+      "correction": {
+        "en": "A handyman gets nothing out of an empty room and an owner gets a hole in her own rent. Somebody took nine thousand rupees of tools for twelve hundred, and that is a reason a magistrate will recognise.",
+        "hi": "ख़ाली कमरे से कारीगर को कुछ नहीं मिलता, और मालकिन को अपने ही किराए में छेद मिलता है। किसी ने नौ हज़ार के औज़ार बारह सौ में लिए — वजह इसे कहते हैं, और मजिस्ट्रेट भी यही मानेगा।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "purchasebook",
+      "correction": {
+        "en": "The night clerk was behind his desk and his own register times him there. The man who cleared that room wrote down who sold it to him — and wrote the name of a man who was thirty kilometres away in Chopasni.",
+        "hi": "रात का मुंशी अपने काउंटर पर था और उसका अपना रजिस्टर उसे वहीं, समय के साथ खड़ा करता है। जिसने कमरा ख़ाली किया, उसने लिख रखा है कि बेचा किसने — और नाम उस आदमी का लिखा जो तीस किलोमीटर दूर चोपासनी में था।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "chest",
+      "correction": {
+        "en": "Nothing left through a locked door. Thirty-one years of tenancy walked out of this house under the false bottom of the man’s own chest, carried by whoever bought it.",
+        "hi": "बंद दरवाज़े से कुछ नहीं निकला। इकतीस साल की किरायेदारी इस मकान से उसी आदमी के संदूक के दोहरे तले के नीचे बाहर गई — उठाकर वही ले गया जिसने संदूक ख़रीदा।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "roomfour",
+    "toClueId": "purchasebook",
+    "text": {
+      "en": "A room does not empty itself into the air. Everything in it was carried somewhere — and everything carried in this city is bought by a dealer who is required to keep a book.",
+      "hi": "कमरा हवा में ख़ाली नहीं होता। उसका सामान कहीं तो उठकर गया — और इस शहर में उठा हुआ सामान वही दुकानदार ख़रीदता है जिसे बही रखना क़ानूनन ज़रूरी है।"
+    }
+  },
+  "bankedClue": {
+    "en": "Thirty-one years of rent counterfoils in one hand, stopping three months before the room did",
+    "hi": "इकतीस साल की किराया रसीदें एक ही हाथ की, और कमरे से तीन महीने पहले रुक गईं"
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "id": "jodhpur-power-of-attorney",
+  "schema": 1,
+  "city": "jodhpur",
+  "genre": "forgery",
+  "difficulty": "devious",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jodhpur-blue-house-register",
+    "caseNumber": 6
+  },
+  "title": {
+    "en": "The Power of Attorney",
+    "hi": "मुख़्तारनामा"
+  },
+  "place": {
+    "en": "The sub-registrar’s office · counter three · Thursday, 11:20 AM",
+    "hi": "उप-पंजीयक कार्यालय · काउंटर तीन · गुरुवार, 11:20 AM"
+  },
+  "brief": {
+    "en": "On the 22nd, a general power of attorney over the Blue House was registered at counter three: full authority to sell, to mortgage and to hand over possession. It carries Rukmani Bhati’s signature and two identifying witnesses. Rukmani Bhati was in Bikaner that week, pouring water at her aunt’s shraddh, and the second witness has been dead since 2019. Everything else about the file is perfect, which is the part that should worry you.",
+    "hi": "22 तारीख़ को काउंटर तीन पर नीले मकान का आम मुख़्तारनामा रजिस्टर हुआ — बेचने, गिरवी रखने और क़ब्ज़ा सौंपने तक का पूरा अधिकार। उस पर रुक्मणी भाटी के दस्तख़त हैं और दो पहचान गवाह। उस हफ़्ते रुक्मणी भाटी बीकानेर में थीं, अपनी बुआ के श्राद्ध में पानी देती हुईं — और दूसरा गवाह 2019 से इस दुनिया में नहीं है। फ़ाइल की बाक़ी हर चीज़ बेऐब है, और चिंता की बात भी यही है।"
+  },
+  "photoCaption": {
+    "en": "counter three, token 61",
+    "hi": "काउंटर तीन, टोकन 61"
+  },
+  "iraNote": {
+    "en": "“A registered document is believed by everybody who comes after it. That is what makes it worth forging, and it is also why a forger has to be perfect on the day and only on the day.”",
+    "hi": "“रजिस्टर्ड दस्तावेज़ पर उसके बाद आने वाला हर आदमी भरोसा करता है। इसीलिए उसे जाली बनाना फ़ायदे का सौदा है — और इसीलिए जालसाज़ को सिर्फ़ उस एक दिन बेऐब रहना पड़ता है।”"
+  },
+  "clues": [
+    {
+      "id": "gpa",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE POWER OF ATTORNEY",
+        "hi": "मुख़्तारनामा"
+      },
+      "text": {
+        "en": "General power of attorney over the Blue House — to sell, to mortgage, to deliver possession. Executed by “Rukmani Bhati”, registered on the 22nd, entry 4471.",
+        "hi": "नीले मकान का आम मुख़्तारनामा — बेचने, गिरवी रखने, क़ब्ज़ा सौंपने का अधिकार। निष्पादक “रुक्मणी भाटी”, 22 तारीख़ को पंजीकृत, प्रविष्टि 4471।"
+      }
+    },
+    {
+      "id": "witness",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE SECOND WITNESS",
+        "hi": "दूसरा गवाह"
+      },
+      "text": {
+        "en": "Identifying witness number two: Bhoor Singh of Nayapura. Bhoor Singh’s death is entered in the Nagar Nigam’s own register, in 2019, five years before he identified anybody.",
+        "hi": "पहचान गवाह क्रमांक दो: भूर सिंह, नयापुरा। भूर सिंह की मृत्यु ख़ुद नगर निगम के रजिस्टर में 2019 में दर्ज है — यानी किसी की पहचान कराने से पाँच साल पहले।"
+      }
+    },
+    {
+      "id": "photo",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": {
+        "en": "THE REGISTRATION PHOTOGRAPH",
+        "hi": "पंजीयन का फ़ोटो"
+      },
+      "text": {
+        "en": "The system photographs whoever stands at the counter. The woman in the frame is not Rukmani Bhati. She is wearing the apron of the stalls on the office steps.",
+        "hi": "काउंटर पर जो खड़ा होता है, सिस्टम उसका फ़ोटो लेता है। फ़्रेम में खड़ी औरत रुक्मणी भाटी नहीं है। उसने दफ़्तर की सीढ़ियों वाली थड़ियों का एप्रन पहना है।"
+      }
+    },
+    {
+      "id": "bikaner",
+      "kind": "Ticket",
+      "isKey": true,
+      "label": {
+        "en": "THE BIKANER TICKET",
+        "hi": "बीकानेर का टिकट"
+      },
+      "text": {
+        "en": "Roadways, Jodhpur–Bikaner on the 21st, return on the 24th. Her aunt’s shraddh, and eleven people will say she was the one pouring the water.",
+        "hi": "रोडवेज़, 21 को जोधपुर–बीकानेर, 24 को वापसी। बुआ का श्राद्ध, और ग्यारह लोग कहेंगे कि पानी वही दे रही थीं।"
+      }
+    },
+    {
+      "id": "vacancy",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE VACANCY CERTIFICATE",
+        "hi": "ख़ाली होने का प्रमाणपत्र"
+      },
+      "text": {
+        "en": "Ward 14: “no occupant found on inspection”, dated the 18th, initialled by the amin. Registration will not take a file on a tenanted house without it.",
+        "hi": "वार्ड 14: “निरीक्षण में कोई निवासी नहीं मिला”, तारीख़ 18, और नीचे अमीन के दस्तख़त। किरायेदारी वाले मकान की फ़ाइल इसके बिना पंजीयन में ली ही नहीं जाती।"
+      }
+    },
+    {
+      "id": "fieldslip",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE FIELD VISIT SLIP",
+        "hi": "मौक़ा निरीक्षण पर्ची"
+      },
+      "text": {
+        "en": "The amin’s own field visit to the Blue House is slipped for the 21st. The certificate saying nobody lives there is dated the 18th.",
+        "hi": "नीले मकान पर अमीन का अपना मौक़ा निरीक्षण 21 तारीख़ का दर्ज है। और यह प्रमाणपत्र, कि वहाँ कोई नहीं रहता, 18 तारीख़ का है।"
+      }
+    },
+    {
+      "id": "hand",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE SIGNATURES",
+        "hi": "लैब पर्ची · दस्तख़त"
+      },
+      "text": {
+        "en": "The executant’s signature, the dead witness’s signature and three words of the recital are one hand — and that hand fills the deed writer’s own stamp counterfoils.",
+        "hi": "निष्पादक के दस्तख़त, मरे हुए गवाह के दस्तख़त और इबारत के तीन शब्द — तीनों एक ही हाथ के। और वही हाथ अर्ज़ीनवीस की अपनी स्टांप रसीदें भरता है।"
+      }
+    },
+    {
+      "id": "stamp",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE STAMP PAPER",
+        "hi": "स्टांप पेपर"
+      },
+      "text": {
+        "en": "₹500 non-judicial, sold on the 14th against the deed writer’s own licence number — eight days before the deed that is written on it.",
+        "hi": "₹500 का ग़ैर-न्यायिक स्टांप, 14 तारीख़ को अर्ज़ीनवीस के अपने लाइसेंस नंबर पर बिका — यानी उस पर लिखे दस्तावेज़ से आठ दिन पहले।"
+      }
+    },
+    {
+      "id": "thumb",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE THUMB",
+        "hi": "लैब पर्ची · अंगूठा"
+      },
+      "text": {
+        "en": "The thumb on the deed belongs to the woman in the photograph. It appears on nothing else in this file, and on the Nayapura ration line every single month.",
+        "hi": "दस्तावेज़ पर लगा अंगूठा उसी औरत का है जो फ़ोटो में है। इस फ़ाइल में और कहीं नहीं मिलता — और नयापुरा की राशन लाइन में हर महीने मिलता है।"
+      }
+    },
+    {
+      "id": "token",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE TOKEN SLIP",
+        "hi": "टोकन पर्ची"
+      },
+      "text": {
+        "en": "Token 61, counter three, 11:20 in the morning.",
+        "hi": "टोकन 61, काउंटर तीन, सुबह 11:20।"
+      },
+      "dismissNote": {
+        "en": "ruled out — a token tells you when, and when is the one thing the photograph already told us",
+        "hi": "ख़ारिज — टोकन से बस समय पता चलता है, और समय तो फ़ोटो पहले ही बता चुका है"
+      }
+    },
+    {
+      "id": "notice6",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE DANGER NOTICE, AGAIN",
+        "hi": "वही ख़तरे का नोटिस, दोबारा"
+      },
+      "text": {
+        "en": "A copy of the ward’s danger notice is pinned into the registration file.",
+        "hi": "पंजीयन फ़ाइल में वार्ड के ख़तरे वाले नोटिस की एक प्रति नत्थी है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — it is the forged notice from the lane, and the file did not need a notice; it needed a vacancy certificate",
+        "hi": "ख़ारिज — यह गली वाला जाली नोटिस ही है, और फ़ाइल को नोटिस की ज़रूरत थी ही नहीं; ज़रूरत ख़ाली होने के प्रमाणपत्र की थी"
+      }
+    },
+    {
+      "id": "offer",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE CONTRACTOR’S OFFER LETTER",
+        "hi": "ठेकेदार का प्रस्ताव पत्र"
+      },
+      "text": {
+        "en": "Tejmal Purohit offered ₹18 lakh for the Blue House in Chaitra, in writing, to the owner herself.",
+        "hi": "तेजमल पुरोहित ने चैत्र में नीले मकान के ₹18 लाख का प्रस्ताव, लिखकर, ख़ुद मालकिन को भेजा था।"
+      },
+      "dismissNote": {
+        "en": "ruled out — an offer in his own name, delivered to the owner, is the exact opposite of a sale she was never told about",
+        "hi": "ख़ारिज — अपने नाम से, मालकिन तक पहुँचाया गया प्रस्ताव उस सौदे का ठीक उल्टा है जिसकी उसे ख़बर ही न हो"
+      }
+    },
+    {
+      "id": "leave",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE CLERK’S LEAVE",
+        "hi": "बाबू की छुट्टी"
+      },
+      "text": {
+        "en": "Om Prakash was on casual leave on the 22nd.",
+        "hi": "ओम प्रकाश 22 तारीख़ को आकस्मिक अवकाश पर था।"
+      },
+      "dismissNote": {
+        "en": "ruled out — and the deed was registered anyway, by the officer, which is what leave means in this office",
+        "hi": "ख़ारिज — और दस्तावेज़ फिर भी अधिकारी ने रजिस्टर कर दिया, इस दफ़्तर में छुट्टी का यही मतलब होता है"
+      }
+    },
+    {
+      "id": "oldgpa",
+      "kind": "LedgerSlip",
+      "isKey": false,
+      "label": {
+        "en": "AN OLDER POWER OF ATTORNEY",
+        "hi": "एक पुराना मुख़्तारनामा"
+      },
+      "text": {
+        "en": "Rukmani did once execute one — to her brother, in 2011, for a water tax matter.",
+        "hi": "रुक्मणी ने एक बार मुख़्तारनामा दिया था — 2011 में, अपने भाई को, जल कर के एक मामले में।"
+      },
+      "dismissNote": {
+        "en": "ruled out — registered in 2011, revoked in 2013, and the revocation sits in the same index; it proves she knows how this office works",
+        "hi": "ख़ारिज — 2011 में पंजीकृत, 2013 में निरस्त, और निरस्तीकरण उसी सूचकांक में दर्ज है; इससे यही साबित होता है कि उसे इस दफ़्तर का तरीक़ा आता है"
+      }
+    },
+    {
+      "id": "apron",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE OFFICE STEPS",
+        "hi": "फ़ोटो · दफ़्तर की सीढ़ियाँ"
+      },
+      "text": {
+        "en": "Three stall-keepers on the steps, all in the same apron.",
+        "hi": "सीढ़ियों पर तीन थड़ी वालियाँ, तीनों एक ही एप्रन में।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the apron is the stand’s uniform and there are nine of them; an apron finds a stand, not a woman",
+        "hi": "ख़ारिज — एप्रन उस अड्डे की वर्दी है और ऐसी नौ हैं; एप्रन से अड्डा मिलता है, औरत नहीं"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidthumb",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE STALL-KEEPER",
+        "hi": "बयान · थड़ी वाली"
+      },
+      "text": {
+        "en": "“Three hundred rupees to put my thumb on a paper for a scheme. He read it out to me on the steps. What he read out was not what he had written.”",
+        "hi": "“एक योजना के काग़ज़ पर अंगूठा लगाने के तीन सौ रुपए। उसने सीढ़ियों पर मुझे पढ़कर सुनाया था। जो सुनाया, वह लिखा हुआ नहीं था।”"
+      }
+    },
+    {
+      "id": "saidcert",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE REGISTRATION CLERK",
+        "hi": "बयान · पंजीयन बाबू"
+      },
+      "text": {
+        "en": "“No vacancy certificate, no file. That one came in over the counter on the 19th, in the amin’s own hand — not by post, not by peon. I remember because officers do not queue.”",
+        "hi": "“ख़ाली होने का प्रमाणपत्र नहीं, तो फ़ाइल नहीं। वह 19 तारीख़ को काउंटर पर आया, अमीन के अपने हाथ से — न डाक से, न चपरासी से। याद इसलिए है कि अफ़सर लाइन में नहीं लगते।”"
+      }
+    },
+    {
+      "id": "saidfee",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE DEED WRITER",
+        "hi": "बयान · अर्ज़ीनवीस"
+      },
+      "text": {
+        "en": "“Forty thousand rupees for one deed. I have written eleven hundred deeds and never been paid more than nine hundred. He said the file only had to survive one afternoon.”",
+        "hi": "“एक दस्तावेज़ के चालीस हज़ार। मैंने ग्यारह सौ दस्तावेज़ लिखे हैं और कभी नौ सौ से ज़्यादा नहीं मिले। उसने कहा था कि फ़ाइल को बस एक दोपहर निकालनी है।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "nemichand",
+      "name": {
+        "en": "Nemi Chand Bohra",
+        "hi": "नेमी चंद बोहरा"
+      },
+      "role": {
+        "en": "THE DEED WRITER",
+        "hi": "अर्ज़ीनवीस"
+      },
+      "hook": {
+        "en": "twenty-two years at the third table on the steps",
+        "hi": "बाईस साल से सीढ़ियों की तीसरी मेज़ पर"
+      },
+      "confession": {
+        "en": "Wrote a general power of attorney over a house whose owner was in Bikaner, signed it in her name and in a dead man’s, put a stall-keeper in front of the counter camera for three hundred rupees, and took forty thousand for a file that only had to survive one afternoon.",
+        "hi": "उस मकान का आम मुख़्तारनामा लिखा जिसकी मालकिन बीकानेर में थी, उसी के नाम और एक मरे हुए आदमी के नाम दस्तख़त किए, तीन सौ रुपए में एक थड़ी वाली को काउंटर के कैमरे के सामने खड़ा किया — और उस फ़ाइल के चालीस हज़ार लिए जिसे बस एक दोपहर निकालनी थी।"
+      }
+    },
+    {
+      "id": "girdhari",
+      "name": {
+        "en": "Girdhari Vyas",
+        "hi": "गिरधारी व्यास"
+      },
+      "role": {
+        "en": "THE SURVEY AMIN",
+        "hi": "सर्वे अमीन"
+      },
+      "hook": {
+        "en": "the vacancy certificate is signed by him alone",
+        "hi": "ख़ाली होने के प्रमाणपत्र पर अकेले उसी के दस्तख़त"
+      },
+      "alibi": {
+        "en": "He did not write this deed, did not stand at this counter, and did not take a rupee that anybody can find. What he did was certify a house empty — which is a duty, until you read the date on it.",
+        "hi": "न उसने यह दस्तावेज़ लिखा, न वह इस काउंटर पर खड़ा हुआ, न कोई ऐसा रुपया लिया जो किसी को मिल सके। उसने बस एक मकान को ख़ाली प्रमाणित किया — और यह उसका कर्तव्य ही है, जब तक कोई उस पर पड़ी तारीख़ न पढ़ ले।"
+      }
+    },
+    {
+      "id": "rukmani",
+      "name": {
+        "en": "Rukmani Bhati",
+        "hi": "रुक्मणी भाटी"
+      },
+      "role": {
+        "en": "THE HOUSE OWNER",
+        "hi": "मकान मालकिन"
+      },
+      "hook": {
+        "en": "the deed is executed in her name",
+        "hi": "दस्तावेज़ उसी के नाम से निष्पादित"
+      },
+      "alibi": {
+        "en": "She was four hundred kilometres away with eleven witnesses and a bus ticket, and the woman in her photograph has a thumb the ration shop at Nayapura knows better than her own.",
+        "hi": "वह चार सौ किलोमीटर दूर थी, ग्यारह गवाहों और एक बस टिकट के साथ — और उसकी जगह खड़ी औरत का अंगूठा नयापुरा की राशन दुकान उससे बेहतर पहचानती है।"
+      },
+      "feminine": true
+    },
+    {
+      "id": "tejmal",
+      "name": {
+        "en": "Tejmal Purohit",
+        "hi": "तेजमल पुरोहित"
+      },
+      "role": {
+        "en": "THE CONTRACTOR",
+        "hi": "ठेकेदार"
+      },
+      "hook": {
+        "en": "wanted this house, and said so in writing",
+        "hi": "यह मकान चाहता था, और लिखकर कहा भी"
+      },
+      "alibi": {
+        "en": "He made an offer in his own name for eighteen lakh and got a refusal. A man forging a sale does not first put his want on paper and post it to the person he intends to rob.",
+        "hi": "उसने अपने नाम से अठारह लाख का प्रस्ताव दिया और इनकार पाया। सौदा जाली बनाने वाला आदमी पहले अपनी चाहत काग़ज़ पर लिखकर उसी को नहीं भेजता जिसे वह लूटने वाला है।"
+      }
+    },
+    {
+      "id": "omprakash",
+      "name": {
+        "en": "Om Prakash",
+        "hi": "ओम प्रकाश"
+      },
+      "role": {
+        "en": "THE REGISTRATION CLERK",
+        "hi": "पंजीयन बाबू"
+      },
+      "hook": {
+        "en": "checks every file before it reaches the officer",
+        "hi": "हर फ़ाइल अधिकारी तक पहुँचने से पहले वही जाँचता है"
+      },
+      "alibi": {
+        "en": "He was on leave on the 22nd, and he is the one who remembered which hand carried the certificate in on the 19th. A man inside this would not hand us the date it turned.",
+        "hi": "22 को वह छुट्टी पर था, और 19 को प्रमाणपत्र किस हाथ से आया — यह याद रखने वाला भी वही है। इसमें शामिल आदमी हमें वह तारीख़ नहीं थमाता जिस पर सब पलटता है।"
+      }
+    },
+    {
+      "id": "bhagwati",
+      "name": {
+        "en": "Bhagwati",
+        "hi": "भगवती"
+      },
+      "role": {
+        "en": "THE STALL-KEEPER",
+        "hi": "थड़ी वाली"
+      },
+      "hook": {
+        "en": "her face is in the registration photograph",
+        "hi": "पंजीयन के फ़ोटो में उसी का चेहरा"
+      },
+      "alibi": {
+        "en": "She cannot read a line of what she stood behind. The signature above her thumb is in a hand that is not hers, and she was told on the steps that it was a scheme form.",
+        "hi": "जिस काग़ज़ के पीछे वह खड़ी हुई, उसकी एक लाइन भी वह पढ़ नहीं सकती। उसके अंगूठे के ऊपर के दस्तख़त किसी और के हाथ के हैं, और सीढ़ियों पर उसे बताया गया था कि यह किसी योजना का फ़ॉर्म है।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "nemichand",
+  "interrogations": [
+    {
+      "suspectId": "bhagwati",
+      "setting": {
+        "en": "The tea stall on the office steps, a kettle, a bench, files going past both ways all morning.",
+        "hi": "दफ़्तर की सीढ़ियों वाली चाय की थड़ी — एक केतली, एक बेंच, और सुबह भर दोनों तरफ़ आती-जाती फ़ाइलें।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Have you ever been inside that office?",
+            "hi": "क्या आप कभी उस दफ़्तर के अंदर गई हैं?"
+          },
+          "answer": {
+            "en": "“Twice in nine years. Once for my husband’s land and once when a sahib said there was money in a scheme for people like me.”",
+            "hi": "“नौ साल में दो बार। एक बार पति की ज़मीन के लिए, और एक बार जब एक साहब ने कहा कि हम जैसों के लिए किसी योजना में पैसा है।”"
+          },
+          "note": {
+            "en": "A sahib, a scheme and a counter. That is the shape of most of what goes wrong in this building.",
+            "hi": "एक साहब, एक योजना और एक काउंटर। इस इमारत में जो कुछ ग़लत होता है, उसका आकार ज़्यादातर यही होता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "This is your thumb on a deed.",
+            "hi": "यह अंगूठा एक दस्तावेज़ पर आपका है।"
+          },
+          "answer": {
+            "en": "“Three hundred rupees to put my thumb on a paper for a scheme. He read it out to me on the steps. What he read out was not what he had written.”",
+            "hi": "“एक योजना के काग़ज़ पर अंगूठा लगाने के तीन सौ रुपए। उसने सीढ़ियों पर मुझे पढ़कर सुनाया था। जो सुनाया, वह लिखा हुआ नहीं था।”"
+          },
+          "needsClueId": "photo",
+          "lockedHint": {
+            "en": "Pin the registration photograph. She will not place herself inside that room until she is shown that the room placed her.",
+            "hi": "पंजीयन का फ़ोटो टाँगो। जब तक उसे न दिखे कि कमरे ने उसे दर्ज कर लिया, वह ख़ुद को उस कमरे में नहीं रखेगी।"
+          },
+          "unlocksClueId": "saidthumb",
+          "note": {
+            "en": "She was read a scheme and signed a house away. The cruelty of it is that she is the only person in this file who did not know what she was doing.",
+            "hi": "उसे योजना पढ़कर सुनाई गई और उसने एक मकान दे दिया। ज़्यादती यह है कि इस पूरी फ़ाइल में वही अकेली है जिसे पता ही नहीं था कि वह क्या कर रही है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who read it to you?",
+            "hi": "आपको पढ़कर किसने सुनाया?"
+          },
+          "answer": {
+            "en": "“The writer at the third table. He is always at the third table. Everybody on these steps is always at the same place, that is how the steps work.”",
+            "hi": "“तीसरी मेज़ वाला लिखने वाला। वह हमेशा तीसरी मेज़ पर ही रहता है। इन सीढ़ियों पर हर कोई हमेशा अपनी ही जगह रहता है, सीढ़ियाँ ऐसे ही चलती हैं।”"
+          },
+          "note": {
+            "en": "Twenty-two years at the third table. A man that fixed in one place is a man everybody knows how to find.",
+            "hi": "तीसरी मेज़ पर बाईस साल। इतनी एक जगह जमा आदमी वह होता है जिसे ढूँढ़ना सबको आता है।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "omprakash",
+      "setting": {
+        "en": "The record room upstairs, bundles tied in red cloth to the ceiling, one bulb.",
+        "hi": "ऊपर का रिकॉर्ड कमरा, छत तक लाल कपड़े में बँधे बस्ते, और एक बल्ब।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "What does a file like this need?",
+            "hi": "ऐसी फ़ाइल में क्या-क्या लगता है?"
+          },
+          "answer": {
+            "en": "“Stamp, identity, two witnesses, photograph, thumb. And for a house with tenants in it, a vacancy certificate from the ward. Without that last one I do not even give it a token.”",
+            "hi": "“स्टांप, पहचान, दो गवाह, फ़ोटो, अंगूठा। और जिस मकान में किरायेदार हों, उसके लिए वार्ड से ख़ाली होने का प्रमाणपत्र। आख़िरी वाला न हो तो मैं टोकन भी नहीं देता।”"
+          },
+          "note": {
+            "en": "So the certificate is not a formality. It is the door.",
+            "hi": "यानी प्रमाणपत्र औपचारिकता नहीं है। वही दरवाज़ा है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "How did this certificate reach you?",
+            "hi": "यह प्रमाणपत्र आप तक कैसे पहुँचा?"
+          },
+          "answer": {
+            "en": "“No vacancy certificate, no file. That one came in over the counter on the 19th, in the amin’s own hand — not by post, not by peon. I remember because officers do not queue.”",
+            "hi": "“ख़ाली होने का प्रमाणपत्र नहीं, तो फ़ाइल नहीं। वह 19 तारीख़ को काउंटर पर आया, अमीन के अपने हाथ से — न डाक से, न चपरासी से। याद इसलिए है कि अफ़सर लाइन में नहीं लगते।”"
+          },
+          "needsClueId": "vacancy",
+          "lockedHint": {
+            "en": "Pin the vacancy certificate. He deals in what is in front of him; put the paper in front of him.",
+            "hi": "ख़ाली होने का प्रमाणपत्र टाँगो। वह वही देखता है जो सामने हो; काग़ज़ सामने रखो।"
+          },
+          "unlocksClueId": "saidcert",
+          "note": {
+            "en": "An officer carrying his own certificate across town and standing in a public queue with it. That is not an errand. That is a delivery.",
+            "hi": "एक अफ़सर अपना ही प्रमाणपत्र लेकर आधा शहर पार करे और सार्वजनिक लाइन में खड़ा हो। यह काम निपटाना नहीं, पहुँचाना होता है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Nobody checked whether the second witness was alive.",
+            "hi": "किसी ने देखा ही नहीं कि दूसरा गवाह ज़िंदा है या नहीं।"
+          },
+          "answer": {
+            "en": "“Witnesses are identified, not verified. If we telephoned the death register for every witness this office would register four deeds a year.”",
+            "hi": "“गवाहों की पहचान होती है, जाँच नहीं। हर गवाह के लिए मृत्यु रजिस्टर में फ़ोन करने लगें तो यह दफ़्तर साल में चार दस्तावेज़ रजिस्टर करेगा।”"
+          },
+          "note": {
+            "en": "Honest, and the exact gap the deed writer built the file inside.",
+            "hi": "ईमानदार जवाब — और यही वह ख़ाली जगह है जिसके अंदर अर्ज़ीनवीस ने पूरी फ़ाइल खड़ी की।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "girdhari",
+      "setting": {
+        "en": "The ward office, the survey register shut this time, and the tea sent for later than usual.",
+        "hi": "वार्ड दफ़्तर, इस बार बंद पड़ा सर्वे रजिस्टर, और चाय भी रोज़ से देर में मँगाई गई।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You certified this house empty.",
+            "hi": "आपने इस मकान को ख़ाली प्रमाणित किया।"
+          },
+          "answer": {
+            "en": "“On inspection, no occupant was found. Three rooms had been vacated. That is what the column asks and that is what I wrote.”",
+            "hi": "“निरीक्षण में कोई निवासी नहीं मिला। तीन कमरे ख़ाली हो चुके थे। ख़ाना यही पूछता है और मैंने यही लिखा।”"
+          },
+          "note": {
+            "en": "Three rooms had been vacated. Six were let. He counted the three.",
+            "hi": "तीन कमरे ख़ाली हुए थे। छह किराए पर चल रहे थे। उसने तीन गिने।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Your certificate is dated the 18th. Your field visit is the 21st.",
+            "hi": "आपका प्रमाणपत्र 18 का है। आपका मौक़ा निरीक्षण 21 का।"
+          },
+          "answer": {
+            "en": "“A slip is a slip. I visit that lane every week. Do you want me to date a certificate by the diary or by the ground?”",
+            "hi": "“पर्ची तो पर्ची है। मैं उस गली में हर हफ़्ते जाता हूँ। आप चाहती हैं कि प्रमाणपत्र की तारीख़ डायरी से लिखूँ या ज़मीन से?”"
+          },
+          "needsClueId": "fieldslip",
+          "lockedHint": {
+            "en": "Pin the field visit slip. He answers a date with a habit; make him answer it with his own diary.",
+            "hi": "मौक़ा निरीक्षण पर्ची टाँगो। वह तारीख़ का जवाब आदत से देता है; उसे अपनी ही डायरी से जवाब दिलवाओ।"
+          },
+          "note": {
+            "en": "By the ground, then. On the 18th the ground had a woman making papad in the back courtyard.",
+            "hi": "तो ज़मीन से ही सही। 18 तारीख़ को ज़मीन पर पिछले आँगन में एक औरत पापड़ बना रही थी।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You carried it to the counter yourself.",
+            "hi": "आप उसे ख़ुद काउंटर तक ले गए।"
+          },
+          "answer": {
+            "en": "“I was passing. A certificate in a peon’s bag reaches an office in nine days. In my hand it reaches it in nine minutes. That is efficiency, not conspiracy.”",
+            "hi": "“उधर से गुज़र रहा था। चपरासी के थैले में प्रमाणपत्र नौ दिन में पहुँचता है। मेरे हाथ में नौ मिनट में। यह कार्यकुशलता है, साज़िश नहीं।”"
+          },
+          "needsClueId": "saidcert",
+          "lockedHint": {
+            "en": "Take the clerk’s statement to him. He will call it a coincidence until somebody who watched the counter says otherwise.",
+            "hi": "बाबू का बयान लेकर उसके पास जाओ। जब तक काउंटर पर बैठा कोई और न कहे, वह इसे इत्तेफ़ाक़ ही कहता रहेगा।"
+          },
+          "note": {
+            "en": "Nine minutes. He has an answer ready for a question nobody in this city has ever been asked before.",
+            "hi": "नौ मिनट। उसके पास उस सवाल का तैयार जवाब है जो इस शहर में आज तक किसी से पूछा ही नहीं गया।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "nemichand",
+      "setting": {
+        "en": "The third table on the steps, a typewriter under a cloth, a tin of stamp counterfoils tied with string.",
+        "hi": "सीढ़ियों की तीसरी मेज़, कपड़े के नीचे ढकी टाइपराइटर, और डोरी से बँधा स्टांप रसीदों का डिब्बा।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You wrote this deed.",
+            "hi": "यह दस्तावेज़ आपने लिखा है।"
+          },
+          "answer": {
+            "en": "“I write what people bring me. A writer is a pen for hire and a pen does not check anybody’s life story.”",
+            "hi": "“लोग जो लाते हैं, मैं लिख देता हूँ। लिखने वाला किराए की क़लम है, और क़लम किसी की ज़िंदगी की जाँच नहीं करती।”"
+          },
+          "note": {
+            "en": "A pen for hire. Let us find out what the hire was.",
+            "hi": "किराए की क़लम। तो किराया कितना था, यही पता करते हैं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "The stamp paper was bought eight days early, on your licence.",
+            "hi": "स्टांप आठ दिन पहले, आपके लाइसेंस पर ख़रीदा गया।"
+          },
+          "answer": {
+            "en": "“I keep stamp in stock like a shop keeps sugar. Every writer on these steps does.”",
+            "hi": "“मैं स्टांप वैसे ही रखता हूँ जैसे दुकान चीनी रखती है। इन सीढ़ियों का हर लिखने वाला रखता है।”"
+          },
+          "needsClueId": "stamp",
+          "lockedHint": {
+            "en": "Pin the stamp entry. He will talk about the trade in general until his own licence number is on the table.",
+            "hi": "स्टांप की प्रविष्टि टाँगो। जब तक उसका अपना लाइसेंस नंबर मेज़ पर न आए, वह पूरे धंधे की बात करता रहेगा।"
+          },
+          "note": {
+            "en": "True of every writer here. Only one of them stocked the stamp for a deed whose executant was in Bikaner.",
+            "hi": "यहाँ के हर लिखने वाले पर लागू। पर स्टांप सिर्फ़ एक ने उस दस्तावेज़ के लिए रखा जिसकी निष्पादक बीकानेर में थी।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Her signature, his signature and three of your words are one hand.",
+            "hi": "उसके दस्तख़त, उसके दस्तख़त और आपके तीन शब्द — तीनों एक ही हाथ के हैं।"
+          },
+          "answer": {
+            "en": "“People sign badly. I steady the pen for old people every day of my life.”",
+            "hi": "“लोग ठीक से दस्तख़त नहीं कर पाते। बूढ़ों की क़लम मैं रोज़ थामता हूँ।”"
+          },
+          "needsClueId": "hand",
+          "lockedHint": {
+            "en": "Pin the signature slip. He can explain one steadied hand; he cannot explain a dead man’s.",
+            "hi": "दस्तख़तों की लैब पर्ची टाँगो। एक थामी हुई क़लम की सफ़ाई वह दे सकता है; मरे हुए आदमी की नहीं।"
+          },
+          "note": {
+            "en": "You steadied the pen of a man who has been dead five years. He does not answer that.",
+            "hi": "आपने उस आदमी की क़लम थामी जो पाँच साल से मर चुका है। इसका जवाब वह नहीं देता।"
+          }
+        },
+        {
+          "ask": {
+            "en": "What were you paid for this one?",
+            "hi": "इसके आपको मिले कितने?"
+          },
+          "answer": {
+            "en": "“Forty thousand rupees for one deed. I have written eleven hundred deeds and never been paid more than nine hundred. He said the file only had to survive one afternoon.”",
+            "hi": "“एक दस्तावेज़ के चालीस हज़ार। मैंने ग्यारह सौ दस्तावेज़ लिखे हैं और कभी नौ सौ से ज़्यादा नहीं मिले। उसने कहा था कि फ़ाइल को बस एक दोपहर निकालनी है।”"
+          },
+          "needsClueId": "witness",
+          "lockedHint": {
+            "en": "Pin the dead witness. It is the one thing in this file he cannot argue away, and he will stop arguing when he sees it.",
+            "hi": "मरे हुए गवाह वाली बात टाँगो। इस फ़ाइल में यही एक चीज़ है जिससे वह मुकर नहीं सकता — और इसे देखते ही वह बहस बंद कर देगा।"
+          },
+          "unlocksClueId": "saidfee",
+          "note": {
+            "en": "‘He’. Forty thousand rupees, and one afternoon. Somebody knew exactly how long this file needed to stand up, which means somebody knew what was coming after it.",
+            "hi": "‘उसने’। चालीस हज़ार, और एक दोपहर। किसी को ठीक-ठीक पता था कि यह फ़ाइल कितनी देर टिकनी है — यानी किसी को यह भी पता था कि उसके बाद क्या आने वाला है।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "saidfee",
+      "correction": {
+        "en": "The contractor wanted the house and said so in a letter. The stall-keeper got three hundred rupees. Forty thousand for one afternoon’s paper is the number that bought this whole file.",
+        "hi": "ठेकेदार को मकान चाहिए था और उसने चिट्ठी लिखकर कह भी दिया। थड़ी वाली को तीन सौ मिले। एक दोपहर के काग़ज़ के चालीस हज़ार — पूरी फ़ाइल इसी आँकड़े से ख़रीदी गई।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidthumb",
+      "correction": {
+        "en": "Nobody impersonated anybody at that counter. A woman who cannot read was read a scheme on the steps and stood where she was told to stand — by the man whose table she was standing beside.",
+        "hi": "उस काउंटर पर किसी ने किसी का रूप नहीं धरा। एक अनपढ़ औरत को सीढ़ियों पर योजना पढ़कर सुनाई गई और जहाँ खड़े होने को कहा गया वह वहीं खड़ी हो गई — कहने वाला वही था जिसकी मेज़ के बग़ल में वह खड़ी थी।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "fieldslip",
+      "correction": {
+        "en": "The forgery did not escape through the door; it was let in through it. A house with six let rooms was certified empty three days before anybody went to look at it, and without that certificate this file would never have been given a token.",
+        "hi": "जालसाज़ी दरवाज़े से भागी नहीं, दरवाज़े से भीतर लाई गई। छह किराए के कमरों वाला मकान देखने जाने से तीन दिन पहले ख़ाली प्रमाणित कर दिया गया — और उस प्रमाणपत्र के बिना इस फ़ाइल को टोकन तक न मिलता।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "gpa",
+    "toClueId": "witness",
+    "text": {
+      "en": "A deed is only as alive as the people who signed it. Take the two witnesses’ names and look them up in the register of the living.",
+      "hi": "दस्तावेज़ उतना ही ज़िंदा होता है जितने उस पर दस्तख़त करने वाले। दोनों गवाहों के नाम लो और उन्हें ज़िंदों के रजिस्टर में ढूँढ़ो।"
+    }
+  },
+  "bankedClue": {
+    "en": "A power of attorney over the Blue House, registered on a witness who died in 2019",
+    "hi": "नीले मकान का मुख़्तारनामा, जिस गवाह पर रजिस्टर हुआ वह 2019 में गुज़र चुका था"
+  }
+}

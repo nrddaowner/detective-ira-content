@@ -1,0 +1,433 @@
+{
+  "id": "jodhpur-notice-on-the-blue-door",
+  "schema": 1,
+  "city": "jodhpur",
+  "genre": "forgery",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jodhpur-blue-house-register",
+    "caseNumber": 1
+  },
+  "title": {
+    "en": "The Notice on the Blue Door",
+    "hi": "नीले दरवाज़े का नोटिस"
+  },
+  "place": {
+    "en": "Navchokiya · the lane under Gulab Sagar · Tuesday, 8:40 AM",
+    "hi": "नवचौकिया · गुलाब सागर के नीचे की गली · मंगलवार, 8:40 AM"
+  },
+  "brief": {
+    "en": "Three doors in one blue lane woke up wearing a municipal notice. Each says the building is dangerous, each gives seven days to vacate, and each carries the round seal of the ward’s junior engineer. The junior engineer spent that entire week at a training in Ajmer, and the ward’s dispatch book has never heard of any of the three.",
+    "hi": "एक ही नीली गली के तीन दरवाज़े सुबह नगर निगम का नोटिस पहने उठे। हर नोटिस कहता है कि इमारत ख़तरनाक है, हर एक सात दिन में मकान ख़ाली करने को कहता है, और हर एक पर वार्ड के कनिष्ठ अभियंता की गोल मुहर है। वह अभियंता पूरा हफ़्ता अजमेर में प्रशिक्षण पर था, और वार्ड की डिस्पैच बही ने इन तीनों में से किसी का नाम तक नहीं सुना।"
+  },
+  "photoCaption": {
+    "en": "the blue door, 8:40 am",
+    "hi": "नीला दरवाज़ा, सुबह 8:40"
+  },
+  "iraNote": {
+    "en": "“A government paper is a chain of numbers. Anybody can copy the words. Nobody outside that office can make the numbers agree.”",
+    "hi": "“सरकारी काग़ज़ नंबरों की ज़ंजीर होता है। शब्द कोई भी नक़ल कर सकता है। नंबरों को आपस में मिलाना उस दफ़्तर के बाहर किसी के बस का नहीं।”"
+  },
+  "clues": [
+    {
+      "id": "notice",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "NOTICE · PASTED ON THE BLUE DOOR",
+        "hi": "नोटिस · नीले दरवाज़े पर चिपका"
+      },
+      "text": {
+        "en": "Dangerous building. Seven days to vacate. The round seal of the Junior Engineer, Ward 14, and a notice number: 1119/JEN/24.",
+        "hi": "ख़तरनाक भवन। ख़ाली करने को सात दिन। वार्ड 14 के कनिष्ठ अभियंता की गोल मुहर, और नोटिस नंबर — 1119/JEN/24।"
+      }
+    },
+    {
+      "id": "dispatch",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE WARD DISPATCH BOOK",
+        "hi": "वार्ड की डिस्पैच बही"
+      },
+      "text": {
+        "en": "1117 and 1118 went out in Jyeshtha, 1120 in Asadh. 1119 has never been issued to anybody, on any subject.",
+        "hi": "1117 और 1118 ज्येष्ठ में निकले, 1120 आषाढ़ में। 1119 आज तक किसी को, किसी भी विषय पर जारी ही नहीं हुआ।"
+      }
+    },
+    {
+      "id": "deputation",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "DEPUTATION ORDER · THE JEN",
+        "hi": "प्रतिनियुक्ति आदेश · कनिष्ठ अभियंता"
+      },
+      "text": {
+        "en": "Kailash Meghwal, Regional Training Centre, Ajmer, Monday to Saturday. Ordered in Chaitra — three months before anybody pasted anything.",
+        "hi": "कैलाश मेघवाल, क्षेत्रीय प्रशिक्षण केंद्र, अजमेर — सोमवार से शनिवार। आदेश चैत्र का, यानी किसी के कुछ चिपकाने से तीन महीने पहले का।"
+      }
+    },
+    {
+      "id": "seal",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE SEAL IMPRESSION",
+        "hi": "लैब पर्ची · मुहर की छाप"
+      },
+      "text": {
+        "en": "The right seal, in the wrong order. The stamp ink lies over the signature instead of under it, and the signature underneath is a photocopy.",
+        "hi": "मुहर सही, पर क्रम ग़लत। स्याही दस्तख़त के नीचे नहीं, ऊपर बैठी है — और नीचे के दस्तख़त फ़ोटोकॉपी हैं।"
+      }
+    },
+    {
+      "id": "stock",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE BLANK FORM STOCK REGISTER",
+        "hi": "कोरे फ़ॉर्मों का स्टॉक रजिस्टर"
+      },
+      "text": {
+        "en": "Forty blank notice forms drawn for Ward 14 in Jyeshtha. Thirty-two are accounted for. The peon signed for the bundle and the eight are his to explain.",
+        "hi": "ज्येष्ठ में वार्ड 14 के लिए चालीस कोरे नोटिस फ़ॉर्म निकले। बत्तीस का हिसाब है। गट्ठर पर दस्तख़त चपरासी के हैं, और बाक़ी आठ का जवाब भी उसी को देना है।"
+      }
+    },
+    {
+      "id": "deposit",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "POST OFFICE PASSBOOK · NAVCHOKIYA",
+        "hi": "डाकघर पासबुक · नवचौकिया"
+      },
+      "text": {
+        "en": "Eight hundred rupees into the peon’s recurring deposit on Thursday morning. Before that the book runs at fifty rupees a month, without a break, since 2016.",
+        "hi": "गुरुवार सुबह चपरासी की आवर्ती जमा में आठ सौ रुपए। उससे पहले यह बही 2016 से बिना नागा पचास रुपए महीने पर चल रही है।"
+      }
+    },
+    {
+      "id": "typing",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · THE TYPED FIELDS",
+        "hi": "लैब पर्ची · टाइप किए ख़ाने"
+      },
+      "text": {
+        "en": "No broken ‘e’ anywhere on the three. Hemlata Rao’s machine — the only one the ward types notices on — has printed a broken ‘e’ since Holi.",
+        "hi": "तीनों पर कहीं टूटा हुआ ‘e’ नहीं। और हेमलता राव की मशीन — वार्ड के नोटिस सिर्फ़ उसी पर टाइप होते हैं — होली से टूटा ‘e’ ही छापती आई है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — it clears the ward typist and names nobody; Sardar Market has eleven shops that will type a page for ten rupees",
+        "hi": "ख़ारिज — इससे वार्ड की टाइपिस्ट बरी होती है, नाम किसी का नहीं आता; सरदार मार्केट में ग्यारह दुकानें दस रुपए में पन्ना टाइप कर देती हैं"
+      }
+    },
+    {
+      "id": "hoarding",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · TIN AT THE LANE MOUTH",
+        "hi": "फ़ोटो · गली के मुहाने पर टीन"
+      },
+      "text": {
+        "en": "Tejmal Purohit’s hoarding sheets stacked against the wall, waiting.",
+        "hi": "तेजमल पुरोहित की टीन की चादरें दीवार से टिकी, अपनी बारी का इंतज़ार करती हुई।"
+      },
+      "dismissNote": {
+        "en": "ruled out for this — a stack of tin says he expects the lane to come down, not that he is the one who typed the paper saying so",
+        "hi": "इस केस में ख़ारिज — टीन का ढेर बताता है कि उसे गली गिरने की उम्मीद है, यह नहीं कि वह काग़ज़ भी उसी ने टाइप किया"
+      }
+    },
+    {
+      "id": "parapet",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE COMPLAINT REGISTER",
+        "hi": "शिकायत रजिस्टर"
+      },
+      "text": {
+        "en": "Two years back a neighbour wrote in twice: the Blue House parapet drops stones into his courtyard.",
+        "hi": "दो साल पहले एक पड़ोसी ने दो बार लिखा था — नीले मकान की मुंडेर से उसके आँगन में पत्थर गिरते हैं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — both times in his own name, and both times he asked for the parapet to be repaired, not for the house to be condemned",
+        "hi": "ख़ारिज — दोनों बार अपने ही नाम से, और दोनों बार माँग यह थी कि मुंडेर ठीक हो, न कि मकान ख़तरनाक घोषित हो"
+      }
+    },
+    {
+      "id": "cycle",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE LANE AT SIX",
+        "hi": "फ़ोटो · छह बजे की गली"
+      },
+      "text": {
+        "en": "A boy on a cycle with a roll of paper under his arm.",
+        "hi": "साइकिल पर एक लड़का, बग़ल में काग़ज़ का रोल दबाए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the newspaper boy, on that lane every morning since the shop opened",
+        "hi": "ख़ारिज — अख़बार वाला लड़का, दुकान खुलने के दिन से हर सुबह उसी गली में"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidcounter",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE WARD PEON",
+        "hi": "बयान · वार्ड का चपरासी"
+      },
+      "text": {
+        "en": "“Two hundred a door. Handed to me at the counter in a rubber band, and I was told the numbers were already entered. I paste what I am given. I do not read it.”",
+        "hi": "“दो सौ रुपए प्रति दरवाज़ा। काउंटर पर रबड़ बैंड में बँधे थमाए गए, और कहा गया कि नंबर पहले ही चढ़ा दिए हैं। जो दिया जाता है मैं चिपका देता हूँ। पढ़ता नहीं।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "deepchand",
+      "name": {
+        "en": "Deep Chand",
+        "hi": "दीप चंद"
+      },
+      "role": {
+        "en": "THE WARD PEON",
+        "hi": "वार्ड का चपरासी"
+      },
+      "hook": {
+        "en": "carries every notice this ward serves",
+        "hi": "इस वार्ड का हर नोटिस उसी के हाथ जाता है"
+      },
+      "confession": {
+        "en": "Pasted four notices at two hundred rupees a door, taken over the ward office counter in a rubber band, and never entered one of them in the dispatch book — because the man who handed them over told him they were entered already.",
+        "hi": "चार नोटिस चिपकाए, दो सौ रुपए प्रति दरवाज़ा, जो वार्ड दफ़्तर के काउंटर पर रबड़ बैंड में मिले — और एक भी डिस्पैच बही में नहीं चढ़ाया, क्योंकि देने वाले ने कह दिया था कि चढ़ चुके हैं।"
+      }
+    },
+    {
+      "id": "kailash",
+      "name": {
+        "en": "Kailash Meghwal",
+        "hi": "कैलाश मेघवाल"
+      },
+      "role": {
+        "en": "THE JUNIOR ENGINEER",
+        "hi": "कनिष्ठ अभियंता"
+      },
+      "hook": {
+        "en": "his seal is on all three",
+        "hi": "तीनों पर उसी की मुहर है"
+      },
+      "alibi": {
+        "en": "He was at a training in Ajmer from Monday to Saturday, deputed in writing three months earlier, and the notices went up on Wednesday.",
+        "hi": "वह सोमवार से शनिवार तक अजमेर के प्रशिक्षण में था, तीन महीने पहले लिखित आदेश से भेजा गया — और नोटिस बुधवार को चिपके।"
+      }
+    },
+    {
+      "id": "tejmal",
+      "name": {
+        "en": "Tejmal Purohit",
+        "hi": "तेजमल पुरोहित"
+      },
+      "role": {
+        "en": "THE CONTRACTOR",
+        "hi": "ठेकेदार"
+      },
+      "hook": {
+        "en": "wants this lane cleared by Diwali",
+        "hi": "दिवाली तक यह गली ख़ाली चाहता है"
+      },
+      "alibi": {
+        "en": "He stands to gain and could not have done it: the blank forms leave the stock register only against a municipal signature, and no contractor has ever been allowed to sign that column.",
+        "hi": "फ़ायदा उसी का है और किया वह नहीं कर सकता: कोरे फ़ॉर्म स्टॉक रजिस्टर से निगम के दस्तख़त पर ही निकलते हैं, और उस ख़ाने में किसी ठेकेदार को कभी दस्तख़त करने नहीं दिया गया।"
+      }
+    },
+    {
+      "id": "hemlata",
+      "name": {
+        "en": "Hemlata Rao",
+        "hi": "हेमलता राव"
+      },
+      "role": {
+        "en": "THE WARD TYPIST",
+        "hi": "वार्ड की टाइपिस्ट"
+      },
+      "hook": {
+        "en": "types every notice the ward issues",
+        "hi": "वार्ड का हर नोटिस उसी की मशीन से निकलता है"
+      },
+      "alibi": {
+        "en": "Her machine has typed a broken ‘e’ since Holi and the whole office grumbles about it. There is no broken ‘e’ anywhere on the three.",
+        "hi": "उसकी मशीन होली से टूटा ‘e’ छापती है और पूरा दफ़्तर इसकी शिकायत करता है। तीनों नोटिस में कहीं टूटा ‘e’ है ही नहीं।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "deepchand",
+  "interrogations": [
+    {
+      "suspectId": "kailash",
+      "setting": {
+        "en": "The ward office, his table by the window, the seal sitting in an open drawer beside a tea glass.",
+        "hi": "वार्ड दफ़्तर, खिड़की के पास उसकी मेज़, और खुली दराज़ में चाय के गिलास के बग़ल में पड़ी मुहर।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Is this your seal?",
+            "hi": "क्या यह मुहर आपकी है?"
+          },
+          "answer": {
+            "en": "“It is. It lives in that drawer. The drawer has no lock and has never had one — half the ward stamps its own attendance with it.”",
+            "hi": "“है। उसी दराज़ में रहती है। दराज़ में ताला नहीं है और कभी था भी नहीं — आधा वार्ड अपनी हाज़िरी उसी से ठोकता है।”"
+          },
+          "note": {
+            "en": "A seal that everybody can reach proves the office, not the man.",
+            "hi": "जिस मुहर तक सबका हाथ पहुँचता हो, वह दफ़्तर साबित करती है, आदमी नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Did you inspect the Blue House?",
+            "hi": "क्या आपने नीले मकान का निरीक्षण किया था?"
+          },
+          "answer": {
+            "en": "“I have not been inside that lane since the rains. A dangerous-building notice needs a measurement sheet behind it. Ask for the measurement sheets.”",
+            "hi": "“बारिश के बाद से उस गली में गया ही नहीं। ख़तरनाक-भवन के नोटिस के पीछे नाप की शीट लगती है। नाप की शीटें माँगिए।”"
+          },
+          "note": {
+            "en": "There are no measurement sheets. Three buildings condemned and not one of them measured.",
+            "hi": "नाप की कोई शीट है ही नहीं। तीन इमारतें ख़तरनाक घोषित, और एक की भी नाप नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "This is your notice number.",
+            "hi": "यह नोटिस नंबर आपका है।"
+          },
+          "answer": {
+            "en": "“That is not a number. That is a number-shaped thing. Bring me the dispatch book and I will show you where 1119 is not.”",
+            "hi": "“वह नंबर नहीं है। वह नंबर की शक्ल की चीज़ है। डिस्पैच बही लाइए, मैं दिखाता हूँ कि 1119 कहाँ नहीं है।”"
+          },
+          "needsClueId": "notice",
+          "lockedHint": {
+            "en": "Pin the notice itself. He will argue about the seal all morning; put the number in front of him instead.",
+            "hi": "नोटिस ख़ुद टाँगो। मुहर पर वह सुबह भर बहस करेगा; सामने नंबर रखो।"
+          },
+          "note": {
+            "en": "He asks for the dispatch book before we do. Guilt does not usually hand you the book.",
+            "hi": "डिस्पैच बही वह हमसे पहले माँगता है। गुनहगार आम तौर पर बही ख़ुद थमाता नहीं।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "deepchand",
+      "setting": {
+        "en": "The ward verandah, his cycle against the pillar, a bundle of undelivered post under the seat.",
+        "hi": "वार्ड का बरामदा, खंभे से टिकी उसकी साइकिल, और सीट के नीचे बिन बँटी डाक का गट्ठर।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who told you to paste these?",
+            "hi": "ये चिपकाने को किसने कहा था?"
+          },
+          "answer": {
+            "en": "“The office tells me. The office is a counter and a hand across it. I do not ask the hand its name.”",
+            "hi": "“दफ़्तर कहता है। दफ़्तर यानी एक काउंटर और उस पार का एक हाथ। मैं हाथ से उसका नाम नहीं पूछता।”"
+          },
+          "note": {
+            "en": "A hand across a counter. Which is somebody who could stand behind that counter without being stopped.",
+            "hi": "काउंटर के उस पार का हाथ। यानी कोई ऐसा, जो उस काउंटर के पीछे खड़ा हो और उसे कोई रोके नहीं।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You signed for forty blank forms. Eight are gone.",
+            "hi": "आपने चालीस कोरे फ़ॉर्म पर दस्तख़त किए। आठ ग़ायब हैं।"
+          },
+          "answer": {
+            "en": "“Forms spoil. They tear on the cycle, they get wet in Sawan.”",
+            "hi": "“फ़ॉर्म ख़राब होते हैं। साइकिल पर फट जाते हैं, सावन में भीग जाते हैं।”"
+          },
+          "needsClueId": "stock",
+          "lockedHint": {
+            "en": "Pin the stock register. He will not count out loud against a number he has not been shown.",
+            "hi": "स्टॉक रजिस्टर टाँगो। जो आँकड़ा उसे दिखाया न गया हो, उसके सामने वह गिनती नहीं करेगा।"
+          },
+          "note": {
+            "en": "Eight spoiled, four pasted. He does not ask how many notices we found.",
+            "hi": "आठ ख़राब, चार चिपके। वह यह नहीं पूछता कि हमें कितने नोटिस मिले।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Eight hundred rupees went into your RD on Thursday.",
+            "hi": "गुरुवार को आपकी आवर्ती जमा में आठ सौ रुपए गए।"
+          },
+          "answer": {
+            "en": "“Two hundred a door. Handed to me at the counter in a rubber band, and I was told the numbers were already entered. I paste what I am given. I do not read it.”",
+            "hi": "“दो सौ रुपए प्रति दरवाज़ा। काउंटर पर रबड़ बैंड में बँधे थमाए गए, और कहा गया कि नंबर पहले ही चढ़ा दिए हैं। जो दिया जाता है मैं चिपका देता हूँ। पढ़ता नहीं।”"
+          },
+          "needsClueId": "deposit",
+          "lockedHint": {
+            "en": "Pin the passbook. Fifty rupees a month for eight years, and then this — he cannot shrug at his own handwriting in a post office book.",
+            "hi": "पासबुक टाँगो। आठ साल तक पचास रुपए महीने, और फिर यह — डाकघर की बही में अपनी ही लिखावट पर वह कंधे नहीं उचका सकता।"
+          },
+          "unlocksClueId": "saidcounter",
+          "note": {
+            "en": "Four doors at two hundred. He never once asks what happens to the people behind them.",
+            "hi": "चार दरवाज़े, दो सौ के हिसाब से। उन दरवाज़ों के पीछे के लोगों का क्या होगा, यह वह एक बार भी नहीं पूछता।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "deposit",
+      "correction": {
+        "en": "A contractor stands to make lakhs off this lane. He is not the one who carried eight hundred rupees to a post office counter the next morning.",
+        "hi": "ठेकेदार को इस गली से लाख मिलने हैं। अगली सुबह डाकघर के काउंटर पर आठ सौ रुपए ले जाने वाला वह नहीं है।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "stock",
+      "correction": {
+        "en": "Anybody in Jodhpur can photocopy a form. One man signed for the blanks and cannot say where eight of them went.",
+        "hi": "फ़ॉर्म की फ़ोटोकॉपी जोधपुर में कोई भी करा सकता है। कोरे फ़ॉर्मों पर दस्तख़त एक ने किए, और आठ कहाँ गए यह वही नहीं बता पा रहा।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "dispatch",
+      "correction": {
+        "en": "The seal is not the giveaway — a seal in an unlocked drawer belongs to everybody. The number is. It came out of a book that never issued it, which means it was chosen by somebody who knew the book existed.",
+        "hi": "पकड़ मुहर से नहीं होती — बिना ताले की दराज़ की मुहर सबकी होती है। पकड़ नंबर से होती है। वह उस बही का नंबर है जिसने उसे कभी जारी ही नहीं किया, यानी चुना उसी ने जिसे बही के होने की ख़बर थी।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "notice",
+    "toClueId": "dispatch",
+    "text": {
+      "en": "The notice carries a number. Numbers come out of a book, in order, one at a time — so go and read the book.",
+      "hi": "नोटिस पर नंबर है। नंबर बही से निकलते हैं, क्रम से, एक-एक करके — तो जाकर बही पढ़ो।"
+    }
+  },
+  "bankedClue": {
+    "en": "Three danger notices under the JEN’s seal, and not one of them in his dispatch book",
+    "hi": "जेईएन की मुहर वाले तीन ख़तरे के नोटिस, और उसकी डिस्पैच बही में एक भी नहीं"
+  }
+}

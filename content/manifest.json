@@ -8,6 +8,10 @@
       "bytes": 9146,
       "sha256": "3728a9f7f1d3e591a16d1aa34447257144f84aa853ce1c677604e300bc6b0957"
     },
+    "cases/jaipur-blue-pottery-kiln.json": {
+      "bytes": 26321,
+      "sha256": "5c18b90bd6125b120448279286b1121a02f190fe32c527dabc4fa8af03719712"
+    },
     "cases/jaipur-johari-bazaar-job.json": {
       "bytes": 12393,
       "sha256": "f7d1cb44dd5c4acfca8d8336e98d16c06c28e82b9a65a960ad1244ca43662de8"
@@ -27,6 +31,34 @@
     "cases/jaipur-rickshaw-riddle.json": {
       "bytes": 12014,
       "sha256": "a5e195a40cb2e8342fb0a931fc9989ffc2e4dfcbea576f0d982f188270098766"
+    },
+    "cases/jodhpur-alignment-sheet.json": {
+      "bytes": 35343,
+      "sha256": "536971fc8940a18ab1dc33d9f67564726703eed7a78cfe09ccc782ba00148196"
+    },
+    "cases/jodhpur-clocktower-scales.json": {
+      "bytes": 26259,
+      "sha256": "c28214400917807c252918ca13e89fe9a481add727933bc063c06d9a078d3472"
+    },
+    "cases/jodhpur-hoarding-at-gulab-sagar.json": {
+      "bytes": 36367,
+      "sha256": "1a29662e29f27ce607ac6c31973b81611c4edb7b8c605cc8d3deed91b4c3296e"
+    },
+    "cases/jodhpur-notice-on-the-blue-door.json": {
+      "bytes": 27394,
+      "sha256": "c44c4c190c1d940f34ffeb13486cc0ac2a5c0c6769996f01b8e0fb3b8a5a5143"
+    },
+    "cases/jodhpur-power-of-attorney.json": {
+      "bytes": 48575,
+      "sha256": "d4c65aaacf2f4fe96864163eab1d81db62125b42cad71b89afdd129b006e63e2"
+    },
+    "cases/jodhpur-room-four-is-empty.json": {
+      "bytes": 28717,
+      "sha256": "f769fde8553e88939c3ba4fc283838041b30a177857ca17111494e88441e0c4f"
+    },
+    "cases/jodhpur-three-arrivals.json": {
+      "bytes": 28918,
+      "sha256": "137a003c5791a66915a228cb4abfbc13dcce4e60c12f97a000b65d4989b43dca"
     },
     "cases/kochi-pepper-ledger.json": {
       "bytes": 9110,
@@ -81,19 +113,23 @@
       "sha256": "980175155f7bbb8663242e60f643dadbb0d1eeb21b7f57ebb6ae279d6ddfb33b"
     },
     "index.json": {
-      "bytes": 7855,
-      "sha256": "1e76c67537150ed055682ce867dc81b8e964cf69eb9d3a2ea9d9298be1178c7c"
+      "bytes": 10228,
+      "sha256": "e9c09587ec0c4a2db225768aca9598360c5ea43d286cb4376dae7fd1832ac9dd"
     },
     "stories/jaipur-pink-city.json": {
       "bytes": 4871,
       "sha256": "7bdf9b2bc52091e0f26b37ceef598837ed52ad03331b892e088197f6f4043613"
     },
+    "stories/jodhpur-blue-house-register.json": {
+      "bytes": 17740,
+      "sha256": "00508b14bb97f4dce96b476b48fc8eeef4ef9b8213b5d339ce67b5abfca4e515"
+    },
     "stories/kolkata-howrah-ledger.json": {
-      "bytes": 6460,
-      "sha256": "819652044c0d7fd6aa6d16f60f7963fb47db319b9638bedd9fdf361f3edeeaae"
+      "bytes": 9183,
+      "sha256": "fb741f92a4ff41ba3dd7ca901406795070799521eba6dd49f4f06d4501c2e6c3"
     }
   },
   "schema": 1,
-  "tag": "v5",
-  "version": 5
+  "tag": "v6",
+  "version": 6
 }

@@ -1,0 +1,552 @@
+{
+  "id": "jodhpur-alignment-sheet",
+  "schema": 1,
+  "city": "jodhpur",
+  "genre": "fraud",
+  "difficulty": "tricky",
+  "ambience": "CourtyardBirds",
+  "story": {
+    "id": "jodhpur-blue-house-register",
+    "caseNumber": 4
+  },
+  "title": {
+    "en": "The Alignment Sheet",
+    "hi": "अलाइनमेंट शीट"
+  },
+  "place": {
+    "en": "Nagar Nigam · the map room · Wednesday, 11:15 AM",
+    "hi": "नगर निगम · नक़्शा कक्ष · बुधवार, 11:15 AM"
+  },
+  "brief": {
+    "en": "A sixty-foot road is coming through ward 14, and everybody in Navchokiya has been told where. They have been told wrong. The tracing in the map room runs the road eleven feet east of the sanctioned line — eleven feet that put the Blue House inside the road and the corner plot outside it. Two sheets, one road, and one of them is a lie drawn to scale.",
+    "hi": "वार्ड 14 से साठ फुट की सड़क निकलनी है, और नवचौकिया के हर आदमी को बता दिया गया है कि कहाँ से। बताया ग़लत गया है। नक़्शा कक्ष की ट्रेसिंग सड़क को स्वीकृत लकीर से ग्यारह फुट पूरब ले जाती है — वही ग्यारह फुट, जो नीले मकान को सड़क के अंदर और कोने के प्लॉट को बाहर कर देते हैं। दो शीट, एक सड़क — और इनमें से एक पैमाने पर खींचा हुआ झूठ है।"
+  },
+  "photoCaption": {
+    "en": "sheet 14/R/7, on the light table",
+    "hi": "शीट 14/R/7, रोशनी की मेज़ पर"
+  },
+  "iraNote": {
+    "en": "“A map is not a picture, it is a promise about the ground. Change eleven feet on paper and somebody’s house changes sides without moving.”",
+    "hi": "“नक़्शा तस्वीर नहीं होता, ज़मीन के बारे में किया गया वादा होता है। काग़ज़ पर ग्यारह फुट बदल दो, और किसी का मकान बिना हिले पाला बदल लेता है।”"
+  },
+  "clues": [
+    {
+      "id": "tracing",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE MAP ROOM TRACING",
+        "hi": "नक़्शा कक्ष की ट्रेसिंग"
+      },
+      "text": {
+        "en": "Ward 14, sheet 14/R/7. A sixty-foot road at 1:500, drawn eleven feet east of the Master Plan line. No seal anywhere on it.",
+        "hi": "वार्ड 14, शीट 14/R/7। 1:500 पर साठ फुट की सड़क, मास्टर प्लान की लकीर से ग्यारह फुट पूरब खींची हुई। उस पर कहीं कोई मुहर नहीं।"
+      }
+    },
+    {
+      "id": "sanctioned",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE SANCTIONED COPY",
+        "hi": "स्वीकृत प्रति"
+      },
+      "text": {
+        "en": "Sushila Chouhan’s file copy, sealed and dated in Magh, runs the road down the centre of the lane — eleven feet west of the tracing, and unarguable.",
+        "hi": "सुशीला चौहान की फ़ाइल प्रति, माघ की मुहर और तारीख़ के साथ, सड़क को गली के ठीक बीच से ले जाती है — ट्रेसिंग से ग्यारह फुट पश्चिम, और इस पर बहस की गुंजाइश नहीं।"
+      }
+    },
+    {
+      "id": "linen",
+      "kind": "LabSlip",
+      "isKey": true,
+      "label": {
+        "en": "LAB SLIP · THE TRACING LINEN",
+        "hi": "लैब पर्ची · ट्रेसिंग कपड़ा"
+      },
+      "text": {
+        "en": "Office linen, off the bale issued to ward 14 in Phalgun. The batch mark is woven into the selvedge and no shop in the city sells from that bale.",
+        "hi": "दफ़्तर का ट्रेसिंग कपड़ा, फाल्गुन में वार्ड 14 को दिए गए थान से। बैच का निशान किनारी में ही बुना है, और उस थान का कपड़ा शहर की किसी दुकान पर नहीं मिलता।"
+      }
+    },
+    {
+      "id": "checkbox",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "THE CHECK BOX",
+        "hi": "जाँच वाला ख़ाना"
+      },
+      "text": {
+        "en": "Checked and initialled ‘G.V.’ in the corner box — on a date three weeks before the sanctioned sheet was traced at all.",
+        "hi": "कोने के ख़ाने में जाँच और दस्तख़त ‘जी.व्ही.’ — और तारीख़ वह, जो स्वीकृत शीट के खिंचने से भी तीन हफ़्ते पहले पड़ती है।"
+      }
+    },
+    {
+      "id": "issueslip",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE MAP ROOM ISSUE SLIP",
+        "hi": "नक़्शा कक्ष की निकासी पर्ची"
+      },
+      "text": {
+        "en": "Sheet 14/R/7 taken out “for reference” at 10:40 and returned the same evening. Signed for by the tracer, against a requisition in another hand.",
+        "hi": "शीट 14/R/7 सुबह 10:40 पर “संदर्भ हेतु” निकली और उसी शाम लौटी। दस्तख़त नक़्शानवीस के, पर माँग-पर्ची किसी और के हाथ की।"
+      }
+    },
+    {
+      "id": "plot",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "PLOT 88, AT THE LANE MOUTH",
+        "hi": "गली के मुहाने का प्लॉट 88"
+      },
+      "text": {
+        "en": "Sold in Chaitra to a firm whose sole proprietor is Tejmal Purohit’s sister’s husband. Eleven feet east, and plot 88 stops being road.",
+        "hi": "चैत्र में एक फ़र्म को बिका, जिसका इकलौता मालिक तेजमल पुरोहित का बहनोई है। ग्यारह फुट पूरब खिसकाओ, और प्लॉट 88 सड़क में आना बंद हो जाता है।"
+      }
+    },
+    {
+      "id": "payment",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "THE TRACER’S ACCOUNT",
+        "hi": "नक़्शानवीस का खाता"
+      },
+      "text": {
+        "en": "Two thousand rupees in, on the evening sheet 14/R/7 came back to the cupboard. Deposited in cash, at a branch he does not bank at.",
+        "hi": "जिस शाम शीट 14/R/7 अलमारी में लौटी, उसी शाम दो हज़ार रुपए जमा। नक़द, और उस शाखा में जहाँ उसका लेन-देन कभी नहीं होता।"
+      }
+    },
+    {
+      "id": "scale",
+      "kind": "LabSlip",
+      "isKey": false,
+      "label": {
+        "en": "LAB SLIP · THE SCALE",
+        "hi": "लैब पर्ची · पैमाना"
+      },
+      "text": {
+        "en": "Both sheets drawn at 1:500, off the same pattern of scale rule.",
+        "hi": "दोनों शीट 1:500 पर, और एक ही तरह के पैमाने से खिंची हुईं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the whole ward draws at 1:500 off three rules in one drawer; it names the office and nobody in it",
+        "hi": "ख़ारिज — पूरा वार्ड एक ही दराज़ के तीन पैमानों से 1:500 पर खींचता है; इससे दफ़्तर का नाम आता है, आदमी का नहीं"
+      }
+    },
+    {
+      "id": "objection",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "THE OBJECTION FILE",
+        "hi": "आपत्ति फ़ाइल"
+      },
+      "text": {
+        "en": "Nineteen objections filed against the alignment during the notice period.",
+        "hi": "नोटिस अवधि में अलाइनमेंट के ख़िलाफ़ उन्नीस आपत्तियाँ दर्ज।"
+      },
+      "dismissNote": {
+        "en": "ruled out — nineteen lanes objected, which is what a notice period is for, and not one of them mentions eleven feet",
+        "hi": "ख़ारिज — उन्नीस गलियों ने आपत्ति की, नोटिस अवधि होती ही इसीलिए है — और किसी एक ने भी ग्यारह फुट का ज़िक्र नहीं किया"
+      }
+    },
+    {
+      "id": "tea",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": {
+        "en": "PHOTO · THE MAP ROOM STEPS",
+        "hi": "फ़ोटो · नक़्शा कक्ष की सीढ़ियाँ"
+      },
+      "text": {
+        "en": "The record keeper and the contractor with tea glasses, heads together.",
+        "hi": "रिकॉर्ड कीपर और ठेकेदार, चाय के गिलास लिए, सिर जोड़े हुए।"
+      },
+      "dismissNote": {
+        "en": "ruled out — the tea stall is on those steps and half the Nigam is on them at eleven o’clock",
+        "hi": "ख़ारिज — चाय की थड़ी उन्हीं सीढ़ियों पर है और ग्यारह बजे आधा निगम वहीं खड़ा होता है"
+      }
+    },
+    {
+      "id": "overtime",
+      "kind": "Ticket",
+      "isKey": false,
+      "label": {
+        "en": "THE OVERTIME REGISTER",
+        "hi": "अतिरिक्त समय रजिस्टर"
+      },
+      "text": {
+        "en": "The town planner signed in on a Sunday in Phalgun and stayed till eight.",
+        "hi": "नगर नियोजक फाल्गुन के एक रविवार को हाज़िरी लगाकर आठ बजे तक बैठी रहीं।"
+      },
+      "dismissNote": {
+        "en": "ruled out — she signs in most Sundays; the budget file closes in Phalgun and she has closed it alone for six years",
+        "hi": "ख़ारिज — वे अक्सर रविवार को आती हैं; बजट फ़ाइल फाल्गुन में बंद होती है और छह साल से वे अकेले ही बंद करती आई हैं"
+      }
+    },
+    {
+      "id": "torn",
+      "kind": "Note",
+      "isKey": false,
+      "label": {
+        "en": "A TORN CORNER",
+        "hi": "फटा हुआ कोना"
+      },
+      "text": {
+        "en": "The map room’s copy has a corner torn away, right where a sheet number would sit.",
+        "hi": "नक़्शा कक्ष की प्रति का एक कोना फटा है — ठीक वहाँ, जहाँ शीट नंबर पड़ता है।"
+      },
+      "dismissNote": {
+        "en": "ruled out — torn by the cupboard’s own hinge, and three other sheets in that stack carry the identical tear",
+        "hi": "ख़ारिज — अलमारी के कब्ज़े से फटा है, और उसी गड्डी की तीन और शीटों पर बिल्कुल वैसा ही फटाव है"
+      }
+    }
+  ],
+  "testimonyClues": [
+    {
+      "id": "saidtraced",
+      "kind": "Note",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE TRACER",
+        "hi": "बयान · नक़्शानवीस"
+      },
+      "text": {
+        "en": "“I was told it was a proposal variant. Amins ask for variants. I have drawn forty of them and not one ever went into a file — this one did.”",
+        "hi": "“मुझसे कहा गया कि यह प्रस्ताव का एक विकल्प है। अमीन विकल्प माँगते ही हैं। मैंने चालीस खींचे हैं और एक भी कभी फ़ाइल में नहीं गया — यह गया।”"
+      }
+    },
+    {
+      "id": "saidissue",
+      "kind": "LedgerSlip",
+      "isKey": true,
+      "label": {
+        "en": "ON RECORD · THE RECORD KEEPER",
+        "hi": "बयान · रिकॉर्ड कीपर"
+      },
+      "text": {
+        "en": "“Sheets go out on a requisition, never on a face. The requisition for 14/R/7 is in the amin’s hand and I have kept it, because I keep all of them.”",
+        "hi": "“शीट माँग-पर्ची पर निकलती है, चेहरे पर नहीं। 14/R/7 की पर्ची अमीन के हाथ की है और मैंने सँभालकर रखी है, क्योंकि मैं सब सँभालकर रखता हूँ।”"
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "suresh",
+      "name": {
+        "en": "Suresh Jangid",
+        "hi": "सुरेश जांगिड़"
+      },
+      "role": {
+        "en": "THE TRACER",
+        "hi": "नक़्शानवीस"
+      },
+      "hook": {
+        "en": "every line in this office is drawn by his hand",
+        "hi": "इस दफ़्तर की हर लकीर उसी के हाथ की"
+      },
+      "confession": {
+        "en": "Drew a second alignment eleven feet east on the office’s own linen for two thousand rupees, believing it to be a proposal variant, and let it be walked back into the map room cupboard in place of the sheet that agreed with the Master Plan.",
+        "hi": "दो हज़ार रुपए में दफ़्तर के ही ट्रेसिंग कपड़े पर ग्यारह फुट पूरब का दूसरा अलाइनमेंट खींचा — यह मानकर कि प्रस्ताव का विकल्प है — और उसे मास्टर प्लान से मेल खाती शीट की जगह नक़्शा कक्ष की अलमारी में वापस जाने दिया।"
+      }
+    },
+    {
+      "id": "vinod",
+      "name": {
+        "en": "Vinod Dave",
+        "hi": "विनोद दवे"
+      },
+      "role": {
+        "en": "THE RECORD KEEPER",
+        "hi": "रिकॉर्ड कीपर"
+      },
+      "hook": {
+        "en": "nothing leaves that cupboard without his slip",
+        "hi": "उसकी पर्ची के बिना उस अलमारी से कुछ नहीं निकलता"
+      },
+      "alibi": {
+        "en": "He wrote the issue slip, kept the requisition, and volunteered both before anybody asked. A man substituting a sheet does not preserve the paper trail that dates the substitution.",
+        "hi": "उसने निकासी पर्ची लिखी, माँग-पर्ची सँभाली, और पूछे जाने से पहले दोनों सामने रख दीं। शीट बदलने वाला आदमी वही काग़ज़ नहीं बचाकर रखता जो बदलने की तारीख़ तय कर दे।"
+      }
+    },
+    {
+      "id": "girdhari",
+      "name": {
+        "en": "Girdhari Vyas",
+        "hi": "गिरधारी व्यास"
+      },
+      "role": {
+        "en": "THE SURVEY AMIN",
+        "hi": "सर्वे अमीन"
+      },
+      "hook": {
+        "en": "checks every alignment this ward draws",
+        "hi": "इस वार्ड का हर अलाइनमेंट वही जाँचता है"
+      },
+      "alibi": {
+        "en": "Checking is his duty and his initial is where his duty says it should be. He did not hold the pen that drew the road and he was not in the building the evening it went back.",
+        "hi": "जाँचना उसका काम है और दस्तख़त वहीं है जहाँ काम कहता है। सड़क खींचने वाली क़लम उसके हाथ में नहीं थी, और जिस शाम शीट लौटी उस शाम वह इमारत में था ही नहीं।"
+      }
+    },
+    {
+      "id": "tejmal",
+      "name": {
+        "en": "Tejmal Purohit",
+        "hi": "तेजमल पुरोहित"
+      },
+      "role": {
+        "en": "THE CONTRACTOR",
+        "hi": "ठेकेदार"
+      },
+      "hook": {
+        "en": "his sister’s husband owns plot 88",
+        "hi": "प्लॉट 88 उसके बहनोई का है"
+      },
+      "alibi": {
+        "en": "The eleven feet make his family richer and he has never been allowed past the map room counter. He is the reason to do it and not the hand that did it.",
+        "hi": "उन ग्यारह फुट से उसका परिवार अमीर होता है, और उसे कभी नक़्शा कक्ष के काउंटर से आगे जाने ही नहीं दिया गया। वह वजह है, हाथ नहीं।"
+      }
+    },
+    {
+      "id": "sushila",
+      "name": {
+        "en": "Sushila Chouhan",
+        "hi": "सुशीला चौहान"
+      },
+      "role": {
+        "en": "THE TOWN PLANNER",
+        "hi": "नगर नियोजक"
+      },
+      "hook": {
+        "en": "the sanction is signed by her and nobody else",
+        "hi": "स्वीकृति पर दस्तख़त सिर्फ़ उसके"
+      },
+      "alibi": {
+        "en": "Her sealed copy is the honest one. The forgery exists only because her sheet says something else, and a person does not forge a contradiction of her own signature.",
+        "hi": "मुहर लगी उसकी प्रति ही सच्ची है। जालसाज़ी का वजूद ही इसलिए है कि उसकी शीट कुछ और कहती है — और कोई अपने ही दस्तख़त को झुठलाने वाला काग़ज़ नहीं गढ़ता।"
+      },
+      "feminine": true
+    }
+  ],
+  "culpritId": "suresh",
+  "interrogations": [
+    {
+      "suspectId": "vinod",
+      "setting": {
+        "en": "The map room, cupboards to the ceiling, a light table humming under a sheet of linen.",
+        "hi": "नक़्शा कक्ष, छत तक अलमारियाँ, और ट्रेसिंग कपड़े के नीचे भनभनाती रोशनी की मेज़।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Who can take a sheet out of this room?",
+            "hi": "इस कमरे से शीट कौन ले जा सकता है?"
+          },
+          "answer": {
+            "en": "“Anybody with a requisition. Nobody without one. That is the entire job and I have done it for nineteen years.”",
+            "hi": "“माँग-पर्ची वाला कोई भी। बिना पर्ची कोई नहीं। पूरा काम इतना ही है, और मैं उन्नीस साल से यही कर रहा हूँ।”"
+          },
+          "note": {
+            "en": "Nineteen years of a man whose whole job is a piece of paper about a piece of paper.",
+            "hi": "उन्नीस साल — एक ऐसे आदमी के, जिसका सारा काम एक काग़ज़ के बारे में लिखा दूसरा काग़ज़ है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "14/R/7 went out for a whole day.",
+            "hi": "14/R/7 पूरे दिन बाहर रही।"
+          },
+          "answer": {
+            "en": "“Sheets go out on a requisition, never on a face. The requisition for 14/R/7 is in the amin’s hand and I have kept it, because I keep all of them.”",
+            "hi": "“शीट माँग-पर्ची पर निकलती है, चेहरे पर नहीं। 14/R/7 की पर्ची अमीन के हाथ की है और मैंने सँभालकर रखी है, क्योंकि मैं सब सँभालकर रखता हूँ।”"
+          },
+          "needsClueId": "issueslip",
+          "lockedHint": {
+            "en": "Pin the issue slip. He answers registers, not questions — put the register in front of him.",
+            "hi": "निकासी पर्ची टाँगो। वह सवालों का नहीं, रजिस्टरों का जवाब देता है — रजिस्टर सामने रखो।"
+          },
+          "unlocksClueId": "saidissue",
+          "note": {
+            "en": "The tracer signed. The amin asked. Those are two different men and only one of them is on the slip.",
+            "hi": "दस्तख़त नक़्शानवीस के, माँग अमीन की। ये दो अलग आदमी हैं, और पर्ची पर सिर्फ़ एक है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Did the sheet that came back look like the one that left?",
+            "hi": "जो शीट लौटी, क्या वह वही थी जो गई थी?"
+          },
+          "answer": {
+            "en": "“It looked like a sheet. Ma’am, I check numbers. If I read every road that crossed this counter I would still be on 2009.”",
+            "hi": "“शीट जैसी ही लगी। मैडम, मैं नंबर जाँचता हूँ। इस काउंटर से गुज़री हर सड़क पढ़ने लगूँ तो अब भी 2009 में अटका होता।”"
+          },
+          "note": {
+            "en": "Which is exactly what whoever swapped it was counting on.",
+            "hi": "और बदलने वाला ठीक इसी बात पर भरोसा किए बैठा था।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "girdhari",
+      "setting": {
+        "en": "The amin’s table, the ward survey register open, a scale rule laid across it like a paperweight.",
+        "hi": "अमीन की मेज़, खुला हुआ वार्ड सर्वे रजिस्टर, और उस पर पेपरवेट की तरह रखा पैमाना।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "You checked this tracing.",
+            "hi": "यह ट्रेसिंग आपने जाँची है।"
+          },
+          "answer": {
+            "en": "“I check every alignment in ward 14. If I had not initialled it you would be asking me why I had not.”",
+            "hi": "“वार्ड 14 का हर अलाइनमेंट मैं जाँचता हूँ। दस्तख़त न करता तो आप पूछतीं कि क्यों नहीं किया।”"
+          },
+          "note": {
+            "en": "True. It is the date beside the initial that has no such answer.",
+            "hi": "सही है। जवाब न होना दस्तख़त का नहीं, उसके बग़ल की तारीख़ का मसला है।"
+          }
+        },
+        {
+          "ask": {
+            "en": "You checked it three weeks before the sanctioned sheet existed.",
+            "hi": "आपने इसे स्वीकृत शीट के बनने से तीन हफ़्ते पहले जाँच लिया।"
+          },
+          "answer": {
+            "en": "“Then the date is written wrong. Clerks write dates wrong every day of the week.”",
+            "hi": "“तो तारीख़ ग़लत लिखी गई है। बाबू लोग हफ़्ते के हर दिन तारीख़ें ग़लत लिखते हैं।”"
+          },
+          "needsClueId": "checkbox",
+          "lockedHint": {
+            "en": "Pin the check box. He will not be told about his own initial — he has to be shown it beside a date.",
+            "hi": "जाँच वाला ख़ाना टाँगो। अपने ही दस्तख़त के बारे में वह सुनेगा नहीं — उसे तारीख़ के साथ दिखाना पड़ेगा।"
+          },
+          "note": {
+            "en": "The clerk wrote the date. The amin wrote the initial. He is very quick to hand us the clerk.",
+            "hi": "तारीख़ बाबू ने लिखी, दस्तख़त अमीन ने किए। बाबू को हमारे हवाले करने में उसे ज़रा भी देर नहीं लगती।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Who benefits from eleven feet?",
+            "hi": "ग्यारह फुट से फ़ायदा किसका है?"
+          },
+          "answer": {
+            "en": "“Whoever owns the east side. I survey the ward. I do not own an inch of it and my salary slip will bore you.”",
+            "hi": "“जिसकी पूरब वाली ज़मीन है। मैं वार्ड का सर्वे करता हूँ। यहाँ मेरा एक इंच भी नहीं है, और मेरी तनख़्वाह की पर्ची आपको ऊबा देगी।”"
+          },
+          "note": {
+            "en": "Nobody asked about his salary.",
+            "hi": "तनख़्वाह के बारे में किसी ने पूछा ही नहीं था।"
+          }
+        }
+      ]
+    },
+    {
+      "suspectId": "suresh",
+      "setting": {
+        "en": "The drawing hall, a board tilted to the window, forty pencils sharpened to the same length.",
+        "hi": "ड्राइंग हॉल, खिड़की की तरफ़ झुका बोर्ड, और एक ही लंबाई तक छीली गई चालीस पेंसिलें।"
+      },
+      "questions": [
+        {
+          "ask": {
+            "en": "Whose hand drew this road?",
+            "hi": "यह सड़क किसके हाथ ने खींची?"
+          },
+          "answer": {
+            "en": "“Every road in ward 14 is my hand. That proves nothing except that I come to work.”",
+            "hi": "“वार्ड 14 की हर सड़क मेरे हाथ की है। इससे बस इतना साबित होता है कि मैं काम पर आता हूँ।”"
+          },
+          "note": {
+            "en": "Fair. So the question is not the hand. It is the linen it was drawn on.",
+            "hi": "ठीक। तो सवाल हाथ का नहीं है। सवाल उस कपड़े का है जिस पर खींची गई।"
+          }
+        },
+        {
+          "ask": {
+            "en": "This is office linen, off the ward’s own bale.",
+            "hi": "यह दफ़्तर का कपड़ा है, वार्ड के अपने थान का।"
+          },
+          "answer": {
+            "en": "“I was told it was a proposal variant. Amins ask for variants. I have drawn forty of them and not one ever went into a file — this one did.”",
+            "hi": "“मुझसे कहा गया कि यह प्रस्ताव का एक विकल्प है। अमीन विकल्प माँगते ही हैं। मैंने चालीस खींचे हैं और एक भी कभी फ़ाइल में नहीं गया — यह गया।”"
+          },
+          "needsClueId": "linen",
+          "lockedHint": {
+            "en": "Pin the linen slip. A tracer can deny a line all day; he cannot deny the bale it came off.",
+            "hi": "कपड़े की लैब पर्ची टाँगो। नक़्शानवीस लकीर से दिन भर मुकर सकता है; थान से नहीं मुकर सकता।"
+          },
+          "unlocksClueId": "saidtraced",
+          "note": {
+            "en": "Forty variants, none filed. He knew the difference the moment it was filed, and he took the money anyway.",
+            "hi": "चालीस विकल्प, एक भी फ़ाइल में नहीं। फ़ाइल में जाते ही उसे फ़र्क़ पता चल गया था — और पैसा फिर भी लिया।"
+          }
+        },
+        {
+          "ask": {
+            "en": "Two thousand rupees, cash, the same evening.",
+            "hi": "उसी शाम, दो हज़ार रुपए, नक़द।"
+          },
+          "answer": {
+            "en": "“A variant is extra work. Extra work is paid. I did not think a payment could be a crime.”",
+            "hi": "“विकल्प बनाना अतिरिक्त काम है। अतिरिक्त काम का पैसा मिलता है। मुझे नहीं लगा कि पैसा लेना जुर्म हो सकता है।”"
+          },
+          "needsClueId": "payment",
+          "lockedHint": {
+            "en": "Pin the account entry. He deposited at a branch he does not bank at — show him that somebody found it anyway.",
+            "hi": "खाते की प्रविष्टि टाँगो। उसने उस शाखा में जमा किया जहाँ उसका लेन-देन नहीं होता — उसे दिखाओ कि फिर भी किसी ने ढूँढ़ लिया।"
+          },
+          "note": {
+            "en": "Extra work is paid by the office, into the account the office pays into. Not in cash, at a counter across town.",
+            "hi": "अतिरिक्त काम का पैसा दफ़्तर देता है, उसी खाते में जिसमें दफ़्तर देता है। शहर के दूसरे छोर के काउंटर पर नक़द नहीं।"
+          }
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "slot": "Motive",
+      "clueId": "plot",
+      "correction": {
+        "en": "The tracer gains two thousand rupees and the record keeper gains a headache. Eleven feet east is worth a corner plot at the mouth of a sixty-foot road, and that plot has a family name on it.",
+        "hi": "नक़्शानवीस को दो हज़ार मिलते हैं और रिकॉर्ड कीपर को सिरदर्द। ग्यारह फुट पूरब की क़ीमत साठ फुट सड़क के मुहाने का कोने वाला प्लॉट है — और उस प्लॉट पर एक परिवार का नाम लिखा है।"
+      }
+    },
+    {
+      "slot": "Opportunity",
+      "clueId": "saidissue",
+      "correction": {
+        "en": "Nobody walked in off the street and opened that cupboard. The sheet left on a requisition, in a hand that was not the hand that signed for it, and came back changed the same evening.",
+        "hi": "सड़क से आकर उस अलमारी को किसी ने नहीं खोला। शीट माँग-पर्ची पर निकली — पर्ची किसी और के हाथ की, दस्तख़त किसी और के — और उसी शाम बदली हुई लौट आई।"
+      }
+    },
+    {
+      "slot": "Escape",
+      "clueId": "checkbox",
+      "correction": {
+        "en": "A false sheet does not become a file copy by lying in a cupboard. It becomes one when somebody initials the check box, and this one was checked three weeks before there was anything to check it against.",
+        "hi": "झूठी शीट अलमारी में पड़े-पड़े फ़ाइल प्रति नहीं बन जाती। वह तब बनती है जब कोई जाँच वाले ख़ाने में दस्तख़त करता है — और यह उस वक़्त जाँची गई जब मिलाने को कुछ था ही नहीं।"
+      }
+    }
+  ],
+  "hint": {
+    "fromClueId": "tracing",
+    "toClueId": "sanctioned",
+    "text": {
+      "en": "One sheet cannot be wrong all by itself. Find the sheet it is supposed to agree with, and lay the two on the same light.",
+      "hi": "कोई शीट अकेले ग़लत नहीं हो सकती। वह शीट ढूँढ़ो जिससे उसे मेल खाना चाहिए, और दोनों को एक ही रोशनी पर रखो।"
+    }
+  },
+  "bankedClue": {
+    "en": "A second alignment, eleven feet east, on office linen — checked before the sanctioned one was traced",
+    "hi": "दूसरा अलाइनमेंट, ग्यारह फुट पूरब, दफ़्तर के कपड़े पर — और स्वीकृत शीट खिंचने से पहले ही जाँचा हुआ"
+  }
+}

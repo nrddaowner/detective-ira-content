@@ -1,0 +1,247 @@
+{
+  "id": "jodhpur-blue-house-register",
+  "schema": 1,
+  "region": "rajasthan",
+  "city": "jodhpur",
+  "number": 2,
+  "unlockStars": 8,
+  "title": {
+    "en": "The Blue House Register",
+    "hi": "नीले मकान का रजिस्टर"
+  },
+  "blurb": {
+    "en": "6 cases · a lodging register, three tenants written in as guests, a road that moves eleven feet",
+    "hi": "6 केस · एक सराय-रजिस्टर, मेहमान लिखे गए तीन किरायेदार, और ग्यारह फुट खिसकती सड़क"
+  },
+  "cases": [
+    "jodhpur-notice-on-the-blue-door",
+    "jodhpur-room-four-is-empty",
+    "jodhpur-three-arrivals",
+    "jodhpur-alignment-sheet",
+    "jodhpur-hoarding-at-gulab-sagar",
+    "jodhpur-power-of-attorney"
+  ],
+  "finale": {
+    "mastermindId": "girdhari",
+    "reveal": {
+      "en": "Girdhari Vyas?",
+      "hi": "गिरधारी व्यास?"
+    },
+    "threads": [
+      {
+        "caseNumber": 1,
+        "pointsAt": "kailash",
+        "text": {
+          "en": "Three danger notices under the JEN’s seal, and not one of them in his dispatch book",
+          "hi": "जेईएन की मुहर वाले तीन ख़तरे के नोटिस, और उसकी डिस्पैच बही में एक भी नहीं"
+        },
+        "short": {
+          "en": "the three notices",
+          "hi": "तीनों नोटिस"
+        },
+        "pending": {
+          "en": "The Notice on the Blue Door will turn up the first thread",
+          "hi": "नीले दरवाज़े का नोटिस पहला सिरा निकालेगा"
+        },
+        "misread": {
+          "en": "The seal is his, the form is his, the numbers are written to look like his. This thread is the officer whose stamp was borrowed out of an unlocked drawer — the peon who pasted them could not have picked a notice number if you gave him the book.",
+          "hi": "मुहर उसकी, फ़ॉर्म उसका, और नंबर भी उसी जैसे दिखने को लिखे गए। यह सिरा उस अफ़सर का है जिसकी मुहर बिना ताले वाली दराज़ से उठाई गई — जिस चपरासी ने चिपकाए, वह बही थमा देने पर भी नोटिस नंबर नहीं चुन पाता।"
+        }
+      },
+      {
+        "caseNumber": 2,
+        "pointsAt": "rukmani",
+        "text": {
+          "en": "Thirty-one years of rent counterfoils in one hand, stopping three months before the room did",
+          "hi": "इकतीस साल की किराया-रसीदें एक ही हाथ की, और कमरे से तीन महीने पहले ही रुक गईं"
+        },
+        "short": {
+          "en": "the rent counterfoils",
+          "hi": "किराए की रसीदें"
+        },
+        "pending": {
+          "en": "Room Four Is Empty holds the second thread",
+          "hi": "कमरा नंबर चार ख़ाली है — दूसरा सिरा वहीं है"
+        },
+        "misread": {
+          "en": "A rent receipt is written by whoever takes the rent, and every counterfoil in that book is in the same hand for thirty-one years. Put the book where the pen is. Why the pen stopped is the next question, not this one.",
+          "hi": "किराए की रसीद वही लिखता है जो किराया लेता है, और उस बही की हर रसीद इकतीस साल से एक ही हाथ की है। बही वहीं रखो जहाँ क़लम है। क़लम क्यों रुकी, वह अगला सवाल है — यह नहीं।"
+        }
+      },
+      {
+        "caseNumber": 3,
+        "pointsAt": "pukhraj",
+        "text": {
+          "en": "Three tenants entered as arriving guests in one sitting, and no arrival report to the thana",
+          "hi": "तीन किरायेदार एक ही बैठक में आए हुए मेहमान लिखे गए, और थाने को कोई आमद रिपोर्ट नहीं"
+        },
+        "short": {
+          "en": "the three arrivals",
+          "hi": "तीनों आमदें"
+        },
+        "pending": {
+          "en": "Three Arrivals, No Departure will say whose pen wrote them in",
+          "hi": "तीन आमद, कोई रवानगी नहीं — वहीं पता चलेगा कि क़लम किसकी थी"
+        },
+        "misread": {
+          "en": "Somebody wanted those three off a tenancy and onto a guest page. Wanting is not writing. One man in this house writes the register between eight and six, and all three lines are his hand, his pen and his night.",
+          "hi": "कोई चाहता था कि वे तीनों किरायेदारी से हटकर मेहमानों के पन्ने पर आ जाएँ। चाहना लिखना नहीं होता। इस मकान में रजिस्टर आठ से छह तक एक ही आदमी लिखता है, और तीनों लाइनें उसी का हाथ, उसी की क़लम और उसी की रात हैं।"
+        }
+      },
+      {
+        "caseNumber": 4,
+        "pointsAt": "girdhari",
+        "text": {
+          "en": "A second alignment, eleven feet east, on office linen — checked before the sanctioned one was traced",
+          "hi": "दूसरा अलाइनमेंट, ग्यारह फुट पूरब — दफ़्तर के ट्रेसिंग कपड़े पर, और स्वीकृत नक़्शे से पहले ही जाँचा हुआ"
+        },
+        "short": {
+          "en": "the second alignment",
+          "hi": "दूसरा अलाइनमेंट"
+        },
+        "pending": {
+          "en": "The Alignment Sheet holds the fourth thread",
+          "hi": "अलाइनमेंट शीट में चौथा सिरा है"
+        },
+        "misread": {
+          "en": "A draughtsman draws what he is handed and a record keeper hands out what he is asked for. Neither of them can check a tracing against a Master Plan and neither is allowed to. The initial in the check box is the whole of this thread.",
+          "hi": "नक़्शानवीस वही खींचता है जो उसे थमाया जाए, और रिकॉर्ड कीपर वही निकालता है जो माँगा जाए। इनमें से कोई ट्रेसिंग को मास्टर प्लान से मिला नहीं सकता, और किसी को इसका अधिकार भी नहीं। जाँच वाले ख़ाने का दस्तख़त ही पूरा सिरा है।"
+        }
+      },
+      {
+        "caseNumber": 5,
+        "pointsAt": "tejmal",
+        "text": {
+          "en": "A hoarding up six weeks before any order, and a ferrule capped on his own work slip",
+          "hi": "किसी आदेश से छह हफ़्ते पहले खड़ी टीन की दीवार, और उसी की वर्क स्लिप पर बंद किया गया पानी का फेरूल"
+        },
+        "short": {
+          "en": "the capped ferrule",
+          "hi": "बंद किया फेरूल"
+        },
+        "pending": {
+          "en": "The Hoarding at Gulab Sagar will turn up the fifth thread",
+          "hi": "गुलाब सागर की टीन की दीवार पाँचवाँ सिरा निकालेगी"
+        },
+        "misread": {
+          "en": "Nobody wrote down the order to cut that water. The slip that paid for the digging was written down — his letterhead, his work order number, his own beldar’s thumb at the foot of it. This thread hangs on the man whose slip it is.",
+          "hi": "पानी काटने का हुक्म किसी ने काग़ज़ पर नहीं लिखा। खुदाई का पैसा जिस पर्ची से चुकाया गया, वह लिखी गई है — उसका लेटरहेड, उसका वर्क ऑर्डर नंबर, और नीचे उसी के बेलदार का अंगूठा। यह सिरा उसी का है जिसकी पर्ची है।"
+        }
+      },
+      {
+        "caseNumber": 6,
+        "pointsAt": "girdhari",
+        "text": {
+          "en": "A power of attorney over the Blue House, registered on a witness who died in 2019",
+          "hi": "नीले मकान का मुख़्तारनामा, जिस गवाह पर रजिस्टर हुआ वह 2019 में गुज़र चुका था"
+        },
+        "short": {
+          "en": "the power of attorney",
+          "hi": "मुख़्तारनामा"
+        },
+        "pending": {
+          "en": "The Power of Attorney holds the last thread",
+          "hi": "मुख़्तारनामे में आख़िरी सिरा है"
+        },
+        "misread": {
+          "en": "The deed writer wrote it and two witnesses signed it, one of them from a grave. Ask who carried the vacancy certificate to that counter — without it the sub-registrar does not touch the file, and that certificate has exactly one author.",
+          "hi": "अर्ज़ीनवीस ने लिखा और दो गवाहों ने दस्तख़त किए, जिनमें से एक क़ब्र से। पूछो कि उस काउंटर तक ख़ाली होने का प्रमाणपत्र कौन ले गया — उसके बिना सब-रजिस्ट्रार फ़ाइल छूता ही नहीं, और उस प्रमाणपत्र का लेखक ठीक एक है।"
+        }
+      }
+    ],
+    "suspects": [
+      {
+        "id": "girdhari",
+        "name": {
+          "en": "Girdhari Vyas",
+          "hi": "गिरधारी व्यास"
+        },
+        "role": {
+          "en": "THE SURVEY AMIN",
+          "hi": "सर्वे अमीन"
+        },
+        "dossier": {
+          "en": "ward 14’s survey register is his · initials the vacancy column · carries the alignment months before it is sanctioned",
+          "hi": "वार्ड 14 का सर्वे रजिस्टर उसी का · ख़ाली-मकान के ख़ाने पर दस्तख़त · स्वीकृति से महीनों पहले अलाइनमेंट उसके पास"
+        }
+      },
+      {
+        "id": "pukhraj",
+        "name": {
+          "en": "Pukhraj Solanki",
+          "hi": "पुखराज सोलंकी"
+        },
+        "role": {
+          "en": "THE NIGHT CLERK",
+          "hi": "रात का मुंशी"
+        },
+        "dossier": {
+          "en": "writes the lodging register from eight to six · sends the daily arrival report to Navchokiya thana · sleeps in the storeroom behind the desk",
+          "hi": "आठ से छह तक रजिस्टर उसी के हाथ · नवचौकिया थाने को रोज़ की आमद रिपोर्ट भेजता है · काउंटर के पीछे भंडार में सोता है"
+        },
+        "cleared": {
+          "en": "He wrote three lines and was paid five hundred rupees for them. Nobody plans a house out from under four families and then goes on sleeping in the storeroom behind its desk.",
+          "hi": "उसने तीन लाइनें लिखीं और उसके पाँच सौ रुपए लिए। चार परिवारों के नीचे से मकान खींचने की योजना बनाकर कोई उसी मकान के भंडार में सोता नहीं रहता।"
+        }
+      },
+      {
+        "id": "rukmani",
+        "name": {
+          "en": "Rukmani Bhati",
+          "hi": "रुक्मणी भाटी"
+        },
+        "role": {
+          "en": "THE HOUSE OWNER",
+          "hi": "मकान मालकिन"
+        },
+        "dossier": {
+          "en": "the haveli came to her in 1998 · six front rooms let by the night, three back rooms let since her father’s time · writes every receipt herself",
+          "hi": "हवेली 1998 में उसके नाम आई · आगे के छह कमरे रात के हिसाब से, पीछे के तीन पिता के ज़माने से · हर रसीद अपने हाथ से लिखती है"
+        },
+        "cleared": {
+          "en": "She is the one name on this wall with something to lose. The tenancies she is accused of erasing are the only thing standing between her lane and a sixty-foot road — a woman does not saw off the branch she is sitting on and then keep writing receipts for it.",
+          "hi": "इस दीवार पर एक ही नाम है जिसका कुछ जाता है। जिन किरायेदारियों को मिटाने का इल्ज़ाम उस पर है, वही उसकी गली और साठ फुट की सड़क के बीच खड़ी हैं — कोई अपनी ही डाल नहीं काटता, और काटकर उसकी रसीदें लिखता नहीं रहता।"
+        },
+        "feminine": true
+      },
+      {
+        "id": "tejmal",
+        "name": {
+          "en": "Tejmal Purohit",
+          "hi": "तेजमल पुरोहित"
+        },
+        "role": {
+          "en": "THE CONTRACTOR",
+          "hi": "ठेकेदार"
+        },
+        "dossier": {
+          "en": "quoted the demolition before an order existed · his shuttering has stood in the courtyard since Asadh · four running work slips in ward 14",
+          "hi": "आदेश आने से पहले ही तोड़-फोड़ का भाव दे दिया · आषाढ़ से उसका शटरिंग आँगन में पड़ा है · वार्ड 14 में चार चालू वर्क स्लिप"
+        },
+        "cleared": {
+          "en": "He hoarded a lane and capped a water line six weeks before any paper said he could. That is a man who was told what is coming. A man who is told is not the man who decides.",
+          "hi": "उसने गली घेरी और पानी की लाइन बंद कराई — किसी काग़ज़ की इजाज़त से छह हफ़्ते पहले। यह उस आदमी की चाल है जिसे बताया गया था कि क्या आने वाला है। और जिसे बताया जाता है, वह तय करने वाला नहीं होता।"
+        }
+      },
+      {
+        "id": "kailash",
+        "name": {
+          "en": "Kailash Meghwal",
+          "hi": "कैलाश मेघवाल"
+        },
+        "role": {
+          "en": "THE JUNIOR ENGINEER",
+          "hi": "कनिष्ठ अभियंता"
+        },
+        "dossier": {
+          "en": "signs every dangerous-building notice in the ward · was at a training in Ajmer the week all three were served · keeps his seal in a drawer he has never locked",
+          "hi": "वार्ड के हर ख़तरनाक-भवन नोटिस पर उसी के दस्तख़त · तीनों नोटिस वाले हफ़्ते अजमेर में प्रशिक्षण पर था · मुहर उस दराज़ में जिसमें कभी ताला नहीं लगा"
+        },
+        "cleared": {
+          "en": "Three notices went out in his name while he was four hours away at a deputation ordered in Chaitra. The seal was his. The week was not, and a man does not forge himself an alibi he was posted to in writing three months earlier.",
+          "hi": "उसके नाम से तीन नोटिस उस वक़्त निकले जब वह चार घंटे दूर, चैत्र में लिखित आदेश से भेजे गए प्रशिक्षण में था। मुहर उसकी थी। वह हफ़्ता उसका नहीं था — और कोई अपनी सफ़ाई तीन महीने पहले सरकारी आदेश से नहीं गढ़वाता।"
+        }
+      }
+    ]
+  }
+}
