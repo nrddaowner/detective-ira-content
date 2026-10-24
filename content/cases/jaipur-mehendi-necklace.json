@@ -1,0 +1,174 @@
+{
+  "id": "jaipur-mehendi-necklace",
+  "schema": 1,
+  "format": "scene",
+  "city": "jaipur",
+  "genre": "theft",
+  "difficulty": "quick",
+  "ambience": "CourtyardBirds",
+  "title": {
+    "en": "The Mehendi Night Necklace",
+    "hi": "मेहंदी की रात का हार"
+  },
+  "place": {
+    "en": "Bhandari haveli · mehendi night · 9:40 PM",
+    "hi": "भंडारी हवेली · मेहंदी की रात · रात 9:40"
+  },
+  "brief": {
+    "en": "At 9:40 the bride's mother opened the jewellery box for Priya's rani haar. It was empty. Nobody had left the courtyard. And on mehendi night nobody wears shoes on it — the rangoli is drawn for the bride.",
+    "hi": "9:40 पर दुल्हन की माँ ने प्रिया का रानी हार निकालने के लिए गहनों का डिब्बा खोला। वह ख़ाली था। आँगन से कोई बाहर नहीं गया था। और मेहंदी की रात आँगन में कोई जूते पहनकर नहीं आता — रंगोली दुल्हन के लिए बनती है।"
+  },
+  "photoCaption": {
+    "en": "the courtyard, 9:40 pm",
+    "hi": "आँगन, रात 9:40"
+  },
+  "iraNote": {
+    "en": "“Everyone tonight was barefoot. Find who wasn't.”",
+    "hi": "“आज रात सब नंगे पाँव थे। ढूँढो, कौन नहीं था।”"
+  },
+  "stage": "stage",
+  "proofClueId": "shoe",
+  "solution": {
+    "en": "Everyone else was barefoot. He walked across the bride's rangoli to reach the box, and dropped his lens cap under the table getting there.",
+    "hi": "बाक़ी सब नंगे पाँव थे। वह दुल्हन की रंगोली पर चलकर डिब्बे तक पहुँचा, और वहाँ पहुँचते हुए उसका लेंस कैप मेज़ के नीचे गिर गया।"
+  },
+  "clues": [
+    {
+      "id": "box",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": { "en": "THE BOX · OPEN", "hi": "डिब्बा · खुला हुआ" },
+      "text": {
+        "en": "Empty. The velvet still holds the shape of the haar.",
+        "hi": "ख़ाली। मख़मल पर अब भी हार का निशान है।"
+      },
+      "picture": "box"
+    },
+    {
+      "id": "polaroid",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": { "en": "POLAROID · IN A CUSHION", "hi": "पोलरॉइड · गद्दी में दबा" },
+      "text": {
+        "en": "The haar, still in its box. Written on it: 9:32. It went in the last eight minutes.",
+        "hi": "तस्वीर में हार अब भी डिब्बे में है। उस पर लिखा है: 9:32। यानी हार आख़िरी आठ मिनट में ग़ायब हुआ।"
+      },
+      "picture": "polaroid"
+    },
+    {
+      "id": "shoe",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": { "en": "SHOE PRINT · ON THE RANGOLI", "hi": "जूते का निशान · रंगोली पर" },
+      "text": {
+        "en": "A shoe print, pressed into the powder, pointing at the jewellery table.",
+        "hi": "रंगोली के रंग में दबा जूते का निशान, गहनों वाली मेज़ की तरफ़ जाता हुआ।"
+      },
+      "picture": "shoe"
+    },
+    {
+      "id": "lens",
+      "kind": "Polaroid",
+      "isKey": true,
+      "label": { "en": "LENS CAP · UNDER THE TABLE", "hi": "लेंस कैप · मेज़ के नीचे" },
+      "text": {
+        "en": "A camera's 58 mm lens cap, under the jewellery table — nowhere near the tripod.",
+        "hi": "कैमरे का 58 mm लेंस कैप, गहनों वाली मेज़ के नीचे — ट्राइपॉड से काफ़ी दूर।"
+      },
+      "picture": "lens"
+    },
+    {
+      "id": "henna",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": { "en": "HENNA CONE · ON THE TABLE", "hi": "मेहंदी का कोन · मेज़ पर" },
+      "text": {
+        "en": "Squeezed dry and left beside the box.",
+        "hi": "पूरा निचोड़ा हुआ, डिब्बे के पास छोड़ा गया।"
+      },
+      "picture": "henna"
+    },
+    {
+      "id": "jalebi",
+      "kind": "Polaroid",
+      "isKey": false,
+      "label": { "en": "JALEBI PLATE · ON THE FLOOR", "hi": "जलेबी की प्लेट · फ़र्श पर" },
+      "text": {
+        "en": "A steel plate of jalebi, set down near the table.",
+        "hi": "जलेबी की स्टील की प्लेट, मेज़ के पास रखी हुई।"
+      },
+      "picture": "jalebi"
+    }
+  ],
+  "suspects": [
+    {
+      "id": "rukhsana",
+      "name": { "en": "Rukhsana", "hi": "रुख़साना" },
+      "role": { "en": "THE MEHENDI ARTIST", "hi": "मेहंदी वाली" },
+      "hook": { "en": "her cones are on the table", "hi": "उसके कोन मेज़ पर हैं" },
+      "face": { "skin": "C", "hair": "braid", "headwear": "odhni", "eyes": "round", "mouth": "soft", "jewellery": "jhumkas" },
+      "feminine": true,
+      "line": {
+        "en": "“My hands were in the bride’s hands all evening. Look at my cones — I squeezed every one dry.”",
+        "hi": "“पूरी शाम मेरे हाथ दुल्हन के हाथों में थे। मेरे कोन देखो — हर एक मैंने पूरा निचोड़ दिया।”"
+      },
+      "alibi": {
+        "en": "She never let go of Priya's hands — forty guests watched the mehendi go on. The cone on the table is one of hers, emptied on the bride.",
+        "hi": "उसने प्रिया के हाथ एक पल नहीं छोड़े — चालीस मेहमानों ने मेहंदी लगते देखी। मेज़ पर पड़ा कोन उसी का है, जो दुल्हन की मेहंदी में ख़ाली हुआ।"
+      }
+    },
+    {
+      "id": "kunal",
+      "name": { "en": "Kunal", "hi": "कुणाल" },
+      "role": { "en": "THE BRIDE’S COUSIN", "hi": "दुल्हन का चचेरा भाई" },
+      "hook": { "en": "danced right past the table", "hi": "मेज़ के पास से नाचते हुए निकला" },
+      "face": { "skin": "B", "hair": "swept", "headwear": "none", "eyes": "wide", "mouth": "open" },
+      "line": {
+        "en": "“I was dancing barefoot with everyone else. Ask the dhol-wala.”",
+        "hi": "“मैं सबके साथ नंगे पाँव नाच रहा था। ढोल वाले से पूछ लो।”"
+      },
+      "alibi": {
+        "en": "Barefoot all night, and in the middle of the dancing from nine till ten. The dhol-wala remembers him — he kept asking for the same song.",
+        "hi": "पूरी रात नंगे पाँव, और नौ से दस बजे तक नाचने वालों के बीचों-बीच। ढोल वाले को याद है — वह बार-बार एक ही गाना माँग रहा था।"
+      }
+    },
+    {
+      "id": "bablu",
+      "name": { "en": "Bablu", "hi": "बबलू" },
+      "role": { "en": "THE CATERER’S BOY", "hi": "हलवाई का लड़का" },
+      "hook": { "en": "left a plate by the table", "hi": "मेज़ के पास प्लेट छोड़ गया" },
+      "face": { "skin": "D", "hair": "short", "headwear": "topi", "eyes": "round", "mouth": "flat" },
+      "line": {
+        "en": "“I only carried jalebi. I put a plate down by the table once — that’s all.”",
+        "hi": "“मैं बस जलेबी लेकर घूम रहा था। एक बार मेज़ के पास प्लेट रखी — बस।”"
+      },
+      "alibi": {
+        "en": "He was carrying a jalebi tray the whole time. You can't open a jewellery box with both hands full.",
+        "hi": "वह पूरे समय जलेबी की ट्रे उठाए था। दोनों हाथ भरे हों तो गहनों का डिब्बा नहीं खुलता।"
+      }
+    },
+    {
+      "id": "vinod",
+      "name": { "en": "Vinod", "hi": "विनोद" },
+      "role": { "en": "THE PHOTOGRAPHER", "hi": "फ़ोटोग्राफ़र" },
+      "hook": { "en": "took the last photo of the box", "hi": "डिब्बे की आख़िरी फ़ोटो उसी ने खींची" },
+      "face": { "skin": "C", "hair": "short", "headwear": "none", "facialHair": "thickMoustache", "eyes": "narrow", "mouth": "frown", "accessory": "roundSpecs" },
+      "line": {
+        "en": "“I never left my tripod. And yes, I kept my shoes on. I’m here to work, not to dance.”",
+        "hi": "“मैंने अपना ट्राइपॉड नहीं छोड़ा। और हाँ, मैंने जूते पहने रखे। मैं यहाँ काम करने आया हूँ, नाचने नहीं।”"
+      },
+      "confession": {
+        "en": "He photographed the haar at 9:32 to be sure it was there, crossed the rangoli in his shoes while the dhol was loudest, and slipped it into his camera bag. The lens cap fell when he bent to the box.",
+        "hi": "उसने 9:32 पर हार की फ़ोटो खींचकर पक्का किया कि हार वहीं है। फिर, जब ढोल सबसे ज़ोर पर था, वह जूते पहने-पहने रंगोली पार कर गया और हार कैमरा बैग में सरका दिया। डिब्बे पर झुकते वक़्त उसका लेंस कैप गिर गया।"
+      }
+    }
+  ],
+  "culpritId": "vinod",
+  "hint": {
+    "clueId": "lens",
+    "text": {
+      "en": "Look under the table, Officer. Something down there does not belong to a jewellery box.",
+      "hi": "मेज़ के नीचे देखो, अफ़सर। वहाँ कुछ ऐसा है जो गहनों के डिब्बे का नहीं है।"
+    }
+  }
+}
